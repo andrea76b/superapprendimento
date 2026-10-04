@@ -165,6 +165,8 @@ Origine: fonti. Non trattato da Lozanov; le mappe appese alle pareti diventano p
 3. Inchiostri vivaci, matite colorate, pastelli profumati (la fonte cita mela e pino); concetti raggruppati in immagini enormi o ridicole (insieme al punto 2).
 4. Nel metodo la mappa si appende come percezione periferica (S-19) (1 min).
 
+Componente con decisione diversa (00 §2, regola delle componenti): i pastelli profumati sono uno stimolo olfattivo e seguono la decisione del contesto olfattivo, che è nel modulo sperimentale (S-76, D-29). Nel metodo si usano pastelli e matite senza profumo.
+
 **Esempi tango** (D-29).
 - **L'albero delle figure.** Fusto: "abrazo". Rami: caminata (paralela, cruzada), ochos (adelante, atrás), giros (molinete, sacadas), cadencia, pausa. Accanto, il ramo delle orchestre con un'immagine per ciascuna: D'Arienzo un tamburo (compás marcato), Di Sarli un'onda lunga (melodia legata), Pugliese un temporale (contrasti e pause), Biagi un picchio (staccato), e poi Troilo, Canaro, Fresedo. Si fa a piccoli gruppi alla fine della lezione 2 e resta appesa per il ciclo.
 - **La mappa della ronda.** Un cerchio antiorario con le "regole del traffico" della milonga, disegnate come cartelli stradali buffi.
@@ -176,7 +178,7 @@ Origine: fonti. Non trattato da Lozanov; le mappe appese alle pareti diventano p
 
 **Spiegazione.** Nei file di verifica non c'è un cluster dedicato alle mappe mentali (D-29). Disegnare ciò che si deve ricordare ha prove (Wammes, Meade, Fernandes 2016; VNF J2), ma la mappa mentale come tecnica non è verificata. Nel canone poster e tabelle alle pareti vanno fatti "artistically and in good taste" e senza sovraccarico (r. 3104-3110; VNF F3).
 
-**Precauzioni.** I pastelli profumati sono uno stimolo olfattivo: si usano solo con il consenso di tutto il gruppo e mai con persone con asma, allergie o sensibilità ai profumi (precauzioni del contesto olfattivo, D-29; S-76 è nel modulo sperimentale).
+**Precauzioni.** Nessuna nel metodo. Se i pastelli profumati si usano nel modulo sperimentale (S-76), valgono le precauzioni del contesto olfattivo: consenso di tutto il gruppo; attenzione a persone con asma, allergie o sensibilità ai profumi (D-29).
 
 **Collegamenti.** S-19, S-40, S-20.
 

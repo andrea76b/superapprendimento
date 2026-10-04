@@ -221,7 +221,7 @@ Nel livello 2 il libretto aggiunge "la sacada" (il piede di chi guida entra nell
 
 S-04: 🟦 r. 4021-4115 (concerto da cui deriva) · n.t. (adattamento) · 🟥 non verificato.
 
-**Musica.** Un'opera intera dal n. 1 di una sessione del programma (04 §2). Nella lezione di 120 minuti (02 §4.2): Mozart, Sinfonia n. 29 K 201 (sessione 1; quattro movimenti, durate dichiarate 8:40, 7:25, 3:50, 5:40 in TM M:L2-12). Nella versione di 90 minuti: Mozart, Sinfonia "Haffner" K 385 (sessione 3, circa 17 minuti). Ciclo 2: Haydn, Concerto per violino n. 1 in Do (sessione 2, 17:50 in TM M:L13-21).
+**Musica.** Un'opera intera dal n. 1 di una sessione del programma; ogni ciclo usa una sessione, in ordine (04 §2.2, Proposta). Ciclo 1, lezione di 120 minuti (02 §4.2): Mozart, Sinfonia n. 29 K 201 (sessione 1; quattro movimenti, durate dichiarate 8:40, 7:25, 3:50, 5:40 in TM M:L2-12). Nella versione di 90 minuti servono opere brevi: Mozart, Sinfonia "Haffner" K 385 (circa 17 minuti; 04 §2.2). Ciclo 2: Haydn, Concerto per violino n. 1 in Do (sessione 2, 17:50 in TM M:L13-21).
 
 **Procedura (Sinfonia K 201).**
 1. Gli allievi sono a bordo sala, seduti, occhi aperti, con il libretto; nessuna istruzione di rilassarsi. Il docente dà una ragione dentro il film: "la troupe vede la scena intera prima di girarla" (1 min).
@@ -243,7 +243,7 @@ S-03: 🟦 r. 4100-4115 · 🟥 non verificato.
 
 Segue subito il concerto attivo: "The two sessions must never be separated" (r. 4021-4024).
 1. Nella breve pausa il docente appende l'immagine di natura senza commentarla (1 min).
-2. Parte un'opera intera dal n. 2 della sessione: Bach, Fantasia in Sol BWV 572 (e Fantasia in do BWV 562 se c'è tempo); nella versione di 90 minuti Händel, Concerto per organo op. 7 n. 6. Il docente si siede con calma, "without demonstrating overt signs of passiveness and relaxation" (r. 4105-4107).
+2. Parte un'opera intera dal n. 2 della sessione: Bach, Fantasia in Sol BWV 572 (e Fantasia in do BWV 562 se c'è tempo); nella versione di 90 minuti un'opera breve, per esempio Händel, Concerto per organo op. 7 n. 6, o un concerto grosso di Corelli (04 §2.2). Il docente si siede con calma, "without demonstrating overt signs of passiveness and relaxation" (r. 4105-4107).
 3. Rilegge il libretto con voce colloquiale, come raccontasse la scena a un amico (02, S-03) (10-15 min; si può accorciare saltando le parti meno significative, r. 4107-4108).
 4. Gli allievi ascoltano seduti, con gli occhi come vogliono. Nessuna istruzione di rilassarsi, chiudere gli occhi o respirare in un certo modo; nessun commento tecnico.
 
@@ -547,7 +547,7 @@ Il giorno finale è "the day when the trainees demonstrate to themselves and to 
 4. **Il provino** (verifica-gioco, S-11): una tanda di Di Sarli ballata da tutte le coppie insieme (10 min).
 5. **Tande.** Da tre a quattro brani per tanda, con cortine brevi: D'Arienzo, Di Sarli, un vals di Canaro, Troilo, una milonga di Biagi, Pugliese, Fresedo. Il cabeceo vale per tutti gli inviti; il docente balla con chi lo invita (50-70 min).
 6. **Escenas.** A metà serata, le coppie che vogliono mostrano la loro scena di 30 secondi. Applausi, nessun commento tecnico: nelle presentazioni il canone chiede di "hardly correct them at all" (r. 4359) (10 min).
-7. **Ultima tanda.** Per consuetudine diffusa nelle milonghe si chiude con "La cumparsita".
+7. **Ultima tanda.** Per consuetudine diffusa nelle milonghe si chiude con "La cumparsita" [da verificare].
 8. **Chiusura** con la canzone del corso e un brindisi del club (5 min).
 
 Partecipazione volontaria e non giudicante: nessuno balla da solo se non vuole, nessun voto (02, S-07).

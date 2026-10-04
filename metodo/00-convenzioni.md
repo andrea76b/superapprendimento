@@ -37,7 +37,7 @@ Note.
 - 🟦 dice da dove viene un elemento, non che funziona. Una tesi del fondatore è 🟦 per l'attestazione e 🟥 non verificata per l'effetto.
 - 🟨 dice da dove viene una pratica, non che funziona. Le corrispondenze del Liu Zi Jue con gli organi sono 🟨 Tradizione: si presentano come teoria tradizionale, senza promesse di salute (SIC-05).
 - 🟥 Non canonico non è un giudizio di efficacia: dice solo che Lozanov esclude quella pratica come mezzo o come spiegazione. Uno strumento può essere 🟥 Non canonico e 🟩 Evidenza parziale insieme (per esempio S-23).
-- Quando Lozanov non tratta un tema, non c'è un'etichetta di canone. La scheda scrive nella riga "Origine" la dicitura **Non trattato da Lozanov**.
+- Quando Lozanov non tratta un tema, non c'è un'etichetta di canone. La scheda scrive, nella riga delle etichette o nella riga "Origine", la dicitura **Non trattato da Lozanov**.
 - Regole, criteri e procedure di sicurezza non hanno un'etichetta di evidenza (non c'è un'affermazione di efficacia da valutare). Portano solo l'etichetta d'origine, se c'è.
 
 ### 1.2 Corrispondenza con `DECISIONI.md` e con `ricerca/`
@@ -65,7 +65,8 @@ Le schede di `DECISIONI.md` indicano a volte due livelli ("D / B nocciolo"). Nel
 🟦 **Fonte classica** per la procedura (r. 4021-4099) · 🟩 **Evidenza parziale** per la voce variata (VPS T12) · 🟥 **Speculativo** (non verificato) per l'effetto del formato
 
 Regole:
-- l'ordine è: 🟦, 🟨, 🟩, 🟥 Speculativo, 🟥 Non canonico;
+- l'ordine è: etichetta d'origine (🟦 per gli elementi del canone, 🟨 per quelli delle fonti o delle discipline); poi l'eventuale 🟦 del principio affine; poi 🟩, 🟥 Speculativo, 🟥 Non canonico. Le integrazioni (INT) non hanno etichetta d'origine e cominciano dal 🟦 del principio affine, se c'è;
+- la dicitura "Non trattato da Lozanov" sta nella riga delle etichette o nella riga "Origine";
 - "Evidenza" si scrive sempre con "solida" o "parziale" dopo il nome; "Speculativo" sempre con "(non verificato)" o "(contraddetto)";
 - l'etichetta non si cambia e non si attenua nel testo della scheda;
 - un'etichetta che riguarda solo una variante (per esempio la prova mentale dettata dal docente) lo dice: "🟥 **Non canonico** se dettata dal docente (r. 1440-1441)".
@@ -151,7 +152,7 @@ Regole:
 
 **Regola delle componenti.** Alcune procedure delle fonti combinano elementi che hanno decisioni diverse. Ogni componente segue la propria decisione:
 - i dispositivi fuori dal metodo non compaiono: l'AVE che in MAN segue il rilassamento (S-23), gli occhiali Ganzfeld della discesa cromatica (S-24);
-- le componenti del modulo sperimentale restano in 07: i cicli di 8 e 12 secondi (S-73) nel concerto in movimento (S-05) e nella respirazione (S-22); l'elettrostimolazione abbinata all'ancoraggio (S-26, S-62); il training autogeno nella prova mentale (S-38, S-64);
+- le componenti del modulo sperimentale restano in 07: i cicli di 8 e 12 secondi (S-73) nel concerto in movimento (S-05) e nella respirazione (S-22); l'elettrostimolazione abbinata all'ancoraggio (S-26, S-62); il training autogeno nella prova mentale (S-38, S-64); i pastelli profumati delle mappe mentali (S-39, S-76);
 - le componenti nel metodo con una scheda propria si citano con l'ID: i tre toni (S-31) e la musica "ad alta frequenza" (S-54) nel concerto in movimento (S-05).
 
 Nei casi dubbi la scheda descrive la procedura delle fonti e segnala in nota la componente con decisione diversa.
@@ -310,7 +311,7 @@ Le procedure non sono strumenti didattici: si descrivono in 06 §2 e le schede l
 
 | ID | Procedura | Base | Si applica a |
 |---|---|---|---|
-| SIC-01 | Screening delle controindicazioni | D-05; gruppi a rischio delle schede di `DECISIONI.md` | S-22 (obbligatorio). Le schede S-23, S-24, S-25, S-26, S-35, S-47 riportano i gruppi a rischio indicati in `DECISIONI.md` |
+| SIC-01 | Screening delle controindicazioni | D-05; gruppi a rischio delle schede di `DECISIONI.md` | S-22 (obbligatorio). Le schede S-23, S-24, S-25, S-26, S-29, S-35, S-47 e, nel modulo sperimentale, S-64, S-74, S-76 riportano i gruppi a rischio indicati in `DECISIONI.md` |
 | SIC-02 | Consenso informato | D-13; D-10 (precauzioni); INT-10; `DECISIONI.md` §3.4 | S-27, S-28, S-29 (obbligatorio, contenuti dichiarati); S-24 e versione guidata di S-25 (precauzioni D-10); S-51 (raccolta di dati); modulo sperimentale (07 §1) |
 | SIC-03 | Libertà di non partecipare e di interrompere | r. 1774-1775; INT-07 | tutti gli strumenti |
 | SIC-04 | Consenso al contatto e scelta del partner | D-31 (precauzioni); INT-07 | lavoro in coppia, tango |

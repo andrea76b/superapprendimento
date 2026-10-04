@@ -239,7 +239,7 @@ I comandi sono quelli trascritti dalla traccia con voce guida nel progetto QIGON
 
 S-04: 🟦 r. 4021-4115 (concerto da cui deriva) · n.t. (adattamento) · 🟥 non verificato.
 
-**Musica.** Un'opera intera dal n. 1 di una sessione del programma (04 §2). Ciclo 1, lezione di 120 minuti (02 §4.2): Mozart, Sinfonia "Praga" K 504 (sessione 3; tre movimenti, durate dichiarate 11:55, 8:50, 6:00 in TM M:L22-30). Versione di 90 minuti: Mozart, Sinfonia "Haffner" K 385 (sessione 3, circa 17 minuti). Ciclo 2: Haydn, Sinfonia n. 94 in Sol (sessione 4, circa 27 minuti; 02, S-02).
+**Musica.** Un'opera intera dal n. 1 di una sessione del programma. Ciclo 1, lezione di 120 minuti, come nella scaletta di 02 §4.2 e nell'esempio di 04 §3.2: Mozart, Sinfonia "Praga" K 504 (sessione 3; tre movimenti, durate dichiarate 11:55, 8:50, 6:00 in TM M:L22-30). Versione di 90 minuti: Mozart, Sinfonia "Haffner" K 385 (circa 17 minuti; 04 §2.2). Ciclo 2: Haydn, Sinfonia n. 94 in Sol (sessione 4, circa 27 minuti; 02, S-02). Se si segue la regola di 04 §2.2 (una sessione per ciclo, in ordine), il ciclo 1 usa la sessione 1 (per esempio la Sinfonia n. 29 K 201 con Bach, Fantasia BWV 572) e il ciclo 2 la sessione 2: **[da chiarire con l'autore]**, perché 02 e 04 danno esempi diversi.
 
 **Procedura (Sinfonia "Praga").**
 1. Allievi seduti a bordo sala, occhi aperti, con il libretto; nessuna istruzione di rilassarsi. Ragione dentro il progetto: "prima di provare, guardiamo che cosa mostreremo alla giornata aperta" (1 min).
