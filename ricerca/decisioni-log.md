@@ -27,8 +27,36 @@ Risposte date dall'autore alle domande del registro (vedi `DECISIONI.md`). Data:
 | D-21 | Musica di tango / cinese nei concerti | Modulo sperimentale (variante dichiarata non canonica) | Nel metodo, riformulato (classica nei concerti, tango nelle elaborazioni) | |
 | D-22 | Musiche commerciali "per l'apprendimento" | Modulo sperimentale | Fuori dal metodo | |
 | D-23 | Cicli ritmici 8 s / 12 s, unità 7-9 parole, 13 minuti | Modulo sperimentale | Fuori dal metodo (nocciolo in INT-11) | |
-| D-24 | Tre toni fissi / intonazione oscillante | IN ATTESA: l'autore chiede di spiegare l'opzione "intonazione oscillante canonica" per approvarla, con i tre toni fissi come variante opzionale | Nel metodo, riformulato | |
-| D-25 | Infinity Walk | IN ATTESA: l'autore chiede una spiegazione migliore e una domanda riformulata | Nel metodo, riformulato (solo esercizio motorio) | |
+| D-24 | Tre toni fissi / intonazione oscillante | Nel metodo: intonazione oscillante canonica (voce variabile, mai di comando; stesso passo in tre qualità dinamiche). Variante opzionale: tre toni fissi delle fonti | Nel metodo, riformulato | Nota: il tono imperativo contrasta con il canone (r. 4089-4091) |
+| D-25 | Infinity Walk | Nel metodo: (1) esercizio motorio e (2) teoria emisferica nel testo. Modulo sperimentale: (3) uso come test | Nel metodo, riformulato (solo esercizio motorio) | Teoria emisferica = evidenza D, va etichettata come tale (decisione strutturale) |
 | D-26 | Mappature diagnostiche | Modulo sperimentale | Fuori dal metodo | Avvertenza obbligatoria: autosservazione, non diagnosi |
+| D-27 | Concerto attivo in movimento | Nel metodo: forma A "concerto dimostrato" (docente esegue l'intero materiale, allievi osservano) e forma C "come nelle fonti" (docente declama ballando, allievi in sincrono) | A come forma principale, B (movimento libero) come variante | C etichettata come non compatibile col canone (movimento sincronizzato guidato dalla voce) |
+| D-27b | Conteggio dei tempi musicali | Melodia e conteggio insieme a ruoli alternati (docente canta la melodia e allievi contano, o viceversa) | Melodia nel concerto, conteggio nelle elaborazioni | Proposta dell'autore: il conteggio prodotto dagli allievi è attivo, non induzione da voce monotona |
+| D-28 | Tecnica Alexander | Nel metodo come nelle fonti | Nel metodo, riformulato | "Flusso energetico" e "immunità" = evidenza D, etichettati |
+| D-29 | Altre tecniche delle fonti | Nel metodo: TPR, teatro e mimo, canzoni e filastrocche, mappe mentali e palazzo della memoria, istruzione inversa. Modulo sperimentale: contesto olfattivo | Uguale | L'autore chiede esempi concreti su tango e Qigong per ciascuna tecnica |
+| D-30 | Neuromiti nel linguaggio | Testo con spiegazioni corrette; le spiegazioni delle fonti compaiono in riquadri "cosa dicono le fonti" con etichetta di evidenza | Uguale | Vale anche per le pratiche tenute "come nelle fonti" (D-05, D-08, D-10, D-12, D-13, D-15, D-19, D-28): pratica come nelle fonti, spiegazione corretta, spiegazione delle fonti nel riquadro |
+| D-31 | Cornice predictive coding / trauma / metastabilità | Fondamento centrale del metodo, accanto a Lozanov | Cornice teorica dichiarata | Obiezione registrata: è un articolo d'opinione teorico (2026). Etichettato come ipotesi teorica; nessuna promessa terapeutica sul trauma |
+| D-32 | Presentazione storica | Storia senza critiche, ovunque (anche nel corso universitario) | Storia onesta con critiche (almeno nel syllabus universitario) | Risultati di Lozanov presentati come "dichiarati dall'autore"; UNESCO come gruppo di esperti; le critiche restano in ricerca/ |
+| D-33 | Lezione modello | Ricostruita sul ciclo canonico (introduzione, concerto, elaborazioni, performance) con gli strumenti approvati | Uguale | La scaletta di 2 ore delle fonti resta come confronto |
+| INT-01 | Distanziamento e richiamo attivo | Approvata | Approvata con modifiche | Richiamo a coppie o in gioco, non come interrogazione individuale |
+| INT-02 | Focus attentivo esterno | Approvata | Approvata | |
+| INT-03 | Pratica variata | Approvata | Approvata | |
+| INT-04 | Imagery autogestita | Approvata | Approvata con modifiche | Convive con D-12 "come nelle fonti" |
+| INT-05 | Routine pre-esecuzione | Approvata | Approvata con modifiche | Convive con D-15 "come nelle fonti" |
+| INT-06 | Esercizi vestibolo-oculari | Approvata | Approvata con modifiche | Precauzioni per vertigini e disturbi vestibolari |
+| INT-07 | Sicurezza percepita | Approvata | Approvata | |
+| INT-08 | Gesto ed effetto di esecuzione | Approvata | Approvata | |
 
 **Decisione strutturale:** metodo unico, con etichetta di evidenza (A-D) e di compatibilità con il canone Lozanov su ogni strumento. (Raccomandazione dell'analista: due livelli dichiarati, nucleo + toolkit.)
+| INT-09 | Canto e coro | Approvata | Approvata | Tango: tanghi cantati; Qigong: suoni del Liu Zi Jue |
+| INT-10 | Misure validate | Approvata | Approvata | Per il corso universitario |
+| INT-11 | Pause brevi nella pratica motoria | Approvata | Approvata | |
+
+## Parametri di progetto decisi dall'autore
+
+- **Nome:** Superapprendimento, metodo fondato sulla Desuggestopedia di G. Lozanov. L'autore è docente certificato nella linea Lozanov.
+- **Destinatari:** lezioni di tango dell'autore, formazione insegnanti, corso universitario, Qigong e altre discipline.
+- **Struttura:** metodo unico, con etichette di evidenza (A-D) e di compatibilità col canone su ogni strumento.
+- **Formati da progettare:** lezione settimanale, workshop intensivo, corso universitario.
+- **Dimensione del gruppo:** fino a 20 persone (10 coppie nel tango).
+- **Qigong:** esempi e applicazione costruiti sul Liu Zi Jue (Health Qigong).

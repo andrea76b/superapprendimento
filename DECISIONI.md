@@ -104,50 +104,50 @@ Le raccomandazioni di questo registro presuppongono che l'autore voglia un metod
 
 | ID | Elemento | Evidenza | Compatibilità Lozanov | Rischio | Raccomandazione | Stato |
 |---|---|---|---|---|---|---|
-| D-01 | Integratori e sostanze | D (B: carenze; tirosina in stress estremo) | Rifiutato (r. 1420-1421, 5811-5812) | Alto | 1 | IN ATTESA |
-| D-02 | Luci stroboscopiche AVE | C / D (meccanismi) | Rifiutato (r. 1420-1421, 1824-1849) | Alto | 1 | IN ATTESA |
-| D-03 | Elettrostimolazione cranica e microcorrenti | D (B: CES e ansia, prove deboli) | Rifiutato (r. 1420-1421, 2046-2047) | Medio-alto | 1 | IN ATTESA |
-| D-04 | Dispositivi rotanti/vestibolari | D | Rifiutato (r. 1420-1421, 1453-1455) | Alto | 1 | IN ATTESA |
-| D-05 | Respirazioni con apnea | D (ossigeno) / B (respiro lento senza apnee) | Rifiutato (r. 1407-1416, 5802-5803) | Medio | 1 per le apnee; 2 per il respiro lento senza apnee | IN ATTESA |
-| D-06 | Memorie traumatiche e "riprogrammazione" | D (B: imagery rescripting clinico) | Rifiutato (r. 1400-1406, 2046-2047) | Alto | 1 | IN ATTESA |
-| D-07 | Generatori ELF, magneti, Bio-Battery | D | Rifiutato (r. 1420-1421, 5811-5813) | Medio | 1 | IN ATTESA |
-| D-08 | Rilassamento progressivo / Scan and Relax | B | Rifiutato (r. 1427-1428, 1626-1632) | Basso-medio | 2 | IN ATTESA |
-| D-09 | Training autogeno | B (D: "azzera l'ansia") | Rifiutato (r. 1626-1632, 1807-1812) | Medio | 1 | IN ATTESA |
-| D-10 | Visualizzazioni guidate e Image Streaming | D / B (nocciolo verbale) | Rifiutato (r. 1407-1416, 1440-1441) | Medio | 1; 3 per il nocciolo verbale | IN ATTESA |
-| D-11 | Battiti binaurali (solo audio) | B-C | Rifiutato (r. 2077-2080, 5811-5813) | Basso | 2 | IN ATTESA |
-| D-12 | Prova mentale / motor imagery | B (autogestita) / C (caso Drapeau) | Non trattato se autogestita; rifiutato se dettata (r. 1440-1441) | Basso | 3 autogestita; 1 dettata | IN ATTESA |
-| D-13 | Subliminali e apprendimento nel sonno | D | Rifiutato (r. 1600-1624) | Medio | 1 | IN ATTESA |
-| D-14 | Autoconvalida di Altorfer e affermazioni | D / B (rischio delle affermazioni) | Rifiutato (r. 1400-1406) | Basso-medio | 1 | IN ATTESA |
-| D-15 | Ancoraggi emotivi | C / B (routine) | Rifiutato (r. 1400-1406, 1824-1849) | Basso | 3 (come INT-05) | IN ATTESA |
-| D-16 | Raikov / Borrowed Genius | D / B (gioco di ruolo) | Rifiutato (r. 1392, 5815); coerenti le nuove identità (r. 759-762) | Medio-alto (versione ipnotica) | 3 (nelle nuove identità canoniche) | IN ATTESA |
-| D-17 | Biofeedback, EEG/QEEG come training | B (EMG clinico) / D (colori QEEG) | Rifiutato (r. 1420-1421, 2417-2419) | Basso | 1 | IN ATTESA |
-| D-18 | Barocco lento "a 60 BPM" nel concerto passivo | C / D | Rifiutato (r. 1446-1448, 1460, 5805) | Nessuno rilevante | 1 (vale il programma canonico) | IN ATTESA |
-| D-19 | Effetto Mozart, Tomatis, alte frequenze, gregoriano, Forbrain, Turning Sound | D (A: resoconto di Rauscher 1993) | Rifiutato (r. 5805, 1420-1421) | Basso (medio per costo-opportunità) | 1 | IN ATTESA |
-| D-20 | Accordature planetarie, 136,10 Hz, Schumann, diapason | D (A: dato geofisico) | Non trattato; apparecchi rifiutati (r. 1420-1421) | Nessuno rilevante | 1 | IN ATTESA |
-| D-21 | Musica di tango o cinese nei concerti | Non applicabile / B (dati di tempo) | Non trattato; modifica del canone (r. 2923-2926, 4349-4352) | Nessuno rilevante | 3 | IN ATTESA |
-| D-22 | Musiche commerciali "per l'apprendimento" | C (B: musica gradita in generale) | Rifiutato (r. 1433-1435, 5811-5813) | Nessuno rilevante | 1 | IN ATTESA |
-| D-23 | Cicli 8 s / 12 s, unità di 7-9 parole, 13 minuti | D / B (pause motorie) | Rifiutato (r. 1830-1832, 4037-4060) | Basso | 1 (nocciolo in INT-11) | IN ATTESA |
-| D-24 | Tre toni fissi contro intonazione oscillante | C / B (variazione) | Rifiutato il tono imperativo (r. 4089-4091); coerente l'oscillazione (r. 2709-2712) | Nessuno rilevante | 3 | IN ATTESA |
-| D-25 | Infinity Walk | D (emisferi, test) / B (esercizio motorio) | Non trattato; tensione come test (r. 2046-2047) | Medio | 3 esercizio; 1 test | IN ATTESA |
-| D-26 | Mappature diagnostiche | D (C: ciclo nasale) | Non trattato; in contrasto (r. 2046-2047, 2417-2419) | Medio | 1 | IN ATTESA |
-| D-27 | Concerto attivo in movimento | C | Non trattato; adattamento (r. 4021-4099, 4073-4074) | Basso | 2 | IN ATTESA |
-| D-28 | Tecnica Alexander | B / D ("energia", immunità) | Non trattato | Nessuno rilevante | 3 | IN ATTESA |
-| D-29 | TPR, teatro e mimo, mappe e palazzo della memoria, odori, istruzione inversa, canzoni | A-B / B / C secondo la tecnica | In parte coerente (r. 4283, 2715-2716), in parte non trattato | Basso (odori) | 3 per quasi tutte; 2 palazzo della memoria; 1 odori | IN ATTESA |
-| D-30 | Neuromiti nel linguaggio del metodo | D | Rifiutato (r. 1504-1507, 2077-2080, 5805) | Nessuno fisico; reputazionale | 3 | IN ATTESA |
-| D-31 | Cornice predictive coding / trauma / metastabilità | B (riferimenti) / C (meccanismo) | Non trattato; vincolo r. 2046-2047 | Medio | 3 | IN ATTESA |
-| D-32 | Presentazione storica | A (fatti) / C (risultati, Baba Vanga) | Coerente come resoconto; sintesi UNESCO più forte del verbale (r. 5793-5795) | Nessuno fisico; reputazionale | 3 | IN ATTESA |
-| D-33 | Lezione modello di 2 ore delle fonti | C | Rifiutato nelle componenti; diversa dal ciclo canonico (r. 3932-3935) | Alto nella forma delle fonti | 3 (ricostruita sul ciclo, come pilota) | IN ATTESA |
-| INT-01 | Pratica distribuita e richiamo attivo | A | Coerente, con tensione (r. 3971, 4007-4008) | Basso | Approvata con modifiche | IN ATTESA |
-| INT-02 | Focus attentivo esterno | A-B | Non trattato; coerente con i dettagli sul secondo piano (r. 3129-3138) | Nessuno rilevante | Approvata | IN ATTESA |
-| INT-03 | Pratica variata / interferenza contestuale | B | Coerente (r. 3860-3872, 4315-4369) | Nessuno rilevante | Approvata | IN ATTESA |
-| INT-04 | Motor imagery autogestita | B | Non trattato; rifiutata se dettata (r. 1440-1441) | Basso | Approvata con modifiche | IN ATTESA |
-| INT-05 | Routine pre-esecuzione | B | Non trattato; distinta dal "conditioning" (r. 1824-1849) | Nessuno rilevante | Approvata con modifiche | IN ATTESA |
-| INT-06 | Esercizi vestibolo-oculari per i giri | A (riabilitazione) / B (danzatori) | Non trattato | Medio | Approvata con modifiche | IN ATTESA |
-| INT-07 | Riduzione della minaccia percepita | A (ansia e prestazione) / C (meccanismo) | Coerente (r. 2802-2845, 3860-3915) | Basso | Approvata | IN ATTESA |
-| INT-08 | Gesto ed effetto di esecuzione | A (azioni) / B (lessico) | Coerente (r. 4283) | Nessuno rilevante | Approvata | IN ATTESA |
-| INT-09 | Canto e coro | B | Coerente, già canonico (r. 2715-2716, 4469-4470) | Nessuno rilevante | Approvata | IN ATTESA |
-| INT-10 | Valutazione con misure validate | A (strumenti) | Coerente con i test "facili" (r. 4453-4459) | Basso | Approvata | IN ATTESA |
-| INT-11 | Pause brevi nella pratica motoria | B | Non trattato; compatibile se non diventa ritmo fisso (r. 1830-1832) | Nessuno rilevante | Approvata | IN ATTESA |
+| D-01 | Integratori e sostanze | D (B: carenze; tirosina in stress estremo) | Rifiutato (r. 1420-1421, 5811-5812) | Alto | 1 | DECISO |
+| D-02 | Luci stroboscopiche AVE | C / D (meccanismi) | Rifiutato (r. 1420-1421, 1824-1849) | Alto | 1 | DECISO |
+| D-03 | Elettrostimolazione cranica e microcorrenti | D (B: CES e ansia, prove deboli) | Rifiutato (r. 1420-1421, 2046-2047) | Medio-alto | 1 | DECISO |
+| D-04 | Dispositivi rotanti/vestibolari | D | Rifiutato (r. 1420-1421, 1453-1455) | Alto | 1 | DECISO |
+| D-05 | Respirazioni con apnea | D (ossigeno) / B (respiro lento senza apnee) | Rifiutato (r. 1407-1416, 5802-5803) | Medio | 1 per le apnee; 2 per il respiro lento senza apnee | DECISO |
+| D-06 | Memorie traumatiche e "riprogrammazione" | D (B: imagery rescripting clinico) | Rifiutato (r. 1400-1406, 2046-2047) | Alto | 1 | DECISO |
+| D-07 | Generatori ELF, magneti, Bio-Battery | D | Rifiutato (r. 1420-1421, 5811-5813) | Medio | 1 | DECISO |
+| D-08 | Rilassamento progressivo / Scan and Relax | B | Rifiutato (r. 1427-1428, 1626-1632) | Basso-medio | 2 | DECISO |
+| D-09 | Training autogeno | B (D: "azzera l'ansia") | Rifiutato (r. 1626-1632, 1807-1812) | Medio | 1 | DECISO |
+| D-10 | Visualizzazioni guidate e Image Streaming | D / B (nocciolo verbale) | Rifiutato (r. 1407-1416, 1440-1441) | Medio | 1; 3 per il nocciolo verbale | DECISO |
+| D-11 | Battiti binaurali (solo audio) | B-C | Rifiutato (r. 2077-2080, 5811-5813) | Basso | 2 | DECISO |
+| D-12 | Prova mentale / motor imagery | B (autogestita) / C (caso Drapeau) | Non trattato se autogestita; rifiutato se dettata (r. 1440-1441) | Basso | 3 autogestita; 1 dettata | DECISO |
+| D-13 | Subliminali e apprendimento nel sonno | D | Rifiutato (r. 1600-1624) | Medio | 1 | DECISO |
+| D-14 | Autoconvalida di Altorfer e affermazioni | D / B (rischio delle affermazioni) | Rifiutato (r. 1400-1406) | Basso-medio | 1 | DECISO |
+| D-15 | Ancoraggi emotivi | C / B (routine) | Rifiutato (r. 1400-1406, 1824-1849) | Basso | 3 (come INT-05) | DECISO |
+| D-16 | Raikov / Borrowed Genius | D / B (gioco di ruolo) | Rifiutato (r. 1392, 5815); coerenti le nuove identità (r. 759-762) | Medio-alto (versione ipnotica) | 3 (nelle nuove identità canoniche) | DECISO |
+| D-17 | Biofeedback, EEG/QEEG come training | B (EMG clinico) / D (colori QEEG) | Rifiutato (r. 1420-1421, 2417-2419) | Basso | 1 | DECISO |
+| D-18 | Barocco lento "a 60 BPM" nel concerto passivo | C / D | Rifiutato (r. 1446-1448, 1460, 5805) | Nessuno rilevante | 1 (vale il programma canonico) | DECISO |
+| D-19 | Effetto Mozart, Tomatis, alte frequenze, gregoriano, Forbrain, Turning Sound | D (A: resoconto di Rauscher 1993) | Rifiutato (r. 5805, 1420-1421) | Basso (medio per costo-opportunità) | 1 | DECISO |
+| D-20 | Accordature planetarie, 136,10 Hz, Schumann, diapason | D (A: dato geofisico) | Non trattato; apparecchi rifiutati (r. 1420-1421) | Nessuno rilevante | 1 | DECISO |
+| D-21 | Musica di tango o cinese nei concerti | Non applicabile / B (dati di tempo) | Non trattato; modifica del canone (r. 2923-2926, 4349-4352) | Nessuno rilevante | 3 | DECISO |
+| D-22 | Musiche commerciali "per l'apprendimento" | C (B: musica gradita in generale) | Rifiutato (r. 1433-1435, 5811-5813) | Nessuno rilevante | 1 | DECISO |
+| D-23 | Cicli 8 s / 12 s, unità di 7-9 parole, 13 minuti | D / B (pause motorie) | Rifiutato (r. 1830-1832, 4037-4060) | Basso | 1 (nocciolo in INT-11) | DECISO |
+| D-24 | Tre toni fissi contro intonazione oscillante | C / B (variazione) | Rifiutato il tono imperativo (r. 4089-4091); coerente l'oscillazione (r. 2709-2712) | Nessuno rilevante | 3 | DECISO |
+| D-25 | Infinity Walk | D (emisferi, test) / B (esercizio motorio) | Non trattato; tensione come test (r. 2046-2047) | Medio | 3 esercizio; 1 test | DECISO |
+| D-26 | Mappature diagnostiche | D (C: ciclo nasale) | Non trattato; in contrasto (r. 2046-2047, 2417-2419) | Medio | 1 | DECISO |
+| D-27 | Concerto attivo in movimento | C | Non trattato; adattamento (r. 4021-4099, 4073-4074) | Basso | 2 | DECISO |
+| D-28 | Tecnica Alexander | B / D ("energia", immunità) | Non trattato | Nessuno rilevante | 3 | DECISO |
+| D-29 | TPR, teatro e mimo, mappe e palazzo della memoria, odori, istruzione inversa, canzoni | A-B / B / C secondo la tecnica | In parte coerente (r. 4283, 2715-2716), in parte non trattato | Basso (odori) | 3 per quasi tutte; 2 palazzo della memoria; 1 odori | DECISO |
+| D-30 | Neuromiti nel linguaggio del metodo | D | Rifiutato (r. 1504-1507, 2077-2080, 5805) | Nessuno fisico; reputazionale | 3 | DECISO |
+| D-31 | Cornice predictive coding / trauma / metastabilità | B (riferimenti) / C (meccanismo) | Non trattato; vincolo r. 2046-2047 | Medio | 3 | DECISO |
+| D-32 | Presentazione storica | A (fatti) / C (risultati, Baba Vanga) | Coerente come resoconto; sintesi UNESCO più forte del verbale (r. 5793-5795) | Nessuno fisico; reputazionale | 3 | DECISO |
+| D-33 | Lezione modello di 2 ore delle fonti | C | Rifiutato nelle componenti; diversa dal ciclo canonico (r. 3932-3935) | Alto nella forma delle fonti | 3 (ricostruita sul ciclo, come pilota) | DECISO |
+| INT-01 | Pratica distribuita e richiamo attivo | A | Coerente, con tensione (r. 3971, 4007-4008) | Basso | Approvata con modifiche | DECISO |
+| INT-02 | Focus attentivo esterno | A-B | Non trattato; coerente con i dettagli sul secondo piano (r. 3129-3138) | Nessuno rilevante | Approvata | DECISO |
+| INT-03 | Pratica variata / interferenza contestuale | B | Coerente (r. 3860-3872, 4315-4369) | Nessuno rilevante | Approvata | DECISO |
+| INT-04 | Motor imagery autogestita | B | Non trattato; rifiutata se dettata (r. 1440-1441) | Basso | Approvata con modifiche | DECISO |
+| INT-05 | Routine pre-esecuzione | B | Non trattato; distinta dal "conditioning" (r. 1824-1849) | Nessuno rilevante | Approvata con modifiche | DECISO |
+| INT-06 | Esercizi vestibolo-oculari per i giri | A (riabilitazione) / B (danzatori) | Non trattato | Medio | Approvata con modifiche | DECISO |
+| INT-07 | Riduzione della minaccia percepita | A (ansia e prestazione) / C (meccanismo) | Coerente (r. 2802-2845, 3860-3915) | Basso | Approvata | DECISO |
+| INT-08 | Gesto ed effetto di esecuzione | A (azioni) / B (lessico) | Coerente (r. 4283) | Nessuno rilevante | Approvata | DECISO |
+| INT-09 | Canto e coro | B | Coerente, già canonico (r. 2715-2716, 4469-4470) | Nessuno rilevante | Approvata | DECISO |
+| INT-10 | Valutazione con misure validate | A (strumenti) | Coerente con i test "facili" (r. 4453-4459) | Basso | Approvata | DECISO |
+| INT-11 | Pause brevi nella pratica motoria | B | Non trattato; compatibile se non diventa ritmo fisso (r. 1830-1832) | Nessuno rilevante | Approvata | DECISO |
 
 ---
 
@@ -191,7 +191,7 @@ La stessa sezione cita ricerche reali (Wurtman sui precursori dei neurotrasmetti
 
 **Decisione dell'autore**
 
-Stato: IN ATTESA
+Stato: DECISO (2026-10-04): Modulo sperimentale (solo informativo, rinvio obbligatorio al medico)
 
 Note dell'autore:
 
@@ -224,7 +224,7 @@ Note dell'autore:
 
 **Decisione dell'autore**
 
-Stato: IN ATTESA
+Stato: DECISO (2026-10-04): Fuori dal metodo
 
 Note dell'autore:
 
@@ -253,7 +253,7 @@ Note dell'autore:
 
 **Decisione dell'autore**
 
-Stato: IN ATTESA
+Stato: DECISO (2026-10-04): Modulo sperimentale (solo su indicazione medica personale)
 
 Note dell'autore:
 
@@ -281,7 +281,7 @@ Note dell'autore:
 
 **Decisione dell'autore**
 
-Stato: IN ATTESA
+Stato: DECISO (2026-10-04): Fuori dal metodo
 
 Note dell'autore:
 
@@ -315,7 +315,7 @@ Note dell'autore:
 
 **Decisione dell'autore**
 
-Stato: IN ATTESA
+Stato: DECISO (2026-10-04): Nel metodo come nelle fonti (spiegazione corretta nel testo, quella delle fonti nel riquadro: D-30), con screening delle controindicazioni
 
 Note dell'autore:
 
@@ -344,7 +344,7 @@ Note dell'autore:
 
 **Decisione dell'autore**
 
-Stato: IN ATTESA
+Stato: DECISO (2026-10-04): Modulo sperimentale (solo con professionista della salute mentale abilitato presente)
 
 Note dell'autore:
 
@@ -373,7 +373,7 @@ Note dell'autore:
 
 **Decisione dell'autore**
 
-Stato: IN ATTESA
+Stato: DECISO (2026-10-04): Fuori dal metodo
 
 Note dell'autore:
 
@@ -404,7 +404,7 @@ Note dell'autore:
 
 **Decisione dell'autore**
 
-Stato: IN ATTESA
+Stato: DECISO (2026-10-04): Nel metodo come nelle fonti (spiegazione corretta nel testo, quella delle fonti nel riquadro: D-30)
 
 Note dell'autore:
 
@@ -431,7 +431,7 @@ Note dell'autore:
 
 **Decisione dell'autore**
 
-Stato: IN ATTESA
+Stato: DECISO (2026-10-04): Modulo sperimentale
 
 Note dell'autore:
 
@@ -459,7 +459,7 @@ Note dell'autore:
 
 **Decisione dell'autore**
 
-Stato: IN ATTESA
+Stato: DECISO (2026-10-04): Nel metodo come nelle fonti (spiegazione corretta nel testo, quella delle fonti nel riquadro: D-30)
 
 Note dell'autore:
 
@@ -488,7 +488,7 @@ Note dell'autore:
 
 **Decisione dell'autore**
 
-Stato: IN ATTESA
+Stato: DECISO (2026-10-04): Modulo sperimentale
 
 Note dell'autore:
 
@@ -517,7 +517,7 @@ Note dell'autore:
 
 **Decisione dell'autore**
 
-Stato: IN ATTESA
+Stato: DECISO (2026-10-04): Nel metodo come nelle fonti (spiegazione corretta nel testo, quella delle fonti nel riquadro: D-30)
 
 Note dell'autore:
 
@@ -551,7 +551,7 @@ Note dell'autore:
 
 **Decisione dell'autore**
 
-Stato: IN ATTESA
+Stato: DECISO (2026-10-04): Nel metodo come nelle fonti (spiegazione corretta nel testo, quella delle fonti nel riquadro: D-30), con consenso informato obbligatorio
 
 Note dell'autore:
 
@@ -580,7 +580,7 @@ Note dell'autore:
 
 **Decisione dell'autore**
 
-Stato: IN ATTESA
+Stato: DECISO (2026-10-04): Modulo sperimentale
 
 Note dell'autore:
 
@@ -609,7 +609,7 @@ Note dell'autore:
 
 **Decisione dell'autore**
 
-Stato: IN ATTESA
+Stato: DECISO (2026-10-04): Nel metodo come nelle fonti (spiegazione corretta nel testo, quella delle fonti nel riquadro: D-30)
 
 Note dell'autore:
 
@@ -639,7 +639,7 @@ Note dell'autore:
 
 **Decisione dell'autore**
 
-Stato: IN ATTESA
+Stato: DECISO (2026-10-04): Modulo sperimentale
 
 Note dell'autore:
 
@@ -668,7 +668,7 @@ Note dell'autore:
 
 **Decisione dell'autore**
 
-Stato: IN ATTESA
+Stato: DECISO (2026-10-04): Modulo sperimentale
 
 Note dell'autore:
 
@@ -712,7 +712,7 @@ Le fonti mettono le due tradizioni fianco a fianco senza distinguerle (nota dell
 
 **Decisione dell'autore**
 
-Stato: IN ATTESA
+Stato: DECISO (2026-10-04): Modulo sperimentale
 
 Note dell'autore:
 
@@ -745,7 +745,7 @@ Note dell'autore:
 
 **Decisione dell'autore**
 
-Stato: IN ATTESA
+Stato: DECISO (2026-10-04): Nel metodo come nelle fonti (spiegazione corretta nel testo, quella delle fonti nel riquadro: D-30)
 
 Note dell'autore:
 
@@ -772,7 +772,7 @@ Note dell'autore:
 
 **Decisione dell'autore**
 
-Stato: IN ATTESA
+Stato: DECISO (2026-10-04): Modulo sperimentale
 
 Note dell'autore:
 
@@ -798,7 +798,7 @@ Note dell'autore:
 
 **Decisione dell'autore**
 
-Stato: IN ATTESA
+Stato: DECISO (2026-10-04): Modulo sperimentale
 
 Note dell'autore:
 
@@ -825,7 +825,7 @@ Note dell'autore:
 
 **Decisione dell'autore**
 
-Stato: IN ATTESA
+Stato: DECISO (2026-10-04): Modulo sperimentale
 
 Note dell'autore:
 
@@ -856,7 +856,7 @@ Note dell'autore:
 
 **Decisione dell'autore**
 
-Stato: IN ATTESA
+Stato: DECISO (2026-10-04): Modulo sperimentale
 
 Note dell'autore:
 
@@ -882,7 +882,7 @@ Note dell'autore:
 
 **Decisione dell'autore**
 
-Stato: IN ATTESA
+Stato: DECISO (2026-10-04): Nel metodo: intonazione oscillante canonica; tre toni fissi come variante opzionale
 
 Note dell'autore:
 
@@ -913,7 +913,7 @@ Note dell'autore:
 
 **Decisione dell'autore**
 
-Stato: IN ATTESA
+Stato: DECISO (2026-10-04): Nel metodo: esercizio motorio e teoria emisferica (etichetta D); modulo sperimentale: uso come test
 
 Note dell'autore:
 
@@ -946,7 +946,7 @@ Sequenza proposta:
 
 **Decisione dell'autore**
 
-Stato: IN ATTESA
+Stato: DECISO (2026-10-04): Modulo sperimentale (autosservazione, non diagnosi)
 
 Note dell'autore:
 
@@ -975,7 +975,7 @@ Note dell'autore:
 
 **Decisione dell'autore**
 
-Stato: IN ATTESA
+Stato: DECISO (2026-10-04): Nel metodo: concerto dimostrato (forma A) e concerto come nelle fonti (forma C); conteggio misto melodia/numeri a ruoli alternati
 
 Note dell'autore:
 
@@ -1003,7 +1003,7 @@ Note dell'autore:
 
 **Decisione dell'autore**
 
-Stato: IN ATTESA
+Stato: DECISO (2026-10-04): Nel metodo come nelle fonti (spiegazione corretta nel testo, quella delle fonti nel riquadro: D-30)
 
 Note dell'autore:
 
@@ -1051,7 +1051,7 @@ Note dell'autore:
 
 **Decisione dell'autore**
 
-Stato: IN ATTESA
+Stato: DECISO (2026-10-04): Nel metodo: TPR, teatro e mimo, canzoni, mappe e palazzo della memoria, istruzione inversa; modulo sperimentale: contesto olfattivo
 
 Note dell'autore:
 
@@ -1085,7 +1085,7 @@ Note dell'autore:
 
 **Decisione dell'autore**
 
-Stato: IN ATTESA
+Stato: DECISO (2026-10-04): Testo con spiegazioni corrette + riquadri "cosa dicono le fonti"
 
 Note dell'autore:
 
@@ -1116,7 +1116,7 @@ Note dell'autore:
 
 **Decisione dell'autore**
 
-Stato: IN ATTESA
+Stato: DECISO (2026-10-04): Fondamento centrale (etichettato come ipotesi teorica; nessuna promessa terapeutica)
 
 Note dell'autore:
 
@@ -1153,7 +1153,7 @@ Cluster VPS P1-P13, R1-R8, K1-K8; modello sez. 8.
 
 **Decisione dell'autore**
 
-Stato: IN ATTESA
+Stato: DECISO (2026-10-04): Storia senza critiche, ovunque
 
 Note dell'autore:
 
@@ -1188,7 +1188,7 @@ Lezione "Tango-Mind" in 4 fasi (TM P1, T:L248-265; SL1-B PR1, r. 762-776): 15' b
 
 **Decisione dell'autore**
 
-Stato: IN ATTESA
+Stato: DECISO (2026-10-04): Ricostruita sul ciclo canonico
 
 Note dell'autore:
 
@@ -1224,7 +1224,7 @@ Tensione reale: il richiamo come interrogazione va contro "not asked individual 
 
 **Decisione dell'autore**
 
-Stato: IN ATTESA
+Stato: DECISO (2026-10-04): Approvata
 
 Note dell'autore:
 
@@ -1251,7 +1251,7 @@ Note dell'autore:
 
 **Decisione dell'autore**
 
-Stato: IN ATTESA
+Stato: DECISO (2026-10-04): Approvata
 
 Note dell'autore:
 
@@ -1279,7 +1279,7 @@ Note dell'autore:
 
 **Decisione dell'autore**
 
-Stato: IN ATTESA
+Stato: DECISO (2026-10-04): Approvata
 
 Note dell'autore:
 
@@ -1305,7 +1305,7 @@ Note dell'autore:
 
 **Decisione dell'autore**
 
-Stato: IN ATTESA
+Stato: DECISO (2026-10-04): Approvata
 
 Note dell'autore:
 
@@ -1331,7 +1331,7 @@ Note dell'autore:
 
 **Decisione dell'autore**
 
-Stato: IN ATTESA
+Stato: DECISO (2026-10-04): Approvata
 
 Note dell'autore:
 
@@ -1357,7 +1357,7 @@ Note dell'autore:
 
 **Decisione dell'autore**
 
-Stato: IN ATTESA
+Stato: DECISO (2026-10-04): Approvata
 
 Note dell'autore:
 
@@ -1384,7 +1384,7 @@ Note dell'autore:
 
 **Decisione dell'autore**
 
-Stato: IN ATTESA
+Stato: DECISO (2026-10-04): Approvata
 
 Note dell'autore:
 
@@ -1411,7 +1411,7 @@ Note dell'autore:
 
 **Decisione dell'autore**
 
-Stato: IN ATTESA
+Stato: DECISO (2026-10-04): Approvata
 
 Note dell'autore:
 
@@ -1440,7 +1440,7 @@ Note dell'autore:
 
 **Decisione dell'autore**
 
-Stato: IN ATTESA
+Stato: DECISO (2026-10-04): Approvata
 
 Note dell'autore:
 
@@ -1467,7 +1467,7 @@ Note dell'autore:
 
 **Decisione dell'autore**
 
-Stato: IN ATTESA
+Stato: DECISO (2026-10-04): Approvata
 
 Note dell'autore:
 
@@ -1494,7 +1494,7 @@ Note dell'autore:
 
 **Decisione dell'autore**
 
-Stato: IN ATTESA
+Stato: DECISO (2026-10-04): Approvata
 
 Note dell'autore:
 
