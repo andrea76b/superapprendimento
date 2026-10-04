@@ -4,10 +4,10 @@ Fonti lette per intero, riga per riga, senza campionare:
 
 | Sigla | File | Righe | Tipo |
 | :-- | :-- | :-- | :-- |
-| **R** | `fonti/testo/Ricerca_Globale_Suggestopedia_Lozanov.md` | 1-182 (testo 1-112, bibliografia 114-182) | Rapporto divulgativo-accademico di seconda mano su storia, teoria, metodo e critiche della Suggestopedia |
+| **R** | `fonti/testo/Ricerca_Globale_Suggestopedia_Lozanov.md` | 1-181 (testo 1-112, bibliografia 114-181) | Rapporto divulgativo-accademico di seconda mano su storia, teoria, metodo e critiche della Suggestopedia |
 | **T** | `fonti/testo/Trauma_Predictive_Coding_Metastabilita.md` | 1-206 (testo 1-145, riferimenti 149-206) | Bibliografia ragionata e sintesi del modello "trauma = disturbo di predictive coding + perdita di metastabilità" (Kotler, Mannino, Fox, Friston 2026) |
 
-Convenzione: "R:L50" indica la riga 50 del file R, "T:L97" la riga 97 del file T. I numeri in apice nel testo R (es. "...barriere16") sono rimandi alla bibliografia R:L116-182. Nel file T i rimandi sono `[^n]` verso T:L151-205.
+Convenzione: "R:L50" indica la riga 50 del file R, "T:L97" la riga 97 del file T. I numeri in apice nel testo R (es. "...barriere16") sono rimandi alla bibliografia R:L116-181. Nel file T i rimandi sono `[^n]` verso T:L151-205.
 
 Questa è un'estrazione: riporta cosa dicono le fonti. Il giudizio sui claim spetta a una fase successiva. Dove un'affermazione sembra a colpo d'occhio pseudoscientifica, esagerata o non verificabile è marcata con **[RED FLAG]**. Le note "Applicazione al corpo" sono ipotesi di lavoro mie, separate dal contenuto delle fonti.
 
@@ -47,6 +47,8 @@ Questa è un'estrazione: riporta cosa dicono le fonti. Il giudizio sui claim spe
 | R-T16 | **Körperlernen (Schiffler)** | Apprendimento cinestesico con movimento corporeo integrato, aggiunto da Schiffler al modello di Lozanov. Il file non descrive la procedura. | non indicati | non indicati | attivazione/elaborazione | R:L83 |
 | R-T17 | **Metodo di Attivazione (Kitaigorodskaya)** | Mantiene induzione suggestiva e super-memorizzazione ma sposta l'enfasi sulla sociodinamica di gruppo, sull'interazione orizzontale tra discenti e su reti di gioco di ruolo collettivo. Meno gerarchia rispetto alla versione bulgara. | non indicati | non indicati | attivazione/elaborazione | R:L72 |
 | R-T18 | **Anestesia suggestiva in veglia** (uso clinico, 1965) | Controllo del dolore con "uso calibrato della suggestione vocale" su un paziente cosciente durante un intervento per ernia inguinale. **Non è una tecnica didattica**: la cito per completezza. | voce | durata dell'intervento | altro (clinico) | R:L13 |
+| R-T19 | **Training yogico di "concentrazione rilassata"** (Raja Yoga: Pranayama, Pratyahara, Dharana) | Fonte d'ispirazione dichiarata: controllo del respiro e dell'energia (Pranayama), ritiro dei sensi dagli stimoli esterni (Pratyahara), concentrazione unidirezionale profonda (Dharana). Lozanov ipotizza che le capacità mnemoniche "sovrumane" osservate a Bombay (Yogi Sha) si raggiungano con un allenamento alla concentrazione rilassata e alla "sincronizzazione dei ritmi corporei". **La procedura non è descritta.** Di questo filone nel metodo sopravvive solo il rilassamento psicofisico; la respirazione esplicita è eliminata. | nessuno | non indicati | preparazione (storico) | R:L18-21 |
+| R-T20 | **Trasposizione delle tecniche comunicative cliniche anti-ansia** | Le prime sperimentazioni scolastiche riprendono "le medesime tecniche comunicative" usate in clinica per ridurre l'ansia dei pazienti nevrotici, applicandole all'"ansia da apprendimento". **Non descritte nel dettaglio.** | voce | non indicati | preparazione | R:L14 |
 
 **Applicazione al corpo (ipotesi, non contenuto delle fonti):**
 - R-T1 2/4/2: nel Qigong esistono respirazioni ritmate, ma la ritenzione di 4 s va trattata con cautela (vedi rischi §6). La fonte stessa la eliminò perché imposta. Nel tango è "non applicabile" come ritenzione; è invece pensabile come respirazione libera sincronizzata alla frase musicale.
@@ -229,6 +231,14 @@ Nel file T non c'è musica specifica, solo il riferimento generico ad arti, perf
 | R-C55 | La Suggestopedia "ha dimostrato irrevocabilmente" che l'affaticamento dipende dal metodo e non dal volume | pedagogia | **sì** | R:L112 |
 | R-C56 | Il metodo fonde parapsicologia, yoga, riflessologia sovietica e psicoanalisi | storia | no | R:L109 |
 | R-C57 | Il metodo ha avuto "straordinario successo" nell'insegnamento delle lingue | pedagogia | **sì** | R:L47 |
+| R-C58 | Lozanov arrivò all'apprendimento da psichiatria, neurologia e psicoterapia | storia | no | R:L11 |
+| R-C59 | Le prime sperimentazioni scolastiche trasferirono le tecniche comunicative anti-ansia usate con i pazienti nevrotici | storia | no | R:L14 |
+| R-C60 | Il Raja Yoga, a differenza dell'Hatha Yoga, punta sul controllo della mente più che sulle posture | storia/pratica | no | R:L18 |
+| R-C61 | Mozart, Beethoven e Haydn sono scelti "per la loro struttura emozionale ed epica" | musica | no (affermazione estetica) | R:L49 |
+| R-C62 | Il mercato fu invaso da audiocassette fai-da-te che promettevano apprendimento rapido con il solo ascolto passivo | storia | no | R:L78 |
+| R-C63 | La SALT cercò di quantificare l'aumento delle prestazioni di lettura e la ritenzione di formule matematiche | storia/pedagogia | no | R:L77 |
+| R-C64 | Secondo il rapporto, le barriere anti-suggestive proteggono l'adulto da sovraccarico cognitivo, traumi emotivi e manipolazioni | pedagogia/psicologia | no | R:L27 |
+| R-C65 | La bibliografia R attribuisce *Superlearning* a "Timothy Leary" (pdfcoffee) anziché a Ostrander e Schroeder | fonti | **sì** (attribuzione errata nella fonte) | R:L125 vs R:L78 |
 
 ### 5.2 File T
 
@@ -264,6 +274,14 @@ Nel file T non c'è musica specifica, solo il riferimento generico ad arti, perf
 | T-C28 | La proposta è una cornice concettuale, non un protocollo validato | clinica | no | T:L136 |
 | T-C29 | Il modello offre una "base teorica forte" per concepire il movimento come training di metastabilità | clinica | **sì** (in contraddizione con T-C26/T-C28) | T:L143 |
 | T-C30 | Diversi riferimenti sono Instagram (secretlifeoffascia, yogicphysio), LinkedIn e Substack | fonti | **sì** (qualità delle fonti) | T:L85, T:L157-159, T:L195-197, T:L205 |
+| T-C31 | Wilkinson et al.: il sistema nervoso è una "macchina predittiva bayesiana" gerarchica; implicazioni per PTSD e dissociazione | neuro | no | T:L17 |
+| T-C32 | Kube et al.: il PTSD comporta prior di minaccia e convinzioni auto-referenziali "rigidamente pesate", con sintomi e trattamento legati a processi top-down | neuro | no | T:L23 |
+| T-C33 | Linson: i sintomi del PTSD emergono da politiche inferenziali orientate alla minaccia e da aspettative rigide su sé e ambiente | neuro | no | T:L29 |
+| T-C34 | Paper 2024: nella C-PTSD interocezione, regolazione affettiva e relazioni interpersonali sono processi inferenziali da ricalibrare | neuro | no | T:L41 |
+| T-C35 | L'errore di predizione è chiamato "(free energy)", con citazione di Friston 2009 | neuro | **sì** (semplificazione: la free energy è un limite superiore della sorpresa e non coincide con l'errore di predizione) | T:L91, T:L199-201 |
+| T-C36 | L'EMDR è elencato tra le terapie corporee/bottom-up | clinica | **sì** (classificazione discutibile) | T:L112 |
+| T-C37 | La richiesta di "studi longitudinali e misure dinamiche di connettività" è appoggiata, tra l'altro, su un post LinkedIn che parla di un modello di machine learning per la severità del PTSD (JAMA Netw. Open) | fonti | **sì** (fonte non pertinente) | T:L134, T:L205 |
+| T-C38 | Il modello predittivo è "più ottimistico" della narrativa dei "depositi segreti" nel corpo | clinica | no (valutazione) | T:L106 |
 
 ---
 
@@ -284,7 +302,10 @@ Nel file T non c'è musica specifica, solo il riferimento generico ad arti, perf
 | S11 | **Identità fittizia / role-play** | Nelle persone vulnerabili (tendenze dissociative, identità fragile) assumere un'altra identità può destabilizzare. Deve restare un gioco esplicito e facoltativo. | R:L41 |
 | S12 | **Lavoro corporeo con persone traumatizzate fuori dal proprio ruolo** | Il file T legittima danza e movimento come "input di sicurezza", ma l'insegnante di tango o Qigong non è un terapeuta. Non si devono promettere "rilascio del trauma" o "guarigione". Il modello stesso è teorico e non validato. Il contatto dell'abbraccio può essere un trigger. | T:L112-114, T:L124, T:L133-136 |
 | S13 | **Narrativa del trauma "nei tessuti"** | Il file T critica questa narrativa e la giudica meno ottimistica. Usarla in aula (es. "sciogliamo il trauma nella fascia") può essere iatrogeno. | T:L88, T:L103, T:L106 |
-| S14 | **Fonti di bassa qualità** | Il file R si appoggia su Scribd, blog e pdfcoffee. Il file T usa Instagram, LinkedIn, Substack e un blog in cinese per dati neurobiologici. C'è il rischio di propagare informazioni errate ai partecipanti, come i "muscoli e fascia non innervati" (T:L88). | R:L116-182, T:L151-205 |
+| S14 | **Fonti di bassa qualità** | Il file R si appoggia su Scribd, blog e pdfcoffee. Il file T usa Instagram, LinkedIn, Substack e un blog in cinese per dati neurobiologici. C'è il rischio di propagare informazioni errate ai partecipanti, come i "muscoli e fascia non innervati" (T:L88). | R:L116-181, T:L151-205 |
+| S15 | **Visualizzazioni guidate e immaginazione (SALT)** | Il rilassamento profondo con visualizzazione guidata (R:L77) può far emergere immagini intrusive in chi ha una storia di trauma. Serve sempre un'alternativa neutra, ad occhi aperti e con focus esterno (es. ascolto della musica, contatto dei piedi col pavimento). | R:L77, T:L92 |
+| S16 | **Competenza del conduttore** | L'applicazione ortodossa presuppone docenti formati in linguistica, recitazione, canto **e psicologia** (R:L110). Usare tecniche suggestive (autorità, infantilizzazione, rilassamento indotto) senza formazione aumenta i rischi da S2 a S5. | R:L110 |
+| S17 | **Sfida mal calibrata** | Il file T chiede contesti "sicuri e sfidanti" (T:L124) ed esposizione "sicura" all'incertezza (T:L63). Una sfida eccessiva o inattesa (cambio di partner imposto, improvvisazione sotto giudizio, contatto ravvicinato non scelto) può confermare i priors di minaccia invece di ridurli. Gradualità e scelta sono condizioni, non optional. | T:L63, T:L114, T:L124 |
 
 ---
 
