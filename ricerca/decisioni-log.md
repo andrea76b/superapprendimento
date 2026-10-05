@@ -60,3 +60,12 @@ Risposte date dall'autore alle domande del registro (vedi `DECISIONI.md`). Data:
 - **Formati da progettare:** lezione settimanale, workshop intensivo, corso universitario.
 - **Dimensione del gruppo:** fino a 20 persone (10 coppie nel tango).
 - **Qigong:** esempi e applicazione costruiti sul Liu Zi Jue (Health Qigong).
+
+## Punti aperti della revisione (metodo/REVISIONE.md §10)
+
+| N. | Punto | Decisione dell'autore | Note |
+|---|---|---|---|
+| 1 | Fase 0 di preparazione | Nessuna fase 0: le pratiche di stato vanno dentro il ciclo, dove servono | Collocazione puntuale da confermare (vedi punto 1b) |
+| 2 | Calendario settimanale | Tutte le lezioni da 90 minuti, anche la prima | Ciclo di 4 settimane, elaborazione a una settimana dal concerto |
+| 3 | Introduzione e pausa | 33 minuti di introduzione + 7 di pausa | In tensione con il punto 2 (lezione da 90 min): vedi punto 3b |
+| 4 | Workshop intensivo | 2 giorni | |
