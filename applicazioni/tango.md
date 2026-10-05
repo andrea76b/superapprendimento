@@ -180,11 +180,11 @@ Non c'è una fase di preparazione separata (log, punto 1). Le pratiche di stato 
 | 1. Introduzione | film, identità, docente e assistente ballano la sequenza intera, giochi del cabeceo | S-01, S-15, S-16, S-17, S-18, S-19 | 🟦 r. 3936-3998 · 🟩 parziale (gioco, ruolo) |
 | 2. Concerti | forma A nel ciclo 1, forma C nel ciclo 2, su un'opera della sessione del ciclo, con un tratto di conteggio misto; poi rilassamento breve e concerto passivo | S-04 (ciclo 1), S-05 (ciclo 2), S-30, S-32; S-23; S-03 | vedi §6 |
 | 3. Elaborazioni | richiamo in gioco, "lettura" corporea in coro, TPR, giochi sui dettagli, conteggio misto, pratica variata, teatro, memoria; ancoraggio prima del lavoro sui giri; ripasso con Image Streaming o con la visualizzazione guidata; prova mentale alla fine | S-06, S-42, S-49, S-37, S-32, S-43, S-44, S-52, S-21, S-39, S-40, S-41; S-26, S-25, S-24, S-38 | 🟦 r. 4248-4369 · 🟩 solida e parziale |
-| 4. Performance | respirazioni e ancoraggio prima della performance, per chi li sceglie; verifica-gioco, scene, milonga del film | S-22, S-26; S-07, S-11, S-51 | 🟦 r. 3932-3935, 4463-4468 · 🟩 parziale |
+| 4. Performance | respirazioni o ancoraggio prima della performance, a scelta; verifica-gioco, scene, milonga del film | S-22, S-26; S-07, S-11, S-51 | 🟦 r. 3932-3935, 4463-4468 · 🟩 parziale |
 
 **Calendario.** Lozanov vuole l'elaborazione primaria il giorno dopo il concerto e la secondaria il giorno successivo (r. 4248-4369). Nel corso settimanale l'elaborazione cade a una settimana dal concerto (log, punto 2). Il distanziamento rende utile questa distanza: richiamare il materiale dopo qualche giorno lo fissa meglio che ripeterlo subito (S-42). Il workshop di due giorni è più vicino al ritmo canonico (§14).
 
-**Quanto materiale.** Il primo fattore indispensabile è "covering a huge bulk of learning material" (r. 5845). Il concerto presenta tutta la sequenza del ciclo, da 8 a 10 elementi, divisa in gruppi di figure: un gruppo per ogni movimento dell'opera (log, punto 9; §6). Gli allievi non devono saperla eseguire subito (S-09); le elaborazioni la riprendono per parti e poi di nuovo intera (S-08).
+**Quanto materiale.** Il primo fattore indispensabile è "covering a huge bulk of learning material" (r. 5845). Il concerto presenta tutta la sequenza del ciclo, divisa in gruppi di figure: un gruppo per ogni movimento dell'opera (log, punto 9; §6). Gli allievi non devono saperla eseguire subito (S-09); le elaborazioni la riprendono per parti e poi di nuovo intera (S-08). Quanti elementi mettere in un ciclo è una domanda che l'autore non ha ancora deciso (`DECISIONI.md` §7, domanda 9): **Proposta, da confermare con l'autore**, da 8 a 10.
 
 ---
 
@@ -239,7 +239,7 @@ Nel ciclo 1 i principianti non conoscono ancora i passi base: guardano il docent
 2. Docente e assistente in posizione, con un atteggiamento solenne, "as it should be when a concert is about to begin"; aspettano la fine dell'introduzione orchestrale e fanno una cesura (r. 4021-4099).
 3. **I movimento (Molto allegro, 8:10).** El cabeceo, el abrazo, la caminata. La coppia esegue le tre figure più volte, in punti diversi della sala; il docente dice il nome, la frase della storia e l'immagine di ciascuna.
 4. **II movimento (Andante, 7:35).** La pausa e la cadencia, con la voce più intima. Sulle parti più belle il docente si ferma in pausa nell'abrazo e ascolta per 1-2 minuti (r. 4091-4092). Una volta, per 1-3 minuti, le coppie si alzano e segnano con lui cadencia e pausa, dicendo i nomi in coro; la ragione è del film: "serve il coro del club" (r. 4073-4074). Chi vuole resta seduto.
-5. **III movimento (Menuetto, 4:47).** El ocho atrás ed el ocho adelante. Tratto di conteggio a ruoli alternati (S-32): il docente canta la melodia e le coppie contano i tempi, poi il contrario.
+5. **III movimento (Menuetto, 4:47).** Ocho atrás e ocho adelante. Tratto di conteggio a ruoli alternati (S-32): il docente canta la melodia e le coppie contano i tempi, poi il contrario.
 6. **IV movimento (Allegro assai, 4:50).** El giro con molinete e la resolución; poi tutta la sequenza ancora una volta, solo con i nomi.
 7. Subito dopo: immagine di natura, rilassamento breve e concerto passivo (§6.4).
 
@@ -253,7 +253,7 @@ S-23: 🟨 SL1-A T01-T02 · 🟩 parziale (ansia) · 🟥 non canonico (r. 1427-
 
 Nel canone i due concerti non si separano (r. 4021-4024). Tra l'uno e l'altro, nel metodo, ci sono solo i pochi minuti dell'immagine di natura e del rilassamento breve, che stanno dentro il tempo dei concerti (log, punti 1b e 3).
 1. Il docente appende l'immagine di natura senza commentarla (1 min).
-2. **Rilassamento breve, come nelle fonti, per chi vuole** (S-23; log, punto 14) (3 min). Seduti sulle sedie del concerto, oppure sdraiati. Il docente guida una versione breve dell'onda di rilassamento: contrarre e rilasciare i muscoli dai piedi al viso; lasciar scorrere un'"onda calda" dalla testa ai piedi; qualche rotazione del collo. Lo annuncia per quello che è: una pratica delle fonti, non di Lozanov e non del tango. Chi non vuole resta seduto in ascolto.
+2. **Rilassamento breve, come nelle fonti, per chi vuole** (S-23; log, punto 14) (3 min). Scan and Relax seduti al proprio posto, oppure sdraiati: si esplora mentalmente il corpo dalla testa ai piedi, con l'attenzione su spalle, collo, braccia e mani, le zone che si irrigidiscono nell'abbraccio, e si lascia defluire la tensione. Il docente lo annuncia per quello che è: una pratica delle fonti, non di Lozanov e non del tango. Chi non vuole resta seduto in ascolto.
 3. Parte la musica, un'opera del n. 2 della sessione: nel ciclo 1 Bach, Fantasia BWV 572; nel ciclo 2 Bach, Preludio e fuga BWV 541 e i corali (§6.1). Il docente si siede con calma, "without demonstrating overt signs of passiveness and relaxation" (r. 4105-4107).
 4. Racconta di nuovo la scena con voce colloquiale, come a un amico: i nomi delle figure, le frasi della storia, le immagini (02, S-03). Si può accorciare saltando le parti meno significative (r. 4107-4108) (13 min nel ciclo 1, 19 nel ciclo 2).
 5. Gli allievi ascoltano tranquilli, con gli occhi come vogliono. Durante il concerto nessuna istruzione di rilassarsi, chiudere gli occhi o respirare in un certo modo; nessun commento tecnico. Volume moderato (log, punto 11).
@@ -343,12 +343,12 @@ Strumenti: S-47 Esercizi vestibolo-oculari (🟩 solida per la riabilitazione ·
 
 ## 9. Abbraccio e sicurezza percepita
 
-S-48 Sicurezza percepita: 🟦 principio affine r. 2802-2845, 3860-3915 · 🟩 solida (ansia e prestazione) · 🟥 non verificato (meccanismo). Procedure: SIC-04, SIC-05, SIC-06.
+S-48 Sicurezza percepita: 🟦 principio affine r. 2802-2845, 3860-3915 · 🟩 solida (ansia e prestazione) · 🟥 non verificato (meccanismo). Procedure e principi: SIC-03, SIC-04, SIC-05, SIC-06.
 
 **Perché.** Il secondo fondamento del metodo è un'ipotesi teorica: se sala, partner e docente non danno segnali di minaccia, il sistema riceve dati coerenti con l'assenza di pericolo e può dedicare risorse al compito (D-31; `metodo/01-fondamenti-e-principi.md` §3; Kotler, Mannino, Fox, Friston 2026, articolo d'opinione). Ipotesi teorica: 🟩 parziale per i riferimenti e il nucleo cognitivo · 🟥 non verificato per il meccanismo. Ansia e stress peggiorano prestazione e memoria (Shields et al. 2017; 🟩 solida); la minaccia posturale irrigidisce il corpo e cambia il controllo dell'equilibrio (Adkin e Carpenter 2018; 🟩 parziale). Nel canone: "Freedom accompanied by fear of learning is equal to giving up" (r. 3860-3915); le barriere antisuggestive non si forzano (r. 2802-2845). L'abrazo può essere un innesco per chi ha vissuto violenze (01 §3.4). Il corso non è una terapia e non promette effetti sul trauma (SIC-05).
 
 **Regole pratiche.**
-1. **Dichiarazione iniziale** (lezione 1 del corso, 2 min): "Questo è un corso di tango, non una terapia. L'abrazo si fa solo con il consenso di tutti e due. Ognuno sceglie partner, ruolo e distanza. Chiunque può non fare un'attività, senza spiegare." L'ultima frase è il principio canonico della libertà (r. 782-783, 3965-3966; log, punto 29).
+1. **Dichiarazione iniziale** (lezione 1 del corso, 2 min): "Questo è un corso di tango, non una terapia. L'abrazo si fa solo con il consenso di tutti e due. Ognuno sceglie partner, ruolo e distanza. Chiunque può non fare un'attività, senza spiegare." L'ultima frase è il principio canonico della libertà (SIC-03; r. 782-783, 3965-3966; log, punto 29).
 2. **Distanza.** Tre distanze proposte: aperto (contatto delle braccia), intermedio, chiuso (petto). La coppia usa la più aperta tra quelle che i due preferiscono.
 3. **Zone di contatto.** Schiena tra le scapole, mano, braccio. Nessuna pressione: l'abbraccio sostiene, non stringe.
 4. **Cambi di coppia proposti, mai obbligati** (log, punto 30; INT-07). La rotazione serve alla pratica variata (S-44); chi vuole resta con il proprio partner.
@@ -493,7 +493,7 @@ Il palazzo della memoria (§11.5) sta nella lezione 3.
 | 20-30 | 3 | Istruzione inversa: ochos atrás e adelante con il giro riconosciuto, mostrati interi e poi scomposti (§11.6) | S-41, S-08 | 🟨 · 🟦 · 🟩 parziale |
 | 30-42 | 3 | Variazioni: la stessa sequenza su D'Arienzo, Pugliese, Fresedo | S-44 | 🟦 principio affine · 🟩 parziale |
 | 42-48 | — | Pausa | | |
-| 48-56 | 3 | Ripasso con la visualizzazione guidata, per chi la sceglie: il docente conduce in gruppo la discesa cromatica; al piano terra racconta di nuovo la scena del club e nomina le figure; rientro con attivazione: in piedi, una frase musicale di caminata su D'Arienzo (§16) | S-24 | 🟨 · 🟥 contraddetto · 🟥 non canonico |
+| 48-56 | 3 | Ripasso con la visualizzazione guidata, per chi la sceglie: il docente conduce in gruppo la discesa cromatica, dal 7° piano rosso al piano terra blu, poi la "foresta alpina"; rientro con attivazione, in piedi, scuotendo mani e piedi; poi le coppie ripassano a memoria la sequenza del ciclo su una frase di D'Arienzo (§16) | S-24 | 🟨 · 🟥 contraddetto · 🟥 non canonico |
 | 56-70 | 3 | Preparazione delle scene di 30 secondi per il provino, nei personaggi; "Of course, nothing should be written down" (r. 4347) | S-21, S-16 | 🟨 · 🟦 · 🟩 parziale |
 | 70-82 | 3 | Palazzo della memoria: il club come palazzo (§11.5) | S-40 | 🟨 · 🟩 parziale |
 | 82-86 | 3 | Prova mentale della sequenza (§16) | S-38 | 🟨 · 🟩 parziale |
@@ -509,8 +509,7 @@ Ogni ciclo si chiude con una performance breve e volontaria (log, punto 5). Nel 
 |---|---|---|---|---|
 | 0-4 | 4 | Canzone del ciclo | S-33 | 🟦 |
 | 4-10 | 4 | Riscaldamento: routine dell'abrazo, caminata libera su Di Sarli | S-46, S-44 | 🟩 parziale |
-| 10-14 | 4 | Respirazioni prima della performance, solo per chi ha superato lo screening: la 4-4-4-4 per alcuni cicli, in piedi o seduti a scelta; gli altri respirano in modo naturale (§16) | S-22 | 🟨 · 🟩 parziale · 🟥 contraddetto · 🟥 non canonico |
-| 14-18 | 4 | Ancoraggio, per chi lo sceglie (§8, §16) | S-26 | 🟨 · 🟩 parziale · 🟥 non verificato · 🟥 non canonico |
+| 10-18 | 4 | Prima della performance, a scelta: respirazioni, solo per chi non si è escluso con lo screening (la 4-4-4-4 per tre cicli, in piedi o seduti, poi respiro naturale); oppure l'ancoraggio (§8); per gli altri la routine personale (§16) | S-22, S-26, S-46 | 🟨 · 🟩 parziale · 🟥 non canonico |
 | 18-28 | 4 | Il provino: verifica-gioco di gruppo su una tanda di Di Sarli (§13, settimana 4) | S-11 | 🟦 · 🟩 parziale |
 | 28-44 | 4 | Scene di 30 secondi, volontarie; applausi, nessun commento tecnico | S-07, S-21 | 🟦 · 🟨 · 🟩 parziale |
 | 44-50 | — | Pausa; si allestisce il club | S-20 | 🟦 |
@@ -529,7 +528,7 @@ Due cicli di quattro settimane: lezione 1 introduzione e concerti, lezione 2 ela
 | 1 | 1. Introduzione e concerti (ciclo 1) | Il primo ballo di Rosa | tutta la sequenza del ciclo 1, globale (§6.2) | S-33, S-01, S-15, S-16, S-04, S-32, S-23, S-03 | canzone "Caminito"; D'Arienzo, Di Sarli; concerti: Mozart K 550 e Bach BWV 572 (sessione 1) |
 | 2 | 2. Elaborazione primaria | Il cabeceo | abrazo, caminata, pausa, cadencia; coro, TPR, conteggio misto; ripasso con Image Streaming; prova mentale | S-06, S-42, S-49, S-37, S-32, S-43, S-21, S-25, S-38 | Di Sarli, Canaro, Troilo |
 | 3 | 3. Elaborazione secondaria | L'orchestra di D'Arienzo | ochos atrás e adelante; il giro riconosciuto; combinazione nuova mostrata intera e poi scomposta; ripasso con la visualizzazione guidata; scene da 30 secondi; palazzo della memoria; prova mentale | S-36, S-42, S-41, S-44, S-24, S-21, S-40, S-38 | D'Arienzo, Pugliese, Fresedo |
-| 4 | 4. Performance breve e verifica | Il provino | respirazioni e ancoraggio per chi li sceglie; verifica-gioco su Di Sarli; scene volontarie; milonga breve del film | S-22, S-26, S-11, S-07, S-21, S-51 | Di Sarli, D'Arienzo, un vals di Canaro |
+| 4 | 4. Performance breve e verifica | Il provino | respirazioni o ancoraggio, a scelta; verifica-gioco su Di Sarli; scene volontarie; milonga breve del film | S-22, S-26, S-11, S-07, S-21, S-51 | Di Sarli, D'Arienzo, un vals di Canaro |
 | tra 4 e 5 | Milonga-ponte | — | una milonga in una sala vera (§15.3) | S-13 | tande scelte da un DJ |
 | 5 | 1. Introduzione e concerti (ciclo 2) | Arriva il vals | tutta la sequenza del ciclo 2, globale; il ciclo 1 ripreso in gioco nell'introduzione | S-33, S-01, S-42, S-05, S-23, S-03 | canzone "Volver"; Troilo, un vals; concerti: Haydn, Concerto per violino n. 1, e Bach BWV 541 con i corali (sessione 2) |
 | 6 | 2. Elaborazione primaria | Il bandoneón | ancoraggio prima del lavoro sui giri; giros a destra e a sinistra, pivot, vals in tre tempi; richiamo del ciclo 1; ripasso con Image Streaming; prova mentale | S-26, S-47, S-35, S-32, S-42, S-52, S-25, S-38 | Troilo, vals |
@@ -588,7 +587,7 @@ Il workshop dura due giorni (log, punto 4). È più vicino al ritmo canonico: co
 | 14:15-15:15 | Elaborazione secondaria breve: variazioni su D'Arienzo, Pugliese, un vals; combinazione nuova mostrata intera e poi scomposta; scene di 30 secondi; palazzo della memoria | S-44, S-41, S-21, S-40 | 🟦 · 🟨 · 🟩 parziale |
 | 15:15-15:30 | Ripasso con la visualizzazione guidata, per chi la sceglie (§12.3); prova mentale | S-24, S-38 | 🟨 · 🟥 non canonico |
 | 15:30-15:45 | Pausa; si allestisce il club | S-20 | 🟦 |
-| 15:45-15:53 | Respirazioni, solo con screening, e ancoraggio, per chi li sceglie, prima della performance (§16) | S-22, S-26 | 🟨 · 🟥 non canonico |
+| 15:45-15:53 | Prima della performance, a scelta: respirazioni, solo con screening, oppure ancoraggio; per gli altri la routine personale (§16) | S-22, S-26, S-46 | 🟨 · 🟥 non canonico |
 | 15:53-16:50 | Performance: il provino, le scene, la milonga del film (§15) | S-11, S-07, S-21 | 🟦 · 🟩 parziale |
 | 16:50-17:05 | Scala breve anonima di fatica e gradimento, facoltativa; canzone del workshop | S-51, S-14, S-33 | 🟦 · 🟩 solida |
 
@@ -608,7 +607,7 @@ Il giorno finale è "the day when the trainees demonstrate to themselves and to 
 
 1. **Allestimento**, prima della lezione: il cartello del club, tavoli ai bordi, il programma della serata alla parete (S-20).
 2. **Apertura** con la canzone del ciclo 2, cantata da tutti (4 min).
-3. **Respirazioni e ancoraggio**, per chi li sceglie: S-22 solo per chi ha superato lo screening, in piedi o seduti a scelta; S-26 come in §8 (6 min).
+3. **Prima della performance, a scelta**: respirazioni (S-22) solo per chi non si è escluso con lo screening, in piedi o seduti; oppure l'ancoraggio (S-26) come in §8; per gli altri la routine personale (6 min).
 4. **Monologo e dialogo.** Chi vuole presenta il proprio personaggio in una frase; poi i dialoghi del cabeceo tra i tavoli (10 min).
 5. **Il provino** (verifica-gioco, S-11): una tanda di Di Sarli ballata da tutte le coppie insieme (10 min).
 6. **Tande.** Da tre a quattro brani per tanda, con cortine brevi: D'Arienzo, Di Sarli, un vals di Canaro, Troilo, una milonga di Biagi, Pugliese, Fresedo. Il cabeceo vale per tutti gli inviti; il docente balla con chi lo invita (40 min).
@@ -630,7 +629,7 @@ L'autore ha messo nel metodo alcune pratiche delle fonti con la loro procedura (
 
 **Regole.**
 1. **Dentro il ciclo, secondo la funzione** (log, punti 1 e 1b): il rilassamento subito prima del concerto passivo; le respirazioni prima della performance; Image Streaming e visualizzazione guidata nelle elaborazioni, come ripasso; l'ancoraggio prima del lavoro sui giri e prima della performance; la prova mentale alla fine di ogni elaborazione.
-2. **Sempre come offerta.** Chiunque può non farle, senza spiegare (r. 782-783, 3965-3966; log, punto 29). Chi non partecipa fa la propria routine (S-46) o resta in ascolto.
+2. **Una per volta, sempre come offerta.** Chiunque può non farle, senza spiegare (SIC-03; r. 782-783, 3965-3966; log, punto 29). Chi non partecipa fa la propria routine (S-46) o resta in ascolto.
 3. **Screening.** Prima del corso ognuno compila un questionario anonimo con l'elenco delle attività e delle controindicazioni, e segna quelle a cui non parteciperà (SIC-01; log, punto 28). Per le respirazioni con apnea lo screening è obbligatorio (D-05).
 4. **Dette per quello che sono.** Il docente le annuncia come pratiche delle fonti: non di Lozanov e non del tango.
 5. **Mai durante un concerto.** Il rilassamento viene prima del concerto passivo, non durante; il concerto resta quello canonico.
@@ -638,8 +637,8 @@ L'autore ha messo nel metodo alcune pratiche delle fonti con la loro procedura (
 | ID | Pratica | Esempio di tango | Dove | Note | Etichette (00 §3) |
 |---|---|---|---|---|---|
 | S-22 | Respirazioni con apnea | la 4-4-4-4 prima della performance (TM T3; SL1-C, esercizio 3) | lezione 4 e milonga finale; workshop prima della performance | pattern come nelle fonti, in piedi o seduti a scelta; solo screening, obbligatorio (log, punto 13) | 🟨 SL1-A T04-T07 · 🟩 parziale (respiro lento senza apnee) · 🟥 contraddetto (ossigeno) · 🟥 non canonico (r. 1407-1416) |
-| S-23 | Rilassamento progressivo e Scan and Relax | onda di rilassamento: contrazione e rilascio dai piedi al viso, onda calda, rotazioni del collo (SL1-A T01; SL1-C, esercizio 1) | subito prima del concerto passivo, 2-3 minuti | come nelle fonti, anche sdraiati (log, punto 14) | 🟨 SL1-A T01-T02 · 🟩 parziale (ansia) · 🟥 non canonico (r. 1427-1428, 1626-1632) |
-| S-24 | Visualizzazioni guidate | discesa cromatica (SL1-C, esercizio 4) con la scena del club al piano terra | elaborazione secondaria, come ripasso (§12.3) | conduce il docente, in gruppo, come nelle fonti (log, punto 15); rientro con attivazione | 🟨 SL1-A T08 · 🟥 contraddetto · 🟥 non canonico (r. 1440-1441) |
+| S-23 | Rilassamento progressivo e Scan and Relax | Scan and Relax seduti o sdraiati, sulle zone che si irrigidiscono nell'abbraccio (SL1-A T02) | subito prima del concerto passivo, 2-3 minuti | come nelle fonti, senza precauzioni aggiunte: la versione A con l'onda calda, le rotazioni del collo e la posizione sdraiata resta nella scheda (log, punto 14) | 🟨 SL1-A T01-T02 · 🟩 parziale (ansia) · 🟥 non canonico (r. 1427-1428, 1626-1632) |
+| S-24 | Visualizzazioni guidate | discesa cromatica fino alla "foresta alpina" (SL1-C, esercizio 4), poi la sequenza ripassata a memoria | elaborazione secondaria, come ripasso (§12.3) | conduce il docente, in gruppo, come nelle fonti (log, punto 15); rientro con attivazione | 🟨 SL1-A T08 · 🟥 contraddetto · 🟥 non canonico (r. 1440-1441) |
 | S-25 | Image Streaming | descrivere ad alta voce le immagini che nascono dopo una tanda (TM T10) | elaborazione primaria, a coppie, 3 minuti a testa, come ripasso (§12.2) | occhi aperti, immagini descritte a voce, nessuna lampadina (log, punto 16); nessun contenuto personale richiesto | 🟨 SL1-A T21 · 🟩 parziale (verbalizzazione) · 🟥 contraddetto (promesse) · 🟥 non canonico (r. 1407-1416) |
 | S-26 | Ancoraggi emotivi | ancora pollice-indice prima del giro (SL1-C T10, T15) | prima del lavoro sui giri (settimana 6) e prima della performance (settimane 4 e 8) | come nelle fonti; il ricordo personale è facoltativo, in alternativa una scena di ballo immaginata (log, punto 17); distinta dalla routine S-46 | 🟨 SL1-A T18 · 🟩 parziale (routine) · 🟥 non verificato (ancora) · 🟥 non canonico (r. 1400-1406, 1824-1849) |
 | S-31 | Tre toni fissi | voce normale, sussurrata, alta sui nomi delle figure | variante nella forma C (§6.5) | nessun tono di comando fuori dal concerto | 🟨 SL1-A T16 · 🟩 parziale (variazione della voce) · 🟥 non verificato (tre toni) · 🟥 non canonico (tono imperativo, r. 4089-4091) |

@@ -112,7 +112,7 @@ Nel Liu Zi Jue il respiro è il primo caso: è la disciplina stessa. Per questo 
 
 **Le stesse regole delle pratiche di stato** (log, punto 24). "Pratiche di stato" vuol dire esercizi fatti per cambiare lo stato di chi li fa, più calmo o più presente. Respiro, quiete e immagini del Liu Zi Jue toccano lo stesso terreno, e per questo seguono le stesse regole:
 1. **Screening.** Rientrano nel questionario anonimo che ognuno compila prima del corso, con l'elenco delle attività e delle controindicazioni: ciascuno segna quelle a cui non parteciperà (SIC-01; log, punto 28).
-2. **Offerta.** Chiunque può non farli, o farli con il respiro naturale, senza spiegare (r. 782-783, 3965-3966).
+2. **Offerta.** Chiunque può non farli, o farli con il respiro naturale, senza spiegare (SIC-03; r. 782-783, 3965-3966).
 3. **Detti per quello che sono.** Il docente dice che cosa sono e da dove vengono: contenuto della tradizione HQA, non tecniche per indurre uno stato.
 
 | Elemento | Che cos'è | Come entra nella lezione | Etichette |
@@ -177,7 +177,7 @@ La traccia HQA o altra musica cinese dentro i concerti è S-71, nel modulo speri
 | Lingua e cultura | i nomi dei sei suoni in pinyin; le corrispondenze tradizionali come racconto | i comandi principali della traccia con voce guida (口令) | guidare un piccolo gruppo di compagni con i comandi |
 | Verifica | verifica-gioco di gruppo a fine ciclo, senza voti individuali (S-11; log, punto 7); performance breve e volontaria (S-07) | come livello 1; video facoltativo prima e dopo (S-51) | come livello 2 |
 
-Nel primo corso il ciclo 1 rende attivi preparazione, apertura, Xu, He e Hu; Si, Chui, Xi e chiusura restano passivi: si vedono nel concerto e si seguono in gruppo. Il ciclo 2 li rende attivi (02 §4.2; S-09).
+Nel primo corso il ciclo 1 rende attivi preparazione, apertura, Xu, He e Hu; Si, Chui, Xi e chiusura restano passivi: si vedono nel concerto e si seguono in gruppo. Il ciclo 2 li rende attivi (02 §4.2; S-09). Quanto materiale rendere attivo in un ciclo è una domanda che l'autore non ha ancora deciso (`DECISIONI.md` §7, domanda 9): questa divisione è **Proposta, da confermare con l'autore**.
 
 ---
 
@@ -212,7 +212,7 @@ Non c'è una fase di preparazione separata (log, punto 1). Le pratiche di stato 
 | 1. Introduzione | la giornata aperta; il docente esegue tutta la sequenza HQA con la musica ufficiale e ne racconta l'ordine e la storia; gioco del suono senza voce | S-01, S-15, S-19, S-18 | 🟦 r. 3936-3998 · 🟩 parziale |
 | 2. Concerti | forma A nel ciclo 1, forma C nel ciclo 2, su un'opera della sessione del ciclo, con un tratto di conteggio misto; poi rilassamento breve e concerto passivo | S-04 (ciclo 1), S-05 (ciclo 2), S-30, S-32; S-23; S-03 | vedi §8 |
 | 3. Elaborazioni | richiamo in gruppo, sei suoni in coro con la bocca giusta, TPR dei comandi, giochi sui dettagli, pratica variata, pause, mimo, memoria; ripasso con Image Streaming o nella quiete in piedi; prova mentale alla fine | S-06, S-42, S-49, S-37, S-43, S-44, S-52, S-21, S-39, S-40, S-41; S-25, S-38 | 🟦 r. 4248-4369 · 🟩 solida e parziale |
-| 4. Performance | respirazioni e ancoraggio prima della performance, per chi li sceglie; verifica-gioco, presentazioni dei suoni, pratica del parco | S-22, S-26; S-07, S-11, S-51 | 🟦 r. 3932-3935, 4463-4468 · 🟩 parziale |
+| 4. Performance | respirazioni o ancoraggio prima della performance, a scelta; verifica-gioco, presentazioni dei suoni, pratica del parco | S-22, S-26; S-07, S-11, S-51 | 🟦 r. 3932-3935, 4463-4468 · 🟩 parziale |
 
 **Calendario e quantità di materiale.** Nel corso settimanale l'elaborazione cade a una settimana dal concerto (log, punto 2); il distanziamento rende utile questa distanza (S-42). Il concerto presenta tutta la sequenza, divisa in gruppi di sezioni, uno per ogni movimento dell'opera (log, punto 9; r. 5845). Gli allievi non devono saperla eseguire subito (S-09); le elaborazioni la riprendono per parti e poi intera (S-08). Tra una lezione e l'altra, per chi vuole: la traccia HQA solo musica sul sito QIGONG (S-12; 02, S-12).
 
@@ -276,7 +276,7 @@ S-23: 🟨 SL1-A T01-T02 · 🟩 parziale (ansia) · 🟥 non canonico (r. 1427-
 
 Nel canone i due concerti non si separano (r. 4021-4024). Tra l'uno e l'altro, nel metodo, ci sono solo i pochi minuti dell'immagine di natura e del rilassamento breve, che stanno dentro il tempo dei concerti (log, punti 1b e 3).
 1. Il docente appende un'immagine di natura senza commentarla (1 min).
-2. **Rilassamento breve, come nelle fonti, per chi vuole** (S-23; log, punto 14) (3 min). Seduti sulle sedie del concerto, oppure sdraiati. Il docente guida una versione breve dell'onda di rilassamento: contrarre e rilasciare i muscoli dai piedi al viso; lasciar scorrere un'"onda calda" dalla testa ai piedi; qualche rotazione del collo. Prima dice che è una pratica delle fonti, diversa dal song, il rilassamento attivo del Qigong, che è contenuto della forma. Chi non vuole resta seduto in ascolto.
+2. **Rilassamento breve, come nelle fonti, per chi vuole** (S-23; log, punto 14) (3 min). Scan and Relax in piedi, seduti o sdraiati: si esplora mentalmente il corpo dalla testa ai piedi e si lascia defluire la tensione. Prima il docente dice che è una pratica delle fonti, diversa dal song, il rilassamento attivo del Qigong, che è contenuto della forma. Chi non vuole resta in ascolto.
 3. Parte un'opera del n. 2 della stessa sessione: nel ciclo 1 Bach, Fantasia BWV 572; nel ciclo 2 Bach, Preludio e fuga BWV 541 e i corali (§8.1). Il docente si siede con calma, "without demonstrating overt signs of passiveness and relaxation" (r. 4105-4107).
 4. Racconta di nuovo con voce naturale nomi, suoni e movimenti e la breve storia della sequenza: i testi antichi, i cinque elementi, l'ordine delle stagioni. Si può accorciare saltando le parti meno significative (r. 4107-4108) (13 min nel ciclo 1, 19 nel ciclo 2).
 5. Durante il concerto nessuna istruzione sul respiro: chi ascolta respira come vuole (02, S-03). Nessuna istruzione di rilassarsi o di chiudere gli occhi. Volume moderato (log, punto 11).
@@ -463,8 +463,7 @@ Ogni ciclo si chiude con una performance breve e volontaria (log, punto 5). Nel 
 |---|---|---|---|---|
 | 0-4 | 4 | I sei suoni cantati | S-33 | 🟦 |
 | 4-10 | 4 | Riscaldamento: routine; camminata a otto | S-46, S-35 | 🟨 · 🟩 parziale |
-| 10-14 | 4 | Respirazioni prima della performance, solo per chi ha superato lo screening: il Respiro dell'Aquila, in piedi o seduti a scelta, annunciato come pratica delle fonti; poi il docente dichiara il passaggio: "ora la preparazione del Liu Zi Jue, con il respiro naturale" (§16) | S-22 | 🟨 · 🟩 parziale · 🟥 contraddetto · 🟥 non canonico |
-| 14-18 | 4 | Ancoraggio, per chi lo sceglie: si fissa come nelle fonti e si attiva nella postura di preparazione, prima dell'apertura (§16) | S-26 | 🟨 · 🟩 parziale · 🟥 non verificato · 🟥 non canonico |
+| 10-18 | 4 | Prima della performance, a scelta: il Respiro dell'Aquila, solo per chi non si è escluso con lo screening, in piedi o seduti, annunciato come pratica delle fonti; oppure l'ancora, fissata come nelle fonti e attivata nella postura di preparazione; per gli altri la routine personale. Poi il docente dichiara il passaggio: "ora la preparazione del Liu Zi Jue, con il respiro naturale" (§16) | S-22, S-26, S-46 | 🟨 · 🟩 parziale · 🟥 non canonico |
 | 18-28 | 4 | Verifica-gioco: il gruppo esegue in coro l'apertura e i primi tre suoni senza il docente (§12, settimana 4) | S-11 | 🟦 · 🟩 parziale |
 | 28-44 | 4 | Presentazioni dei suoni, per piccoli gruppi, volontarie; nessuna correzione | S-07, S-21 | 🟦 · 🟨 · 🟩 parziale |
 | 44-50 | — | Pausa; tè | | |
@@ -483,7 +482,7 @@ Due cicli di quattro settimane: introduzione e concerti, elaborazione primaria, 
 | 1 | 1. Introduzione e concerti (ciclo 1) | Che cosa mostreremo | sequenza intera, globale; attivi preparazione, apertura, Xu, He, Hu | S-33, S-01, S-15, S-04, S-32, S-23, S-03 | sei suoni cantati; HQA; concerti: Mozart K 550 e Bach BWV 572 (sessione 1) |
 | 2 | 2. Elaborazione primaria | Le prime prove | preparazione, apertura, Xu, He; sei suoni in coro; TPR; mimo; ripasso con Image Streaming; prova mentale | S-06, S-42, S-49, S-37, S-43, S-21, S-44, S-25, S-38 | HQA |
 | 3 | 3. Elaborazione secondaria | La scaletta | Hu; He e Hu collegati; variazioni da fermi e in cammino; ripasso nella quiete in piedi; presentazione di un suono per piccolo gruppo; casa delle stagioni; prova mentale | S-36, S-42, S-41, S-44, S-21, S-40, S-38 | HQA |
-| 4 | 4. Performance breve e verifica | Prova davanti al gruppo | respirazioni e ancoraggio per chi li sceglie; verifica-gioco; presentazioni dei suoni; pratica della parte attiva con la traccia | S-22, S-26, S-11, S-07, S-51 | HQA |
+| 4 | 4. Performance breve e verifica | Prova davanti al gruppo | respirazioni o ancoraggio, a scelta; verifica-gioco; presentazioni dei suoni; pratica della parte attiva con la traccia | S-22, S-26, S-11, S-07, S-51 | HQA |
 | tra 4 e 5 | Pratica all'aperto | — | il gruppo pratica senza docente (§14.3) | S-13 | HQA |
 | 5 | 1. Introduzione e concerti (ciclo 2) | La seconda parte | sequenza intera, globale; attivi Si, Chui, Xi e chiusura; ripresa del ciclo 1 | S-33, S-01, S-42, S-05, S-23, S-03 | canzone del ciclo 2; HQA; concerti: Haydn, Concerto per violino n. 1, e Bach BWV 541 con i corali (sessione 2) |
 | 6 | 2. Elaborazione primaria | Le prove della seconda parte | Si e Chui; suono sussurrato; prima pratica con la traccia con voce guida; ripasso con Image Streaming; prova mentale | S-37, S-44, S-52, S-42, S-32, S-25, S-38 | HQA, anche con voce guida |
@@ -492,7 +491,7 @@ Due cicli di quattro settimane: introduzione e concerti, elaborazione primaria, 
 
 **Dettagli.**
 - **Settimane 1 e 5.** La lezione 1 segue lo schema fisso di §11.1. Nella settimana 5 il concerto è in forma C (§8.5) e il docente presenta la canzone del ciclo 2 (log, punto 12).
-- **Settimane 2-3 e 6-7.** Il ripasso usa l'Image Streaming nell'elaborazione primaria e la quiete in piedi della preparazione HQA nella secondaria; ogni elaborazione si chiude con la prova mentale (§11.2-11.3; log, punti 1b e 25). Nella settimana 3 la routine pre-esecuzione esiste già nella forma: la preparazione e il raccoglimento iniziale svolgono questa funzione, si tratta di renderla esplicita e personale (INT-05; S-46). Nell'elaborazione secondaria il docente mostra un collegamento nuovo e i piccoli gruppi preparano la presentazione di un suono: forma della bocca, movimento, posto nella sequenza (02, S-06).
+- **Settimane 2-3 e 6-7.** Il ripasso usa l'Image Streaming nell'elaborazione primaria e la quiete in piedi della preparazione HQA nella secondaria; ogni elaborazione si chiude con la prova mentale (§11.2-11.3; log, punti 1b e 25). Nella settimana 3 la routine pre-esecuzione (S-46) non si aggiunge alla forma: la preparazione e il raccoglimento iniziale la svolgono già; il docente la rende esplicita e personale (INT-05). Nell'elaborazione secondaria il docente mostra un collegamento nuovo e i piccoli gruppi preparano la presentazione di un suono: forma della bocca, movimento, posto nella sequenza (02, S-06).
 - **Settimana 4.** Verifica-gioco: il gruppo esegue in coro l'apertura e i primi tre suoni senza il docente; il docente osserva direzione, ordine e forma della bocca. Nessun voto individuale. Se la riuscita del gruppo è sotto il 70-75%, gli elementi deboli tornano nelle elaborazioni del ciclo 2 (S-11; log, punto 7).
 - **Settimana 6.** Prima pratica con la traccia con voce guida: i comandi in cinese, già noti dal coro e dal TPR, guidano la forma.
 - **Settimana 7.** Imagery autogestita: chi vuole ripassa mentalmente la sequenza nei giorni senza lezione, quando e come preferisce, in aggiunta alla pratica (S-45; mai dettata).
@@ -539,7 +538,7 @@ Il workshop dura due giorni (log, punto 4). È più vicino al ritmo canonico: co
 | 14:15-15:15 | Elaborazione secondaria breve: Si, Chui, Xi e chiusura con le stesse regole; collegamenti mostrati interi e poi scomposti; casa delle stagioni; preparazione delle presentazioni | S-08, S-41, S-40, S-21 | 🟦 · 🟨 · 🟩 parziale |
 | 15:15-15:30 | Ripasso nella quiete in piedi della preparazione HQA, al posto della visualizzazione guidata (§11.3); prova mentale | S-38 | 🟨 HQA · 🟩 parziale |
 | 15:30-15:45 | Pausa | | |
-| 15:45-15:53 | Respirazioni, solo con screening, e ancoraggio, per chi li sceglie, prima della performance (§16) | S-22, S-26 | 🟨 · 🟥 non canonico |
+| 15:45-15:53 | Prima della performance, a scelta: respirazioni, solo con screening, oppure ancoraggio; per gli altri la routine personale (§16) | S-22, S-26, S-46 | 🟨 · 🟥 non canonico |
 | 15:53-16:50 | Verifica-gioco: la sequenza in coro senza il docente; presentazioni dei suoni; la pratica del parco (§14) | S-11, S-07 | 🟦 · 🟩 parziale |
 | 16:50-17:05 | Scala breve anonima di fatica e gradimento, facoltativa; festa; sei suoni cantati | S-51, S-14, S-33 | 🟦 · 🟩 solida |
 
@@ -559,7 +558,7 @@ Il giorno finale è "the day when the trainees demonstrate to themselves and to 
 
 In un parco o in sala, con ospiti se il gruppo lo desidera: è la giornata aperta del progetto.
 1. **La canzone del ciclo 2**, con gli ospiti invitati a rispondere al coro (4 min).
-2. **Respirazioni e ancoraggio**, per chi li sceglie: S-22 solo per chi ha superato lo screening, in piedi o seduti a scelta, annunciato come pratica delle fonti; S-26 attivato nella postura di preparazione (6 min).
+2. **Prima della performance, a scelta**: il Respiro dell'Aquila (S-22) solo per chi non si è escluso con lo screening, in piedi o seduti, annunciato come pratica delle fonti; oppure l'ancora (S-26) attivata nella postura di preparazione; per gli altri la routine personale (6 min).
 3. **Monologo e dialogo.** Chi vuole presenta il proprio suono in una frase: "Io porto Si, l'autunno: il petto si apre e i palmi spingono la porta." Un compagno fa una domanda, l'altro risponde (10 min).
 4. **La sequenza senza il docente**, tutti insieme, con la traccia HQA solo musica: è la verifica-gioco del ciclo 2 (S-11; 02, S-07) (15 min).
 5. **Presentazioni dei piccoli gruppi**: ogni gruppo mostra un suono agli altri, con la forma della bocca, il movimento e il posto nella sequenza (15 min).
@@ -612,7 +611,7 @@ L'autore ha messo nel metodo alcune pratiche delle fonti con la loro procedura (
 **Regole.**
 1. **Dentro il ciclo, secondo la funzione** (log, punti 1 e 1b): il rilassamento subito prima del concerto passivo; le respirazioni prima della performance; l'Image Streaming nelle elaborazioni, come ripasso; l'ancoraggio prima della performance; la prova mentale alla fine di ogni elaborazione.
 2. **Niente visualizzazione guidata.** Nel Liu Zi Jue il viaggio calmante (S-24) è sostituito dalla quiete in piedi della preparazione HQA, che è contenuto della disciplina (log, punto 25). S-24 resta nel tango.
-3. **Sempre come offerta.** Chiunque può non farle, senza spiegare (r. 782-783, 3965-3966; log, punto 29).
+3. **Una per volta, sempre come offerta.** Chiunque può non farle, senza spiegare (SIC-03; r. 782-783, 3965-3966; log, punto 29).
 4. **Screening.** Prima del corso ognuno compila il questionario anonimo di autoesclusione, con l'elenco delle attività e delle controindicazioni (SIC-01; log, punto 28). Per le respirazioni con apnea è obbligatorio (D-05).
 5. **Dette per quello che sono.** Il docente le annuncia come pratiche delle fonti, non del Liu Zi Jue; nessuna si mescola ai sei suoni.
 6. **Mai durante un concerto.** Il rilassamento viene prima del concerto passivo, non durante.
@@ -620,7 +619,7 @@ L'autore ha messo nel metodo alcune pratiche delle fonti con la loro procedura (
 | ID | Pratica | Relazione con il Liu Zi Jue | Dove | Note | Etichette (00 §3) |
 |---|---|---|---|---|---|
 | S-22 | Respirazioni con apnea | la sequenza HQA non prevede ritenzioni contate | prima della performance (lezione 4, pratica del parco, workshop) | pattern come nelle fonti, in piedi o seduti a scelta; solo screening, obbligatorio (log, punto 13) | 🟨 SL1-A T04-T07 · 🟩 parziale (respiro lento senza apnee) · 🟥 contraddetto (ossigeno) · 🟥 non canonico (r. 1407-1416) |
-| S-23 | Rilassamento progressivo e Scan and Relax | il song del Qigong è contenuto; contrazione e rilascio sono un'altra pratica | subito prima del concerto passivo, 2-3 minuti | come nelle fonti: onda calda, rotazioni del collo, anche sdraiati (log, punto 14) | 🟨 SL1-A T01-T02 · 🟩 parziale (ansia) · 🟥 non canonico (r. 1427-1428, 1626-1632) |
+| S-23 | Rilassamento progressivo e Scan and Relax | il song del Qigong è contenuto; contrazione e rilascio, o la scansione del corpo, sono un'altra pratica | subito prima del concerto passivo, 2-3 minuti: Scan and Relax in piedi, seduti o sdraiati | come nelle fonti, senza precauzioni aggiunte: la versione A con l'onda calda, le rotazioni del collo e la posizione sdraiata resta nella scheda (log, punto 14) | 🟨 SL1-A T01-T02 · 🟩 parziale (ansia) · 🟥 non canonico (r. 1427-1428, 1626-1632) |
 | S-24 | Visualizzazioni guidate | le immagini HQA sono immagini d'azione; il viaggio calmante è un'altra pratica | non nel Liu Zi Jue: al suo posto la quiete in piedi della preparazione HQA (log, punto 25) | — | 🟨 SL1-A T08 · 🟥 contraddetto · 🟥 non canonico (r. 1440-1441) |
 | S-25 | Image Streaming | dopo la forma, descrivere ad alta voce le immagini nate dalla pratica | elaborazione primaria, a coppie, come ripasso (§11.2) | occhi aperti, immagini descritte a voce, nessuna lampadina (log, punto 16); nessun contenuto personale richiesto | 🟨 SL1-A T21 · 🟩 parziale (verbalizzazione) · 🟥 contraddetto (promesse) · 🟥 non canonico (r. 1407-1416) |
 | S-26 | Ancoraggi emotivi | diverso dalla routine della preparazione (S-46) | prima della performance, nella postura di preparazione | come nelle fonti; il ricordo personale è facoltativo, in alternativa una scena di pratica immaginata (log, punto 17) | 🟨 SL1-A T18 · 🟩 parziale (routine) · 🟥 non verificato (ancora) · 🟥 non canonico (r. 1400-1406, 1824-1849) |

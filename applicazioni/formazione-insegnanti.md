@@ -87,7 +87,7 @@ Le 14 competenze di Lozanov (r. 5753-5773; 05 §7) sono il nucleo. Il metodo agg
 | E. Gruppo | Gestire coppie, ruoli, contatto: abrazo solo con consenso, cambio di coppia proposto e mai obbligato, ruoli liberi dal genere, numero dispari | SIC-04; log, punto 30 | simulazioni con regole di consenso |
 | E. Gruppo | Riconoscere la fatica nervosa e ridurre il compito | S-14; r. 561-562 | osservazione di lezioni |
 | E. Gruppo | Capire e applicare l'amore per l'essere umano, "not sentimentally" | competenza 14; r. 5852-5854 | diario del tirocinio |
-| F. Sicurezza ed etica | Applicare le procedure di sicurezza: screening con il questionario anonimo di autoesclusione, consenso, contatto, correzione diretta degli errori pericolosi; rispettare la libertà di non partecipare | 06; log, punti 28 e 29 | simulazione di uno screening |
+| F. Sicurezza ed etica | Applicare le procedure di sicurezza: screening con il questionario anonimo di autoesclusione, consenso, contatto, correzione diretta degli errori pericolosi; rispettare la libertà di non partecipare | 06 §2 (SIC-01–SIC-06); log, punti 28 e 29 | simulazione di uno screening |
 | F. Sicurezza ed etica | Dire e mantenere "questo corso non è una terapia"; non promettere effetti sul trauma | SIC-05; 01 §3.4 | scrittura della dichiarazione per il proprio corso |
 | F. Sicurezza ed etica | Distinguere respiro e immagine come contenuto e come mezzo (Qigong, yoga) | modello §9.5; AQ §3 | analisi di una lezione registrata |
 | G. Etichette e onestà | Leggere e dichiarare le etichette; usare i riquadri "Cosa dicono le fonti"; nessuna promessa | 00 §1; D-30 | presentazione di una pratica delle fonti con le sue etichette |

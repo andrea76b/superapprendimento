@@ -32,7 +32,7 @@ Origine: canone · Decisione: Canone · Fase del ciclo: introduzione, elaborazio
 4. Nei momenti difficili il docente ricorda, con leggerezza, che sono attori del progetto (r. 755-759) (pochi secondi).
 5. La performance chiude il progetto o la scena (S-07).
 
-**Esempio tango.** "Una noche en el club": "giriamo un film su un club di barrio a Buenos Aires negli anni Quaranta". Ognuno ha la carta d'identità del suo personaggio (S-16). Scene per cicli: l'arrivo al club e il cabeceo (caminata, abrazo); il primo ballo di Rosa (ochos, cadencia, pausa); la sera della gara di vals (giros, molinete); la milonga finale (sacadas, musicalità con D'Arienzo, Di Sarli, Pugliese). Quando il gruppo lavora sul molinete, la ragione è "nella scena della gara le coppie girano intorno alla colonna del salone".
+**Esempio tango.** "Una noche en el club": "giriamo un film su un club di barrio a Buenos Aires negli anni Quaranta". Ognuno ha la carta d'identità del suo personaggio (S-16). Ogni ciclo è una scena: nel ciclo 1 "il primo ballo di Rosa al club" (cabeceo, abrazo, caminata, pausa, cadencia, ochos, giro con molinete); nel ciclo 2 "arriva il vals" (giros, vals, pausa di Pugliese, milonga lisa); il corso si chiude con "la notte delle riprese", la milonga finale (AT §4.1). Quando il gruppo lavora sul molinete, la ragione è "nella scena del club le coppie girano intorno alla colonna del salone".
 
 **Esempio Liu Zi Jue.** Nel Qigong il film in costume rischia il folklore (modello r. 765); funziona meglio un progetto neutro. "Prepariamo una dimostrazione di dieci minuti per la giornata aperta della scuola": il ciclo 1 prepara apertura, Xu, He e Hu; il ciclo 2 Si, Chui, Xi e chiusura; la performance è la dimostrazione.
 
@@ -220,7 +220,7 @@ Origine: fonti · Decisione: D-05, nel metodo come nelle fonti, con screening de
 
 **Scopo.** Prepararsi alla performance con una respirazione ritmata e strutturata, secondo le sequenze delle fonti.
 
-**Procedura** (come nelle fonti). Solo per chi ha superato lo screening (SIC-01). Ognuno sceglie se stare in piedi o seduto (decisione dell'autore).
+**Procedura** (come nelle fonti). Solo per chi non si è escluso con il questionario di screening (SIC-01). Ognuno sceglie se stare in piedi o seduto (decisione dell'autore).
 
 *A. Respirazione addominale 8-4-8-4* (SL1-A T04, r. 44-47; MAN A.3):
 1. In piedi con le gambe leggermente divaricate, come nella fonte, oppure seduti.
@@ -251,7 +251,7 @@ Origine: fonti · Decisione: D-05, nel metodo come nelle fonti, con screening de
 
 Componenti con decisione diversa: il ciclo di 12 secondi legato alla lettura (SL1-A T15) è S-73, nel modulo sperimentale; i battiti binaurali che MAN abbina alla respirazione sono S-65 (07); il metronomo a 60 BPM e il Largo dell'Inverno sono S-69 (07).
 
-**Esempio tango.** Nella lezione 4, prima della performance, a bordo pista, chi ha superato lo screening esegue la 4-4-4-4 per tre cicli, in piedi o seduto; poi torna a respirare in modo naturale e va in abrazo per mostrare la sua scena. Gli altri fanno la routine personale (S-46). Il docente non conta ad alta voce in modo monotono: dà il primo ciclo e lascia proseguire.
+**Esempio tango.** Nella lezione 4, prima della performance, a bordo pista, chi non si è escluso con lo screening esegue la 4-4-4-4 per tre cicli, in piedi o seduto; poi torna a respirare in modo naturale e va in abrazo per mostrare la sua scena. Gli altri fanno la routine personale (S-46). Il docente non conta ad alta voce in modo monotono: dà il primo ciclo e lascia proseguire.
 
 **Esempio Liu Zi Jue.** Prima della performance della giornata aperta, il Respiro dell'Aquila si propone come esercizio delle fonti, separato dalla sequenza. Poi il docente dichiara il passaggio: "ora la preparazione del Liu Zi Jue, con il respiro naturale". Così il gruppo distingue la pratica delle fonti dal respiro del Liu Zi Jue, che è contenuto della disciplina e segue le stesse regole delle pratiche di stato (01 §2.10; 02 §1.1).
 

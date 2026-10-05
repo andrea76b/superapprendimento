@@ -12,7 +12,7 @@ Nel metodo il docente non è un esecutore di tecniche: per Lozanov "Without trai
 5. Il gruppo fino a 20
 6. Che cosa il docente non fa
 7. Le 14 competenze
-8. Formazione e certificazione
+8. Formazione
 
 ---
 
@@ -215,12 +215,11 @@ Competenze che il metodo aggiunge per i corsi corporei: progettare la sicurezza 
 
 ---
 
-## 8. Formazione e certificazione
+## 8. Formazione
 
-🟦 **Fonte classica** (r. 1469-1472, 3771-3776, 4449-4450, 5748-5751)
+🟦 **Fonte classica** (r. 3771-3776, 4449-4450, 5748-5751)
 
 - **Che cosa chiede Lozanov.** Il metodo va usato da docenti formati. La formazione è alla portata di chi insegna: "training is not as difficult as it might appear" e "Each teacher who loves his/her job can be trained" (r. 3771-3776).
-- **Perché esiste la certificazione.** Lozanov la introdusse per distinguere i docenti formati da chi diceva di possedere il "segreto" del metodo (r. 1469-1472).
 - **Che cosa non si impara su carta.** L'intonazione "must be heard and corrected" (r. 4447-4452); le 14 competenze si imparano "only [...] in a practical course" (r. 5753-5773); il passaggio è "from a bicycle to an aeroplane": "not just theoretical information, but a full practical acquisition" (r. 5748-5751).
 - **Manuale e formazione pratica.** Che cosa sta in un manuale scritto e che cosa resta alla formazione pratica condotta dall'autore: **[DA DEFINIRE DALL'AUTORE]**.
 - **Il percorso per docenti.** Competenze e struttura generale sono in `applicazioni/formazione-insegnanti.md` (AF). Ore, moduli, tirocinio, griglia di osservazione e valutazione: **[DA DEFINIRE DALL'AUTORE]**.

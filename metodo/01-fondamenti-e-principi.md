@@ -23,7 +23,7 @@ Le etichette seguono 00 §1: 🟦 Fonte classica, 🟨 Tradizione, 🟩 Evidenza
 | Tango argentino (academy dell'autore) | caminata, abrazo, ochos, giros, molinete, sacadas, cadencia, pausa, musicalità | `applicazioni/tango.md` |
 | Qigong | Liu Zi Jue, sequenza Health Qigong (HQA) | `applicazioni/qigong-liu-zi-jue.md` |
 | Formazione insegnanti | il metodo stesso | `applicazioni/formazione-insegnanti.md` |
-| Corso universitario | fondamenti, laboratori, valutazione | `applicazioni/corso-universitario.md` |
+| Corso universitario | il metodo in un ciclo di quattro incontri, con una sperimentazione | `applicazioni/corso-universitario.md` |
 
 Parametri decisi dall'autore: gruppi fino a 20 persone (10 coppie nel tango); tre formati (lezione settimanale, workshop intensivo, corso universitario); Qigong costruito sul Liu Zi Jue.
 

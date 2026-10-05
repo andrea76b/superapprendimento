@@ -90,7 +90,7 @@ I codici come "T04" o "A.3" sono quelli delle tecniche nelle estrazioni.
 
 ### 3.6 Nota sui riferimenti
 
-I riferimenti vengono dai tre file di verifica. Alcuni sono segnalati lì come citati a memoria o "da ricontrollare": li indico così anche qui. Nel blocco H compaiono alcuni riferimenti noti che non sono nei file di verifica (Wulf 2013, Magill e Hall 1990, Engelkamp 1998, Schmidt e Lee): li segno con **[fuori dai file di verifica, da ricontrollare]**. Prima di pubblicare il manuale, tutti i riferimenti che si decide di citare vanno controllati sull'originale.
+I riferimenti vengono dai tre file di verifica, che dicono quali sono stati controllati sull'originale e quali citati a memoria. Nel blocco H compaiono quattro riferimenti noti che non sono nei file di verifica (Wulf 2013, Magill e Hall 1990, Engelkamp 1998, Schmidt e Lee). Per decisione dell'autore (5 ottobre 2026, `ricerca/decisioni-log.md`, punto 34b) i riferimenti si citano qui e nei file del metodo senza marcatori di verifica; le note dei file di `ricerca/` restano come sono.
 
 ## 4. Una scelta a monte
 
@@ -130,7 +130,7 @@ Le raccomandazioni di questo registro presuppongono che l'autore voglia un metod
 | D-24 | Tre toni fissi contro intonazione oscillante | C / B (variazione) | Rifiutato il tono imperativo (r. 4089-4091); coerente l'oscillazione (r. 2709-2712) | Nessuno rilevante | 3 | DECISO |
 | D-25 | Infinity Walk | D (emisferi, test) / B (esercizio motorio) | Non trattato; tensione come test (r. 2046-2047) | Medio | 3 esercizio; 1 test | DECISO |
 | D-26 | Mappature diagnostiche | D (C: ciclo nasale) | Non trattato; in contrasto (r. 2046-2047, 2417-2419) | Medio | 1 | DECISO |
-| D-27 | Concerto attivo in movimento | C | Non trattato; adattamento (r. 4021-4099, 4073-4074) | Basso | 2 | DECISO |
+| D-27 | Concerto attivo in movimento | C | Non trattato; adattamento (r. 4021-4099, 4073-4074) | Basso | 2 | DECISO; aggiornata il 2026-10-05 (forma A nel ciclo 1, forma C nel ciclo 2, testo solo a voce) |
 | D-28 | Tecnica Alexander | B / D ("energia", immunità) | Non trattato | Nessuno rilevante | 3 | DECISO |
 | D-29 | TPR, teatro e mimo, mappe e palazzo della memoria, odori, istruzione inversa, canzoni | A-B / B / C secondo la tecnica | In parte coerente (r. 4283, 2715-2716), in parte non trattato | Basso (odori) | 3 per quasi tutte; 2 palazzo della memoria; 1 odori | DECISO |
 | D-30 | Neuromiti nel linguaggio del metodo | D | Rifiutato (r. 1504-1507, 2077-2080, 5805) | Nessuno fisico; reputazionale | 3 | DECISO |
@@ -566,7 +566,7 @@ Note dell'autore:
 **Evidenza attuale.** D per il protocollo e per i tempi: nessuno studio pubblicato; la formazione delle abitudini richiede in mediana 66 giorni, con grande variabilità; "desensibilizzazione sistematica" è il nome di un'altra tecnica (esposizione graduale). B per un'osservazione che le fonti fanno bene: un'affermazione positiva può suscitare obiezioni e combatterle le rafforza; le auto-affermazioni migliorano l'umore di chi ha alta autostima e lo peggiorano in chi l'ha bassa. Dati biografici su Altorfer non verificati. Cluster VNF F13, F14; VPS I7.
 - Wood, Perunovic, Lee 2009, *Psychol Sci* 20:860-866.
 - Lally et al. 2010, *Eur J Soc Psychol* 40:998-1009.
-- Ramirez e Beilock 2011, *Science* 331:211-213 (scrivere le proprie preoccupazioni prima di una prova; da ricontrollare).
+- Ramirez e Beilock 2011, *Science* 331:211-213 (scrivere le proprie preoccupazioni prima di una prova).
 
 **Compatibilità Lozanov.** Rifiutato come auto-programmazione: "any programming results from dictation and manipulation [...] On the contrary, we provoke deprogramming" (Lozanov 2005, r. 1400-1406). È coerente, invece, l'idea di non reprimere le obiezioni: le barriere antisuggestive "should not be stimulated" (r. 2842-2845).
 
@@ -652,7 +652,7 @@ Note dell'autore:
 - EEG e QEEG: SL1-C T5 (r. 1290-1306) e DSS T10-T11 (L371-389), QEEG a 24 canali in 3D prima e dopo AVE o Hemi-Sync, con il blu e il viola come aree "inefficienti" o in "ipo-efficienza energetica"; TM T13 e SL1-B T23 (EEG come misura di "sincronizzazione emisferica" nel disegno sperimentale Tango-Mind).
 
 **Evidenza attuale.** B per il dispositivo, che è esistito, e per il biofeedback EMG in ambito clinico (cefalea tensiva). C per il 135%: nessuna pubblicazione. A per l'EEG come strumento di misura, ma un cambiamento nell'EEG non prova un beneficio didattico. D per la lettura dei colori QEEG come "inefficienza": sono una scala convenzionale del software, e la QEEG ha un ruolo clinico riconosciuto solo in ambiti limitati. Cluster VTN F1, F2, A9, A11.
-- Nestoriuc, Rief, Martin 2008, *J Consult Clin Psychol* 76:379-396 (da ricontrollare).
+- Nestoriuc, Rief, Martin 2008, *J Consult Clin Psychol* 76:379-396.
 - Nuwer 1997, *Neurology* 49:277-292.
 - Kane et al. 2017, *Clin Neurophysiol Pract* 2:170-185 (glossario EEG).
 
@@ -698,7 +698,7 @@ Le fonti mettono le due tradizioni fianco a fianco senza distinguerle (nota dell
 **Evidenza attuale.** C/D così formulato. Il cuore non si "aggancia" ai 60 bpm; la musica lenta abbassa un poco respiro e battito rispetto a quella veloce, e una pausa di silenzio li abbassa di più. Come sottofondo durante lo studio la musica ha in media un effetto nullo o lievemente negativo. L'unico studio controllato in classe sul protocollo Superlearning non ha trovato vantaggi né aumento dell'alfa. Lo "studio del 2003" citato dalle fonti non è identificabile. Cluster VNF B1, B2, B8; VPS S5, S6, M6, C8.
 - Kämpfe, Sedlmeier, Renkewitz 2011, *Psychol Music* 39:424-448.
 - Bernardi, Porta, Sleight 2006, *Heart* 92:445-452.
-- Wagner e Tilney 1983, *TESOL Quarterly* 17:5-17 (dettagli da ricontrollare).
+- Wagner e Tilney 1983, *TESOL Quarterly* 17:5-17.
 
 **Compatibilità Lozanov.** Rifiutato. "Isolated 'slow baroque' music" e "slow baroque music" sono tra le cause negate (Lozanov 2005, r. 1446-1448, 1460, 5805). Il concerto passivo canonico usa opere pre-classiche intere (r. 487-488, 4100-4115); le poltrone reclinabili come spiegazione sono "ridiculously primitive" (r. 1453-1455).
 
@@ -737,7 +737,7 @@ Note dell'autore:
 
 **Rischi.** Fisico basso (volume). Rischio principale: costi e false aspettative per le famiglie di bambini con dislessia o autismo, con possibile ritardo di interventi documentati come la logopedia e il trattamento fonologico.
 
-**Nocciolo utile.** Musica brillante e gradita ascoltata prima di un compito migliora per poco umore e attivazione (Thompson, Schellenberg, Husain 2001, *Psychol Sci* 12:248-251). Dire o leggere ad alta voce aiuta a ricordare più della lettura silenziosa, con o senza cuffia (effetto di produzione, MacLeod et al. 2010, da ricontrollare). Il gregoriano resta arte di grande valore.
+**Nocciolo utile.** Musica brillante e gradita ascoltata prima di un compito migliora per poco umore e attivazione (Thompson, Schellenberg, Husain 2001, *Psychol Sci* 12:248-251). Dire o leggere ad alta voce aiuta a ricordare più della lettura silenziosa, con o senza cuffia (effetto di produzione, MacLeod et al. 2010). Il gregoriano resta arte di grande valore.
 
 **Raccomandazione dell'analista.** Opzione 1 per tutte le spiegazioni e per i dispositivi. Le opere di Mozart restano nel metodo per la via canonica: come arte nei concerti.
 
@@ -811,7 +811,7 @@ Note dell'autore:
 
 **Evidenza attuale.** C per i prodotti: nessuno studio controllato rintracciabile su prodotti specifici. B per la musica gradita in generale: riduce stress e ansia e, nell'insonnia, aiuta un poco ad addormentarsi. Nessuna prova su aritmie o allergie. Cluster VTN H1-H5; VPS M8.
 - Jespersen et al. 2022, *Cochrane* CD010459.pub3 (musica e insonnia: piccolo beneficio, qualità moderata).
-- de Witte et al. 2020, *Health Psychol Rev* 14:294-324 (da ricontrollare).
+- de Witte et al. 2020, *Health Psychol Rev* 14:294-324.
 
 **Compatibilità Lozanov.** Rifiutato: "special audio cassettes on sale", "selling tapes" (Lozanov 2005, r. 1433-1435, 5811-5813). Nel canone la musica è arte di tipo classico (r. 2923-2926), non sottofondo funzionale.
 
@@ -840,7 +840,7 @@ Note dell'autore:
 - Promesse: nella pausa le "reti chimiche" del cervello "solidificano" l'informazione; consolidamento a lungo termine; il protocollo è attribuito a Lozanov e Bancroft.
 
 **Evidenza attuale.** D per il protocollo e il meccanismo: viene dal Superlearning (Ostrander e Schroeder 1979), non da Lozanov 2005; l'unico studio controllato in classe non ha trovato vantaggi; in un esperimento moderno parlare in ritmo non ha aiutato, cantare sì; per i 13 minuti non c'è fonte. B per due noccioli: frasi brevi e di senso compiuto dentro un testo intero; nell'apprendimento motorio, brevi pause tra le ripetizioni producono guadagni rapidi. Cluster VPS S1-S3, P10; VNF B9.
-- Wagner e Tilney 1983 (da ricontrollare).
+- Wagner e Tilney 1983.
 - Ludke, Ferreira, Overy 2014, *Mem Cognit* 42:41-52.
 - Bönstrup et al. 2019, *Curr Biol* 29:1346-1351.
 
@@ -961,7 +961,7 @@ Note dell'autore:
 - TLT, ipotesi dell'estrattore: concerto attivo come dimostrazione del maestro sulla musica, con commento vocale modulato.
 
 **Evidenza attuale.** C: nessuno studio sul formato. Indirettamente, brevi pause di attività fisica in classe migliorano un poco il comportamento in compito, con effetti incerti sul rendimento (B). Le componenti aggiunte nel Tango-Mind (cicli di 8 secondi, tre toni) hanno le valutazioni di D-23 e D-24. Cluster VPS C9.
-- Watson et al. 2017, *Int J Behav Nutr Phys Act* 14:114 (da ricontrollare).
+- Watson et al. 2017, *Int J Behav Nutr Phys Act* 14:114.
 
 **Compatibilità Lozanov.** Non trattato: Lozanov non tratta l'apprendimento motorio (modello r. 718). Nel concerto attivo canonico gli allievi hanno testo e traduzione, guardano il testo "and only listen to the music – not to try to memorise", e si alzano ogni tanto per leggere con il docente, 1-3 volte per 1-3 minuti (Lozanov 2005, r. 4021-4099, 4073-4074); attivo e passivo "must never be separated". Il modello canonico propone un adattamento più vicino al canone: il docente esegue o racconta l'intera "storia" della sequenza su un'opera classica intera, gli allievi guardano e ascoltano a occhi aperti con una scheda illustrata come "libretto"; e mette in guardia dal movimento sincronizzato guidato dalla voce su musica lenta (modello r. 761, interpretazione).
 
@@ -975,7 +975,7 @@ Note dell'autore:
 
 **Decisione dell'autore**
 
-Stato: DECISO (2026-10-04): Nel metodo: concerto dimostrato (forma A) e concerto come nelle fonti (forma C); conteggio misto melodia/numeri a ruoli alternati
+Stato: DECISO (2026-10-04): Nel metodo: concerto dimostrato (forma A) e concerto come nelle fonti (forma C); conteggio misto melodia/numeri a ruoli alternati. Decisioni del 2026-10-05 (`ricerca/decisioni-log.md`, punti aperti della revisione, n. 8, 9 e 19): forma A nel ciclo 1 e forma C sincrona, come nelle fonti, nel ciclo 2; ogni movimento dell'opera corrisponde a un gruppo di figure; il testo del concerto è solo a voce, senza libretto
 
 Note dell'autore:
 
@@ -1206,7 +1206,7 @@ Opzioni: **Approvata / Approvata con modifiche / Respinta / Da discutere**.
 
 **Evidenza.** A. Il distanziamento migliora il ricordo a lungo termine, e l'intervallo ottimale cresce con il tempo per cui si vuole ricordare; il richiamo consolida più della rilettura; vale anche per il lessico straniero. Nel motorio il principio è affine (pratica distribuita), con prove meno uniformi.
 - Cepeda et al. 2006, *Psychol Bull* 132:354-380.
-- Roediger e Karpicke 2006, *Psychol Sci* 17:249-255 (da ricontrollare).
+- Roediger e Karpicke 2006, *Psychol Sci* 17:249-255.
 - Adesope, Trevisan, Sundararajan 2017, *Rev Educ Res* 87:659-701.
 
 **Compatibilità con il canone.** In parte coerente: il ciclo canonico distribuisce già il materiale, con l'elaborazione primaria e secondaria nei giorni successivi e le canzoni che ritornano (Lozanov 2005, r. 4248-4369); Lozanov descrive una "legge del ricordo spontaneo ritardato" (r. 3209-3213); la performance degli allievi è richiamo (r. 4463-4468); i test sono "facili e stimolanti" (r. 4453-4459).
@@ -1235,9 +1235,9 @@ Note dell'autore:
 **Che cos'è.** Indicazioni che orientano l'attenzione sull'effetto del movimento (il pavimento, il partner, lo spazio) invece che sulle parti del corpo.
 
 **Evidenza.** A-B. Le meta-analisi trovano un vantaggio del focus esterno su prestazione e apprendimento motorio; gli effetti variano con il compito e il livello.
-- Chua et al. 2021, *Psychol Bull* 147:618-645 (da ricontrollare).
+- Chua et al. 2021, *Psychol Bull* 147:618-645.
 - Wulf e Lewthwaite 2016, *Psychon Bull Rev* 23:1382-1414.
-- Wulf 2013, *Int Rev Sport Exerc Psychol* 6:77-104 [fuori dai file di verifica, da ricontrollare].
+- Wulf 2013, *Int Rev Sport Exerc Psychol* 6:77-104.
 
 **Compatibilità con il canone.** Non trattato. Coerente con il principio dei dettagli "on a second plane": il docente richiama un dettaglio "only for a short time and then goes back quickly to the sense" (Lozanov 2005, r. 3129-3138). Tensione con le fonti: la procedura Alexander (D-28) e molte indicazioni tradizionali di tango e Qigong sono a focus interno.
 
@@ -1262,10 +1262,10 @@ Note dell'autore:
 **Che cos'è.** Variare le condizioni e l'ordine della pratica (musica, partner, spazio, combinazioni) e alternare elementi simili invece di ripeterli a blocchi.
 
 **Evidenza.** B. La pratica variata peggiora un po' la prestazione immediata ma migliora ritenzione e trasferimento; l'alternanza aiuta a distinguere elementi simili, con effetti che dipendono dal materiale e dal livello. Con i principianti assoluti un primo blocco ripetuto può servire.
-- Shea e Morgan 1979, *J Exp Psychol Hum Learn Mem* 5:179-187 (da ricontrollare).
-- Magill e Hall 1990, *Hum Mov Sci* 9:241-289 [fuori dai file di verifica, da ricontrollare].
-- Schmidt e Lee, *Motor Control and Learning*, Human Kinetics, varie edizioni [fuori dai file di verifica, da ricontrollare l'edizione].
-- Per l'alternanza: Brunmair e Richter 2019, *Psychol Bull* 145:1029-1052 (da ricontrollare).
+- Shea e Morgan 1979, *J Exp Psychol Hum Learn Mem* 5:179-187.
+- Magill e Hall 1990, *Hum Mov Sci* 9:241-289.
+- Schmidt e Lee, *Motor Control and Learning*, Human Kinetics, varie edizioni.
+- Per l'alternanza: Brunmair e Richter 2019, *Psychol Bull* 145:1029-1052.
 
 **Compatibilità con il canone.** Coerente. Lozanov rifiuta la "gerarchia delle abitudini", cioè costruire abitudini elementari da smontare a ogni livello (Lozanov 2005, r. 3124-3127, 3860-3872), e chiede un'elaborazione "very dynamic and very often changing the tasks" (r. 4315-4369).
 
@@ -1397,7 +1397,7 @@ Note dell'autore:
 **Evidenza.** A per la memoria di azioni (meta-analisi, g ≈ 1,23 negli studi comportamentali); B per il lessico straniero con gesti. Alcuni effetti più astratti di "cognizione incarnata" non si sono replicati.
 - Roberts, MacLeod, Fernandes 2022, *Psychol Bull* 148:397-434.
 - Macedonia e Knösche 2011, *Mind Brain Educ* 5:196-211.
-- Engelkamp 1998, *Memory for Actions*, Psychology Press [fuori dai file di verifica, da ricontrollare].
+- Engelkamp 1998, *Memory for Actions*, Psychology Press.
 
 **Compatibilità con il canone.** Coerente: i dettagli lessicali e grammaticali sono "acted out through games and songs (and even through easy dances)" (Lozanov 2005, r. 4283); gioco-progetto e voci da attori (r. 4265-4313).
 
@@ -1424,7 +1424,7 @@ Note dell'autore:
 **Evidenza.** B. Le melodie aiutano il ricordo parola per parola; cantare frasi in lingua straniera le fa ricordare meglio che dirle, anche in ritmo; parlare da soli davanti agli altri è una delle fonti principali d'ansia nelle lingue, e il coro riduce l'esposizione; il canto di gruppo favorisce un legame sociale rapido.
 - Ludke, Ferreira, Overy 2014, *Mem Cognit* 42:41-52.
 - Wallace 1994, *J Exp Psychol Learn Mem Cogn* 20:1471-1485.
-- Pearce, Launay, Dunbar 2015, *R Soc Open Sci* 2:150221 (da ricontrollare).
+- Pearce, Launay, Dunbar 2015, *R Soc Open Sci* 2:150221.
 
 **Compatibilità con il canone.** Coerente, è già canonico. La lezione finisce con una canzone e la successiva comincia con la stessa; ogni elaborazione si apre e si chiude con una canzone; il corso si apre e si chiude con "one of the best songs in the language of study" (Lozanov 2005, r. 2715-2716, 4321, 4469-4470). Il primo dialogo si legge per lo più in coro (r. 4265-4313). Il docente scalda la voce cantando prima della lezione (r. 3114-3115). Canti e giochi fanno parte del quinto fattore indispensabile (r. 5853).
 
@@ -1451,7 +1451,7 @@ Note dell'autore:
 **Che cos'è.** Misurare gli effetti del corso invece di presumerli: test di conoscenze e abilità prima, dopo e a distanza; misure d'ansia validate; un gruppo di confronto.
 
 **Evidenza.** A per gli strumenti. Lo STAI (forma Y) è uno strumento standard con versione italiana, protetto da diritti: serve una licenza d'uso. Senza un confronto, i risultati restano esposti ad aspettative, novità, selezione dei partecipanti e valutazioni non cieche. Le fonti contengono già un disegno a due gruppi (TM T13; SL1-B T23) con l'EEG tra le misure; ma l'EEG misura cambiamenti, non un beneficio didattico, e non è una buona misura di risultato (VTN A9).
-- Spielberger 1983, *Manual for the State-Trait Anxiety Inventory (Form Y)* (da ricontrollare).
+- Spielberger 1983, *Manual for the State-Trait Anxiety Inventory (Form Y)*.
 - McCambridge, Witton, Elbourne 2014, *J Clin Epidemiol* 67:267-277 (effetto Hawthorne).
 - Felix 1991 (per le valutazioni storiche della Suggestopedia).
 

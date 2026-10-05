@@ -92,11 +92,11 @@ Il corso usa il metodo che insegna (D-33).
 - **Un ciclo in quattro incontri** (log, punto 33). Incontro 1: introduzione e concerti. Incontri 2 e 3: elaborazione primaria e secondaria. Incontro 4: performance e verifica. Di norma gli incontri sono a una settimana l'uno dall'altro, come nel ciclo settimanale (log, punto 2). Lo schema è quello delle lezioni di AT §12 e AQ §11.
 - **Una disciplina per edizione:** tango oppure Liu Zi Jue (log, punto 33). La tabella di §6 dà le due versioni.
 - **Teoria dentro gli incontri.** Non c'è una parte d'aula separata. Nell'incontro 1 la teoria entra in forma globale, cinque minuti dentro l'introduzione. Negli incontri 2, 3 e 4 un blocco di 20 minuti riprende ciò che il gruppo ha appena vissuto e lo collega al canone e alla ricerca.
-- **Il concerto.** Forma A, il concerto dimostrato (S-04), su un'opera della sessione 1 del programma: il docente sceglie la più breve, la Sinfonia n. 40 K 550 (log, punti 3, 9 e 10). Il "testo" del concerto è solo a voce: il docente nomina figure e immagini mentre esegue (log, punto 8). Segue il concerto passivo (S-03) con un'opera della stessa sessione.
+- **Il concerto.** Forma A, il concerto dimostrato (S-04), su un'opera della sessione 1 del programma: il docente sceglie la più breve, la Sinfonia n. 40 K 550 (log, punti 3, 9 e 10). Il "testo" del concerto è solo a voce: il docente nomina figure e immagini mentre esegue (log, punto 8). Il corso non ha un gioco-progetto: il docente dice i nomi e le immagini d'effetto, non la storia del film del tango né i riferimenti alla giornata aperta del Liu Zi Jue (AT §6.2, AQ §8.2). Segue il concerto passivo (S-03) con un'opera della stessa sessione.
 - **La canzone del corso.** Il corso è un ciclo solo e ha una canzone, scelta dal docente: un tango cantato o i sei suoni cantati (S-33; log, punto 12). Apre e chiude ogni incontro. Nessuno canta da solo (INT-09).
 - **Niente gioco-progetto** (log, punto 26), nessuna domanda individuale obbligata (r. 3971, 4007-4008), verifiche facili e stimolanti (S-11).
 - **Niente pratiche di stato delle fonti.** Il corso è il gruppo sperimentale della ricerca (§7), e il protocollo non le comprende (log, punto 33). Rispetto alle lezioni di AT e AQ mancano il rilassamento prima del concerto passivo, le respirazioni e l'ancoraggio prima della performance, il ripasso con Image Streaming o con la visualizzazione e la prova mentale a fine elaborazione.
-- **Dichiarazione iniziale.** Il corso non è una terapia e non promette effetti sulla salute (SIC-05). Chiunque può non fare un'attività, senza spiegare (r. 782-783, 3965-3966).
+- **Dichiarazione iniziale.** Il corso non è una terapia e non promette effetti sulla salute (SIC-05). Chiunque può non fare un'attività, senza spiegare (SIC-03; r. 782-783, 3965-3966).
 - **Contatto e correzione.** Nel tango l'abrazo si fa solo con il consenso di tutti e due; i ruoli sono liberi dal genere; il cambio di coppia è proposto, mai obbligato; con un numero dispari ruota chi lavora sulla tecnica individuale, oppure balla l'assistente (SIC-04; log, punto 30). La correzione è indiretta; quella diretta vale solo per gli errori pericolosi (S-59, SIC-06). Chi non può fare attività fisica segue gli incontri come osservatore.
 
 ---
@@ -107,17 +107,17 @@ Le colonne "Tango" e "Liu Zi Jue" danno la versione per ciascuna disciplina; ogn
 
 ### 6.1 Incontro 1: introduzione e concerti (90 min)
 
-Lo schema è quello della lezione 1 del metodo: canzoni 10 minuti, introduzione 30, pausa 7, concerti 43 (log, punto 3).
+Lo schema è quello della lezione 1 del metodo: canzoni 10 minuti, introduzione 30, pausa 7, concerti 43 (log, punto 3). Prima dell'incontro, fuori dai 90 minuti: consenso informato (SIC-02) e misure iniziali (T0, §7.3).
 
 | Min | Fase | Attività e strumenti | Tango | Liu Zi Jue |
 |---|---|---|---|---|
 | 0-5 | — | Canzone del corso: il docente canta, il gruppo ascolta (S-33) | un tango cantato scelto dal docente | i sei suoni cantati (AQ §9) |
-| 5-7 | 1 | Dichiarazione: non è una terapia; chiunque può non fare un'attività senza spiegare (SIC-05) | abrazo solo con consenso; partner, ruolo e distanza si scelgono (SIC-04) | occhi aperti quando si vuole |
+| 5-7 | 1 | Dichiarazione: non è una terapia; chiunque può non fare un'attività senza spiegare (SIC-05, SIC-03) | abrazo solo con consenso; partner, ruolo e distanza si scelgono (SIC-04) | occhi aperti quando si vuole |
 | 7-12 | 1 | Teoria in forma globale: il corso è un ciclo; le quattro fasi che il gruppo vivrà; le etichette a colori (S-01; 00 §1) | | |
 | 12-35 | 1 | Presentazione globale del materiale e giochi senza consegne tecniche (S-01, S-18, S-19) | docente e assistente ballano la sequenza due volte, su D'Arienzo e su Di Sarli, nominando le figure (8 min); ronda e gioco del cabeceo (15 min) (AT §12.1) | il docente esegue la sequenza HQA completa con la musica ufficiale (15 min); gioco del suono senza voce (8 min) (AQ §11.1) |
 | 35-42 | — | Pausa | | |
 | 42-68 | 2 | Concerto dimostrato (forma A) su Mozart, Sinfonia n. 40 K 550: un gruppo di figure per movimento; tratto di conteggio misto (S-04, S-30, S-32) | AT §6.3 | AQ §8.3 |
-| 68-85 | 2 | Immagine di natura (1 min); concerto passivo su Bach, Fantasia BWV 572, con un tratto della BWV 562 (S-03) | il docente racconta di nuovo la scena, a voce | il docente racconta di nuovo sezioni, suoni e storia della sequenza |
+| 68-85 | 2 | Immagine di natura (1 min); concerto passivo su Bach, Fantasia BWV 572, con un tratto della BWV 562 (S-03) | il docente ripete a voce nomi e immagini delle figure | il docente racconta di nuovo sezioni, suoni e storia della sequenza |
 | 85-90 | — | Canzone di chiusura (S-33) | | |
 
 Rispetto alla lezione 1 di AT e AQ manca il rilassamento breve prima del concerto passivo (§5): i suoi tre minuti passano al concerto passivo.
@@ -146,7 +146,7 @@ Rispetto alla lezione 1 di AT e AQ manca il rilassamento breve prima del concert
 | 28-40 | 3 | Variazioni di musica, direzione, velocità (S-44) | D'Arienzo, Pugliese, Fresedo | da fermi e in cammino |
 | 40-46 | — | Pausa | | |
 | 46-66 | 3 | Teoria: predictive coding e metastabilità come ipotesi teorica; che cosa la cornice dice all'insegnante e che cosa non autorizza; sicurezza percepita (01 §3; S-48); le integrazioni dalla ricerca: distanziamento e richiamo, effetto di esecuzione, canto, focus esterno, pratica variata, imagery, routine, vestibolo, pause (03b §C) | | |
-| 66-80 | 3 | Preparazione delle presentazioni per l'incontro 4 (S-21) | scene di 30 secondi, a coppie | la presentazione di un suono, per piccolo gruppo |
+| 66-80 | 3 | Preparazione delle presentazioni per l'incontro 4 (S-21) | presentazioni di 30 secondi, a coppie | la presentazione di un suono, per piccolo gruppo |
 | 80-86 | 3 | Ballo o pratica libera; pausa tranquilla (S-44, S-52) | una tanda libera | una parte della sequenza con la traccia HQA |
 | 86-90 | 3 | Canzone di chiusura | | |
 
@@ -157,11 +157,11 @@ Rispetto alla lezione 1 di AT e AQ manca il rilassamento breve prima del concert
 | 0-4 | 4 | Canzone del corso | | |
 | 4-10 | 4 | Riscaldamento: routine (S-46) | | |
 | 10-20 | 4 | Verifica-gioco di gruppo, senza voti individuali (S-11; log, punto 7) | tutte le coppie insieme su una tanda di Di Sarli | apertura e primi tre suoni in coro, senza il docente |
-| 20-36 | 4 | Presentazioni preparate, volontarie; nessun commento tecnico (S-07, S-21) | le scene di 30 secondi | le presentazioni dei suoni |
+| 20-36 | 4 | Presentazioni preparate, volontarie; nessun commento tecnico (S-07, S-21) | le presentazioni di 30 secondi, a coppie | le presentazioni dei suoni |
 | 36-42 | — | Pausa | | |
 | 42-62 | 4 | Teoria: etichette e neuromiti (onde alfa, emisferi, "4%", "supermemoria", alte frequenze), il riquadro "Cosa dicono le fonti", il Tango-Mind come caso (§3; D-30); storia essenziale, senza critiche (01 §6; §10); come si legge un disegno con gruppo parallelo (§7) | | |
 | 62-82 | 4 | Produzione libera e festa (S-07) | una milonga breve | la sequenza intera con la traccia HQA, senza il docente davanti; pratica libera |
-| 82-86 | 4 | Scala breve anonima di fatica e gradimento (S-51, S-14) | | |
+| 82-86 | 4 | Scala breve anonima di fatica e gradimento (S-51, S-14); le misure finali (T1, §7.3) si raccolgono dopo l'incontro, fuori dai 90 minuti | | |
 | 86-90 | 4 | Canzone di chiusura | | |
 
 ---
@@ -234,7 +234,7 @@ Riferimenti: SIC-02 Consenso informato; INT-10; 06 §5 Privacy e ricerca univers
 6. **Equità tra i gruppi.** Entrambi ricevono un insegnamento di qualità; dopo T2 il gruppo parallelo riceve un workshop del metodo.
 7. **Pratiche delle fonti.** Il protocollo del gruppo sperimentale non comprende le pratiche di stato delle fonti: il confronto riguarda il ciclo canonico con le integrazioni dalla ricerca (log, punto 33).
 8. **Contatto.** Nel tango, abrazo solo con consenso, ruoli liberi dal genere, cambio di coppia proposto e mai obbligato; con un numero dispari ruota chi lavora sulla tecnica individuale, oppure balla l'assistente (SIC-04; log, punto 30).
-9. **Non è una terapia.** Nessuna promessa di effetti sulla salute o sul trauma (SIC-05). Chiunque può non fare un'attività, senza spiegare (r. 782-783, 3965-3966).
+9. **Non è una terapia.** Nessuna promessa di effetti sulla salute o sul trauma (SIC-05). Chiunque può non fare un'attività, senza spiegare (SIC-03; r. 782-783, 3965-3966).
 10. **Minori.** Lo studio non coinvolge minori.
 11. **Licenze.** Lo STAI-Y si usa solo con licenza (S-51).
 

@@ -369,7 +369,7 @@ Le procedure non sono strumenti didattici: si descrivono in 06 §2 e le schede l
 | AT | `applicazioni/tango.md` | ciclo, esempi e lezioni per il tango | nessuna |
 | AQ | `applicazioni/qigong-liu-zi-jue.md` | ciclo, esempi e lezioni per il Liu Zi Jue | nessuna |
 | AF | `applicazioni/formazione-insegnanti.md` | percorso per docenti | nessuna |
-| AU | `applicazioni/corso-universitario.md` | syllabus, laboratori, valutazione | nessuna |
+| AU | `applicazioni/corso-universitario.md` | un ciclo in quattro incontri da 90 minuti; correzione del Tango-Mind; sperimentazione con un gruppo parallelo; etica; storia | nessuna |
 
 ### 4.1 Sezioni dei file
 
@@ -380,7 +380,7 @@ Le sezioni indicate qui sono quelle citate nella colonna "File" della sezione 3.
 - **03a.** §A Gioco, ruolo e ambiente (S-15–S-21) · §B Stato (S-22–S-26) · §C Sonno e subliminale (rimando a 07) · §D Voce e canto (S-30–S-34) · §E Comunicazione (S-57–S-60; raccordo sul prestigio)
 - **03b.** §A Corpo (S-35–S-38) · §B Memoria (S-39–S-41) · §C Integrazioni dalla ricerca (S-42–S-52)
 - **04.** §1 Criteri · §2 Programma dei concerti (cap. 31) · §3 Musica delle discipline e canzoni (tango, Liu Zi Jue) · §4 Strumenti musicali delle fonti (S-53–S-56) · §5 Rimandi al modulo sperimentale (S-69–S-72)
-- **05.** §1 Condizioni (prestigio, aspettativa, amore) · §2 Posizione comunicativa · §3 Voce e corpo del docente · §4 Correzione · §5 Il gruppo fino a 20 · §6 Che cosa il docente non fa · §7 Le 14 competenze · §8 Formazione e certificazione
+- **05.** §1 Condizioni (prestigio, aspettativa, amore) · §2 Posizione comunicativa · §3 Voce e corpo del docente · §4 Correzione · §5 Il gruppo fino a 20 · §6 Che cosa il docente non fa · §7 Le 14 competenze · §8 Formazione
 - **06.** §1 Principi (il docente non è un terapeuta; sicurezza percepita, S-48) · §2 Procedure (SIC-01–SIC-06) · §3 Precauzioni per strumento · §4 Segnali d'allarme · §5 Privacy e ricerca universitaria
 - **07.** §1 Regole del modulo · §2 Salute e clinica (S-61–S-63) · §3 Stato e suggestione (S-64–S-68; sonno e subliminale, S-27–S-29) · §4 Musica (S-69–S-72) · §5 Formato e diagnosi (S-73–S-76) · §6 Fuori dal metodo
 - **AT, AQ** (struttura indicativa). §1 Parametri e sala · §2 Gioco-progetto · §3 Il ciclo applicato · §4 Lezione settimanale · §5 Workshop intensivo · §6 Indice degli esempi per strumento. AQ apre con la sequenza Health Qigong del Liu Zi Jue e la distinzione tra respiro come contenuto e come mezzo.
@@ -483,13 +483,13 @@ Ogni scheda di `DECISIONI.md` ha il campo "Precauzioni obbligatorie se l'autore 
 
 ## 6. Punti lasciati all'autore
 
-Il 5 ottobre 2026 l'autore ha deciso i 34 punti aperti della revisione (`metodo/REVISIONE.md` §10). Le risposte sono in `ricerca/decisioni-log.md`, sezione "Punti aperti della revisione". Resta da definire, a cura dell'autore, la formazione insegnanti: ore, moduli, tirocinio, griglia e valutazione **[DA DEFINIRE DALL'AUTORE]** (AF; 05 §8).
+Il 5 ottobre 2026 l'autore ha deciso i 34 punti aperti della revisione (`metodo/REVISIONE.md` §10). Le risposte sono in `ricerca/decisioni-log.md`, sezione "Punti aperti della revisione". Resta da definire, a cura dell'autore, la formazione insegnanti: ore, moduli, tirocinio, griglia e valutazione **[DA DEFINIRE DALL'AUTORE]** (AF; 05 §8). Portano ancora il marcatore "Proposta, da confermare con l'autore" le domande aperte di §6.1 (6, 9, 12, 14) e tre proposte dei redattori su temi non sottoposti all'autore: S-43 passo 3 (una breve indicazione sul corpo), 05 §5.4 (nuovi arrivati e assenze), 07 S-71 (procedura del concerto sulla musica della disciplina).
 
 ### 6.1 Domande aperte (`DECISIONI.md` §7)
 
 | N. | Tema | Stato | Come lo trattano i file |
 |---|---|---|---|
-| 1 | Nome e certificazione | Deciso: "Superapprendimento, metodo fondato sulla Desuggestopedia di G. Lozanov"; autore certificato | 01 §1; 05 §8 |
+| 1 | Nome e certificazione | Deciso: "Superapprendimento, metodo fondato sulla Desuggestopedia di G. Lozanov"; l'autore è docente certificato nella linea Lozanov (parametro dell'autore). Nessun passaggio sui titoli e sulla loro verifica nei testi (decisione del 5 ottobre 2026) | 01 §1 |
 | 2 | Numero di allievi | Deciso: fino a 20 persone (10 coppie nel tango) | 02 §4; 05 §5; AT, AQ |
 | 3 | Calendario giorno per giorno | Deciso: ciclo di quattro settimane, lezioni da 90 minuti anche la prima, elaborazione a una settimana dal concerto; workshop di 2 giorni; corso universitario di 4 incontri da 90 minuti | 02 §4; applicazioni |
 | 4 | Corsi adattivi | Deciso: milonga-ponte tra un ciclo e l'altro (tango); pratica di gruppo all'aperto senza docente (Liu Zi Jue) | S-13 |

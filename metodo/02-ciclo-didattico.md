@@ -562,7 +562,7 @@ Nell'ultimo ciclo del corso la lezione 4 si chiude con la festa finale: la produ
 
 ### 4.3 Workshop intensivo (2 giorni)
 
-Il workshop dura 2 giorni (decisione dell'autore) e comprime il ciclo canonico: introduzione e concerti il primo giorno, elaborazione e performance il secondo. Rispetta meglio del corso settimanale il ritmo canonico, con l'elaborazione il giorno dopo il concerto. Giornate di circa 6 ore di attività, con pause e alternanza dei tempi (S-10).
+Il workshop dura 2 giorni (decisione dell'autore) e comprime il ciclo canonico: introduzione e concerti il primo giorno, elaborazione e performance il secondo. Rispetta meglio del corso settimanale il ritmo canonico, con l'elaborazione il giorno dopo il concerto. Giornate dalle 9:30 alle 17 circa, con le pause, il pranzo e l'alternanza dei tempi (S-10).
 
 **Giorno 1: introduzione e concerti**
 
@@ -610,15 +610,17 @@ Il workshop dura 2 giorni (decisione dell'autore) e comprime il ciclo canonico: 
 
 Il corso universitario è un ciclo completo in 4 incontri da 90 minuti, 6 ore in tutto, con teoria e pratica insieme (decisione dell'autore). La teoria sta dentro gli incontri, accanto alla pratica. Ogni edizione lavora su una sola disciplina. I crediti formativi li stabilisce l'ateneo. Il programma completo è in `applicazioni/corso-universitario.md` (AU).
 
-| Incontro | Fase | Contenuto | Strumenti |
+| Quando | Fase | Contenuto | Strumenti |
 |---|---|---|---|
-| 1 | Introduzione e concerti | presentazione del corso; consenso informato per la raccolta dei dati (SIC-02); misure iniziali; introduzione e concerti | S-01–S-05, S-51 |
-| 2 | Elaborazione primaria | elaborazione del materiale, con la teoria degli strumenti che si usano | S-06, S-42–S-52 |
-| 3 | Elaborazione secondaria | elaborazione e preparazione della performance | S-06, S-21, S-41 |
-| 4 | Performance | performance breve e volontaria; verifica-gioco; misure finali | S-07, S-11, S-51 |
+| prima dell'incontro 1 | — | consenso informato per la raccolta dei dati (SIC-02) e misure iniziali, in una breve sessione a parte | S-51 |
+| incontro 1 | Introduzione e concerti | la teoria in forma globale dentro l'introduzione; introduzione; concerto dimostrato (forma A) e concerto passivo | S-01, S-04, S-03, S-32 |
+| incontro 2 | Elaborazione primaria | elaborazione; un blocco di teoria sugli strumenti appena vissuti | S-06, S-42–S-52 |
+| incontro 3 | Elaborazione secondaria | elaborazione; teoria; preparazione della performance | S-06, S-21, S-41 |
+| incontro 4 | Performance | verifica-gioco; performance breve e volontaria; teoria su etichette e storia | S-07, S-11 |
+| dopo l'incontro 4 | — | misure finali, in una breve sessione a parte | S-51 |
 | dopo 4-8 settimane | — | misura di ritenzione differita | S-51 |
 
-**La sperimentazione** (decisione dell'autore). Un gruppo parallelo riceve un insegnamento tradizionale dello stesso contenuto. I due gruppi fanno le stesse misure, prima e dopo il corso: una scala d'ansia (STAI) e un video motorio valutato alla cieca; poi una misura di ritenzione differita (S-51). Il protocollo sperimentale non include le pratiche di stato delle fonti (§1.1). La storia del metodo si presenta senza critiche (D-32). Privacy e parere del comitato etico: 06 §5.
+**La sperimentazione** (decisione dell'autore). Un gruppo parallelo riceve un insegnamento tradizionale dello stesso contenuto. I due gruppi fanno le stesse misure, prima e dopo il corso: una scala d'ansia (STAI) e un video motorio valutato alla cieca; poi una misura di ritenzione differita (S-51). Le misure si raccolgono in brevi sessioni a parte, fuori dai 90 minuti degli incontri, così lo schema della lezione resta quello del metodo (AU §7.3). Il protocollo sperimentale non include le pratiche di stato delle fonti elencate in §1.1: respirazioni, rilassamento, visualizzazioni, Image Streaming, ancoraggi, prova mentale. La storia del metodo si presenta senza critiche (D-32). Privacy e parere del comitato etico: 06 §5.
 
 ---
 
