@@ -105,8 +105,7 @@ Tutto ciò che le fonti contengono resta documentato in `ricerca/`, anche ciò c
 | `metodo/00`-`07` | completo; aggiornato con le decisioni dell'autore sui punti aperti e ricontrollato in una seconda revisione il 5 ottobre 2026 (`metodo/REVISIONE.md`) |
 | `applicazioni/` | tango, Liu Zi Jue e corso universitario completi, aggiornati con le decisioni del 5 ottobre 2026 e ricontrollati nella seconda revisione; formazione insegnanti con competenze e struttura generale |
 
-Il 5 ottobre 2026 l'autore ha deciso i 34 punti aperti della revisione (`ricerca/decisioni-log.md`, sezione "Punti aperti della revisione"). Di questi resta aperta solo la formazione insegnanti: ore, moduli, tirocinio, griglia di osservazione e valutazione, divisione tra manuale e formazione pratica (`applicazioni/formazione-insegnanti.md` §9). Alcune domande di `DECISIONI.md` §7 che non erano tra i 34 punti, come il secondo livello e la quantità di materiale per ciclo, restano senza decisione: l'elenco è in `metodo/00-convenzioni.md` §6.1. I diritti d'uso della traccia HQA li segue l'autore.
-
+Il 5 ottobre 2026 l'autore ha deciso i 34 punti aperti della revisione (`ricerca/decisioni-log.md`, sezione "Punti aperti della revisione"). Di questi resta aperta solo la formazione insegnanti: ore, moduli, tirocinio, griglia di osservazione e valutazione, divisione tra manuale e formazione pratica (`applicazioni/formazione-insegnanti.md` §9). Alcune domande di `DECISIONI.md` §7 che non erano tra i 34 punti, come il secondo livello e la quantità di materiale per ciclo, restano senza decisione: l'elenco è in `metodo/00-convenzioni.md` §6.1.
 ## Avvertenze
 
 - Il metodo non è una terapia. Il docente non fa diagnosi, non fa trattamenti e non promette effetti sulla salute.
