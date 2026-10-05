@@ -1,6 +1,6 @@
 # Il docente
 
-**In breve.** Per Lozanov il metodo sta nel docente più che nelle tecniche. Questo file descrive che cosa il docente deve essere e fare: avere prestigio reale, aspettarsi davvero che gli allievi riescano, volergli bene senza sentimentalismi; parlare proponendo e non comandando; usare voce e corpo come strumenti; correggere senza esporre; gestire un gruppo fino a 20; sapere che cosa non deve fare. Chiude con le 14 competenze che Lozanov dice imparabili solo in un corso pratico e con la questione della formazione e della certificazione. Serve al docente per guardare se stesso, non gli allievi.
+**In breve.** Per Lozanov il metodo sta nel docente più che nelle tecniche. Questo file descrive che cosa il docente deve essere e fare: avere prestigio reale, aspettarsi davvero che gli allievi riescano, volergli bene senza sentimentalismi; parlare proponendo e non comandando; usare voce e corpo come strumenti; correggere senza esporre; gestire un gruppo fino a 20; sapere che cosa non deve fare. Chiude con le 14 competenze che Lozanov dice imparabili solo in un corso pratico e con la formazione dei docenti. Serve al docente per guardare se stesso, non gli allievi.
 
 Nel metodo il docente non è un esecutore di tecniche: per Lozanov "Without training it is not possible to work" (Lozanov 2005, r. 4449-4450) e le tecniche "are not decisive by themselves" (r. 284-285). Questo file non contiene schede: gli strumenti di comunicazione hanno la scheda in 03a (S-30, S-31, S-57–S-60). Etichette: 00 §1.
 
@@ -142,12 +142,12 @@ Il libro di Lozanov non fissa un numero di allievi (modello §5.10); l'autore ha
 
 ### 5.2 Ruoli, coppie, contatto (tango)
 
-Il canone non parla di contatto fisico; la regola trasferibile è quella delle barriere antisuggestive: libertà di scelta, nessuna insistenza (r. 2802-2845; modello §9.6). Con INT-07 l'autore ha deciso libertà di scelta e nessun cambio imposto. Le regole complete sul contatto sono una domanda in parte aperta (00 §6.1, punto 13).
+Il canone non parla di contatto fisico; la regola trasferibile è quella delle barriere antisuggestive: libertà di scelta, nessuna insistenza (r. 2802-2845; modello §9.6). Le regole del metodo sono decisioni dell'autore (INT-07; decisioni del 5 ottobre 2026).
 
-1. **Consenso al contatto** e un modo semplice per dire di no, senza spiegazioni (SIC-04).
-2. **Scelta del partner** con il cabeceo o liberamente; nessuna rotazione obbligatoria.
-3. **Scambio dei ruoli** libero: chi vuole prova a guidare o a seguire. Il modello legge guida e seguito come varianti della "personalità multipla", cioè dei diversi stati che la stessa persona attraversa, corpo compreso (r. 2409-2432); resta un'estensione.
-4. **Numero dispari o ruoli sbilanciati:** il docente o l'assistente completano le coppie; chi resta senza partner fa il lavoro da solo previsto per quell'esercizio (caminata, otto a terra, ochos con la mano su una sedia). **Proposta, da confermare con l'autore.**
+1. **Abrazo solo con consenso**, e un modo semplice per dire di no, senza spiegazioni (SIC-04).
+2. **Scelta del partner** con il cabeceo o liberamente. Il cambio di coppia si propone, non si impone mai.
+3. **Ruoli liberi da genere:** chiunque può guidare o seguire, e lo scambio dei ruoli è libero. Il modello legge guida e seguito come varianti della "personalità multipla", cioè dei diversi stati che la stessa persona attraversa, corpo compreso (r. 2409-2432); resta un'estensione.
+4. **Numero dispari o ruoli sbilanciati:** ruota chi lavora sulla tecnica individuale prevista per quell'esercizio (caminata, otto a terra, ochos con la mano su una sedia), oppure balla l'assistente.
 5. **Distanza dell'abrazo** scelta dalla coppia (aperto, chiuso); l'abrazo molto inclinato in avanti si introduce con gradualità e non si propone a chi ha problemi alla schiena (VPS 7.8).
 6. **Regole contro le molestie** dichiarate all'inizio del corso (VPS 7.8).
 
@@ -155,7 +155,7 @@ Il canone non parla di contatto fisico; la regola trasferibile è quella delle b
 
 - **Tango.** Una ronda antioraria di 10 coppie, con spazio sufficiente a evitare collisioni anche nel doppio compito (S-35, S-05); sedie ai bordi come in milonga; il docente si sposta nella ronda invece di stare fisso davanti.
 - **Liu Zi Jue.** File sfalsate o semicerchio, in modo che tutti vedano il docente nelle forme con rotazioni (Xu) e nelle forme frontali; distanza di almeno due braccia tra le persone per i movimenti laterali.
-- **Concerti.** Allievi seduti o in piedi a bordo sala, con la vista libera sul docente (S-04); posti lontani dalle casse per chi lo chiede (SIC-07).
+- **Concerti.** Allievi seduti o in piedi a bordo sala, con la vista libera sul docente (S-04); posti lontani dalle casse per chi lo chiede.
 
 ### 5.4 Quando il gruppo cambia
 
@@ -180,11 +180,11 @@ Il canone:
 Il metodo aggiunge, dalle decisioni dell'autore e dalle precauzioni:
 - non diagnostica, non tratta, non promette effetti sulla salute o sul trauma (SIC-05; D-31);
 - non consiglia integratori, farmaci o dispositivi: integratori ed elettrostimolazione stanno nel modulo sperimentale con rinvio al medico (S-61, S-62);
-- non interpreta psicologicamente le scelte dei personaggi (D-16) né i sintomi fisici (S-29);
+- non interpreta psicologicamente le scelte dei personaggi (D-16) né i sintomi fisici (S-29, 07);
 - non usa il rispecchiamento nascosto (r. 1826-1828);
 - non propone le pratiche del modulo sperimentale dentro la lezione (07 §1).
 
-**Una tensione dichiarata.** Per decisione dell'autore il docente conduce anche alcune pratiche che il canone esclude: respirazioni con apnea, rilassamento progressivo, visualizzazioni guidate, Image Streaming, ancoraggi, audio notturni, subliminali, concerto in movimento (S-22–S-29, S-05). Le conduce come nelle fonti, con le etichette 🟥 Non canonico, le precauzioni delle schede e il controllo dei segnali d'induzione (S-60).
+**Una tensione dichiarata.** Per decisione dell'autore il docente conduce anche alcune pratiche che il canone esclude: respirazioni con apnea, rilassamento progressivo, visualizzazioni guidate, Image Streaming, ancoraggi, concerto in movimento (S-22–S-26, S-05). Le conduce come nelle fonti, nel punto del ciclo deciso dall'autore (02 §1.1), con le etichette 🟥 Non canonico, le precauzioni delle schede e il controllo dei segnali d'induzione (S-60). Audio notturni e subliminali (S-27–S-29) stanno nel modulo sperimentale.
 
 ---
 
@@ -201,7 +201,7 @@ Lozanov elenca 14 competenze che si imparano "only [...] in a practical course" 
 | 5 | Variare l'intonazione nel concerto | S-02, S-04, S-30 |
 | 6 | Applicare in ogni momento il principio globale dinamico, dal tutto alla parte e viceversa | S-08 |
 | 7 | Usare le percezioni periferiche | S-19 |
-| 8 | Preparare materiale illustrativo che sia anche stimolante | S-19, S-20, libretto (S-02) |
+| 8 | Preparare materiale illustrativo che sia anche stimolante | S-19, S-20 |
 | 9 | Pianificare la conoscenza attiva e quella passiva | S-09 |
 | 10 | Riconoscere il placebo e usarlo o evitarlo | §1.2; 01 §5 |
 | 11 | Riconoscere l'induzione di uno stato ipnotico "and how not to allow its occurrence" | S-60 |
@@ -211,16 +211,16 @@ Lozanov elenca 14 competenze che si imparano "only [...] in a practical course" 
 
 Altre competenze citate nel libro: omogeneizzare il gruppo (r. 617-619; §5.1); trovare e far prevalere lo stato mentale adatto e trasferire il sapere tra stati diversi (r. 2662-2667, 4018-4020); gestire i corsi adattivi (r. 2468-2469; S-13); conoscere i meccanismi dell'ipnosi per non indurla (r. 1795-1798; S-60).
 
-Competenze che il metodo aggiunge per i corsi corporei: progettare la sicurezza percepita (S-48); applicare le procedure di sicurezza (SIC-01–SIC-07); usare le integrazioni dalla ricerca (S-42–S-52); condurre le pratiche delle fonti con le loro precauzioni.
+Competenze che il metodo aggiunge per i corsi corporei: progettare la sicurezza percepita (S-48); applicare le procedure di sicurezza (SIC-01–SIC-06); usare le integrazioni dalla ricerca (S-42–S-52); condurre le pratiche delle fonti con le loro precauzioni.
 
 ---
 
 ## 8. Formazione e certificazione
 
-🟦 **Fonte classica** (r. 77-83, 1469-1472, 3771-3776, 4449-4450, 5748-5751)
+🟦 **Fonte classica** (r. 1469-1472, 3771-3776, 4449-4450, 5748-5751)
 
-- **Che cosa chiede Lozanov.** Il metodo "should be used only by trained teachers, who have been granted a certified diploma by the author or by his licensed trainers"; "training is not as difficult as it might appear" e "Each teacher who loves his/her job can be trained" (r. 3771-3776). Il libro avverte di non provare i metodi descritti "without consulting a trainer certified by Dr. G. Lozanov" (r. 77-83).
+- **Che cosa chiede Lozanov.** Il metodo va usato da docenti formati. La formazione è alla portata di chi insegna: "training is not as difficult as it might appear" e "Each teacher who loves his/her job can be trained" (r. 3771-3776).
 - **Perché esiste la certificazione.** Lozanov la introdusse per distinguere i docenti formati da chi diceva di possedere il "segreto" del metodo (r. 1469-1472).
 - **Che cosa non si impara su carta.** L'intonazione "must be heard and corrected" (r. 4447-4452); le 14 competenze si imparano "only [...] in a practical course" (r. 5753-5773); il passaggio è "from a bicycle to an aeroplane": "not just theoretical information, but a full practical acquisition" (r. 5748-5751).
-- **L'autore** del metodo è docente certificato nella linea Lozanov (decisione dell'autore, 00 §6.1, punto 1). Lozanov è morto nel 2012: chi abbia oggi titolo a certificare come "licensed trainer" va verificato prima di usare l'etichetta "Suggestopedia" per un percorso (modello r. 576) **[da verificare]**.
-- **Manuale e formazione pratica.** Che cosa possa stare in un manuale scritto e che cosa resti alla formazione pratica condotta dall'autore è una domanda aperta (00 §6.1, punto 17). La traccia del percorso per docenti è in `applicazioni/formazione-insegnanti.md` (AF). **Proposta, da confermare con l'autore:** nel manuale stanno le schede, le procedure di sicurezza, le scalette e le etichette; nella formazione pratica stanno l'intonazione, la conduzione dei concerti, il sistema della risata e delle canzoni, la correzione indiretta nel corpo, la conduzione delle pratiche delle fonti con il controllo dei segnali d'induzione.
+- **Manuale e formazione pratica.** Che cosa sta in un manuale scritto e che cosa resta alla formazione pratica condotta dall'autore: **[DA DEFINIRE DALL'AUTORE]**.
+- **Il percorso per docenti.** Competenze e struttura generale sono in `applicazioni/formazione-insegnanti.md` (AF). Ore, moduli, tirocinio, griglia di osservazione e valutazione: **[DA DEFINIRE DALL'AUTORE]**.

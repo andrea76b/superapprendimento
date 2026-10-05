@@ -1,15 +1,15 @@
 # Catalogo degli strumenti, parte 1: gioco, stato, suggestione, voce, comunicazione
 
-**In breve.** Questo file contiene le schede degli strumenti che riguardano il clima della lezione e la voce del docente: il gioco-progetto e i personaggi (§A), le pratiche di stato prese dalle fonti (§B), le pratiche notturne e subliminali (§C), la voce e il canto (§D), il modo di comunicare del docente (§E). Ogni scheda ha lo stesso schema: etichette, scopo, procedura con i tempi, un esempio di tango e uno di Liu Zi Jue, la spiegazione corretta, il riquadro con ciò che dicono le fonti, le precauzioni. Serve al docente per preparare una singola attività e per sapere, prima di proporla, da dove viene e che cosa ne sappiamo. In classe si leggono agli allievi solo "Scopo", "Procedura" ed "Esempio"; etichette, righe e riferimenti servono al docente e a chi controlla.
+**In breve.** Questo file contiene le schede degli strumenti che riguardano il clima della lezione e la voce del docente: il gioco-progetto e i personaggi (§A), le pratiche di stato prese dalle fonti (§B), la voce e il canto (§D), il modo di comunicare del docente (§E). Le pratiche notturne e subliminali sono passate nel modulo sperimentale: §C ne dà solo il rimando. Ogni scheda ha lo stesso schema: etichette, scopo, procedura con i tempi, un esempio di tango e uno di Liu Zi Jue, la spiegazione corretta, il riquadro con ciò che dicono le fonti, le precauzioni. Serve al docente per preparare una singola attività e per sapere, prima di proporla, da dove viene e che cosa ne sappiamo. In classe si leggono agli allievi solo "Scopo", "Procedura" ed "Esempio"; etichette, righe e riferimenti servono al docente e a chi controlla.
 
-Schede degli strumenti S-15–S-34 e S-57–S-60. Schema della scheda ed etichette: 00 §1-§2. Fasi del ciclo: 02 §1. Procedure di sicurezza (SIC): 06 §2. Le righe "r. NNNN" sono di Lozanov 2005.
+Schede degli strumenti S-15–S-26, S-30–S-34 e S-57–S-60; le schede S-27–S-29 sono in 07. Schema della scheda ed etichette: 00 §1-§2. Fasi del ciclo: 02 §1. Procedure di sicurezza (SIC): 06 §2. Le righe "r. NNNN" sono di Lozanov 2005.
 
-Per le pratiche tenute "come nelle fonti" (§B e §C) la procedura è quella delle estrazioni in `ricerca/estrazioni/`, con sigla e righe; la spiegazione corretta sta nel testo, quella delle fonti nel riquadro (D-30). Dove una precauzione di `DECISIONI.md` cambierebbe la procedura scelta dall'autore, la precauzione è segnata **[da chiarire con l'autore]** (00 §6.2).
+Per le pratiche tenute "come nelle fonti" (§B) la procedura è quella delle estrazioni in `ricerca/estrazioni/`, con sigla e righe; la spiegazione corretta sta nel testo, quella delle fonti nel riquadro (D-30). Dove una precauzione di `DECISIONI.md` cambierebbe la procedura scelta dall'autore, vale la decisione dell'autore del 5 ottobre 2026 (00 §6.2).
 
 **Indice**
 - §A Gioco, ruolo e ambiente: S-15 Gioco-progetto · S-16 Nuove identità · S-17 Sistema della risata · S-18 Giochi didattici · S-19 Percezioni periferiche · S-20 Estetica totale · S-21 Teatro e mimo
 - §B Stato: S-22 Respirazioni con apnea · S-23 Rilassamento progressivo e Scan and Relax · S-24 Visualizzazioni guidate · S-25 Image Streaming · S-26 Ancoraggi emotivi
-- §C Sonno e subliminale: S-27 Audio notturni · S-28 Messaggi subliminali · S-29 Dial Direct 1-800-SUB
+- §C Sonno e subliminale: rimando al modulo sperimentale (S-27, S-28, S-29 in 07)
 - §D Voce e canto: S-30 Intonazione oscillante · S-31 Tre toni fissi · S-32 Conteggio a ruoli alternati · S-33 Sistema delle canzoni · S-34 Filastrocche e canzoni mnemoniche
 - §E Comunicazione: S-57 Doppio piano · S-58 Comunicazione non direttiva · S-59 Correzione indiretta · S-60 Prevenzione dell'induzione ipnotica · Prestigio e credibilità (raccordo con 05)
 
@@ -32,9 +32,11 @@ Origine: canone · Decisione: Canone · Fase del ciclo: introduzione, elaborazio
 4. Nei momenti difficili il docente ricorda, con leggerezza, che sono attori del progetto (r. 755-759) (pochi secondi).
 5. La performance chiude il progetto o la scena (S-07).
 
-**Esempio tango.** "Giriamo un film su un club di barrio a Buenos Aires negli anni Quaranta." Scene per cicli: l'arrivo al club e il cabeceo (caminata, abrazo); il primo ballo di Rosa (ochos, cadencia, pausa); la sera della gara di vals (giros, molinete); la milonga finale (sacadas, musicalità con D'Arienzo, Di Sarli, Pugliese). Quando il gruppo lavora sul molinete, la ragione è "nella scena della gara le coppie girano intorno alla colonna del salone".
+**Esempio tango.** "Una noche en el club": "giriamo un film su un club di barrio a Buenos Aires negli anni Quaranta". Ognuno ha la carta d'identità del suo personaggio (S-16). Scene per cicli: l'arrivo al club e il cabeceo (caminata, abrazo); il primo ballo di Rosa (ochos, cadencia, pausa); la sera della gara di vals (giros, molinete); la milonga finale (sacadas, musicalità con D'Arienzo, Di Sarli, Pugliese). Quando il gruppo lavora sul molinete, la ragione è "nella scena della gara le coppie girano intorno alla colonna del salone".
 
-**Esempio Liu Zi Jue.** Nel Qigong il film in costume rischia il folklore (modello r. 765); funziona meglio un progetto neutro. "Prepariamo una dimostrazione di dieci minuti per la giornata aperta della scuola": il ciclo 1 prepara apertura, Xu, He e Hu; il ciclo 2 Si, Chui, Xi e chiusura; la performance è la dimostrazione. Il gioco-progetto per ciascun contesto è una domanda aperta (00 §6.1, punto 15): **Proposta, da confermare con l'autore.**
+**Esempio Liu Zi Jue.** Nel Qigong il film in costume rischia il folklore (modello r. 765); funziona meglio un progetto neutro. "Prepariamo una dimostrazione di dieci minuti per la giornata aperta della scuola": il ciclo 1 prepara apertura, Xu, He e Hu; il ciclo 2 Si, Chui, Xi e chiusura; la performance è la dimostrazione.
+
+**I giochi-progetto del metodo** (decisione dell'autore). Nel tango "Una noche en el club", con le carte d'identità dei personaggi; nel Liu Zi Jue "La giornata aperta". Nella formazione insegnanti e nel corso universitario non c'è un gioco-progetto.
 
 **Spiegazione.** Nel canone il gioco-progetto è un sistema trasversale che attraversa tutte le fasi (modello §4.5). Le prove sono indirette: la pedagogia teatrale ha effetti positivi in meta-analisi, con disegni deboli (Lee et al. 2015, *Rev Educ Res* 85:3-49; VPS C1).
 
@@ -95,7 +97,7 @@ Origine: canone · Decisione: Canone · Fase del ciclo: tutte · Sicurezza: SIC-
 
 🟦 **Fonte classica** per la procedura (r. 2846-2848, 4283) · 🟩 **Evidenza parziale** (VNF F8)
 
-Origine: canone · Decisione: Canone · Fase del ciclo: introduzione, elaborazione · Sicurezza: SIC-03, SIC-07
+Origine: canone · Decisione: Canone · Fase del ciclo: introduzione, elaborazione · Sicurezza: SIC-03
 
 **Scopo.** Lavorare il materiale giocando: "The whole learning process is a strange, pleasant, double plan game. Play the games! Enjoy the games!" (r. 2846-2848). I dettagli sono "acted out through games and songs (and even through easy dances)" (r. 4283).
 
@@ -112,7 +114,7 @@ Origine: canone · Decisione: Canone · Fase del ciclo: introduzione, elaborazio
 
 **Spiegazione.** Il gioco unisce emozione positiva, novità e richiamo del materiale, che aiutano il consolidamento (VNF F8). Nel canone i giochi fanno parte del quinto fattore indispensabile (r. 5852-5854).
 
-**Precauzioni.** Nessuna eliminazione; nei giochi di movimento spazio libero e velocità controllata (SIC-07).
+**Precauzioni.** Nessuna eliminazione; nei giochi di movimento spazio libero e velocità controllata.
 
 **Collegamenti.** S-17, S-15, S-57, S-42.
 
@@ -120,7 +122,7 @@ Origine: canone · Decisione: Canone · Fase del ciclo: introduzione, elaborazio
 
 🟦 **Fonte classica** per il sistema (r. 2232-2264, 3099-3110) · 🟩 **Evidenza parziale** per l'osservazione di modelli (VPS §8) · 🟥 **Speculativo** (non verificato) per l'assimilazione periferica (VNF F3)
 
-Origine: canone · Decisione: Canone · Fase del ciclo: tutte · Sicurezza: SIC-07
+Origine: canone · Decisione: Canone · Fase del ciclo: tutte
 
 **Scopo.** Organizzare gli stimoli che stanno ai margini dell'attenzione (poster, musica, coppie che ballano, il docente che pratica in un angolo): stimoli normali, sopra soglia, che l'allievo è libero di guardare o ignorare (r. 2232-2264).
 
@@ -141,21 +143,21 @@ Origine: canone · Decisione: Canone · Fase del ciclo: tutte · Sicurezza: SIC-
 >
 > Le fonti affermano che i poster non spiegati vengono "assorbiti passivamente" e che il materiale proiettato nella periferia, "sotto la soglia dell'attenzione", viene assimilato dal paraconscio e depositato direttamente nella memoria a lungo termine (TLT R:L42; DSS L836-842, L979-988).
 
-**Precauzioni.** Niente sovraccarico visivo. Niente luci soffuse in sala di ballo: aumentano il rischio d'inciampo (TLT, rischio S9; SIC-07).
+**Precauzioni.** Niente sovraccarico visivo. Niente luci soffuse in sala di ballo: aumentano il rischio d'inciampo (TLT, rischio S9).
 
-**Collegamenti.** S-20, S-09, S-39, S-28 (il contrario: il subliminale).
+**Collegamenti.** S-20, S-09, S-39, S-28 (07; il contrario: il subliminale).
 
 ### S-20 Estetica totale della sala e dei materiali
 
 🟦 **Fonte classica** per il principio (r. 3104-3110, 3924-3928) · 🟥 **Speculativo** (non verificato) per l'effetto
 
-Origine: canone · Decisione: Canone · Fase del ciclo: tutte · Sicurezza: SIC-07
+Origine: canone · Decisione: Canone · Fase del ciclo: tutte
 
 **Scopo.** Curare la bellezza di sala, materiali, musica e gesto dall'inizio alla fine: "the high level of aesthetics from the first till the last moment of the course is a permanent methodological requirement" (r. 2131-2132).
 
 **Procedura.**
 1. Prima del corso: sala pulita, ordinata, non sovraccarica, "not full of unnecessary trinkets and gadgets" (r. 3104-3110) (preparazione).
-2. Materiali curati: libretto illustrato, poster, esecuzioni musicali di qualità (VPS R-M4) (preparazione).
+2. Materiali curati: poster, esecuzioni musicali di qualità (VPS R-M4) (preparazione).
 3. Il docente cura il proprio stato e il proprio gesto: "animated, inspiring, calm and enjoying the work" (r. 3112-3113) (continuo).
 4. Una piccola cura per ogni lezione: luce naturale, un'immagine nuova, la musica d'ingresso scelta (1-2 min).
 
@@ -177,7 +179,7 @@ Origine: fonti · Decisione: D-29, nel metodo · Fase del ciclo: elaborazione, p
 
 **Scopo.** Mettere in scena concetti, ruoli e regole: chi mima o recita un contenuto lo elabora e lo ricorda meglio.
 
-**Procedura.** La fonte riporta due esperienze senza dare passi o tempi (SL1-A T26, r. 202-211): Peter Ginn fa mimare la sintassi degli algoritmi con finti giocolieri, omofonie, cartelloni e ruoli da show televisivo; A. Galceran prepara un'attrice in 2 ore di "esperienze teatrali barocche sensoriali". **Proposta, da confermare con l'autore**, per l'uso nel gioco-progetto:
+**Procedura.** La fonte riporta due esperienze senza dare passi o tempi (SL1-A T26, r. 202-211): Peter Ginn fa mimare la sintassi degli algoritmi con finti giocolieri, omofonie, cartelloni e ruoli da show televisivo; A. Galceran prepara un'attrice in 2 ore di "esperienze teatrali barocche sensoriali". Procedura nel metodo, per l'uso nel gioco-progetto, **da validare in aula** (decisione dell'autore):
 1. Il docente sceglie un concetto, una regola o una figura e lo trasforma in una scena breve con ruoli (preparazione).
 2. Piccoli gruppi di 3-4 persone preparano la scena, mimata o parlata (8-10 min).
 3. Le scene si mostrano, volontariamente, senza giudizio (2 min ciascuna).
@@ -208,20 +210,20 @@ Origine: fonti · Decisione: D-29, nel metodo · Fase del ciclo: elaborazione, p
 
 ## §B Stato
 
-Le pratiche di questa sezione servono a cambiare lo stato di chi le fa (più calmo, più presente), non a imparare un contenuto. Vengono dalle fonti del Superlearning, e Lozanov le esclude come mezzo: per lui la calma deve nascere dall'organizzazione della lezione, non da un esercizio (01 §5). L'autore le ha volute nel metodo "come nelle fonti", cioè con la procedura originale. Per questo ogni scheda ha due parti ben distinte: la procedura, copiata dalle fonti, e la spiegazione, che è quella corretta secondo la ricerca di oggi; le promesse delle fonti stanno nel riquadro. Si propongono nella fase di preparazione (02 §1.1), una per volta, come offerta. Il docente le annuncia sempre per quello che sono: pratiche del metodo, non di Lozanov e non della disciplina.
+Le pratiche di questa sezione servono a cambiare lo stato di chi le fa (più calmo, più presente), non a imparare un contenuto. Vengono dalle fonti del Superlearning, e Lozanov le esclude come mezzo: per lui la calma deve nascere dall'organizzazione della lezione, non da un esercizio (01 §5). L'autore le ha volute nel metodo "come nelle fonti", cioè con la procedura originale. Per questo ogni scheda ha due parti ben distinte: la procedura, copiata dalle fonti, e la spiegazione, che è quella corretta secondo la ricerca di oggi; le promesse delle fonti stanno nel riquadro. Non hanno una fase a parte: ognuna sta nel punto del ciclo in cui serve (02 §1.1), una per volta, come offerta. Il docente le annuncia sempre per quello che sono: pratiche del metodo, non di Lozanov e non della disciplina.
 
 ### S-22 Respirazioni con apnea
 
 🟨 **Tradizione** per la procedura (SL1-A T04-T07; MAN A.3; SL1-B T3; TM T3; TLT R-T1) · 🟩 **Evidenza parziale** per il respiro lento senza apnee (VNF E2) · 🟥 **Speculativo** (contraddetto) per l'ossigeno al cervello (VNF E1) · 🟥 **Non canonico** (r. 1407-1416, 5802-5803)
 
-Origine: fonti · Decisione: D-05, nel metodo come nelle fonti, con screening delle controindicazioni obbligatorio · Fase del ciclo: preparazione · Sicurezza: SIC-01 (obbligatorio), SIC-03
+Origine: fonti · Decisione: D-05, nel metodo come nelle fonti, con screening delle controindicazioni obbligatorio · Fase del ciclo: performance, prima di mostrare (02 §1.1) · Sicurezza: SIC-01 (obbligatorio), SIC-03
 
-**Scopo.** Entrare nella lezione con una respirazione ritmata e strutturata, secondo le sequenze delle fonti.
+**Scopo.** Prepararsi alla performance con una respirazione ritmata e strutturata, secondo le sequenze delle fonti.
 
-**Procedura** (come nelle fonti). Solo per chi ha superato lo screening (SIC-01).
+**Procedura** (come nelle fonti). Solo per chi ha superato lo screening (SIC-01). Ognuno sceglie se stare in piedi o seduto (decisione dell'autore).
 
 *A. Respirazione addominale 8-4-8-4* (SL1-A T04, r. 44-47; MAN A.3):
-1. In piedi, gambe leggermente divaricate.
+1. In piedi con le gambe leggermente divaricate, come nella fonte, oppure seduti.
 2. Inspirare dal naso gonfiando l'addome per 8 tempi molto lenti.
 3. Trattenere per 4.
 4. Espirare appiattendo la pancia per 8.
@@ -245,13 +247,13 @@ Origine: fonti · Decisione: D-05, nel metodo come nelle fonti, con screening de
 2. Ripetere alcuni cicli, poi estendere a 6 e a 8 tempi per fase (2-4 min).
 3. In MAN il ritmo si mantiene durante l'ascolto o la visualizzazione dei dati da studiare.
 
-*E. Ciclo 2/4/2 con la parola nella ritenzione* (TLT R-T1, R:L20-21): la fonte lo presenta come fase iniziale del metodo di Lozanov, poi abbandonata; la parola da memorizzare si pronuncia durante la ritenzione. **[da chiarire con l'autore]**: la precauzione di D-05 vieta la parola durante la ritenzione, e il canone smentisce la notizia storica (r. 1414-1416).
+*E. Ciclo 2/4/2 con la parola nella ritenzione* (TLT R-T1, R:L20-21): la fonte lo presenta come fase iniziale del metodo di Lozanov, poi abbandonata; la parola da memorizzare si pronuncia durante la ritenzione. Il canone smentisce la notizia storica (r. 1414-1416).
 
 Componenti con decisione diversa: il ciclo di 12 secondi legato alla lettura (SL1-A T15) è S-73, nel modulo sperimentale; i battiti binaurali che MAN abbina alla respirazione sono S-65 (07); il metronomo a 60 BPM e il Largo dell'Inverno sono S-69 (07).
 
-**Esempio tango.** Prima della prima tanda, a bordo pista, chi ha superato lo screening esegue la 4-4-4-4 per tre cicli, poi torna a respirare in modo naturale e va in abrazo; gli altri fanno la routine personale (S-46). Il docente non conta ad alta voce in modo monotono: dà il primo ciclo e lascia proseguire.
+**Esempio tango.** Nella lezione 4, prima della performance, a bordo pista, chi ha superato lo screening esegue la 4-4-4-4 per tre cicli, in piedi o seduto; poi torna a respirare in modo naturale e va in abrazo per mostrare la sua scena. Gli altri fanno la routine personale (S-46). Il docente non conta ad alta voce in modo monotono: dà il primo ciclo e lascia proseguire.
 
-**Esempio Liu Zi Jue.** Il Respiro dell'Aquila si propone come esercizio delle fonti, separato e prima della sequenza. Poi il docente dichiara il passaggio: "ora la preparazione del Liu Zi Jue, con il respiro naturale". Così il gruppo distingue la pratica delle fonti dal respiro del Liu Zi Jue, che è contenuto della disciplina (01 §2.10).
+**Esempio Liu Zi Jue.** Prima della performance della giornata aperta, il Respiro dell'Aquila si propone come esercizio delle fonti, separato dalla sequenza. Poi il docente dichiara il passaggio: "ora la preparazione del Liu Zi Jue, con il respiro naturale". Così il gruppo distingue la pratica delle fonti dal respiro del Liu Zi Jue, che è contenuto della disciplina e segue le stesse regole delle pratiche di stato (01 §2.10; 02 §1.1).
 
 **Spiegazione.** In una persona sana il sangue arterioso è già saturo al 97-99%: nessun modo di respirare aumenta l'ossigeno al cervello; le apnee lo riducono leggermente e l'iperventilazione riduce il flusso cerebrale (Zaccaro et al. 2018, *Front Hum Neurosci* 12:353; VNF E1). Il respiro lento, intorno a 6 atti al minuto, aumenta la variabilità cardiaca e riduce un poco l'attivazione (Lehrer e Gevirtz 2014, *Front Psychol* 5:756; VNF E2). Nota tecnica: 4-4-4-4 corrisponde a 3,75 atti al minuto e 8-4-8-4 a 2,5, più lenti del necessario e con possibile "fame d'aria". Pratiche brevi di respirazione migliorano umore e attivazione; il sospiro ciclico un po' meglio della respirazione quadrata (Balban et al. 2023, *Cell Rep Med* 4:100895). Lozanov: "We have never experimented with 'breathing exercise' [...] because these could principally lead to hypnosis" (r. 1407-1416); la didascalia ironizza su chi credeva a "a breathing rhythm, which enhanced memory" (r. 1414-1416).
 
@@ -259,13 +261,7 @@ Componenti con decisione diversa: il ciclo di 12 secondi legato alla lettura (SL
 >
 > Le fonti presentano queste respirazioni come un modo per "massimizzare l'apporto di ossigeno al cervello", rallentare il battito "di circa 5 battiti al minuto", "sincronizzare i due emisferi" e passare dalle onde beta alle alfa (MAN A.3, r. 30-34; SL1-B T3, r. 715-716; TM T3, T:L180-182). Una fonte afferma che il ciclo 2/4/2 era la fase iniziale del metodo di Lozanov e che "studi clinici" lo fecero eliminare perché distraeva (TLT R-T1, R:L20-21).
 
-**Precauzioni.**
-- **Screening obbligatorio (SIC-01).** Non partecipano alle ritenzioni: persone con disturbo di panico o ansia elevata; malattie cardiovascolari o ipertensione non controllata; asma o BPCO; gravidanza; epilessia (l'iperventilazione può provocare crisi in alcune forme).
-- Interruzione al primo capogiro; esonero libero senza spiegazioni (SIC-03); nessuna promessa su ossigeno o emisferi.
-- Niente apnee forzate né conteggi rigidi **[da chiarire con l'autore]**; respiro lento e confortevole, da seduti o con un appoggio **[da chiarire con l'autore]**: le sequenze A e B sono in piedi nelle fonti. Con l'apnea a vuoto in piedi e in gruppo (Aquila) è possibile uno svenimento (SL1-A, rischio R23).
-- Esercizio Sì/No: l'apnea a glottide chiusa con spinta del collo produce un effetto Valsalva; attenzione anche a chi ha problemi cervicali.
-- Mai la parola da memorizzare durante una ritenzione **[da chiarire con l'autore]**.
-- Il docente controlla i segnali d'induzione: lo "sleep-like breathing" è tra le tecniche che Lozanov elenca (r. 1824-1849; S-60).
+**Precauzioni.** L'unica precauzione è lo **screening obbligatorio** (SIC-01), per autoesclusione (decisione dell'autore). Non partecipano alle ritenzioni: persone con disturbo di panico o ansia elevata; malattie cardiovascolari o ipertensione non controllata; asma o BPCO; gravidanza; epilessia (l'iperventilazione può provocare crisi in alcune forme).
 
 **Collegamenti.** S-46, S-60, S-73 (07), S-65 (07).
 
@@ -273,11 +269,11 @@ Componenti con decisione diversa: il ciclo di 12 secondi legato alla lettura (SL
 
 🟨 **Tradizione** per la procedura (SL1-A T01-T02; MAN A.1; SL1-C sez. 2.4) · 🟩 **Evidenza parziale** per la riduzione dell'ansia (VNF E3) · 🟥 **Non canonico** (r. 1427-1428, 1626-1632)
 
-Origine: fonti · Decisione: D-08, nel metodo come nelle fonti · Fase del ciclo: preparazione · Sicurezza: SIC-01 (gruppi a rischio), SIC-03
+Origine: fonti · Decisione: D-08, nel metodo come nelle fonti · Fase del ciclo: concerto, subito prima del concerto passivo (02 §1.1) · Sicurezza: SIC-01 (gruppi a rischio), SIC-03
 
-**Scopo.** Ridurre le tensioni muscolari prima della pratica, secondo le procedure delle fonti.
+**Scopo.** Ridurre le tensioni muscolari prima del concerto passivo, secondo le procedure delle fonti.
 
-**Procedura** (come nelle fonti).
+**Procedura** (come nelle fonti). Nel ciclo la pratica dura 2-3 minuti, subito prima del concerto passivo (02 §1.1): il tempo basta per lo Scan and Relax (B).
 
 *A. Onda di rilassamento progressiva* (SL1-A T01, r. 26-30; MAN A.1, r. 18-22):
 1. Sedersi o sdraiarsi comodamente (MAN: seduti con la colonna eretta, oppure sdraiati) (30 s).
@@ -292,9 +288,9 @@ Origine: fonti · Decisione: D-08, nel metodo come nelle fonti · Fase del ciclo
 
 Componenti con decisione diversa: in MAN il rilassamento prepara l'uso degli occhiali AVE (fuori dal metodo, D-02); la musica barocca lenta a 60 BPM è S-69 (07).
 
-**Esempio tango.** Scan and Relax in piedi, prima dell'abrazo, con l'attenzione su spalle, collo, braccia e mani, le zone che si irrigidiscono nell'abbraccio (2 min). Poi le coppie entrano in abrazo e camminano una frase musicale su Di Sarli, notando la differenza.
+**Esempio tango.** Nella lezione 1, dopo il concerto dimostrato, Scan and Relax seduti al proprio posto, con l'attenzione su spalle, collo, braccia e mani, le zone che si irrigidiscono nell'abbraccio (2-3 min). Poi parte Bach e comincia il concerto passivo.
 
-**Esempio Liu Zi Jue.** Scan and Relax in piedi prima della postura di preparazione (2 min). Il docente dichiara che è una pratica delle fonti, distinta dal song (rilassamento attivo) del Qigong, che è contenuto della disciplina e si insegna dentro la forma (00 §7.3).
+**Esempio Liu Zi Jue.** Nella lezione 1, dopo il concerto dimostrato, Scan and Relax in piedi o seduti (2-3 min); poi il concerto passivo. Il docente dichiara che è una pratica delle fonti, distinta dal song (rilassamento attivo) del Qigong, che è contenuto della disciplina e si insegna dentro la forma (00 §7.3).
 
 **Spiegazione.** Il rilassamento muscolare progressivo riduce l'ansia con effetto moderato e, in alcuni studi, il cortisolo salivare (Manzoni et al. 2008, *BMC Psychiatry* 8:41; Pawlow e Jones 2002, *Biol Psychol* 60:1-16; VNF E3). Meno ansia significa più memoria di lavoro disponibile (VNF E6). Una quota non trascurabile di persone ansiose prova ansia paradossale durante il rilassamento (Heide e Borkovec 1983, *J Consult Clin Psychol* 51:171-182). Per Lozanov il rilassamento guidato è "one of the methods to induce hypnosis" (r. 1427-1428); "we have never conducted guided relaxation where the teacher dictates the trainees' sensations" (r. 2043-2047); "relaxation in its own right cannot produce hypermnesia" (r. 2093).
 
@@ -304,33 +300,31 @@ Componenti con decisione diversa: in MAN il rilassamento prepara l'uso degli occ
 
 **Precauzioni.**
 - Gruppi a rischio (SIC-01): persone con disturbi d'ansia (ansia paradossale); con storia di trauma (dissociazione e intrusioni, soprattutto a occhi chiusi con una voce che guida); con depressione grave o disturbi psicotici; con problemi cervicali o vertigini.
-- Occhi aperti sempre possibili; libertà di interrompere e uscire; nessuna promessa su cortisolo o onde alfa.
-- In piedi o seduti, non sdraiati in una sala di ballo **[da chiarire con l'autore]**: le fonti ammettono la posizione sdraiata.
-- Nessuna sensazione dettata ("senti il calore") **[da chiarire con l'autore]**: la fonte prevede l'"onda calda".
-- Niente rotazioni complete del collo, solo mobilizzazioni dolci **[da chiarire con l'autore]**: SL1-A le prevede.
+- Occhi aperti sempre possibili; chiunque può non partecipare o smettere senza spiegare (SIC-03); nessuna promessa su cortisolo o onde alfa.
+- La procedura resta quella delle fonti, con l'"onda calda", le rotazioni del collo e la posizione sdraiata (decisione dell'autore).
 
-**Collegamenti.** S-36, S-60, S-64 (07).
+**Collegamenti.** S-03, S-36, S-60, S-64 (07).
 
 ### S-24 Visualizzazioni guidate (discesa cromatica, viaggio calmante)
 
 🟨 **Tradizione** per la procedura (SL1-A T08; MAN A.4; DSS T23-bis) · 🟥 **Speculativo** (contraddetto) (VNF E5) · 🟥 **Non canonico** (r. 1407-1416, 1440-1441)
 
-Origine: fonti · Decisione: D-10, nel metodo come nelle fonti · Fase del ciclo: preparazione · Sicurezza: SIC-01 (gruppi a rischio), SIC-02, SIC-03
+Origine: fonti · Decisione: D-10, nel metodo come nelle fonti · Fase del ciclo: elaborazione, come ripasso (02 §1.1); solo nel tango · Sicurezza: SIC-01 (gruppi a rischio), SIC-02, SIC-03
 
 **Scopo.** Condurre il gruppo in una discesa immaginaria per livelli di colore fino a un ambiente naturale, secondo la procedura delle fonti.
 
-**Procedura** (come nelle fonti; SL1-A T08, r. 57-63; MAN A.4, r. 36-40).
+**Procedura** (come nelle fonti; SL1-A T08, r. 57-63; MAN A.4, r. 36-40). Conduce il docente, in gruppo, come nelle fonti (decisione dell'autore).
 1. Occhi chiusi. Immaginarsi al 7° piano di un edificio, in una stanza rosso intenso (30 s).
 2. Scendere con una scala mobile o un ascensore "magico", dicendo il conteggio "7" (30 s).
 3. A ogni piano compare un colore: 6° arancione, 5° giallo, 4° verde brillante, 3° blu chiaro, 2° indaco, 1° blu profondo o ultravioletto; MAN chiede di "vedere e sentire" il cambio di colore (2-3 min).
 4. Al piano terra entrare in un ambiente naturale (spiaggia solitaria, foresta alpina, venti marini o montani) e restarci 3-5 minuti, aggiungendo sensazioni tattili, olfattive e uditive (MAN) (3-5 min).
 5. Rientro (vedi precauzioni) (1 min).
 
-Componenti con decisione diversa: gli occhiali Ganzfeld con LED colorati (MAN) sono fuori dal metodo (D-02); la musica di Paul Horn o di Hoffman è S-72 (07); nella lezione modello delle fonti la discesa accompagna il concerto passivo (MAN fase 4): nel metodo il concerto passivo resta canonico (S-03) e la visualizzazione sta solo nella preparazione.
+Componenti con decisione diversa: gli occhiali Ganzfeld con LED colorati (MAN) sono fuori dal metodo (D-02); la musica di Paul Horn o di Hoffman è S-72 (07); nella lezione modello delle fonti la discesa accompagna il concerto passivo (MAN fase 4): nel metodo il concerto passivo resta canonico (S-03) e la visualizzazione sta nelle elaborazioni, come ripasso.
 
-**Esempio tango.** Seduti a bordo pista, all'inizio della lezione 3 del ciclo, per chi la sceglie: discesa dal 7° piano rosso al piano terra blu, poi la "foresta alpina" per tre minuti. Rientro con attivazione: in piedi, scuotere mani e piedi, camminare una frase musicale su D'Arienzo.
+**Esempio tango.** Nella lezione 3 del ciclo, nel blocco di ripasso, seduti a bordo pista, per chi la sceglie: discesa dal 7° piano rosso al piano terra blu, poi la "foresta alpina" per tre minuti. Rientro con attivazione: in piedi, scuotere mani e piedi; poi le coppie ripassano a memoria la sequenza del ciclo su una frase di D'Arienzo.
 
-**Esempio Liu Zi Jue.** Seduti, prima della pratica: discesa a colori e "spiaggia" per tre minuti. Rientro con attivazione: in piedi, piccoli saltelli sul posto, poi la postura di preparazione HQA a occhi aperti.
+**Esempio Liu Zi Jue.** Nel Liu Zi Jue la visualizzazione delle fonti non si usa: al suo posto, nel blocco di ripasso, c'è la quiete in piedi della preparazione HQA (yubei shi), che segue le regole delle pratiche di stato (decisione dell'autore; 02 §1.1).
 
 **Spiegazione.** Non ci sono studi su un "canale mnestico" che si apra con i colori né su una stimolazione selettiva dell'emisfero destro. Un esercizio d'immaginazione può distogliere per poco dai pensieri intrusivi, come qualsiasi compito che occupa l'attenzione (VNF E5). Lozanov: "'Guided imagery' (which really is one of the methods to induce hypnosis)", con l'esempio "You are on top of a mountain, the sun is rising [...] Everything is happening just as I say" (r. 1440-1441, 1815-1820).
 
@@ -342,35 +336,33 @@ Componenti con decisione diversa: gli occhiali Ganzfeld con LED colorati (MAN) s
 - Consenso informato (SIC-02).
 - Non partecipano persone con storia di trauma, disturbi dissociativi, psicosi o rischio di psicosi, depressione grave (SIC-01): immagini intrusive, ansia, senso di irrealtà.
 - Possibilità di aprire gli occhi e uscire in ogni momento; durata breve; momento finale di rientro con attivazione fisica.
-- Conduttore con formazione clinica **[da chiarire con l'autore]**: nelle fonti conduce il docente, in gruppo.
 
-**Collegamenti.** S-25, S-60, S-29.
+**Collegamenti.** S-25, S-60, S-29 (07).
 
 ### S-25 Image Streaming
 
 🟨 **Tradizione** per la procedura (SL1-A T21; MAN A.8; SL1-B T10; TM T10) · 🟩 **Evidenza parziale** per la verbalizzazione (VNF J2) · 🟥 **Speculativo** (contraddetto) per le promesse · 🟥 **Non canonico** (r. 1407-1416)
 
-Origine: fonti · Decisione: D-10, nel metodo come nelle fonti · Fase del ciclo: elaborazione (versione B); preparazione (versione A) · Sicurezza: SIC-01, SIC-02 (versione A), SIC-03
+Origine: fonti · Decisione: D-10, nel metodo come nelle fonti, senza lampadina · Fase del ciclo: elaborazione, come ripasso (02 §1.1) · Sicurezza: SIC-01, SIC-02 (versione A), SIC-03
 
 **Scopo.** Descrivere ad alta voce il flusso di immagini e percezioni, da soli o a un partner.
 
-**Procedura** (come nelle fonti).
+**Procedura** (come nelle fonti, senza lampadina).
 
-*A. Versione di Win Wenger* (SL1-A T21, r. 180-181, 236-245; MAN A.8, r. 60-64):
-1. Fissare per qualche secondo una lampadina, poi chiudere gli occhi e osservare i fosfeni della post-immagine (30 s).
-2. Per 10-20 minuti (MAN: 10-15) descrivere ad alta voce, verso un registratore o un partner, il flusso delle immagini, in modo minuzioso e alla massima velocità, "come un radiocronista" (10-15 min).
-3. Al suono di un campanello prestabilito porre all'immaginazione il proprio problema e chiedere metafore (2 min).
-4. Interpretare tre flussi visivi distinti in un unico contesto (SL1-A) (3 min).
+*A. Versione di Win Wenger* (SL1-A T21, r. 180-181, 236-245; MAN A.8, r. 60-64). Nelle fonti si comincia fissando una lampadina e osservando a occhi chiusi la post-immagine. Nel metodo questo passo non c'è: si lavora a occhi aperti e le immagini si descrivono a voce (decisione dell'autore).
+1. A occhi aperti, per 10-20 minuti (MAN: 10-15), descrivere ad alta voce, verso un registratore o un partner, il flusso delle immagini, in modo minuzioso e alla massima velocità, "come un radiocronista" (10-15 min).
+2. Al suono di un campanello prestabilito porre all'immaginazione il proprio problema e chiedere metafore (2 min).
+3. Interpretare tre flussi visivi distinti in un unico contesto (SL1-A) (3 min).
 
 *B. Versione Tango-Mind* (TM T10, T:L89-94, L242-246; SL1-B T10, r. 645-650, 755-758): durante l'ascolto musicale o l'esecuzione dei passi, oppure dopo il tango e l'ascolto, i partecipanti descrivono ad alta voce le percezioni e le immagini che emergono. La fonte non indica tempi (proposta: 3 minuti a testa, a coppie).
 
 Componenti con decisione diversa: Mindscope con biofeedback (MAN) è S-68 (07); Kitaro e Hoffman come sottofondo sono S-72 (07).
 
-**Esempio tango.** Versione B, dopo una tanda di Pugliese: a coppie, tre minuti a testa, uno racconta ad alta voce che cosa ha percepito nell'asse, nell'abrazo, nei piedi, e le immagini che la musica gli ha dato; l'altro ascolta senza commentare. Poi si scambiano.
+**Esempio tango.** Versione B, nel blocco di ripasso della lezione 2, dopo una tanda di Pugliese: a coppie, tre minuti a testa, uno racconta ad alta voce che cosa ha percepito nell'asse, nell'abrazo, nei piedi, e le immagini che la musica gli ha dato; l'altro ascolta senza commentare. Poi si scambiano.
 
-**Esempio Liu Zi Jue.** Versione B, dopo Si e Chui: a coppie, ciascuno descrive per tre minuti che cosa ha sentito nella spinta dei palmi, nella discesa delle ginocchia, nel suono. Domanda finale, a scelta: "che cosa mi rende difficile la bocca di Si?".
+**Esempio Liu Zi Jue.** Versione B, nel blocco di ripasso, dopo Si e Chui: a coppie, ciascuno descrive per tre minuti che cosa ha sentito nella spinta dei palmi, nella discesa delle ginocchia, nel suono. Domanda finale, a scelta: "che cosa mi rende difficile la bocca di Si?".
 
-**Spiegazione.** Sull'Image Streaming non ci sono studi pubblicati con revisione paritaria. Il nocciolo ha prove: spiegare a voce ciò che si impara (auto-spiegazione) e unire parole e immagini migliorano comprensione e ricordo (Chi et al. 1994, *Cogn Sci* 18:439-477; Wammes, Meade, Fernandes 2016, *Q J Exp Psychol* 69:1752-1776; VNF J2). Le post-immagini sono un effetto reale dell'adattamento dei fotorecettori (VNF J1).
+**Spiegazione.** Sull'Image Streaming non ci sono studi pubblicati con revisione paritaria. Il nocciolo ha prove: spiegare a voce ciò che si impara (auto-spiegazione) e unire parole e immagini migliorano comprensione e ricordo (Chi et al. 1994, *Cogn Sci* 18:439-477; Wammes, Meade, Fernandes 2016, *Q J Exp Psychol* 69:1752-1776; VNF J2).
 
 > **Cosa dicono le fonti** · 🟥 Speculativo (contraddetto)
 >
@@ -378,8 +370,7 @@ Componenti con decisione diversa: Mindscope con biofeedback (MAN) è S-68 (07); 
 
 **Precauzioni.**
 - Versione B: occhi aperti, facoltativa, nessun contenuto personale richiesto.
-- Versione A: occhi aperti e nessuna fonte luminosa **[da chiarire con l'autore]**, perché la fonte prevede la lampadina e gli occhi chiusi. Se si usa la lampadina: solo a bassa intensità e per pochi secondi; mai sole, laser o LED potenti, che possono danneggiare la retina (VNF J1, §5).
-- Versione A, come visualizzazione a occhi chiusi: le precauzioni di S-24 (consenso informato; esclusione di persone con trauma, dissociazione, psicosi; possibilità di uscire; rientro con attivazione).
+- Versione A: occhi aperti e nessuna lampadina (decisione dell'autore); le precauzioni di S-24 (consenso informato; esclusione di persone con trauma, dissociazione, psicosi; possibilità di uscire).
 
 **Collegamenti.** S-24, S-42, S-39.
 
@@ -387,14 +378,14 @@ Componenti con decisione diversa: Mindscope con biofeedback (MAN) è S-68 (07); 
 
 🟨 **Tradizione** per la procedura (SL1-A T18; MAN A.6, T6.5; SL1-C T10, T15; DSS T25-T26) · 🟩 **Evidenza parziale** per routine ed emozione (VNF G4, F8) · 🟥 **Speculativo** (non verificato) per l'ancora · 🟥 **Non canonico** (r. 1400-1406, 1824-1849)
 
-Origine: fonti · Decisione: D-15, nel metodo come nelle fonti · Fase del ciclo: preparazione; uso in milonga o in pratica · Sicurezza: SIC-01 (gruppi a rischio), SIC-03
+Origine: fonti · Decisione: D-15, nel metodo come nelle fonti, con il ricordo personale facoltativo · Fase del ciclo: elaborazione, prima del lavoro sui giri; performance, prima di mostrare (02 §1.1); uso in milonga o in pratica · Sicurezza: SIC-01 (gruppi a rischio), SIC-03
 
 **Scopo.** Associare uno stato di gioia e sicurezza a un gesto, da riattivare prima di un compito difficile.
 
 **Procedura** (come nelle fonti).
 
 *A. Excelebration* (SL1-A T18, r. 214-220; MAN A.6, r. 48-52):
-1. Immergersi nell'immaginazione e risalire al momento più radioso della propria vita, per esempio un esame superato o una vittoria (2 min).
+1. Immergersi nell'immaginazione e risalire al momento più radioso della propria vita, per esempio un esame superato o una vittoria (2 min). Il ricordo personale è facoltativo: in alternativa si immagina una scena di ballo o di pratica (decisione dell'autore).
 2. Avvertire e amplificare brividi, calore, postura eretta, espansione del torace; "guardarsi attorno" nella scena (1-2 min).
 3. Al picco unire pollice e indice; MAN indica la mano sinistra, quella dell'abrazo (pochi secondi).
 4. Rilasciare il gesto e riattivarlo all'inizio del compito (pochi secondi).
@@ -403,9 +394,9 @@ Origine: fonti · Decisione: D-15, nel metodo come nelle fonti · Fase del ciclo
 
 Componenti con decisione diversa: l'abbinamento con Brain Tuner o Alpha-Stim a 111 Hz (MAN A.6) è S-62, nel modulo sperimentale e solo su indicazione medica; il "Borrowed Genius" che MAN T6.5 associa all'ancora è S-67 (07).
 
-**Esempio tango.** All'inizio della lezione, chi vuole fa la versione A in piedi, a occhi aperti se preferisce; poi, durante il lavoro sul giro con molinete, tocca pollice e indice della mano sinistra un attimo prima di entrare nel giro (versione B).
+**Esempio tango.** Nell'elaborazione, prima del lavoro sui giri, chi vuole fa la versione A in piedi, a occhi aperti se preferisce, con un ricordo personale o con una scena di ballo immaginata; poi, durante il lavoro sul giro con molinete, tocca pollice e indice della mano sinistra un attimo prima di entrare nel giro (versione B). Nella lezione 4 la riattiva prima di entrare in pista per la performance.
 
-**Esempio Liu Zi Jue.** Nella performance della giornata aperta, chi ha scelto l'ancora la attiva nella postura di preparazione, prima dell'apertura, e la rilascia prima che le mani salgano.
+**Esempio Liu Zi Jue.** Prima della performance della giornata aperta, chi ha scelto l'ancora la attiva nella postura di preparazione, prima dell'apertura, e la rilascia prima che le mani salgano. Per crearla può usare una scena di pratica immaginata invece di un ricordo personale.
 
 **Spiegazione.** Emozione, novità e ricompensa modulano davvero il consolidamento dei ricordi (McGaugh 2004; VNF F8). Una breve routine costante prima di un gesto migliora la prestazione sportiva, per attenzione e automatismo (Rupprecht, Tran, Gröpel 2021, *Int Rev Sport Exerc Psychol*; Cotterill 2010, *Int Rev Sport Exerc Psychol* 3:132-153; VNF G4). L'ancora in sé non ha prove specifiche. Lozanov respinge l'ancoraggio di tipo PNL ("any programming results from dictation and manipulation", r. 1400-1406) e il "conditioning" come tecnica d'induzione (r. 1824-1849); sono coerenti con il canone la gioia e la risata come sistema (r. 2716-2726). Lo strumento convive con S-46 Routine pre-esecuzione, che è la sua versione dalla ricerca.
 
@@ -414,7 +405,7 @@ Componenti con decisione diversa: l'abbinamento con Brain Tuner o Alpha-Stim a 1
 > Secondo le fonti dopamina e beta-endorfine facilitano il consolidamento nell'ippocampo, i contenuti vengono "inondati" da un "neuro-fiume di endorfine" e l'ancora richiama "istantaneamente lo stato biochimico ed elettrico" di centratura ed elasticità (SL1-A T18, r. 218-220; MAN A.6; SL1-C T15, r. 1884-1885).
 
 **Precauzioni.**
-- Nessuna rievocazione a occhi chiusi di ricordi personali **[da chiarire con l'autore]**: la versione A chiede di rievocare il momento più radioso della propria vita. Per chi ha una storia traumatica la rievocazione intensa può far emergere ricordi dolorosi (SL1-A, rischio R6).
+- Il ricordo personale è facoltativo: chi preferisce usa una scena di ballo o di pratica immaginata (decisione dell'autore). Per chi ha una storia traumatica la rievocazione intensa può far emergere ricordi dolorosi (SL1-A, rischio R6).
 - Nessun abbinamento a dispositivi.
 - Routine scelta dall'allievo, non imposta dal docente.
 - L'ancora può diventare un rituale da cui si dipende e distogliere dal partner (MAN, rischio S19).
@@ -425,117 +416,7 @@ Componenti con decisione diversa: l'abbinamento con Brain Tuner o Alpha-Stim a 1
 
 ## §C Sonno e subliminale
 
-Pratiche fuori dalla lezione, nel metodo come nelle fonti per decisione dell'autore (D-13), con **consenso informato obbligatorio e contenuti dichiarati ai partecipanti** (SIC-02). Lozanov le esclude: "During training under this method, sleep turns into hypnosis" (r. 1600-1624).
-
-### S-27 Audio notturni e apprendimento nel sonno
-
-🟨 **Tradizione** per la procedura (SL1-A T28, T30; SL1-B T17; MAN A.11, T6.4; DSS T17-T19) · 🟥 **Speculativo** (contraddetto) (VNF F9) · 🟥 **Non canonico** (r. 1600-1624)
-
-Origine: fonti · Decisione: D-13, nel metodo come nelle fonti, consenso informato obbligatorio · Fase del ciclo: fuori aula · Sicurezza: SIC-02 (obbligatorio), SIC-03, SIC-05
-
-**Scopo.** Ascoltare all'addormentamento un audio con suggestioni sul materiale del corso, secondo le procedure delle fonti.
-
-**Procedura** (come nelle fonti).
-
-*A. Nastri per il sonno* (SL1-A T28, r. 302-310):
-1. Registrare 100-200 suggerimenti personali, con sotto la musica Superlearning (preparazione).
-2. Prima parte, "detersione psicologica": formule di scioglimento e di perdono verso genitori e autorità.
-3. Parte finale: formule di "fusione" con l'oggetto di studio.
-4. Ascoltare addormentandosi per 10 notti consecutive.
-
-*B. "Change Your Mind" di Teri Mahaney* (MAN A.11, r. 78-82; PR8; SL1-B T17):
-1. Registrare un audio personalizzato di 20-30 minuti.
-2. Fase 1, "Pulizia e Perdono" (10 min): frasi di distacco dai risentimenti verso le figure di autorità.
-3. Fase 2, "Inoculazione del Flusso" (15 min): affermazioni al presente.
-4. Riprodurre a volume moderato mentre ci si addormenta, per 10-14 notti consecutive.
-
-*C. Versione per il tango* (MAN T6.4, r. 201-202; DSS T17-T19): script per i giros, registrato con voce calma su musica barocca a 60 BPM e ascoltato per 10 notti. Struttura: induzione di calore e pesantezza dai piedi alla testa; frasi di rilascio e di perdono verso se stessi; visualizzazione di una milonga; affermazioni d'identità ("Io e il giro nel tango siamo una cosa sola"); comando di sonno. Il testo integrale è in `ricerca/estrazioni/manuale.md`, T6.4.
-
-**Consenso informato** (SIC-02). Prima dell'ascolto il partecipante riceve per iscritto il testo integrale dell'audio, la durata, la musica e le precauzioni; firma; può smettere in qualsiasi momento.
-
-Componenti con decisione diversa: musica barocca a 60 BPM e musica "Superlearning" (S-69, S-72, 07); fasce audio collegate a Hemi-Sync (S-65, 07); le versioni "sotto la soglia udibile" sono S-28.
-
-**Esempio tango.** Versione C con il testo di MAN T6.4, consegnato prima per intero; il partecipante decide se usarlo e per quante notti. Il docente non chiede resoconti.
-
-**Esempio Liu Zi Jue.** Le fonti non hanno una versione per il Qigong. Con la struttura della versione B si può registrare un audio con le affermazioni del partecipante sulla sequenza ("le sei forme scorrono una nell'altra", "la bocca di Si trova la sua fessura"), senza la fase di perdono. Esempio costruito sulla struttura della fonte: testo integrale consegnato prima (SIC-02).
-
-**Spiegazione.** Gli studi controllati non mostrano apprendimento esplicito di informazioni nuove durante il sonno (Wood et al. 1992, *Psychol Sci* 3:236-239; VNF F9). Esiste un effetto reale ma diverso: riproporre nel sonno un suono già associato a materiale studiato da svegli può rafforzarne un poco il ricordo, in laboratorio (Hu et al. 2020, *Psychol Bull* 146:218-244). Il sonno regolare consolida ciò che si è imparato da svegli (VPS §8).
-
-> **Cosa dicono le fonti** · 🟥 Speculativo (contraddetto)
->
-> Secondo le fonti la finestra ipnagogica (theta e delta) "aggira il filtro analitico"; la propria voce o una voce femminile è "accettata dal subconscio"; lo script integra "le verità" nei neuroni e riduce "drasticamente" la frequenza cardiaca in pista; un manager avrebbe ridotto del 20% il tempo d'esame e alzato del 20% i voti (SL1-A T30, r. 275-281; SL1-B T17; MAN A.11, T6.4; DSS L173-186, L462-466).
-
-**Precauzioni** (D-13).
-- Consenso informato con contenuti dichiarati (SIC-02); niente con minori.
-- Nessun audio con suggestioni durante il sonno **[da chiarire con l'autore]**: è la pratica stessa scelta dall'autore. Alternativa indicata da `DECISIONI.md`: un ascolto informativo prima di dormire, facoltativo.
-- Nessuna formula di perdono verso persone reali **[da chiarire con l'autore]**: è nelle versioni A e B. In persone fragili può alimentare autocritica o riaprire ferite.
-- Persone con insonnia, ansia o depressione: rischio di sonno frammentato o peggiorato.
-- Auricolari tutta la notte: irritazione del condotto uditivo; volume moderato.
-
-**Collegamenti.** S-28, S-29, S-60, S-69 (07).
-
-### S-28 Messaggi subliminali
-
-🟨 **Tradizione** per la procedura (SL1-A T29; SL1-B T18; DSS T20) · 🟥 **Speculativo** (contraddetto) (VNF F11-F12) · 🟥 **Non canonico** (r. 1400-1406; il contrario delle percezioni periferiche, r. 2232-2264)
-
-Origine: fonti · Decisione: D-13, nel metodo come nelle fonti, consenso informato obbligatorio · Fase del ciclo: fuori aula · Sicurezza: SIC-02 (obbligatorio), SIC-03
-
-**Scopo.** Esporre a frasi sotto la soglia della coscienza, visiva o uditiva, secondo le procedure delle fonti.
-
-**Procedura** (come nelle fonti).
-
-*A. Subliminale tachistoscopico* (SL1-A T29, r. 264-274; SL1-B T18; DSS T20): si proiettano frasi "infantili" per pochi millisecondi (4 ms) con il tachistoscopio, sotto la soglia della coscienza; la frase storica del filone di Silverman e Parker è "Mommy and I are one". La fonte non indica numero di esposizioni né durata della sessione.
-
-*B. Audio sotto la soglia udibile* (SL1-A T30, r. 257-259, 275-281): una formula registrata con musica a volume sotto la soglia udibile, riprodotta per tutta la notte.
-
-**Consenso informato** (SIC-02). Il partecipante riceve prima il testo esatto di ogni frase, la durata e il calendario delle esposizioni; può scegliere o modificare le frasi; firma.
-
-**Esempio tango.** Versione B: il partecipante sceglie una frase da una lista che il docente gli consegna ("ballo con piacere", "il mio abrazo è sicuro") e la conosce prima dell'ascolto notturno.
-
-**Esempio Liu Zi Jue.** Versione A con un software di presentazione rapida: la frase "la forma scorre", dichiarata e scelta dal partecipante, prima della pratica individuale a casa.
-
-**Spiegazione.** In un esperimento in doppio cieco su 237 persone, i nastri subliminali di auto-aiuto non hanno prodotto gli effetti dichiarati; più di un terzo dei partecipanti credeva di essere migliorato nel campo scritto sull'etichetta anche quando il nastro era l'altro (Greenwald et al. 1991, *Psychol Sci* 2:119-122). Il filone di Silverman è storico e molto contestato (VNF F11-F12). Per Lozanov le percezioni periferiche sono stimoli sopra soglia, controllabili, che lasciano libertà di scelta (r. 2232-2264): il subliminale ne è il contrario.
-
-> **Cosa dicono le fonti** · 🟥 Speculativo (contraddetto)
->
-> Le fonti riportano che la stimolazione "Mommy and I are one" ha ridotto l'ansia e dato circa 10 punti in più rispetto ai controlli in lettura, matematica e diritto commerciale (SL1-A r. 266-274; SL1-B T18; DSS T20), e che l'audio notturno sotto la soglia udibile ha ridotto del 20% il tempo d'esame e alzato del 20% i voti (SL1-A T30).
-
-**Precauzioni** (D-13).
-- Nessun messaggio subliminale **[da chiarire con l'autore]**: è la pratica stessa. Il messaggio nascosto è incompatibile con il consenso informato; per questo, nel metodo, il contenuto si dichiara sempre prima.
-- Niente con minori: servono il consenso dei genitori e, in ricerca, un comitato etico.
-- Mai in sala o in lezione senza che tutti i presenti lo sappiano.
-
-**Collegamenti.** S-27, S-19.
-
-### S-29 Dial Direct 1-800-SUB
-
-🟨 **Tradizione** per la procedura (SL1-A T32) · 🟥 **Speculativo** (contraddetto) · 🟥 **Non canonico** (r. 1440-1441)
-
-Origine: fonti · Decisione: D-13, nel metodo come nelle fonti, consenso informato obbligatorio · Fase del ciclo: fuori aula · Sicurezza: SIC-01 (gruppi a rischio), SIC-02, SIC-03, SIC-05
-
-**Scopo.** Un esercizio immaginativo di "dialogo" con il proprio "subconscio", secondo la procedura della fonte.
-
-**Procedura** (come nella fonte; SL1-A T32, r. 325-334). La fonte non indica tempi.
-1. In un "antro sereno" immaginare un telefono di cristallo.
-2. Comporre 1-800-SUB e interrogare il proprio "subconscio" con quattro formule, intercalate da verifiche: "Prendo possesso dell'abilità del mio desiderio di...", "Appuro il merito personale di...", "Alimento la pretesa di...", "Io mantengo e detengo la tenacia della...".
-3. Una figura immaginaria, una scritta o sintomi fisici (la fonte cita fegato e collo) danno l'"ok" oppure rivelano metafore da correggere.
-4. Riagganciare ed eseguire esercizi ginnici "per uscire dalla trance".
-
-**Consenso informato** (SIC-02): testo delle formule e procedura consegnati prima.
-
-**Esempio tango.** "Prendo possesso dell'abilità del mio desiderio di ballare il giro con molinete in musica"; chiusura con una camminata vivace su D'Arienzo.
-
-**Esempio Liu Zi Jue.** "Io mantengo e detengo la tenacia della pratica quotidiana dei sei suoni"; chiusura con lo scuotimento delle braccia e qualche passo.
-
-**Spiegazione.** È una visualizzazione guidata, che Lozanov considera induzione ipnotica (r. 1440-1441). Il "subconscio" a cui si "telefona" non è un costrutto scientifico; un sintomo fisico non è una risposta del subconscio: se compare, va valutato da un medico (SIC-05).
-
-> **Cosa dicono le fonti** · 🟥 Speculativo (contraddetto)
->
-> La fonte presenta l'esercizio come un contatto diretto con il "subconscio", che risponde attraverso figure, scritte o sintomi fisici e rivela ostilità passate o timori legati ai genitori (SL1-A T32, r. 325-334).
-
-**Precauzioni.** Le precauzioni di D-13 (consenso con contenuti dichiarati; niente con minori) e quelle della visualizzazione guidata (S-24: esclusione di persone con trauma, dissociazione o psicosi; possibilità di interrompere; rientro con attivazione fisica). Nessuna interpretazione di sintomi fisici da parte del docente.
-
-**Collegamenti.** S-24, S-27, S-60.
+Le pratiche notturne e subliminali delle fonti sono nel modulo sperimentale per decisione dell'autore (D-13, decisione aggiornata il 2026-10-05): S-27 Audio notturni e apprendimento nel sonno, S-28 Messaggi subliminali, S-29 Dial Direct 1-800-SUB. Le schede sono in 07 §3. Gli ID non cambiano. Non entrano nelle lezioni (07 §1).
 
 ---
 
@@ -626,21 +507,21 @@ Origine: proposta dell'autore (D-27b) · Decisione: D-27b, nel metodo · Fase de
 
 Origine: canone · Decisione: Canone · Fase del ciclo: tutte
 
-**Scopo.** Aprire e chiudere ogni lezione, ogni elaborazione e il corso con una canzone, pianificata come sistema.
+**Scopo.** Aprire e chiudere ogni lezione, ogni elaborazione e ogni ciclo con una canzone, pianificata come sistema.
 
 **Procedura.**
-1. Prima del corso si sceglie la canzone del corso, "one of the best songs in the language of study" (r. 4469-4470) (preparazione).
+1. Prima di ogni ciclo il docente sceglie la canzone del ciclo: una diversa per ogni ciclo (decisione dell'autore). Il canone chiede "one of the best songs in the language of study" (r. 4469-4470) (preparazione).
 2. Ogni lezione finisce con una canzone e la successiva comincia con la stessa (r. 2715-2716) (3-5 min).
 3. Ogni elaborazione si apre e si chiude con una canzone (r. 4321).
-4. Il corso si apre e si chiude con la stessa canzone (r. 4469-4470).
+4. Nel canone il corso si apre e si chiude con la stessa canzone (r. 4469-4470). Nel metodo ogni ciclo si apre e si chiude con la sua canzone.
 5. Canzoni e battute si pianificano anche per le parti più difficili (r. 4248-4262).
 6. Il docente scalda la voce cantando prima della lezione (r. 3114-3115). Nessuno canta da solo.
 
-**Esempio tango.** Canzone del corso: un tango cantato con una letra semplice e un estribillo facile, scelto dal docente; per esempio "Poema" nell'esecuzione di Francisco Canaro con Roberto Maida **[da verificare l'esecuzione scelta]**. Il gruppo impara l'estribillo in coro con il testo sul libretto; la letra diventa materiale di lingua e di musicalità (dove respira la frase, dove cade la pausa). Una canzone nuova per ogni ciclo, ripresa nelle settimane seguenti (S-42).
+**Esempio tango.** Canzone del ciclo: un tango cantato con una letra semplice e un estribillo facile, scelto dal docente; per esempio "Poema" nell'esecuzione di Francisco Canaro con Roberto Maida. Il gruppo impara l'estribillo in coro, ripetendolo a voce dopo il docente; la letra diventa materiale di lingua e di musicalità (dove respira la frase, dove cade la pausa). Una canzone nuova per ogni ciclo, ripresa nelle settimane seguenti (S-42).
 
 **Esempio Liu Zi Jue.** Apertura e chiusura con i sei suoni pronunciati in coro, nell'ordine Xu, He, Hu, Si, Chui, Xi, con la forma della bocca, su una melodia semplice di due frasi; oppure il nome "Liu Zi Jue" cantato su tre note. Si evita la cantilena lenta e uniforme come mezzo d'induzione (r. 1394-1397).
 
-**Spiegazione.** Le melodie semplici e ripetute aiutano il ricordo parola per parola (Wallace 1994, *J Exp Psychol Learn Mem Cogn* 20:1471-1485); cantare frasi straniere aiuta più che dirle (Ludke et al. 2014); parlare da soli davanti agli altri è una delle fonti principali d'ansia nelle lingue e il coro riduce l'esposizione (VPS C11). Il canto di gruppo favorisce un legame sociale rapido (Pearce, Launay, Dunbar 2015, *R Soc Open Sci* 2:150221, da ricontrollare).
+**Spiegazione.** Le melodie semplici e ripetute aiutano il ricordo parola per parola (Wallace 1994, *J Exp Psychol Learn Mem Cogn* 20:1471-1485); cantare frasi straniere aiuta più che dirle (Ludke et al. 2014); parlare da soli davanti agli altri è una delle fonti principali d'ansia nelle lingue e il coro riduce l'esposizione (VPS C11). Il canto di gruppo favorisce un legame sociale rapido (Pearce, Launay, Dunbar 2015, *R Soc Open Sci* 2:150221).
 
 **Precauzioni.** Volume moderato; nessuno sforzo vocale; nessuno obbligato a cantare da solo.
 
@@ -729,7 +610,7 @@ Origine: canone · Decisione: Canone · Fase del ciclo: tutte · Sicurezza: SIC-
 
 **Esempio Liu Zi Jue.** "Chi ha voglia prova a lasciare che la mano di Xu scorra fin dove arriva lo sguardo". Chi preferisce resta in quiete in piedi. Di ogni esercizio il docente dice la ragione (INT-07).
 
-**Spiegazione.** Scelte offerte all'allievo e aspettative di riuscita migliorano l'apprendimento motorio (Wulf e Lewthwaite 2016, *Psychon Bull Rev* 23:1382-1414; VPS §8); analisi recenti ridimensionano alcuni effetti (McKay et al. 2022, da verificare).
+**Spiegazione.** Scelte offerte all'allievo e aspettative di riuscita migliorano l'apprendimento motorio (Wulf e Lewthwaite 2016, *Psychon Bull Rev* 23:1382-1414; VPS §8); analisi recenti ridimensionano alcuni effetti (McKay et al. 2022).
 
 **Precauzioni.** Eccezione: gli errori pericolosi si correggono in modo diretto (SIC-06).
 
@@ -772,17 +653,17 @@ Origine: canone · Decisione: Canone · Fase del ciclo: tutte
 1. Il docente conosce i meccanismi elencati da Lozanov (r. 1824-1849): suggestioni confuse; "sleep-like breathing"; "mirroring"; "conditioning"; stimoli ritmici monotoni; fissazione dell'attenzione; prestigio "verging on authoritarian"; calo dell'autocontrollo per fiducia, fatica, rilassamento, attenzione distratta, monoideismo (formazione).
 2. In lezione controlla i segnali d'allarme (modello §9.5): occhi chiusi a lungo; voce lenta e uniforme; musica monotona; istruzioni su che cosa l'allievo "sta sentendo"; conteggio ritmico costante; calo dell'autocontrollo per stanchezza o rilassamento (continuo).
 3. Se compaiono due o più segnali insieme, cambia: occhi aperti, voce variata, musica diversa, movimento, una risata, una scelta offerta (1-2 min).
-4. Nelle pratiche del metodo con 🟥 Non canonico (S-05, S-22–S-29, S-31) il controllo è sistematico, perché contengono diversi di questi segnali.
+4. Nelle pratiche del metodo con 🟥 Non canonico (S-05, S-22–S-26, S-31) il controllo è sistematico, perché contengono diversi di questi segnali.
 
 **Esempio tango.** Nel concerto in movimento (S-05) il docente declama con voce oscillante e ogni tanto lascia le coppie camminare libere; nella 4-4-4-4 (S-22) dà il primo ciclo e smette di contare; nel conteggio a ruoli alternati (S-32) i giri sono brevi.
 
-**Esempio Liu Zi Jue.** La quiete in piedi a occhi chiusi si tiene breve e si invita ad aprire gli occhi; la voce del docente non diventa "misteriosa"; la musica HQA si alterna a momenti di silenzio. Dove passi il confine tra contenuto della disciplina e induzione resta da decidere con l'autore (00 §6.1, punto 8).
+**Esempio Liu Zi Jue.** La quiete in piedi a occhi chiusi si tiene breve e si invita ad aprire gli occhi; la voce del docente non diventa "misteriosa"; la musica HQA si alterna a momenti di silenzio. Respiro, quiete e immagini della forma seguono le regole delle pratiche di stato (decisione dell'autore; 02 §1.1).
 
 **Spiegazione.** Per Lozanov ipnosi e suggestione clinica sono escluse dall'insegnamento (r. 1392, 1634-1638); la commissione ministeriale del 1970 riferisce "No cases of hypnosis or sleeping retention" (r. 5363-5375).
 
 **Precauzioni.** Quelle di ciascuna scheda con 🟥 Non canonico.
 
-**Collegamenti.** S-30, S-32, S-58; S-22–S-29; 05 §6.
+**Collegamenti.** S-30, S-32, S-58; S-22–S-26; S-27–S-29 (07); 05 §6.
 
 ### Prestigio e credibilità (raccordo con 05)
 

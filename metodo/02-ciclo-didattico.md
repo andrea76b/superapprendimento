@@ -55,9 +55,9 @@ Le regole:
 
 1. **Una pratica per volta**, proposta come offerta. Chi non vuole fa la routine personale (S-46) o resta in ascolto. Chiunque può non fare un'attività senza spiegare (SIC-03).
 2. **Screening per autoesclusione** (SIC-01): obbligatorio per S-22; per le altre pratiche valgono i gruppi a rischio di ogni scheda.
-3. **Dichiarate per quello che sono.** Il docente le annuncia come pratiche del metodo, non di Lozanov e non della disciplina. Portano l'etichetta 🟥 Non canonico.
+3. **Dichiarate per quello che sono.** Il docente le annuncia come pratiche del metodo, non di Lozanov e non della disciplina. Portano l'etichetta 🟥 Non canonico (S-38 solo se dettata).
 4. **Dentro i 90 minuti.** Le pratiche di stato stanno dentro il tempo della lezione (§4.2). Nella lezione 1 i 2-3 minuti di S-23 fanno parte dei 43 minuti dei concerti.
-5. **Liu Zi Jue.** Respiro, quiete e immagini della forma seguono le stesse regole delle pratiche di stato: offerta, screening (SIC-01), libertà di non partecipare (decisione dell'autore). Preparazione (yubei shi) e apertura (qi shi) della sequenza HQA restano contenuto della disciplina: si insegnano nelle fasi del ciclo come il resto della forma. Nel Liu Zi Jue il viaggio calmante (S-24) non si usa: al suo posto c'è la quiete in piedi della preparazione HQA. S-24 resta per il tango.
+5. **Liu Zi Jue.** Respiro, quiete e immagini della forma seguono le stesse regole delle pratiche di stato: offerta, screening (SIC-01), libertà di non partecipare (decisione dell'autore). Preparazione (yubei shi) e apertura (qi shi) della sequenza HQA restano contenuto della disciplina: si insegnano nelle fasi del ciclo come il resto della forma. Nel Liu Zi Jue la visualizzazione delle fonti, il viaggio calmante (S-24), non si usa: al suo posto c'è la quiete in piedi della preparazione HQA. S-24 resta per il tango.
 6. **Mai il modulo sperimentale.** Le pratiche di 07, comprese quelle notturne e subliminali (S-27–S-29), non entrano nelle lezioni (07 §1).
 
 Le pratiche motorie con evidenza non sono pratiche di stato: routine pre-esecuzione (S-46), esercizi vestibolo-oculari (S-47), camminata a otto (S-35), pausa di inibizione (S-36). Stanno nelle elaborazioni, come riscaldamento prima del lavoro sui giri o sulle forme.
@@ -196,7 +196,7 @@ Origine: fonti · Decisione: D-27, nel metodo come nelle fonti; forma del ciclo 
 
 Componenti con decisione diversa (00 §2, regola delle componenti): i cicli di 4 secondi di informazione e 4 di pausa della versione Tango-Mind appartengono a S-73 e restano nel modulo sperimentale; i tre toni sono la variante opzionale S-31; la musica "ad altissima frequenza" è spiegata nel riquadro di S-54. Il concerto passivo da sdraiati su barocco a 60 BPM della versione Tango-Mind è S-69 (07): nel metodo il passivo è S-03.
 
-**Esempio tango.** Ciclo 2, "Arriva il vals". Su Haydn, Concerto per violino n. 1 in do maggiore (sessione 2, circa 18 minuti), il docente balla in abrazo con un'assistente al centro della sala e declama: "Eje... el abrazo escucha... giro a la derecha... giro a la izquierda... ocho, cambio de dirección... ¡pausa!", con la voce che sale e scende con il violino. Un gruppo di figure per movimento: i giri a destra e a sinistra nel primo; ochos con cambio di direzione e pausa nell'Adagio; la milonga lisa, cioè la caminata a doppio passo, nel finale. Le coppie, in ronda, eseguono in sincrono la stessa sequenza.
+**Esempio tango.** Ciclo 2. Su Haydn, Concerto per violino n. 1 in do maggiore (sessione 2, circa 18 minuti), il docente balla in abrazo con un'assistente al centro della sala e declama: "Eje... el abrazo escucha... giro a la derecha... giro a la izquierda... ocho, cambio de dirección... ¡pausa!", con la voce che sale e scende con il violino. Un gruppo di figure per movimento: i giri a destra e a sinistra nel primo; ochos con cambio di direzione e pausa nell'Adagio; la milonga lisa, cioè la caminata a doppio passo, nel finale. Le coppie, in ronda, eseguono in sincrono la stessa sequenza.
 
 **Esempio Liu Zi Jue.** Ciclo 2. Su Haydn, Concerto per violino n. 1 in do maggiore (sessione 2, circa 18 minuti), il docente esegue la sequenza davanti al gruppo e declama il senso dei gesti ("Hu: le braccia si arrotondano come intorno a una palla... Si: il petto si apre, i palmi spingono"). Un gruppo di forme per movimento: preparazione, apertura, Xu e He nel primo; Hu e Si nell'Adagio; Chui, Xi e chiusura nel finale. Il gruppo esegue in sincrono. Nota: la pratica di gruppo che segue una voce guida è anche lo standard della traccia HQA con comandi vocali (🟨 Tradizione); la differenza qui è la declamazione drammatica su musica classica.
 
@@ -402,13 +402,13 @@ Origine: canone · Decisione: Canone (niente compiti obbligatori) · Fase del ci
 **Scopo.** Lasciare un contatto con il materiale tra una lezione e l'altra, senza compiti: "only informatively [...] the way one skims through a newspaper" (r. 4479-4481).
 
 **Procedura.**
-1. Alla fine della lezione il docente indica, senza insistere, che il libretto, il video o la musica del ciclo sono disponibili (1 min).
+1. Alla fine della lezione il docente indica, senza insistere, che il video o la musica del ciclo sono disponibili (1 min).
 2. Chi vuole li scorre 15-20 minuti al mattino e alla sera (r. 4479-4481, 4542-4543).
 3. Nessun controllo alla lezione successiva.
 
 **Esempio tango.** Il video di 3 minuti della sequenza ballata dal docente e la tanda di Di Sarli del ciclo, in una cartella condivisa.
 
-**Esempio Liu Zi Jue.** Il libretto dei sei suoni e la traccia HQA solo musica.
+**Esempio Liu Zi Jue.** La traccia HQA solo musica.
 
 **Spiegazione.** Il canone esclude i compiti obbligatori. Per gli adulti brevi sessioni distanziate di richiamo attivo sono tra le tecniche di studio più efficaci (VPS C4). Se e come proporre la pratica a casa nei corsi corporei è una domanda aperta (00 §6.1, punto 12).
 
@@ -420,22 +420,23 @@ Origine: canone · Decisione: Canone (niente compiti obbligatori) · Fase del ci
 
 🟦 **Fonte classica** (r. 2460-2469)
 
-Origine: canone · Decisione: Canone; contenuto non descritto nel libro · Fase del ciclo: dopo il corso
+Origine: canone · Decisione: Canone; contenuto non descritto nel libro; forma decisa dall'autore · Fase del ciclo: tra un ciclo e l'altro
 
 **Scopo.** Lozanov introdusse i corsi adattivi contro la "dissociazione negativa": allievi brillanti in corso e "mere lesson grinders" fuori. Li chiama "one of the cornerstones in our methodology" (r. 2460-2469).
 
-**Procedura.** Il libro non dice in che cosa consistano (modello §5.10). È una domanda aperta per l'autore (00 §6.1, punto 4). **Proposta, da confermare con l'autore:**
-1. Due o tre incontri dopo la fine del corso, in condizioni vicine all'uso reale (60-90 min ciascuno).
-2. Gioco-progetto mantenuto, ma con elementi nuovi e imprevisti (musica non scelta dal docente, spazio diverso, persone nuove).
-3. Nessuna sequenza nuova da imparare: si usa ciò che si sa.
+**Procedura.** Il libro non dice in che cosa consistano (modello §5.10). Nel metodo l'autore ha deciso una forma per disciplina, tra un ciclo e l'altro:
+1. Tango: una milonga-ponte.
+2. Liu Zi Jue: una pratica di gruppo all'aperto, senza il docente.
+3. In entrambe il gioco-progetto resta, ma con elementi nuovi e imprevisti (musica non scelta dal docente, spazio diverso, persone nuove).
+4. Nessuna sequenza nuova da imparare: si usa ciò che si sa.
 
-**Esempio tango.** Il problema è concreto: chi balla bene a lezione e si blocca in milonga. Proposta: una "milonga-ponte" in una sala vera, con la ronda piena, tande scelte da un DJ, cabeceo vero; il docente balla tra le coppie e non dà indicazioni.
+**Esempio tango.** Il problema è concreto: chi balla bene a lezione e si blocca in milonga. Tra un ciclo e l'altro c'è una "milonga-ponte" in una sala vera, con la ronda piena, tande scelte da un DJ, cabeceo vero; il docente balla tra le coppie e non dà indicazioni.
 
-**Esempio Liu Zi Jue.** Pratica all'aperto, in un parco, con la traccia HQA e senza il docente davanti; il gruppo si orienta da solo.
+**Esempio Liu Zi Jue.** Tra un ciclo e l'altro, pratica di gruppo all'aperto, in un parco, con la traccia HQA e senza il docente; il gruppo si orienta da solo.
 
-**Spiegazione.** La proposta applica al corso il principio della pratica variata (S-44) e del trasferimento in contesti nuovi; non è il contenuto dei corsi adattivi di Lozanov, che resta da chiarire.
+**Spiegazione.** Le due forme applicano al corso il principio della pratica variata (S-44) e del trasferimento in contesti nuovi. Non riproducono il contenuto dei corsi adattivi di Lozanov, che il libro non descrive.
 
-**Precauzioni.** Le condizioni della sala reale (pavimento, folla) seguono SIC-07.
+**Precauzioni.** In una sala vera e affollata gli errori pericolosi si correggono subito (SIC-06).
 
 **Collegamenti.** S-44, S-07.
 
@@ -524,8 +525,8 @@ Nei 43 minuti dei concerti stanno il concerto attivo (26), l'immagine di natura 
 | 32-48 | 3 | Giochi sui dettagli, focus esterno, pause brevi (S-18, S-43, S-52) | "il lago gelato" sul molinete; "porta il partner verso la finestra" nella caminata | "spingi l'aria come se fosse acqua"; "la palla tra le mani si allarga" in Hu |
 | 48-55 | — | Pausa | | |
 | 55-70 | 3 | Pratica variata con ruoli liberi (S-44; SIC-04) | stessa sequenza su Troilo e su un vals di Canaro | Hu e He verso direzioni diverse, a velocità diverse |
-| 70-80 | 3 | Ripasso: Image Streaming a coppie, facoltativo (S-25, versione B); mappa del ciclo alla parete (S-39) | tre minuti a testa su che cosa si è sentito nell'asse e nell'abrazo; mappa delle figure | tre minuti a testa sulla spinta dei palmi e sul suono; mappa dei sei suoni |
-| 80-85 | 3 | Prova mentale a fine elaborazione (S-38) | la sequenza ripercorsa a mente con la tanda di Di Sarli | la sequenza ripercorsa a mente con la traccia HQA |
+| 70-78 | 3 | Ripasso: Image Streaming a coppie, facoltativo (S-25, versione B); mappa del ciclo alla parete (S-39) | tre minuti a testa su che cosa si è sentito nell'asse e nell'abrazo; mappa delle figure | tre minuti a testa sulla spinta dei palmi e sul suono; mappa dei sei suoni |
+| 78-85 | 3 | Prova mentale a fine elaborazione (S-38) | la sequenza ripercorsa a mente con la tanda di Di Sarli | la sequenza ripercorsa a mente con la traccia HQA |
 | 85-90 | 3 | Canzone di chiusura | | |
 
 **Lezione 3. Elaborazione secondaria (90 min)**
@@ -540,8 +541,8 @@ Nei 43 minuti dei concerti stanno il concerto attivo (26), l'immagine di natura 
 | 42-49 | — | Pausa | | |
 | 49-64 | 3 | Preparazione delle scene per la performance (S-21) | scena di 30 secondi per coppia | presentazione di un suono per piccolo gruppo |
 | 64-74 | 3 | Ripasso con una pratica facoltativa: visualizzazione delle fonti nel tango (S-24), quiete in piedi della preparazione HQA nel Liu Zi Jue; per gli altri palazzo della memoria (S-40) | discesa a colori, poi la sequenza a memoria; oppure ogni angolo della sala è una figura | quiete in piedi; oppure ogni lato della sala è un suono |
-| 74-80 | 3 | Ballo o pratica libera, pausa tranquilla (S-44, S-52) | tanda libera | sequenza completa con musica HQA |
-| 80-85 | 3 | Prova mentale a fine elaborazione (S-38) | la sequenza e la scena ripercorse a mente | la sequenza ripercorsa a mente, con la forma della bocca |
+| 74-78 | 3 | Ballo o pratica libera, pausa tranquilla (S-44, S-52) | tanda libera | sequenza completa con musica HQA |
+| 78-85 | 3 | Prova mentale a fine elaborazione (S-38) | la sequenza e la scena ripercorse a mente | la sequenza ripercorsa a mente, con la forma della bocca |
 | 85-90 | 3 | Canzone di chiusura | | |
 
 **Lezione 4. Performance e verifica (90 min)**
@@ -633,10 +634,10 @@ La scaletta delle fonti (MAN PR1, r. 113-118; SL1-C P1) resta come termine di co
 
 | Tempo | Fase delle fonti | Componenti delle fonti | Decisione | Nella lezione modello del metodo |
 |---|---|---|---|---|
-| 0-15' | Preparazione e centratura | Respirazione geometrica (S-22) e rilassamento progressivo (S-23); occhiali Kasina o DAVID Delight; Bach, Aria BWV 1068 | S-22, S-23 nel metodo come nelle fonti; AVE fuori dal metodo (D-02); barocco lento come playlist del modulo sperimentale (S-69) | Fase 0, 7-15 min, facoltativa, S-22 solo con screening |
-| 15-45' | Integrazione vestibolare e movimento | Infinity Walk o tango (S-35); Graham Potentializer o generatore ELF; tango "a 136,10 Hz" | S-35 nel metodo; dispositivi rotanti e ELF fuori (D-04, D-07); accordature planetarie nel modulo sperimentale (S-70) | Camminata a otto nella fase 0 e nelle elaborazioni; musica di tango come contenuto (04 §3) |
+| 0-15' | Preparazione e centratura | Respirazione geometrica (S-22) e rilassamento progressivo (S-23); occhiali Kasina o DAVID Delight; Bach, Aria BWV 1068 | S-22, S-23 nel metodo come nelle fonti; AVE fuori dal metodo (D-02); barocco lento come playlist del modulo sperimentale (S-69) | Nessuna fase iniziale: S-23 subito prima del concerto passivo (2-3 min); S-22, solo con lo screening, prima della performance (§1.1) |
+| 15-45' | Integrazione vestibolare e movimento | Infinity Walk o tango (S-35); Graham Potentializer o generatore ELF; tango "a 136,10 Hz" | S-35 nel metodo; dispositivi rotanti e ELF fuori (D-04, D-07); accordature planetarie nel modulo sperimentale (S-70) | Camminata a otto nelle elaborazioni, come riscaldamento; musica di tango come contenuto (04 §3) |
 | 45-75' | Assimilazione attiva | Lettura a tre toni e cicli di 8 secondi; Forbrain o Sonic Brain Activator; Mozart K. 448 o Sinfonia n. 35 | Tre toni: variante opzionale (S-31); cicli: modulo sperimentale (S-73); Forbrain: nel metodo come nelle fonti, fuori dalla lezione (S-55); K. 448: S-53; la Sinfonia n. 35 "Haffner" è nel programma canonico | Concerto attivo S-02, S-04 o S-05 con un'opera del programma |
-| 75-105' | Assimilazione passiva | Concerto passivo con visualizzazione cromatica; Brain Tuner ai lobi; Vivaldi e Pachelbel a 60 BPM | Concerto passivo canonico S-03; visualizzazione S-24 solo nella fase 0, non nel concerto; Brain Tuner nel modulo sperimentale, solo su indicazione medica (S-62); barocco a 60 BPM nel modulo sperimentale (S-69) | Concerto passivo S-03 con un'opera intera del programma, senza istruzioni |
+| 75-105' | Assimilazione passiva | Concerto passivo con visualizzazione cromatica; Brain Tuner ai lobi; Vivaldi e Pachelbel a 60 BPM | Concerto passivo canonico S-03; visualizzazione S-24 nelle elaborazioni come ripasso, non nel concerto; Brain Tuner nel modulo sperimentale, solo su indicazione medica (S-62); barocco a 60 BPM nel modulo sperimentale (S-69) | Concerto passivo S-03 con un'opera intera del programma, senza istruzioni |
 | 105-120' | "Riprogrammazione subliminale" e chiusura | Autoconvalida (S-66) o riscrittura del VCR (S-63); Mindscope; Hoffman o Halpern | Tutto nel modulo sperimentale (S-66, S-63 solo con professionista abilitato, S-68, S-72) | Pausa tranquilla e canzone di chiusura (S-52, S-33) |
 
 La lezione "Tango-Mind" in quattro fasi delle fonti (TM P1: 15' binaurali o AVE, 30' tango, 45' concerto attivo in movimento con cicli e tre toni, 30' concerto passivo sdraiati su barocco a 60 BPM) si scompone allo stesso modo: binaurali nel modulo sperimentale (S-65), AVE fuori (D-02), concerto in movimento come S-05 senza i cicli (S-73), concerto passivo come S-03.

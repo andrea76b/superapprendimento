@@ -44,7 +44,7 @@ L'autore ha scelto un metodo unico (decisione strutturale). Dentro il metodo con
 | Pratiche delle fonti tenute "come nelle fonti" | Pratiche del Superlearning e dei manuali che l'autore ha voluto nel metodo con la procedura originale | 🟨 Tradizione, spesso 🟥 Non canonico, livello di evidenza della pratica e riquadro "Cosa dicono le fonti" | respirazioni con apnea (S-22), rilassamento progressivo (S-23), Infinity Walk (S-35), Tecnica Alexander (S-36) |
 | Integrazioni dalla ricerca (INT) | Pratiche proposte dalla ricerca attuale e approvate dall'autore | 🟩 Evidenza, con il principio canonico affine quando c'è | distanziamento e richiamo (S-42), focus esterno (S-43), routine pre-esecuzione (S-46) |
 
-Il **modulo sperimentale** (07) sta fuori dalla lezione: raccoglie gli elementi che l'autore ha voluto offrire solo come proposta facoltativa, separata, dichiarata non lozanoviana, con precauzioni (S-61–S-76).
+Il **modulo sperimentale** (07) sta fuori dalla lezione: raccoglie gli elementi che l'autore ha voluto offrire solo come proposta facoltativa, separata, dichiarata non lozanoviana, con precauzioni (S-27–S-29, S-61–S-76).
 
 ### 1.3 Che cosa il metodo non è
 
@@ -184,7 +184,7 @@ Lozanov non tratta l'apprendimento motorio, ma dice tre cose sul corpo che il me
 
 **Il passo del metodo.** Nel canone il corpo serve a imparare parole e concetti. Nel tango e nel Liu Zi Jue il corpo è ciò che si impara. Il metodo applica al contenuto motorio l'architettura del canone (globale-parziale, percezioni periferiche, docente, intonazione, gioco-progetto, correzione indiretta, alternanza dei tempi), che il modello giudica trasferibile con buona fedeltà (modello §9.2). È un'estensione dichiarata, non un'applicazione prevista da Lozanov.
 
-Il punto più delicato riguarda il Liu Zi Jue. Respiro, rilassamento attivo (song) e immagine sono contenuto della disciplina e si insegnano con lo stile del canone: in forma globale, come proposta, senza dettare sensazioni, con voce variata, con il diritto di non seguire. Usarli invece come mezzo per indurre uno stato in cui "passare" altro materiale è ciò che Lozanov esclude (modello §9.5). Dove passi il confine nella pratica (quiete a occhi chiusi, conteggi del respiro, immagini tradizionali) è una domanda aperta per l'autore (00 §6.1, punto 8).
+Il punto più delicato riguarda il Liu Zi Jue. Respiro, rilassamento attivo (song) e immagine sono contenuto della disciplina e si insegnano con lo stile del canone: in forma globale, come proposta, senza dettare sensazioni, con voce variata, con il diritto di non seguire. Usarli invece come mezzo per indurre uno stato in cui "passare" altro materiale è ciò che Lozanov esclude (modello §9.5). Per decisione dell'autore, respiro, quiete e immagini della forma seguono le stesse regole delle pratiche di stato del metodo: si propongono come offerta, passano per lo screening (SIC-01) e chiunque può non farli senza spiegare (02 §1.1).
 
 ---
 
@@ -240,7 +240,6 @@ La cornice non serve a curare. Serve a spiegare, in un linguaggio di oggi, perch
 Precauzioni obbligatorie della scheda D-31, da rispettare in tutti i file:
 - **dichiarazione esplicita "questo corso non è una terapia"** all'inizio di ogni corso (SIC-05);
 - **consenso al contatto e libertà di scelta del partner** (SIC-04): l'abrazo può essere un innesco per chi ha vissuto violenze;
-- **canali di invio a professionisti** se emergono contenuti traumatici o sintomi (06 §4);
 - la premessa "muscoli e fascia non innervati" è corretta come in §3.2;
 - il riferimento sulla C-PTSD della fonte (VNF H2) non si usa finché non è identificato;
 - nessuna frase su "tutte le terapie efficaci": la fonte generalizza senza base (TLT T:L109);
@@ -291,13 +290,13 @@ Lozanov nega che i risultati vengano da una serie di pratiche e spiegazioni (r. 
 | PNL e programmazione | "any programming results from dictation and manipulation [...] On the contrary, we provoke deprogramming" | 1400-1406, 5801 | Ancoraggi (S-26, nel metodo, 🟥); autoconvalida (S-66) e riprogrammazione dei ricordi (S-63), modulo sperimentale |
 | Esercizi di respirazione, visualizzazione, fantasia guidata | "We have never experimented with 'breathing exercise' and 'visualization exercises' or 'guided fantasy'" | 1407-1416, 5802-5803 | Respirazioni con apnea (S-22), visualizzazioni (S-24), Image Streaming (S-25): nel metodo come nelle fonti, 🟥 |
 | Rilassamento guidato | "Guided relaxation (this is one of the methods to induce hypnosis)" | 1427-1428, 2043-2047 | Rilassamento progressivo (S-23): nel metodo come nelle fonti, 🟥 |
-| Guided imagery | "'Guided imagery' (which really is one of the methods to induce hypnosis)" | 1440-1441, 1815-1820 | S-24, S-29 (🟥); prova mentale dettata (S-38, 🟥 se dettata) |
+| Guided imagery | "'Guided imagery' (which really is one of the methods to induce hypnosis)" | 1440-1441, 1815-1820 | S-24 (🟥); prova mentale dettata (S-38, 🟥 se dettata); S-29, modulo sperimentale |
 | Rilassamento muscolare e training autogeno per la memoria | non hanno provato "efficiency and harmlessness" | 1626-1632 | S-23 (🟥); training autogeno S-64, modulo sperimentale |
 | Onde alfa | chi ha alfa prevalente "do not exhibit increased memory potential" | 1460, 2077-2080, 5804 | Solo nei riquadri (D-30); binaurali S-65, modulo sperimentale |
 | Musica barocca lenta isolata; musica come "segreto" | "isolated 'slow baroque' music"; "the secret lies only in the music programs" | 1446-1448, 1460, 5805 | Barocco a 60 BPM: S-69, modulo sperimentale. Effetto Mozart, alte frequenze, Tomatis, Turning Sound: S-53–S-56, nel metodo come nelle fonti, 🟥 |
 | Poltrone reclinabili | "ridiculously primitive" | 1453-1455, 5810 | Nessuna. Dispositivi rotanti: fuori dal metodo (D-04) |
 | Il libro "Super Learning" | "present an amount of false data" | 1456-1458, 5806-5807 | Le pratiche tenute dall'autore portano 🟨 Tradizione e, se escluse, 🟥 |
-| Apprendimento nel sonno | "During training under this method, sleep turns into hypnosis" | 1600-1624 | S-27, S-28, S-29: nel metodo come nelle fonti, con consenso informato obbligatorio, 🟥 |
+| Apprendimento nel sonno | "During training under this method, sleep turns into hypnosis" | 1600-1624 | S-27, S-28, S-29: modulo sperimentale, con consenso informato obbligatorio |
 | Cassette in vendita, pillole, diete, apparecchi | "magical pills; special diets; special audio cassettes on sale" | 1420-1421, 1433-1435, 5811-5813 | Integratori S-61, elettrostimolazione S-62, biofeedback S-68, musiche commerciali S-72: modulo sperimentale. AVE, dispositivi rotanti, ELF e magneti: fuori dal metodo |
 | Meditazioni guidate con voce monotona o "misteriosa" | metodo di induzione ipnotica | 1833-1836 | Nessuna. Vale come segnale d'allarme nel Liu Zi Jue (S-60) |
 | Altre tecniche d'induzione: "sleep-like breathing", "mirroring", "conditioning", "monotonous rhythmic stimuli", "fixation of attention" | meccanismi comuni: prestigio "verging on authoritarian", calo dell'autocontrollo | 1824-1849 | Segnali d'allarme di S-60; S-26 (🟥 per il "conditioning") |
@@ -305,7 +304,7 @@ Lozanov nega che i risultati vengano da una serie di pratiche e spiegazioni (r. 
 
 Per le pratiche delle fonti che il canone esclude e che l'autore ha voluto nel metodo, sono state registrate obiezioni dell'analista (D-05, D-08, D-10). L'autore ha confermato la scelta. Per questo il metodo si presenta come **fondato sulla** Desuggestopedia, non come Desuggestopedia, e marca ognuna di queste pratiche come 🟥 Non canonico: chi legge sa sempre che cosa viene dal fondatore e che cosa no.
 
-> **Come spiegarlo agli allievi.** "Alcune cose che facciamo all'inizio della lezione, come la respirazione contata o il rilassamento, non vengono da Lozanov: lui le escludeva. Le teniamo perché fanno parte di una tradizione che il nostro metodo riconosce, ma ve lo dico sempre, e sono sempre facoltative. Il cuore della lezione, il film, il concerto, i giochi, viene invece da lui."
+> **Come spiegarlo agli allievi.** "Alcune cose che facciamo in certi momenti della lezione, come il rilassamento prima del concerto passivo o la respirazione contata prima della performance, non vengono da Lozanov: lui le escludeva. Le teniamo perché fanno parte di una tradizione che il nostro metodo riconosce, ma ve lo dico sempre, e sono sempre facoltative. Il cuore della lezione, il film, il concerto, i giochi, viene invece da lui."
 
 ---
 

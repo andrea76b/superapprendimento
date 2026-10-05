@@ -19,7 +19,7 @@ Lozanov non tratta l'apprendimento motorio (modello §9): molti strumenti di que
 
 🟨 **Tradizione** per la procedura (SL1-A T22; SL1-B T4-T5; MAN A.9; DSS T2; TM T4-T5) · 🟩 **Evidenza parziale** per l'esercizio motorio (VNF D7; VPS B2) · 🟥 **Speculativo** (contraddetto) per la teoria emisferica
 
-Origine: fonti. Non trattato da Lozanov; il movimento come veicolo è nel canone ("easy dances", r. 4283; allievi in piedi, r. 4073-4074) · Decisione: D-25, nel metodo come esercizio motorio, con la teoria emisferica nel testo; l'uso come test è S-74 (07) · Fase del ciclo: preparazione, elaborazione · Sicurezza: SIC-01 (gruppi a rischio), SIC-07
+Origine: fonti. Non trattato da Lozanov; il movimento come veicolo è nel canone ("easy dances", r. 4283; allievi in piedi, r. 4073-4074) · Decisione: D-25, nel metodo come esercizio motorio, con la teoria emisferica nel testo; l'uso come test è S-74 (07) · Fase del ciclo: elaborazione, come riscaldamento (02 §1.1) · Sicurezza: SIC-01 (gruppi a rischio)
 
 **Scopo.** Camminare su un grande otto con le braccia in oscillazione controlaterale, poi aggiungere compiti o figure del tango, secondo la procedura delle fonti.
 
@@ -45,10 +45,9 @@ Secondo le fonti la camminata a otto armonizza emisferi "disallineati" attravers
 
 **Precauzioni** (D-25).
 - Gruppi a rischio (SIC-01): anziani; persone con disturbi vestibolari o vertigini, postumi di commozione cerebrale, neuropatie, gravidanza avanzata, farmaci sedativi. Chi ha disturbi vestibolari noti chiede prima al medico.
-- Spazio libero e pavimento non scivoloso; percorsi distanziati (SIC-07); occhi aperti; rotazioni della testa introdotte gradualmente; fermarsi al primo capogiro; versione ridotta o con appoggio.
-- Velocità lenta **[da chiarire con l'autore]**: le fonti chiedono un passo "cadenzato" e "deciso".
-- Appoggi di tallone morbidi **[da chiarire con l'autore]**: le fonti li vogliono "massicci".
-- Doppio compito solo da soli e in spazio ampio **[da chiarire con l'autore]**: MAN A.9 fa recitare dati anche durante gli ochos in coppia; in coppia e in sala piena il rischio di collisione aumenta.
+- Spazio libero e pavimento non scivoloso; percorsi distanziati; occhi aperti; rotazioni della testa introdotte gradualmente; fermarsi al primo capogiro; versione ridotta o con appoggio.
+- Passo e appoggi restano quelli delle fonti: "cadenzato", "deciso", con appoggi di tallone "massicci" (decisione dell'autore).
+- Doppio compito da soli, oppure in coppia solo in uno spazio ampio (decisione dell'autore): in coppia e in sala piena il rischio di collisione aumenta.
 
 **Collegamenti.** S-47, S-44, S-74 (07).
 
@@ -56,7 +55,7 @@ Secondo le fonti la camminata a otto armonizza emisferi "disallineati" attravers
 
 🟨 **Tradizione** per la procedura (SL1-B T14; DSS T4) · 🟩 **Evidenza parziale** per mal di schiena e dolore cervicale (VNF D15) · 🟥 **Speculativo** (contraddetto) per "flusso energetico" e immunità
 
-Origine: fonti. Non trattato da Lozanov · Decisione: D-28, nel metodo come nelle fonti · Fase del ciclo: preparazione, elaborazione · Sicurezza: nessuna specifica
+Origine: fonti. Non trattato da Lozanov · Decisione: D-28, nel metodo come nelle fonti · Fase del ciclo: elaborazione · Sicurezza: nessuna specifica
 
 **Scopo.** Riconoscere e ridurre le tensioni inutili prima e durante il movimento (inibizione), poi lasciare che il gesto necessario si svolga fluido (facilitazione).
 
@@ -64,7 +63,7 @@ Origine: fonti. Non trattato da Lozanov · Decisione: D-28, nel metodo come nell
 1. **Inibizione.** Rendere cosciente l'inibizione: sopprimere le risposte motorie casuali o involontarie, portando un focus intenzionale "su ogni singola contrazione muscolare" ed eliminando le tensioni parassite.
 2. **Facilitazione.** La corteccia dirige in modo fluido le azioni necessarie, "con una corretta biomeccanica spinale".
 
-Tempi, **Proposta, da confermare con l'autore:** una pausa di inibizione di 3-5 secondi prima del gesto; un ciclo inibizione-facilitazione di 3-5 minuti su un movimento.
+Tempi, **da validare in aula** (decisione dell'autore): una pausa di inibizione di 3-5 secondi prima del gesto; un ciclo inibizione-facilitazione di 3-5 minuti su un movimento.
 
 La Tecnica Alexander ha una propria formazione di insegnanti: la scheda descrive la procedura delle fonti, non un corso di Tecnica Alexander.
 
@@ -86,11 +85,11 @@ La Tecnica Alexander ha una propria formazione di insegnanti: la scheda descrive
 
 🟨 **Tradizione** per la tecnica (SL1-A T23) · 🟩 **Evidenza solida** per la memoria di azioni · 🟩 **Evidenza parziale** per il lessico (VPS B1)
 
-Origine: fonti. Non trattato da Lozanov; compatibile con i giochi e le "easy dances" (r. 4283) · Decisione: D-29, nel metodo · Fase del ciclo: elaborazione · Sicurezza: SIC-07
+Origine: fonti. Non trattato da Lozanov; compatibile con i giochi e le "easy dances" (r. 4283) · Decisione: D-29, nel metodo · Fase del ciclo: elaborazione
 
 **Scopo.** Imparare parole e consegne rispondendo con il corpo: il docente dice, il gruppo esegue.
 
-**Procedura.** La fonte cita la tecnica di James Asher senza descriverla (SL1-A T23, r. 182-184). Procedura nel metodo, ricavata dall'ipotesi di applicazione dell'estrazione ("l'insegnante dà un comando verbale, anche in spagnolo, e gli allievi rispondono col corpo"): **Proposta, da confermare con l'autore.**
+**Procedura.** La fonte cita la tecnica di James Asher senza descriverla (SL1-A T23, r. 182-184). Procedura nel metodo, ricavata dall'ipotesi di applicazione dell'estrazione ("l'insegnante dà un comando verbale, anche in spagnolo, e gli allievi rispondono col corpo"): **da validare in aula** (decisione dell'autore).
 1. Il docente dice la parola e la esegue; il gruppo esegue con lui (2-3 min).
 2. Il docente dice la parola senza eseguirla; il gruppo esegue (3-5 min).
 3. Combinazioni nuove di parole note, a velocità diverse (3-5 min).
@@ -113,7 +112,7 @@ Il TPR usa consegne, ma nel metodo il tono resta quello del gioco e dell'intonaz
 >
 > La fonte presenta il TPR come apprendimento che "imprime le memorie muscolarmente" (SL1-A T23, r. 182-184).
 
-**Precauzioni.** Spazio sufficiente per i cambi di direzione (SIC-07).
+**Precauzioni.** Spazio sufficiente per i cambi di direzione.
 
 **Collegamenti.** S-49, S-18, S-21.
 
@@ -121,20 +120,20 @@ Il TPR usa consegne, ma nel metodo il tono resta quello del gioco e dell'intonaz
 
 🟨 **Tradizione** per la pratica (SL1-A T09) · 🟩 **Evidenza parziale** per la pratica mentale (VPS B9) · 🟥 **Speculativo** (non verificato) per il caso Drapeau · 🟥 **Non canonico** se dettata dal docente (r. 1440-1441)
 
-Origine: fonti · Decisione: D-12, nel metodo come nelle fonti, con la nota dell'autore · Fase del ciclo: fuori aula, elaborazione · Sicurezza: SIC-03
+Origine: fonti · Decisione: D-12, nel metodo come nelle fonti, con la nota dell'autore · Fase del ciclo: elaborazione, a fine lezione (02 §1.1); fuori aula · Sicurezza: SIC-03
 
 **Scopo.** Ripassare mentalmente una sequenza motoria.
 
-**Procedura.** La fonte non descrive una procedura: riporta che Christian Drapeau avrebbe vinto il titolo nordamericano di Tae Kwon Do "sostituendo gli allenamenti puramente fisici con studio autogeno e prove mentali" (SL1-A T09, r. 17-19). Lo "studio autogeno" è il training autogeno, che sta nel modulo sperimentale (S-64). Per la prova mentale la fonte non dà tempi; **Proposta, da confermare con l'autore:**
+**Procedura.** La fonte non descrive una procedura: riporta che Christian Drapeau avrebbe vinto il titolo nordamericano di Tae Kwon Do "sostituendo gli allenamenti puramente fisici con studio autogeno e prove mentali" (SL1-A T09, r. 17-19). Lo "studio autogeno" è il training autogeno, che sta nel modulo sperimentale (S-64). Per la prova mentale la fonte non dà tempi; quelli indicati sono **da validare in aula** (decisione dell'autore):
 1. L'allievo sceglie la sequenza da provare (30 s).
 2. La ripercorre mentalmente dall'inizio alla fine, con la musica in testa o in cuffia, a occhi aperti o chiusi a sua scelta (2-3 min).
 3. La ripete 2-3 volte; poi, se può, la esegue fisicamente (5 min).
 
-**Nota dell'autore.** La prova mentale al posto della pratica fisica rende meno della pratica fisica (Driskell, Copper, Moran 1994).
+**Nota dell'autore.** La prova mentale rende meglio insieme alla pratica fisica (Driskell, Copper, Moran 1994). Da sola si usa quando la pratica fisica è impossibile, per esempio per un infortunio o durante un viaggio.
 
-**Esempio tango.** Tra una lezione e l'altra, l'allievo ripercorre la sequenza del ciclo ascoltando la tanda di Di Sarli della lezione; nelle settimane di un piccolo infortunio la usa come complemento alla riabilitazione, non come sostituto della pratica.
+**Esempio tango.** A fine elaborazione, l'allievo ripercorre a mente la sequenza del ciclo con la tanda di Di Sarli della lezione in testa; tra una lezione e l'altra fa lo stesso a casa. Nelle settimane di un infortunio, quando non può ballare, la usa da sola.
 
-**Esempio Liu Zi Jue.** Nei giorni senza pratica l'allievo ripercorre mentalmente la sequenza con la traccia HQA, compresa la forma della bocca di ogni suono.
+**Esempio Liu Zi Jue.** A fine elaborazione, e nei giorni in cui non può praticare, per esempio in viaggio, l'allievo ripercorre mentalmente la sequenza con la traccia HQA, compresa la forma della bocca di ogni suono.
 
 **Spiegazione.** La pratica mentale migliora la prestazione rispetto a nessuna pratica, con effetti moderati che dipendono dal compito, ma meno della pratica fisica; le due insieme funzionano meglio (Driskell, Copper, Moran 1994, *J Appl Psychol* 79:481-492; Toth et al. 2020, *Psychol Sport Exerc* 48:101672). Il cervello di norma distingue l'immaginato dal reale (Dijkstra e Fleming 2023, *Nat Commun* 14:1627; VNF G3). Per Lozanov l'immaginazione dettata dal docente è induzione (r. 1440-1441, 1815-1820); quella autogestita non è trattata. Lo strumento convive con S-45, che ne è la versione dalla ricerca.
 
@@ -143,7 +142,6 @@ Origine: fonti · Decisione: D-12, nel metodo come nelle fonti, con la nota dell
 > Le fonti riportano il caso Drapeau come prova che le prove mentali possono sostituire l'allenamento fisico (SL1-A r. 17-19) e affermano che il cervello non distingue un evento vissuto da uno immaginato in modo vivido (SL1-C r. 1567-1568; DSS L520-521).
 
 **Precauzioni** (D-12).
-- Mai al posto della pratica fisica **[da chiarire con l'autore]**: il caso Drapeau la sostituisce. L'autore ha indicato la nota sopra. Il rischio concreto della sostituzione è decondizionamento, coordinazione insufficiente e infortuni al rientro (VPS 7.5).
 - Mai dettata come sequenza di sensazioni; occhi aperti o chiusi a scelta dell'allievo.
 - Il caso Drapeau si cita solo come aneddoto non verificato.
 
@@ -164,10 +162,10 @@ Origine: fonti. Non trattato da Lozanov; le mappe appese alle pareti diventano p
 **Procedura** (come nella fonte; SL1-A T20, r. 229-235). La fonte non dà tempi; quelli indicati sono una proposta.
 1. Un grande foglio; il tema al centro, come un fusto (1 min).
 2. Dal fusto si diramano le nozioni: rami principali per i blocchi, rami secondari per i dettagli (10-15 min).
-3. Inchiostri vivaci, matite colorate, pastelli profumati (la fonte cita mela e pino); concetti raggruppati in immagini enormi o ridicole (insieme al punto 2).
+3. Inchiostri vivaci, matite colorate, pastelli profumati (la fonte cita mela e pino; nel metodo pastelli normali, vedi sotto); concetti raggruppati in immagini enormi o ridicole (insieme al punto 2).
 4. Nel metodo la mappa si appende come percezione periferica (S-19) (1 min).
 
-Componente con decisione diversa (00 §2, regola delle componenti): i pastelli profumati sono uno stimolo olfattivo e seguono la decisione del contesto olfattivo, che è nel modulo sperimentale (S-76, D-29). Nel metodo si usano pastelli e matite senza profumo.
+Componente con decisione diversa (00 §2, regola delle componenti): i pastelli profumati sono uno stimolo olfattivo e stanno nel modulo sperimentale, con il contesto olfattivo (S-76; decisione dell'autore). Nel metodo si usano pastelli e matite normali.
 
 **Esempi tango** (D-29).
 - **L'albero delle figure.** Fusto: "abrazo". Rami: caminata (paralela, cruzada), ochos (adelante, atrás), giros (molinete, sacadas), cadencia, pausa. Accanto, il ramo delle orchestre con un'immagine per ciascuna: D'Arienzo un tamburo (compás marcato), Di Sarli un'onda lunga (melodia legata), Pugliese un temporale (contrasti e pause), Biagi un picchio (staccato), e poi Troilo, Canaro, Fresedo. Si fa a piccoli gruppi alla fine della lezione 2 e resta appesa per il ciclo.
@@ -188,7 +186,7 @@ Componente con decisione diversa (00 §2, regola delle componenti): i pastelli p
 
 🟨 **Tradizione** per la tecnica (SL1-A T20) · 🟩 **Evidenza parziale** per il metodo dei loci (Dresler et al. 2017) · 🟥 **Speculativo** (non verificato) per le varianti delle fonti
 
-Origine: fonti. Non trattato da Lozanov · Decisione: D-29, nel metodo · Fase del ciclo: elaborazione, fuori aula · Sicurezza: SIC-07
+Origine: fonti. Non trattato da Lozanov · Decisione: D-29, nel metodo · Fase del ciclo: elaborazione, fuori aula
 
 **Scopo.** Ricordare una sequenza collocandone gli elementi, in ordine, in luoghi conosciuti. È il "metodo dei loci" degli antichi oratori: si immagina di passare per le stanze di una casa e in ogni stanza si trova la cosa da ricordare.
 
@@ -209,7 +207,7 @@ Origine: fonti. Non trattato da Lozanov · Decisione: D-29, nel metodo · Fase d
 
 **Spiegazione.** Il metodo dei loci è usato dai mnemonisti allenati e ha prove sperimentali (Dresler et al. 2017, *Neuron* 93:1227-1235; citato in VNF I5). Le varianti delle fonti (statue "disarmoniche") non sono verificate.
 
-**Precauzioni.** Nella versione camminata, spazio libero e ronda ordinata (SIC-07).
+**Precauzioni.** Nella versione camminata, spazio libero e ronda ordinata.
 
 **Collegamenti.** S-39, S-42, S-49.
 
@@ -221,7 +219,7 @@ Origine: fonti · Decisione: D-29, nel metodo · Fase del ciclo: introduzione, e
 
 **Scopo.** Partire dal risultato finale e risalire ai componenti, con giochi di problem solving a ritroso e immedesimazione.
 
-**Procedura.** La fonte cita l'approccio di George Guthridge senza passi (SL1-A T24, r. 191-196): "approccio artistico e giochi di problem solving a ritroso, con immedesimazione". Procedura nel metodo, ricavata dall'ipotesi di applicazione dell'estrazione ("mostrare prima la figura completa danzata, poi risalire ai componenti"): **Proposta, da confermare con l'autore.**
+**Procedura.** La fonte cita l'approccio di George Guthridge senza passi (SL1-A T24, r. 191-196): "approccio artistico e giochi di problem solving a ritroso, con immedesimazione". Procedura nel metodo, ricavata dall'ipotesi di applicazione dell'estrazione ("mostrare prima la figura completa danzata, poi risalire ai componenti"): **da validare in aula** (decisione dell'autore).
 1. Mostrare il risultato finale intero, in musica (2-3 min).
 2. A coppie o in piccoli gruppi, risalire ai componenti: "che cosa deve succedere subito prima?" (5 min).
 3. Ricostruire e provare a ritroso, dall'ultima parte alla prima (10 min).
@@ -251,7 +249,7 @@ Origine: fonti · Decisione: D-29, nel metodo · Fase del ciclo: introduzione, e
 
 ## §C Integrazioni dalla ricerca
 
-Pratiche proposte dalla ricerca attuale e approvate dall'autore (`DECISIONI.md`, blocco H). Non vengono né da Lozanov né dalle fonti del Superlearning: per questo non hanno un'etichetta d'origine e cominciano, quando c'è, dal principio del canone a cui somigliano. Sono gli strumenti con le prove migliori di tutto il metodo. Alcuni riferimenti sono fuori dai file di verifica: sono segnati come tali (00 §5.5).
+Pratiche proposte dalla ricerca attuale e approvate dall'autore (`DECISIONI.md`, blocco H). Non vengono né da Lozanov né dalle fonti del Superlearning: per questo non hanno un'etichetta d'origine e cominciano, quando c'è, dal principio del canone a cui somigliano. Sono gli strumenti con le prove migliori di tutto il metodo.
 
 ### S-42 Distanziamento e richiamo attivo
 
@@ -274,7 +272,7 @@ Origine: INT-01 · Decisione: INT-01, approvata · Fase del ciclo: elaborazione,
 
 **Esempio corso universitario.** Brevi autotest facoltativi e non valutati, a distanza di giorni; la performance finale come richiamo.
 
-**Spiegazione.** Distanziare la ripresa del materiale migliora il ricordo a lungo termine, e l'intervallo ottimale cresce con il tempo per cui si vuole ricordare (Cepeda et al. 2006, *Psychol Bull* 132:354-380); provare a ricordare consolida più che rivedere (Roediger e Karpicke 2006, *Psychol Sci* 17:249-255, da ricontrollare; Adesope, Trevisan, Sundararajan 2017, *Rev Educ Res* 87:659-701). Nel motorio il principio è affine, con prove meno uniformi. Il ciclo canonico distribuisce già il materiale; la tensione con il canone (niente domande individuali, niente richiesta di memorizzare, r. 746-749) si risolve con il richiamo in gioco collettivo.
+**Spiegazione.** Distanziare la ripresa del materiale migliora il ricordo a lungo termine, e l'intervallo ottimale cresce con il tempo per cui si vuole ricordare (Cepeda et al. 2006, *Psychol Bull* 132:354-380); provare a ricordare consolida più che rivedere (Roediger e Karpicke 2006, *Psychol Sci* 17:249-255; Adesope, Trevisan, Sundararajan 2017, *Rev Educ Res* 87:659-701). Nel motorio il principio è affine, con prove meno uniformi. Il ciclo canonico distribuisce già il materiale; la tensione con il canone (niente domande individuali, niente richiesta di memorizzare, r. 746-749) si risolve con il richiamo in gioco collettivo.
 
 **Precauzioni.** Rischio di ansia da verifica se il richiamo diventa interrogazione.
 
@@ -295,9 +293,9 @@ Origine: INT-02 · Decisione: INT-02, approvata · Fase del ciclo: elaborazione
 
 **Esempio tango.** "Spingi il pavimento", "porta il partner verso la finestra", "disegna un cerchio a terra con il piede", invece di "piega il ginocchio" o "ruota l'anca".
 
-**Esempio Liu Zi Jue.** "Spingi l'aria come se fosse acqua" (Si), "allunga verso il punto lontano" (Xu), "la sfera tra le mani si allarga" (Hu). Avvertenza (INT-02): nel Qigong l'attenzione al corpo e al respiro è in parte contenuto della disciplina. Il focus esterno serve alla forma e alla coordinazione e non sostituisce il lavoro interiore che la tradizione prevede; il confine lo fissa l'autore (00 §6.1, punto 8).
+**Esempio Liu Zi Jue.** "Spingi l'aria come se fosse acqua" (Si), "allunga verso il punto lontano" (Xu), "la sfera tra le mani si allarga" (Hu). Avvertenza (INT-02): nel Qigong l'attenzione al corpo e al respiro è in parte contenuto della disciplina. Il focus esterno serve alla forma e alla coordinazione e non sostituisce il lavoro interiore che la tradizione prevede; respiro, quiete e immagini della forma seguono le regole delle pratiche di stato (decisione dell'autore; 02 §1.1).
 
-**Spiegazione.** Le meta-analisi trovano un vantaggio del focus esterno su prestazione e apprendimento motorio, variabile con il compito e il livello (Chua et al. 2021, *Psychol Bull* 147:618-645, da ricontrollare; Wulf e Lewthwaite 2016, *Psychon Bull Rev* 23:1382-1414; Wulf 2013, *Int Rev Sport Exerc Psychol* 6:77-104 [fuori dai file di verifica, da ricontrollare]). L'ansia peggiora il movimento anche perché sposta l'attenzione sul proprio corpo (VPS R-F2). Tensione con le fonti: la procedura Alexander (S-36) e molte indicazioni tradizionali di tango e Qigong sono a focus interno.
+**Spiegazione.** Le meta-analisi trovano un vantaggio del focus esterno su prestazione e apprendimento motorio, variabile con il compito e il livello (Chua et al. 2021, *Psychol Bull* 147:618-645; Wulf e Lewthwaite 2016, *Psychon Bull Rev* 23:1382-1414; Wulf 2013, *Int Rev Sport Exerc Psychol* 6:77-104). L'ansia peggiora il movimento anche perché sposta l'attenzione sul proprio corpo (VPS R-F2). Tensione con le fonti: la procedura Alexander (S-36) e molte indicazioni tradizionali di tango e Qigong sono a focus interno.
 
 **Precauzioni.** Nessuna.
 
@@ -321,7 +319,7 @@ Origine: INT-03 · Decisione: INT-03, approvata · Fase del ciclo: elaborazione
 
 **Esempio Liu Zi Jue.** La stessa forma verso direzioni diverse della sala, a velocità diverse, da fermi e in cammino, in spazi diversi (sala, aperto); He e Hu alternati invece di sei ripetizioni di uno e poi sei dell'altro, quando la sequenza standard è già nota.
 
-**Spiegazione.** La pratica variata peggiora un po' la prestazione immediata ma migliora ritenzione e trasferimento (Shea e Morgan 1979, *J Exp Psychol Hum Learn Mem* 5:179-187, da ricontrollare; Magill e Hall 1990, *Hum Mov Sci* 9:241-289 [fuori dai file di verifica, da ricontrollare]); l'alternanza aiuta a distinguere elementi simili (Brunmair e Richter 2019, *Psychol Bull* 145:1029-1052, da ricontrollare). Lozanov rifiuta di costruire abitudini elementari da smontare a ogni livello (r. 3124-3127, 3860-3872).
+**Spiegazione.** La pratica variata peggiora un po' la prestazione immediata ma migliora ritenzione e trasferimento (Shea e Morgan 1979, *J Exp Psychol Hum Learn Mem* 5:179-187; Magill e Hall 1990, *Hum Mov Sci* 9:241-289); l'alternanza aiuta a distinguere elementi simili (Brunmair e Richter 2019, *Psychol Bull* 145:1029-1052). Lozanov rifiuta di costruire abitudini elementari da smontare a ogni livello (r. 3124-3127, 3860-3872).
 
 **Precauzioni.** Con i principianti dosare la variazione per non scoraggiare.
 
@@ -355,7 +353,7 @@ Origine: INT-04. Non trattato da Lozanov come pratica autogestita · Decisione: 
 
 🟩 **Evidenza parziale** · Non trattato da Lozanov; distinta dal "conditioning" (r. 1824-1849)
 
-Origine: INT-05 · Decisione: INT-05, approvata · Fase del ciclo: preparazione, elaborazione, performance
+Origine: INT-05 · Decisione: INT-05, approvata · Fase del ciclo: elaborazione, performance
 
 **Scopo.** Una breve sequenza costante, scelta dall'allievo, prima di un gesto impegnativo: un respiro, sentire l'appoggio, uno sguardo, una parola chiave.
 
@@ -379,7 +377,7 @@ Origine: INT-05 · Decisione: INT-05, approvata · Fase del ciclo: preparazione,
 
 🟩 **Evidenza solida** per la riabilitazione vestibolare · 🟩 **Evidenza parziale** per i danzatori · Non trattato da Lozanov
 
-Origine: INT-06; comprende la "Danza dei canali semicircolari" delle fonti (MAN T6.2; SL1-C T12; DSS T6) · Decisione: INT-06, approvata con precauzioni · Fase del ciclo: preparazione · Sicurezza: SIC-01 (gruppi a rischio), SIC-07
+Origine: INT-06; comprende la "Danza dei canali semicircolari" delle fonti (MAN T6.2; SL1-C T12; DSS T6) · Decisione: INT-06, approvata con precauzioni · Fase del ciclo: elaborazione, prima del lavoro sui giri · Sicurezza: SIC-01 (gruppi a rischio)
 
 **Scopo.** Stabilizzare lo sguardo mentre la testa si muove e preparare i giri con lo "spotting".
 
@@ -407,14 +405,14 @@ Origine: INT-06; comprende la "Danza dei canali semicircolari" delle fonti (MAN 
 
 🟦 **Fonte classica** per il principio affine (r. 2802-2845, 3860-3915) · 🟩 **Evidenza solida** per l'effetto dell'ansia su prestazione e memoria · 🟥 **Speculativo** (non verificato) per il meccanismo (precisione delle aspettative, metastabilità)
 
-Origine: INT-07; traduzione operativa della cornice D-31 (01 §3) · Decisione: INT-07, approvata · Fase del ciclo: tutte · Sicurezza: SIC-03, SIC-04, SIC-05, SIC-06, SIC-07
+Origine: INT-07; traduzione operativa della cornice D-31 (01 §3) · Decisione: INT-07, approvata · Fase del ciclo: tutte · Sicurezza: SIC-03, SIC-04, SIC-05, SIC-06
 
 **Scopo.** Progettare lezione e sala perché nessuno si senta minacciato fisicamente, socialmente o nel contatto, senza togliere la sfida. È un principio di progettazione, non una terapia. È anche il punto in cui il secondo fondamento del metodo, il predictive coding (01 §3), diventa uno strumento concreto: un corpo che non prevede pericoli ha risorse libere per imparare.
 
 **Procedura** (verifica prima di ogni corso e di ogni lezione).
-1. **Fisica:** pavimento, spazio, calzature, luce, nessun ostacolo (SIC-07) (5 min prima della lezione).
+1. **Fisica:** pavimento, spazio, calzature, luce, nessun ostacolo (5 min prima della lezione).
 2. **Sociale:** nessuna esposizione forzata, nessuna correzione in pubblico, personaggi che "prendono" l'errore (S-16, S-59) (pianificazione).
-3. **Contatto:** consenso esplicito, scelta del partner, del ruolo e della distanza dell'abrazo, un modo semplice per dire di no (SIC-04).
+3. **Contatto:** consenso esplicito, scelta del partner, del ruolo e della distanza dell'abrazo, ruoli liberi da genere, un modo semplice per dire di no (SIC-04).
 4. **Sfida:** ogni compito sta al bordo delle capacità, "on the edge of knowledge" (r. 5753-5773, competenza 1).
 5. **Eccezione:** gli errori pericolosi si correggono subito e in modo diretto (SIC-06).
 6. **Dichiarazione:** all'inizio del corso, "questo corso non è una terapia" (SIC-05).
@@ -448,7 +446,7 @@ Origine: INT-08 · Decisione: INT-08, approvata · Fase del ciclo: elaborazione
 
 **Esempio corso universitario e formazione insegnanti.** Un gesto per "doppio piano" (due mani a livelli diversi), per "globale-parziale" (braccia aperte, poi un dito che indica), per "sicurezza percepita" (mani aperte verso il basso).
 
-**Spiegazione.** Eseguire l'azione indicata da una frase la fa ricordare meglio (g ≈ 1,23 negli studi comportamentali; Roberts, MacLeod, Fernandes 2022); i gesti legati alle parole aiutano il lessico straniero (Macedonia e Knösche 2011); Engelkamp 1998, *Memory for Actions* [fuori dai file di verifica, da ricontrollare]. Alcuni effetti più astratti di "cognizione incarnata" non si sono replicati.
+**Spiegazione.** Eseguire l'azione indicata da una frase la fa ricordare meglio (g ≈ 1,23 negli studi comportamentali; Roberts, MacLeod, Fernandes 2022); i gesti legati alle parole aiutano il lessico straniero (Macedonia e Knösche 2011); Engelkamp 1998, *Memory for Actions*. Alcuni effetti più astratti di "cognizione incarnata" non si sono replicati.
 
 **Precauzioni.** Nessuna.
 
@@ -463,16 +461,16 @@ Origine: INT-09 · Decisione: INT-09, approvata · Fase del ciclo: tutte
 **Scopo.** Specificare come si canta e si recita in coro nel metodo: il sistema delle canzoni (S-33) dice quando, questa scheda dice come.
 
 **Procedura.**
-1. **Tango.** Un tango cantato, con letra semplice, apre e chiude ogni lezione e il corso; le letras sono materiale linguistico e musicale; si cantano il compás e la sincope prima di camminarli; una canzone nuova per ciclo, ripresa nelle settimane seguenti (S-42) (3-5 min).
+1. **Tango.** Un tango cantato, con letra semplice, apre e chiude ogni lezione del ciclo; ogni ciclo ha la sua canzone, scelta dal docente, ripresa nelle settimane seguenti (S-42); le letras sono materiale linguistico e musicale; si cantano il compás e la sincope prima di camminarli (3-5 min).
 2. **Qigong.** Un canto breve d'apertura e di chiusura, anche nella lingua della tradizione; i nomi delle forme e i sei suoni recitati in coro; si evita la cantilena lenta e uniforme come mezzo d'induzione (r. 1394-1397) (3-5 min).
 3. **Corso universitario e formazione insegnanti.** Canzone d'apertura e di chiusura del modulo; letture corali di brevi testi (3-5 min).
 4. **Per tutti.** Nessuno è obbligato a cantare da solo.
 
-**Esempio tango.** Prima di camminare una milonga di Canaro il gruppo canta la sincope "pa-pa-PAM" battendo le mani; poi la cammina. L'estribillo della canzone del ciclo si canta in coro con il testo sul libretto.
+**Esempio tango.** Prima di camminare una milonga di Canaro il gruppo canta la sincope "pa-pa-PAM" battendo le mani; poi la cammina. L'estribillo della canzone del ciclo si canta in coro, a voce, dopo il docente.
 
-**Esempio Liu Zi Jue.** I sei suoni in coro, nell'ordine, con la forma della bocca mostrata dal docente: prima a voce udibile, poi più lievi. La progressione verso una pronuncia sempre più leggera va controllata sul manuale HQA **[da verificare]**.
+**Esempio Liu Zi Jue.** I sei suoni in coro, nell'ordine, con la forma della bocca mostrata dal docente: prima a voce udibile, poi più lievi.
 
-**Spiegazione.** Le melodie aiutano il ricordo parola per parola; cantare frasi in lingua straniera le fa ricordare meglio che dirle, anche in ritmo (Ludke, Ferreira, Overy 2014, *Mem Cognit* 42:41-52; Wallace 1994). Parlare da soli davanti agli altri è una delle fonti principali d'ansia nelle lingue e il coro riduce l'esposizione; il canto di gruppo favorisce un legame sociale rapido (Pearce, Launay, Dunbar 2015, da ricontrollare).
+**Spiegazione.** Le melodie aiutano il ricordo parola per parola; cantare frasi in lingua straniera le fa ricordare meglio che dirle, anche in ritmo (Ludke, Ferreira, Overy 2014, *Mem Cognit* 42:41-52; Wallace 1994). Parlare da soli davanti agli altri è una delle fonti principali d'ansia nelle lingue e il coro riduce l'esposizione; il canto di gruppo favorisce un legame sociale rapido (Pearce, Launay, Dunbar 2015).
 
 **Precauzioni.** Volume moderato, nessuno sforzo vocale.
 
@@ -491,13 +489,13 @@ Origine: INT-10 · Decisione: INT-10, approvata; pensata per il corso universita
 2. Misure iniziali: test di conoscenze o di abilità; STAI-Y di stato (con licenza d'uso) o una scala breve d'ansia (15-20 min).
 3. Misure alla fine del corso e dopo 4-8 settimane, con gli stessi strumenti (15-20 min ciascuna).
 4. Questionario anonimo su fatica e gradimento alla fine di ogni ciclo (5 min).
-5. Confronto con un'altra edizione o un altro gruppo (pianificazione).
+5. Confronto con un altro gruppo: nel corso universitario, un gruppo parallelo che riceve un insegnamento tradizionale dello stesso contenuto (02 §4.4) (pianificazione).
 
 **Esempio tango.** Video delle stesse sequenze all'inizio e alla fine, valutati da docenti che non sanno quale video è quale; scale brevi di ansia e fatica; ritenzione della sequenza dopo qualche settimana.
 
 **Esempio Liu Zi Jue.** Video della sequenza all'inizio e alla fine, valutati alla cieca sull'ordine, la forma della bocca e la coordinazione respiro-movimento; scala breve di fatica e gradimento.
 
-**Spiegazione.** Lo STAI (forma Y) è uno strumento standard con versione italiana, protetto da diritti (Spielberger 1983, da ricontrollare). Senza un confronto, i risultati restano esposti ad aspettative, novità, selezione dei partecipanti e valutazioni non cieche (McCambridge, Witton, Elbourne 2014, *J Clin Epidemiol* 67:267-277). L'EEG misura cambiamenti di attivazione, non un beneficio didattico, e non è una buona misura di risultato (VTN A9).
+**Spiegazione.** Lo STAI (forma Y) è uno strumento standard con versione italiana, protetto da diritti (Spielberger 1983). Senza un confronto, i risultati restano esposti ad aspettative, novità, selezione dei partecipanti e valutazioni non cieche (McCambridge, Witton, Elbourne 2014, *J Clin Epidemiol* 67:267-277). L'EEG misura cambiamenti di attivazione, non un beneficio didattico, e non è una buona misura di risultato (VTN A9).
 
 **Precauzioni.** Misure anonime e a basso peso per gli allievi; ansia da valutazione; protezione dei dati (06 §5).
 

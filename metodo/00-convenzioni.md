@@ -2,13 +2,13 @@
 
 **In breve.** Questo file è la cassetta degli attrezzi di chi scrive o legge il metodo. Spiega il sistema delle etichette a colori, lo stesso del progetto QIGONG dell'autore; elenca tutti gli strumenti con il loro codice (S-01–S-76) e la loro decisione; dice in quale file sta ogni cosa; fissa le regole di scrittura e raccoglie i punti che l'autore deve ancora decidere. Chiude con il glossario. Chi legge un altro file e trova un codice o un'etichetta che non capisce, viene qui.
 
-Regole comuni a tutti i file di `metodo/` e `applicazioni/`. Le decisioni dell'autore stanno in `DECISIONI.md` (44 schede, decise il 4 ottobre 2026) e in sintesi in `ricerca/decisioni-log.md`. Questo file le traduce in regole di scrittura: non prende decisioni nuove.
+Regole comuni a tutti i file di `metodo/` e `applicazioni/`. Le decisioni dell'autore stanno in `DECISIONI.md` (44 schede, decise il 4 ottobre 2026) e in sintesi in `ricerca/decisioni-log.md`. Le decisioni del 5 ottobre 2026 sui 34 punti aperti della revisione (`metodo/REVISIONE.md` §10) sono nella sezione "Punti aperti della revisione" dello stesso log. Questo file le traduce in regole di scrittura: non prende decisioni nuove.
 
 **Per chi scrive un file del metodo**
 1. Le etichette di ogni strumento si copiano dalla sezione 3 così come sono.
 2. Ogni strumento ha una sola scheda, nel file indicato nella sezione 3. Gli altri file lo citano con l'ID.
 3. Se questo file e `DECISIONI.md` non concordano, vale `DECISIONI.md`. Il conflitto si segnala, non si risolve da soli.
-4. I punti che l'autore non ha deciso (sezione 6) si scrivono come proposta, con la dicitura **Proposta, da confermare con l'autore**.
+4. I punti che l'autore non ha deciso (sezione 6) si scrivono come proposta, con la dicitura **Proposta, da confermare con l'autore**. I punti che l'autore definirà da sé si segnano **[DA DEFINIRE DALL'AUTORE]**.
 
 **Indice**
 1. Etichette
@@ -24,6 +24,8 @@ Regole comuni a tutti i file di `metodo/` e `applicazioni/`. Le decisioni dell'a
 ## 1. Etichette
 
 Il metodo è unico (decisione strutturale dell'autore). Ogni strumento, pratica o affermazione porta una o più etichette. Il sistema è lo stesso del progetto QIGONG dell'autore (`/home/user/QIGONG`): quattro colori, ognuno con un nome. Le etichette si combinano quando aspetti diversi dello stesso strumento hanno statuti diversi, come nel progetto QIGONG ("Fonte classica per mappa e terminologia, Tradizione per gli effetti energetici, Evidenza per gli effetti del respiro lento").
+
+**Raccordo con il progetto QIGONG.** I due progetti usano gli stessi colori e gli stessi nomi. Cambia solo il riferimento della 🟦 Fonte classica: nel progetto QIGONG indica i testi classici cinesi; nel Superapprendimento indica il libro di Lozanov del 2005 (decisione dell'autore).
 
 ### 1.1 Legenda
 
@@ -87,6 +89,7 @@ Valgono per affermazioni che non sono strumenti. La dicitura di statuto precede 
 | **Ipotesi teorica** | La cornice predictive coding e metastabilità (D-31) | 🟩 **Evidenza parziale** per i riferimenti e il nucleo cognitivo · 🟥 **Speculativo** (non verificato) per il meccanismo e per il movimento come training di metastabilità |
 | **Dichiarato dall'autore** | Risultati riportati da Lozanov (D-32) | 🟦 **Fonte classica** (r. NNNN), con la dicitura "dichiarato dall'autore". Corrisponde al livello C di `DECISIONI.md` |
 | **Proposta, da confermare con l'autore** | Punti aperti della sezione 6 | etichette dello strumento a cui la proposta si riferisce |
+| **Da validare in aula** | Procedure e tempi scritti dai redattori dove le fonti non danno passi o tempi, accettati dall'autore come base da provare in aula: procedure di S-21, S-37, S-41; tempi di S-36, S-38 | etichette dello strumento |
 
 I fatti storici documentati (date, istituzioni, pubblicazioni) non hanno bisogno di etichetta: corrispondono al livello A.
 
@@ -144,8 +147,8 @@ Origine: ... · Decisione: ... · Fase del ciclo: ... · Sicurezza: SIC-nn
 ```
 
 Regole:
-1. **Procedura.** Passi numerati, ognuno con la durata indicativa. Per gli strumenti "come nelle fonti" la procedura segue le estrazioni in `ricerca/estrazioni/` e ne cita sigla e righe; non si modifica. Quando la fonte non dà tempi, la scheda lo dice e propone tempi con la dicitura **Proposta, da confermare con l'autore**. Screening e precauzioni vanno nel campo "Precauzioni".
-2. **Fase del ciclo.** Una o più fasi tra: preparazione, introduzione, concerto, elaborazione, performance, fuori aula (02 §1).
+1. **Procedura.** Passi numerati, ognuno con la durata indicativa. Per gli strumenti "come nelle fonti" la procedura segue le estrazioni in `ricerca/estrazioni/` e ne cita sigla e righe; non si modifica. Quando la fonte non dà tempi, la scheda lo dice e propone tempi con la dicitura **da validare in aula**. Screening e precauzioni vanno nel campo "Precauzioni".
+2. **Fase del ciclo.** Una o più fasi tra: introduzione, concerto, elaborazione, performance, fuori aula (02 §1). Non c'è una fase di preparazione: per le pratiche di stato la scheda indica anche il punto preciso del ciclo (02 §1.1).
 3. **Esempi.** Ogni strumento con decisione "nel metodo" ha almeno un esempio di tango e uno di Liu Zi Jue, concreti e praticabili con un gruppo fino a 20 persone (10 coppie). Nel modulo sperimentale gli esempi si danno dove hanno senso.
 4. **Spiegazione.** Solo spiegazioni corrette (§5.2). Per gli elementi del canone prima Lozanov, poi la ricerca. Le tesi di Lozanov portano lo statuto "Tesi del fondatore".
 5. **Riquadro.** Solo se le fonti danno una spiegazione diversa da quella corretta (§1.5).
@@ -167,7 +170,7 @@ Nei casi dubbi la scheda descrive la procedura delle fonti e segnala in nota la 
 
 ### 3.1 Regole sugli ID
 
-- `S-nn` indica uno strumento o una pratica (76 in tutto). `SIC-nn` indica una procedura di sicurezza (7).
+- `S-nn` indica uno strumento o una pratica (76 in tutto). `SIC-nn` indica una procedura di sicurezza (SIC-01–SIC-06; SIC-03 è un principio, SIC-07 è stato eliminato).
 - Gli ID sono stabili. Uno strumento nuovo prende il primo numero libero dopo S-76; nessun ID si rinumera.
 - Titolo della scheda: `### S-22 Respirazioni con apnea`, con il nome esatto della tabella.
 - Citazione: la prima volta in un file "S-22 Respirazioni con apnea", poi "S-22".
@@ -183,8 +186,8 @@ Nei casi dubbi la scheda descrive la procedura delle fonti e segnala in nota la 
 | S-01 | Introduzione | canone: r. 3936-3998 (modello §5.4) | Canone. Base: nessuno studio specifico nei file di verifica | 02 §2 | 🟦 r. 3936-3998 · 🟥 non verificato |
 | S-02 | Concerto attivo | canone: r. 4021-4099 (modello §5.5) | Canone. Base: VPS C7 (nessuno studio isola il formato) | 02 §2 | 🟦 r. 4021-4099 · 🟥 non verificato |
 | S-03 | Concerto passivo | canone: r. 4100-4115 (modello §5.6) | Canone; musica dal programma ufficiale, cap. 31 (nota D-18). Base: VPS C7 | 02 §2 | 🟦 r. 4100-4115 · 🟥 non verificato |
-| S-04 | Concerto dimostrato (forma A) | adattamento proposto nel modello (§9.3, r. 761) del concerto canonico | D-27: nel metodo | 02 §2 | 🟦 r. 4021-4115 (concerto da cui deriva) · n.t. (adattamento) · 🟥 non verificato |
-| S-05 | Concerto in movimento come nelle fonti (forma C) | fonti: SL1-A T11; TM T5, T7; SL1-B T7 | D-27: nel metodo come nelle fonti | 02 §2 | 🟨 SL1-A T11, TM T7 · 🟥 non verificato · 🟥 non canonico (r. 1394-1397, 1855-1860) |
+| S-04 | Concerto dimostrato (forma A) | adattamento proposto nel modello (§9.3, r. 761) del concerto canonico | D-27: nel metodo; forma del ciclo 1 | 02 §2 | 🟦 r. 4021-4115 (concerto da cui deriva) · n.t. (adattamento) · 🟥 non verificato |
+| S-05 | Concerto in movimento come nelle fonti (forma C) | fonti: SL1-A T11; TM T5, T7; SL1-B T7 | D-27: nel metodo come nelle fonti; forma del ciclo 2 | 02 §2 | 🟨 SL1-A T11, TM T7 · 🟥 non verificato · 🟥 non canonico (r. 1394-1397, 1855-1860) |
 | S-06 | Elaborazione primaria e secondaria | canone: r. 4248-4369 (modello §5.8) | Canone. Base: VPS §8 (distanziamento e richiamo) | 02 §2 | 🟦 r. 4248-4369 · 🟩 parziale |
 | S-07 | Performance degli allievi | canone: r. 3932-3935, 3958-3965, 4463-4468 | Canone. Base: VPS C3 | 02 §2 | 🟦 r. 3932-3935, 4463-4468 · 🟩 parziale |
 | S-08 | Struttura globale-parziale e dettagli sul secondo piano | canone: r. 2932-3077, 3129-3138, 5846-5847 | Canone. Base: nessuno studio specifico nei file di verifica | 02 §3 | 🟦 r. 2932-3077 · 🟥 non verificato |
@@ -192,7 +195,7 @@ Nei casi dubbi la scheda descrive la procedura delle fonti e segnala in nota la 
 | S-10 | Alternanza dei tempi e sezione aurea | canone: r. 885-908, 4422-4435 | Canone. Base: VPS T11 | 02 §3 | 🟦 r. 885-908, 4422-4435 · 🟥 non verificato (alternanza) · 🟥 contraddetto (sezione aurea come legge) |
 | S-11 | Verifiche facili e soglia del 70-75% | canone: r. 4453-4459, 4986-5084, 5143-5178 | Canone. Base: VPS C5 | 02 §3 | 🟦 r. 4453-4459 · 🟩 parziale |
 | S-12 | Lettura informativa facoltativa | canone: r. 4479-4481 | Canone (niente compiti obbligatori). Base: VPS C4 | 02 §3 | 🟦 r. 4479-4481 · 🟩 parziale |
-| S-13 | Corsi adattivi | canone: r. 2460-2469 | Canone; contenuto non descritto nel libro (§6, punto 4) | 02 §3 | 🟦 r. 2460-2469 |
+| S-13 | Corsi adattivi | canone: r. 2460-2469 | Canone; contenuto non descritto nel libro; nel metodo milonga-ponte (tango) e pratica all'aperto senza docente (Liu Zi Jue) | 02 §3 | 🟦 r. 2460-2469 |
 | S-14 | Controllo della fatica | canone: r. 561-562; r. 5491-5494 (F. Beer, riportato nel libro) | Canone | 02 §3 | 🟦 r. 561-562 |
 
 ### 3.3 Catalogo, parte 1: gioco, stato, suggestione, voce, comunicazione (03a)
@@ -209,11 +212,8 @@ Nei casi dubbi la scheda descrive la procedura delle fonti e segnala in nota la 
 | S-22 | Respirazioni con apnea | fonti: SL1-A T04-T07; MAN A.3; SL1-B T3; TM T3; TLT R-T1 | D-05: nel metodo come nelle fonti, screening obbligatorio | 03a §B | 🟨 SL1-A T04-T07 · 🟩 parziale (respiro lento senza apnee) · 🟥 contraddetto (ossigeno) · 🟥 non canonico (r. 1407-1416) |
 | S-23 | Rilassamento progressivo e Scan and Relax | fonti: SL1-A T01-T02; MAN A.1; SL1-C sez. 2.4 | D-08: nel metodo come nelle fonti | 03a §B | 🟨 SL1-A T01-T02 · 🟩 parziale (ansia) · 🟥 non canonico (r. 1427-1428, 1626-1632) |
 | S-24 | Visualizzazioni guidate (discesa cromatica, viaggio calmante) | fonti: SL1-A T08; MAN A.4; DSS T23-bis | D-10: nel metodo come nelle fonti | 03a §B | 🟨 SL1-A T08 · 🟥 contraddetto · 🟥 non canonico (r. 1440-1441) |
-| S-25 | Image Streaming | fonti: SL1-A T21; MAN A.8; SL1-B T10; TM T10 | D-10: nel metodo come nelle fonti | 03a §B | 🟨 SL1-A T21 · 🟩 parziale (verbalizzazione) · 🟥 contraddetto (promesse) · 🟥 non canonico (r. 1407-1416) |
-| S-26 | Ancoraggi emotivi | fonti: SL1-A T18; MAN A.6, T6.5; SL1-C T10, T15; DSS T25-T26 | D-15: nel metodo come nelle fonti | 03a §B | 🟨 SL1-A T18 · 🟩 parziale (routine) · 🟥 non verificato (ancora) · 🟥 non canonico (r. 1400-1406, 1824-1849) |
-| S-27 | Audio notturni e apprendimento nel sonno | fonti: SL1-A T28, T30; SL1-B T17; MAN A.11, T6.4; DSS T17-T19 | D-13: nel metodo come nelle fonti, consenso informato obbligatorio | 03a §C | 🟨 SL1-A T28 · 🟥 contraddetto · 🟥 non canonico (r. 1600-1624) |
-| S-28 | Messaggi subliminali | fonti: SL1-A T29; SL1-B T18; DSS T20 | D-13: come sopra | 03a §C | 🟨 SL1-A T29 · 🟥 contraddetto · 🟥 non canonico (r. 1400-1406, 2232-2264) |
-| S-29 | Dial Direct 1-800-SUB | fonti: SL1-A T32 | D-13: come sopra | 03a §C | 🟨 SL1-A T32 · 🟥 contraddetto · 🟥 non canonico (r. 1440-1441) |
+| S-25 | Image Streaming | fonti: SL1-A T21; MAN A.8; SL1-B T10; TM T10 | D-10: nel metodo come nelle fonti, senza lampadina | 03a §B | 🟨 SL1-A T21 · 🟩 parziale (verbalizzazione) · 🟥 contraddetto (promesse) · 🟥 non canonico (r. 1407-1416) |
+| S-26 | Ancoraggi emotivi | fonti: SL1-A T18; MAN A.6, T6.5; SL1-C T10, T15; DSS T25-T26 | D-15: nel metodo come nelle fonti, ricordo personale facoltativo | 03a §B | 🟨 SL1-A T18 · 🟩 parziale (routine) · 🟥 non verificato (ancora) · 🟥 non canonico (r. 1400-1406, 1824-1849) |
 | S-30 | Intonazione oscillante | canone: r. 2709-2712, 2740-2741, 4021-4099 | D-24: nel metodo. Base: VPS T12 | 03a §D | 🟦 r. 2709-2712 · 🟩 parziale |
 | S-31 | Tre toni fissi | fonti: SL1-A T16; MAN A.5; TM T7, T9; TLT R-T4 | D-24: variante opzionale di S-30 | 03a §D | 🟨 SL1-A T16 · 🟩 parziale (variazione della voce) · 🟥 non verificato (tre toni) · 🟥 non canonico (tono imperativo, r. 4089-4091) |
 | S-32 | Conteggio a ruoli alternati | proposta dell'autore (D-27b) | D-27b: nel metodo | 03a §D | n.t. · 🟥 non verificato |
@@ -226,6 +226,8 @@ Nei casi dubbi la scheda descrive la procedura delle fonti e segnala in nota la 
 
 S-57–S-60 erano assegnati a 05 nella prima versione di questo file. Le schede stanno ora in 03a §E (comunicazione); 05 li tratta dal punto di vista del docente e rimanda alle schede. Gli ID non cambiano.
 
+S-27–S-29 stavano in 03a §C. Per decisione dell'autore (5 ottobre 2026) stanno nel modulo sperimentale, in 07 §3, e sono nella tabella 3.7; 03a §C rimanda a 07. Gli ID non cambiano.
+
 ### 3.4 Catalogo, parte 2: corpo, memoria, integrazioni (03b)
 
 | ID | Strumento | Origine | Decisione | File | Etichette |
@@ -234,7 +236,7 @@ S-57–S-60 erano assegnati a 05 nella prima versione di questo file. Le schede 
 | S-36 | Tecnica Alexander | fonti: SL1-B T14; DSS T4 | D-28: nel metodo come nelle fonti | 03b §A | 🟨 SL1-B T14 · 🟩 parziale · 🟥 contraddetto (flusso energetico, immunità) · n.t. |
 | S-37 | TPR (Total Physical Response) | fonti: SL1-A T23 | D-29: nel metodo | 03b §A | 🟨 SL1-A T23 · 🟩 solida (memoria di azioni) · 🟩 parziale (lessico) · n.t. |
 | S-38 | Prova mentale come nelle fonti | fonti: SL1-A T09 | D-12: nel metodo come nelle fonti | 03b §A | 🟨 SL1-A T09 · 🟩 parziale (pratica mentale) · 🟥 non verificato (caso Drapeau) · 🟥 non canonico se dettata (r. 1440-1441) |
-| S-39 | Mappe mentali | fonti: SL1-A T20 | D-29: nel metodo | 03b §B | 🟨 SL1-A T20 · 🟥 non verificato · n.t. |
+| S-39 | Mappe mentali | fonti: SL1-A T20 | D-29: nel metodo, con pastelli normali; i profumati con S-76 | 03b §B | 🟨 SL1-A T20 · 🟥 non verificato · n.t. |
 | S-40 | Palazzo della memoria | fonti: SL1-A T20 | D-29: nel metodo | 03b §B | 🟨 SL1-A T20 · 🟩 parziale (metodo dei loci) · 🟥 non verificato (varianti delle fonti) · n.t. |
 | S-41 | Istruzione inversa | fonti: SL1-A T24 | D-29: nel metodo | 03b §B | 🟨 SL1-A T24 · 🟦 principio affine r. 2932-2933 · 🟩 parziale (fatto storico) · 🟥 non verificato (tecnica) |
 | S-42 | Distanziamento e richiamo attivo | INT-01 | INT-01: approvata | 03b §C | 🟦 principio affine r. 4248-4369 · 🟩 solida |
@@ -266,6 +268,9 @@ Il file 05 non contiene schede. Tratta le condizioni canoniche del docente (pres
 
 | ID | Strumento | Origine | Decisione | File | Etichette |
 |---|---|---|---|---|---|
+| S-27 | Audio notturni e apprendimento nel sonno | fonti: SL1-A T28, T30; SL1-B T17; MAN A.11, T6.4; DSS T17-T19 | D-13: modulo sperimentale (decisione aggiornata il 2026-10-05), consenso informato obbligatorio | 07 §3 | 🟨 SL1-A T28 · 🟥 contraddetto · 🟥 non canonico (r. 1600-1624) |
+| S-28 | Messaggi subliminali | fonti: SL1-A T29; SL1-B T18; DSS T20 | D-13: come sopra | 07 §3 | 🟨 SL1-A T29 · 🟥 contraddetto · 🟥 non canonico (r. 1400-1406, 2232-2264) |
+| S-29 | Dial Direct 1-800-SUB | fonti: SL1-A T32 | D-13: come sopra | 07 §3 | 🟨 SL1-A T32 · 🟥 contraddetto · 🟥 non canonico (r. 1440-1441) |
 | S-61 | Integratori e sostanze | fonti: SL1-A T33-T39 | D-01: modulo sperimentale, solo informativo, rinvio obbligatorio al medico | 07 §2 | 🟨 SL1-A T33-T39 · 🟩 parziale (carenze; tirosina in stress estremo) · 🟥 contraddetto · 🟥 non canonico (r. 1420-1421, 5811-5812) |
 | S-62 | Elettrostimolazione cranica e microcorrenti | fonti: SL1-A T40-T41; MAN schede 8-10, A.6; TM D11 | D-03: modulo sperimentale, solo su indicazione medica personale | 07 §2 | 🟨 SL1-A T40-T41 · 🟩 parziale (CES e ansia, prove deboli) · 🟥 contraddetto · 🟥 non canonico (r. 1420-1421, 2046-2047) |
 | S-63 | Lavoro su memorie traumatiche e riprogrammazione | fonti: SL1-A T31; SL1-B T19; MAN A.12; SL1-C T9; DSS T21, T23 | D-06: modulo sperimentale, solo con un professionista della salute mentale abilitato presente | 07 §2 | 🟨 SL1-A T31, MAN A.12 · 🟩 parziale (imagery rescripting clinico) · 🟥 contraddetto · 🟥 non canonico (r. 1400-1406, 2046-2047) |
@@ -281,22 +286,27 @@ Il file 05 non contiene schede. Tratta le condizioni canoniche del docente (pres
 | S-73 | Cicli ritmici di 8 e 12 secondi, unità di 7-9 parole, sessioni di 13 minuti | fonti: SL1-A T13-T15; MAN A.5, PR2; SL1-B T6; TM T9, D1 | D-23: modulo sperimentale (nocciolo in S-52) | 07 §5 | 🟨 SL1-A T13-T15 · 🟩 parziale (pause motorie) · 🟥 contraddetto · 🟥 non canonico (r. 1830-1832, 4037-4060) |
 | S-74 | Infinity Walk come test | fonti: DSS T3; SL1-C T3 | D-25: modulo sperimentale | 07 §5 | 🟨 DSS T3 · 🟥 contraddetto · n.t. (tensione con r. 2046-2047) |
 | S-75 | Mappature diagnostiche | fonti: SL1-C T1-T5; DSS T7-T10; MAN scheda 5 | D-26: modulo sperimentale, autosservazione e non diagnosi | 07 §5 | 🟨 SL1-C T1-T5 · 🟥 non verificato (ciclo nasale) · 🟥 contraddetto · n.t. (contrasto con r. 2046-2047, 2417-2419) |
-| S-76 | Contesto olfattivo | fonti: SL1-A T25 | D-29: modulo sperimentale | 07 §5 | 🟨 SL1-A T25 · 🟩 parziale · n.t. |
+| S-76 | Contesto olfattivo | fonti: SL1-A T25 | D-29: modulo sperimentale, con i pastelli profumati di S-39 | 07 §5 | 🟨 SL1-A T25 · 🟩 parziale · n.t. |
 
 ### 3.8 Note di decisione da rispettare nelle schede
 
 - **S-03, S-69 (D-18).** Il concerto passivo usa il programma ufficiale (Lozanov 2005, cap. 31, r. 4118-4246). Il barocco lento a 60 BPM è una playlist separata, nel modulo sperimentale.
-- **S-04, S-05 (D-27).** L'autore ha messo nel metodo la forma A e la forma C. La forma B proposta dall'analista (movimento libero) non è stata scelta e non compare. La forma C porta l'etichetta 🟥 Non canonico perché il movimento è sincronizzato e guidato dalla voce.
-- **S-22 (D-05).** Screening delle controindicazioni obbligatorio (SIC-01). Il ciclo di 12 secondi legato alla lettura appartiene a S-73.
-- **S-26, S-46 (D-15, INT-05).** Convivono. S-46 si chiama "routine", non "ancora".
-- **S-27, S-28, S-29 (D-13).** Consenso informato obbligatorio, con i contenuti dichiarati ai partecipanti (SIC-02).
+- **S-04, S-05 (D-27).** L'autore ha messo nel metodo la forma A e la forma C. La forma B proposta dall'analista (movimento libero) non è stata scelta e non compare. La forma C porta l'etichetta 🟥 Non canonico perché il movimento è sincronizzato e guidato dalla voce. Decisioni del 5 ottobre 2026: forma A nel ciclo 1, forma C sincrona, come nelle fonti, nel ciclo 2; ogni movimento dell'opera corrisponde a un gruppo di figure; il testo del concerto è solo a voce, senza libretto.
+- **S-03 (canone, decisione del 5 ottobre 2026).** Volume del concerto passivo moderato: si può parlare a voce normale. Le sessioni del programma si usano in ordine (ciclo 1 = sessione 1); dentro la sessione il docente sceglie l'opera di durata adatta (04 §2.2).
+- **S-22 (D-05).** Screening delle controindicazioni obbligatorio (SIC-01): è l'unica precauzione. Pattern come nelle fonti, in piedi o seduti a scelta; si propone prima della performance (decisioni del 5 ottobre 2026). Il ciclo di 12 secondi legato alla lettura appartiene a S-73.
+- **S-23 (D-08).** Come nelle fonti, con l'onda calda, le rotazioni del collo e la posizione sdraiata; 2-3 minuti subito prima del concerto passivo.
+- **S-24, S-25 (D-10).** Conduce il docente, in gruppo. Image Streaming senza lampadina: occhi aperti, immagini descritte a voce. Si usano nelle elaborazioni, come ripasso. Nel Liu Zi Jue S-24 è sostituito dalla quiete in piedi della preparazione HQA.
+- **S-26, S-46 (D-15, INT-05).** Convivono. S-46 si chiama "routine", non "ancora". S-26 come nelle fonti, con il ricordo personale facoltativo (in alternativa una scena di ballo o di pratica immaginata); si usa prima del lavoro sui giri e prima della performance.
+- **S-27, S-28, S-29 (D-13).** Modulo sperimentale (decisione aggiornata il 2026-10-05). Consenso informato obbligatorio, con i contenuti dichiarati ai partecipanti (SIC-02).
 - **S-30, S-31 (D-24).** Specifica dell'autore: voce variabile, mai di comando; lo stesso passo proposto in tre qualità dinamiche. I tre toni fissi sono una variante opzionale **nel metodo**, non nel modulo sperimentale; il tono imperativo contrasta con il canone (r. 4089-4091).
 - **S-32 (D-27b).** Proposta dell'autore: il docente canta la melodia e gli allievi contano i tempi, o viceversa. Il conteggio prodotto dagli allievi è attivo e non è induzione da voce monotona. Nella scheda si cita il segnale d'allarme canonico del conteggio costante (r. 1845-1849) e la risposta dell'autore.
-- **S-35 (D-25).** Teoria emisferica nel testo con etichetta 🟥 Speculativo (contraddetto) (§1.5, regola 7). Uso come test: solo S-74.
+- **S-35 (D-25).** Teoria emisferica nel testo con etichetta 🟥 Speculativo (contraddetto) (§1.5, regola 7). Uso come test: solo S-74. Passo e appoggi come nelle fonti; doppio compito da soli, o in coppia solo in uno spazio ampio.
 - **S-36 (D-28).** "Flusso energetico" e "immunità" portano l'etichetta 🟥 Speculativo (contraddetto).
-- **S-38, S-45 (D-12, INT-04).** Convivono. Nella scheda S-38 va la nota dell'autore: la prova mentale al posto della pratica fisica rende meno della pratica fisica (Driskell, Copper, Moran 1994).
+- **S-38, S-45 (D-12, INT-04).** Convivono. Nella scheda S-38 va la nota dell'autore: la prova mentale rende meglio insieme alla pratica fisica (Driskell, Copper, Moran 1994); da sola si usa quando la pratica fisica è impossibile (infortunio, viaggio). S-38 si propone a fine elaborazione.
 - **S-16, S-67 (D-16).** Le nuove identità del canone sono nel metodo; la reincarnazione artificiale di Raikov è nel modulo sperimentale. Le due schede si distinguono in modo esplicito.
-- **S-21, S-34, S-37, S-39, S-40, S-41 (D-29).** L'autore chiede esempi concreti di tango e di Liu Zi Jue per ciascuna tecnica.
+- **S-21, S-34, S-37, S-39, S-40, S-41 (D-29).** L'autore chiede esempi concreti di tango e di Liu Zi Jue per ciascuna tecnica. Le procedure di S-21, S-37, S-41 e i tempi di S-36, S-38 sono **da validare in aula**. In S-39 si usano pastelli normali; i pastelli profumati stanno nel modulo sperimentale con S-76.
+- **Liu Zi Jue (decisione del 5 ottobre 2026).** Respiro, quiete e immagini della forma seguono le stesse regole delle pratiche di stato del metodo: offerta, screening (SIC-01), libertà di non partecipare (02 §1.1).
+- **S-15 (canone, decisione del 5 ottobre 2026).** Giochi-progetto: "Una noche en el club" nel tango, con le carte d'identità; "La giornata aperta" nel Liu Zi Jue. Nessun gioco-progetto nella formazione insegnanti e nel corso universitario.
 - **S-42 (INT-01).** Richiamo a coppie o in gioco, mai come interrogazione individuale.
 - **S-47 (INT-06).** Precauzioni per vertigini e disturbi vestibolari.
 - **S-50 (INT-09).** Tango: tanghi cantati. Qigong: i suoni del Liu Zi Jue.
@@ -309,17 +319,17 @@ Il file 05 non contiene schede. Tratta le condizioni canoniche del docente (pres
 
 ### 3.9 Procedure di sicurezza
 
-Le procedure non sono strumenti didattici: si descrivono in 06 §2 e le schede le citano nel campo "Sicurezza".
+Le procedure non sono strumenti didattici: si descrivono in 06 §2 e le schede le citano nel campo "Sicurezza". Per decisione dell'autore (5 ottobre 2026) la procedura di invio, il segnale di uscita e gli standard di sala sono eliminati; la libertà di non partecipare resta come principio canonico (SIC-03).
 
 | ID | Procedura | Base | Si applica a |
 |---|---|---|---|
-| SIC-01 | Screening delle controindicazioni | D-05; gruppi a rischio delle schede di `DECISIONI.md` | S-22 (obbligatorio). Le schede S-23, S-24, S-25, S-26, S-29, S-35, S-47 e, nel modulo sperimentale, S-64, S-74, S-76 riportano i gruppi a rischio indicati in `DECISIONI.md` |
-| SIC-02 | Consenso informato | D-13; D-10 (precauzioni); INT-10; `DECISIONI.md` §3.4 | S-27, S-28, S-29 (obbligatorio, contenuti dichiarati); S-24 e versione guidata di S-25 (precauzioni D-10); S-51 (raccolta di dati); modulo sperimentale (07 §1) |
-| SIC-03 | Libertà di non partecipare e di interrompere | r. 1774-1775; INT-07 | tutti gli strumenti |
-| SIC-04 | Consenso al contatto e scelta del partner | D-31 (precauzioni); INT-07 | lavoro in coppia, tango |
-| SIC-05 | Il docente non è un terapeuta: dichiarazione e invio | r. 2046-2047, 3334-3336; D-31; D-06 | tutto il metodo; S-63 |
+| SIC-01 | Screening per autoesclusione, con un questionario anonimo | D-05; gruppi a rischio delle schede di `DECISIONI.md`; decisione dell'autore del 5 ottobre 2026 | S-22 (obbligatorio). Le schede S-23, S-24, S-25, S-26, S-35, S-47 e, nel modulo sperimentale, S-29, S-64, S-74, S-76 riportano i gruppi a rischio indicati in `DECISIONI.md`. Respiro, quiete e immagini del Liu Zi Jue (02 §1.1) |
+| SIC-02 | Consenso informato | D-13; D-10 (precauzioni); INT-10; `DECISIONI.md` §3.4 | S-24 e versione A di S-25 (precauzioni D-10); S-51 (raccolta di dati); modulo sperimentale (07 §1), con S-27, S-28, S-29 (obbligatorio, contenuti dichiarati) |
+| SIC-03 | Libertà di non partecipare: principio canonico, non procedura | r. 782-783, 1774-1775, 3965-3966; INT-07 | tutti gli strumenti |
+| SIC-04 | Consenso al contatto e scelta del partner | D-31 (precauzioni); INT-07; decisione dell'autore del 5 ottobre 2026 | lavoro in coppia, tango |
+| SIC-05 | Il docente non è un terapeuta: dichiarazione | r. 2046-2047, 3334-3336; D-31; D-06 | tutto il metodo; S-63 |
 | SIC-06 | Correzione diretta degli errori pericolosi | INT-07 | eccezione a S-59 |
-| SIC-07 | Condizioni della sala (spazio, pavimento, luci, volume) | INT-06, INT-07, D-25 (precauzioni); §6, punto 18 | S-02, S-03 (volume), S-05, S-35, S-47, tango |
+| SIC-07 | Eliminato per decisione dell'autore (5 ottobre 2026): erano gli standard di sala. L'ID non si riusa | — | — |
 
 ### 3.10 Elementi senza ID
 
@@ -349,13 +359,13 @@ Le procedure non sono strumenti didattici: si descrivono in 06 §2 e le schede l
 |---|---|---|---|
 | 00 | `metodo/00-convenzioni.md` | etichette, ID, mappa, regole di scrittura, glossario | nessuna |
 | 01 | `metodo/01-fondamenti-e-principi.md` | che cos'è il metodo; canone di Lozanov tradotto per la didattica corporea; predictive coding e metastabilità come fondamento centrale; come si incontrano; che cosa esclude il canone; storia | nessuna |
-| 02 | `metodo/02-ciclo-didattico.md` | ciclo (preparazione e quattro fasi canoniche); regia della lezione; formati e gruppi con scalette; lezione modello | S-01–S-14 |
-| 03a | `metodo/03a-catalogo-strumenti-stato-suggestione-voce.md` | gioco, ruolo e ambiente; stato; sonno e subliminale; voce e canto; comunicazione | S-15–S-34, S-57–S-60 |
+| 02 | `metodo/02-ciclo-didattico.md` | ciclo (quattro fasi canoniche, con le pratiche di stato dentro le fasi); regia della lezione; formati e gruppi con scalette; lezione modello | S-01–S-14 |
+| 03a | `metodo/03a-catalogo-strumenti-stato-suggestione-voce.md` | gioco, ruolo e ambiente; stato; rimando a sonno e subliminale (07); voce e canto; comunicazione | S-15–S-26, S-30–S-34, S-57–S-60 |
 | 03b | `metodo/03b-catalogo-strumenti-corpo-memoria-integrazioni.md` | corpo; memoria; integrazioni dalla ricerca (INT) | S-35–S-52 |
 | 04 | `metodo/04-musica.md` | criteri; programma dei concerti; musica delle discipline e canzoni; strumenti musicali delle fonti; rimandi al modulo sperimentale | S-53–S-56 |
 | 05 | `metodo/05-il-docente.md` | condizioni; posizione comunicativa; voce e corpo del docente; correzione; gruppo; che cosa il docente non fa; 14 competenze; formazione | nessuna (rimandi a S-30, S-31, S-57–S-60) |
-| 06 | `metodo/06-sicurezza-ed-etica.md` | principi; procedure; screening e consenso; precauzioni per strumento; invio; privacy e ricerca | SIC-01–SIC-07 |
-| 07 | `metodo/07-modulo-sperimentale.md` | regole del modulo; schede; elenco degli elementi fuori dal metodo | S-61–S-76 |
+| 06 | `metodo/06-sicurezza-ed-etica.md` | principi; procedure; screening e consenso; precauzioni per strumento; segnali d'allarme; privacy e ricerca | SIC-01–SIC-06 |
+| 07 | `metodo/07-modulo-sperimentale.md` | regole del modulo; schede; elenco degli elementi fuori dal metodo | S-27–S-29, S-61–S-76 |
 | AT | `applicazioni/tango.md` | ciclo, esempi e lezioni per il tango | nessuna |
 | AQ | `applicazioni/qigong-liu-zi-jue.md` | ciclo, esempi e lezioni per il Liu Zi Jue | nessuna |
 | AF | `applicazioni/formazione-insegnanti.md` | percorso per docenti | nessuna |
@@ -366,15 +376,15 @@ Le procedure non sono strumenti didattici: si descrivono in 06 §2 e le schede l
 Le sezioni indicate qui sono quelle citate nella colonna "File" della sezione 3. Chi scrive può aggiungere sottosezioni, non spostare le schede.
 
 - **01.** §1 Che cos'è il Superapprendimento · §2 Il canone di Lozanov tradotto per la didattica corporea · §3 Predictive coding e metastabilità (fondamento centrale, ipotesi teorica) · §4 Due fondamenti, un metodo · §5 Che cosa esclude il canone · §6 Storia essenziale
-- **02.** §1 Il ciclo · §2 Le fasi (S-01–S-07) · §3 Regia della lezione (S-08–S-14) · §4 Formati e gruppi (lezione settimanale, workshop intensivo, corso universitario; fino a 20 persone) · §5 Lezione modello (D-33)
-- **03a.** §A Gioco, ruolo e ambiente (S-15–S-21) · §B Stato (S-22–S-26) · §C Sonno e subliminale (S-27–S-29) · §D Voce e canto (S-30–S-34) · §E Comunicazione (S-57–S-60; raccordo sul prestigio)
+- **02.** §1 Il ciclo (§1.1 Le pratiche di stato dentro il ciclo) · §2 Le fasi (S-01–S-07) · §3 Regia della lezione (S-08–S-14) · §4 Formati e gruppi (lezione settimanale di 90 minuti, workshop di 2 giorni, corso universitario di 4 incontri; fino a 20 persone) · §5 Lezione modello (D-33)
+- **03a.** §A Gioco, ruolo e ambiente (S-15–S-21) · §B Stato (S-22–S-26) · §C Sonno e subliminale (rimando a 07) · §D Voce e canto (S-30–S-34) · §E Comunicazione (S-57–S-60; raccordo sul prestigio)
 - **03b.** §A Corpo (S-35–S-38) · §B Memoria (S-39–S-41) · §C Integrazioni dalla ricerca (S-42–S-52)
 - **04.** §1 Criteri · §2 Programma dei concerti (cap. 31) · §3 Musica delle discipline e canzoni (tango, Liu Zi Jue) · §4 Strumenti musicali delle fonti (S-53–S-56) · §5 Rimandi al modulo sperimentale (S-69–S-72)
 - **05.** §1 Condizioni (prestigio, aspettativa, amore) · §2 Posizione comunicativa · §3 Voce e corpo del docente · §4 Correzione · §5 Il gruppo fino a 20 · §6 Che cosa il docente non fa · §7 Le 14 competenze · §8 Formazione e certificazione
-- **06.** §1 Principi (il docente non è un terapeuta; sicurezza percepita, S-48) · §2 Procedure (SIC-01–SIC-07) · §3 Precauzioni per strumento · §4 Segnali d'allarme e invio · §5 Privacy e ricerca universitaria
-- **07.** §1 Regole del modulo · §2 Salute e clinica (S-61–S-63) · §3 Stato e suggestione (S-64–S-68) · §4 Musica (S-69–S-72) · §5 Formato e diagnosi (S-73–S-76) · §6 Fuori dal metodo
+- **06.** §1 Principi (il docente non è un terapeuta; sicurezza percepita, S-48) · §2 Procedure (SIC-01–SIC-06) · §3 Precauzioni per strumento · §4 Segnali d'allarme · §5 Privacy e ricerca universitaria
+- **07.** §1 Regole del modulo · §2 Salute e clinica (S-61–S-63) · §3 Stato e suggestione (S-64–S-68; sonno e subliminale, S-27–S-29) · §4 Musica (S-69–S-72) · §5 Formato e diagnosi (S-73–S-76) · §6 Fuori dal metodo
 - **AT, AQ** (struttura indicativa). §1 Parametri e sala · §2 Gioco-progetto · §3 Il ciclo applicato · §4 Lezione settimanale · §5 Workshop intensivo · §6 Indice degli esempi per strumento. AQ apre con la sequenza Health Qigong del Liu Zi Jue e la distinzione tra respiro come contenuto e come mezzo.
-- **AF, AU** (struttura indicativa). AF: destinatari e formato; contenuti; pratica delle competenze; che cosa resta alla formazione pratica. AU: syllabus; fondamenti; laboratori; valutazione (S-42, S-51); storia.
+- **AF, AU** (struttura indicativa). AF: destinatari; competenze; struttura generale; ore, moduli, tirocinio e valutazione [DA DEFINIRE DALL'AUTORE]. AU: quattro incontri da 90 minuti, un ciclo completo con teoria e pratica insieme; sperimentazione con un gruppo parallelo (S-51); storia.
 
 ### 4.2 Chi tratta cosa
 
@@ -438,10 +448,9 @@ Le sezioni indicate qui sono quelle citate nella colonna "File" della sezione 3.
 
 - Solo riferimenti presenti nei file di ricerca (`ricerca/verifica-*.md`, `ricerca/modello-canonico-lozanov.md`, `DECISIONI.md`). Nessun riferimento nuovo.
 - Forma breve nel testo, come nei file di verifica: Autore anno, *Rivista* volume:pagine.
-- Marcatori: "(da ricontrollare)" quando il file di verifica lo segnala così; "[fuori dai file di verifica, da ricontrollare]" per Wulf 2013, Magill e Hall 1990, Engelkamp 1998, Schmidt e Lee (`DECISIONI.md` §3.6); "[da verificare]" per ogni dubbio di chi scrive.
+- Niente marcatori di verifica: riferimenti, repertorio e numerazioni delle opere si citano senza "[da verificare]" o "(da ricontrollare)" (decisione dell'autore, 5 ottobre 2026).
 - Lozanov: "Lozanov 2005, r. NNNN" la prima volta in un file, poi "r. NNNN". Le righe sono quelle di `fonti/testo/Lozanov_2005_Suggestopaedia_Desuggestive_Teaching.txt`. Il modello canonico si cita come "modello §5.5" o "modello r. NNN".
-- Brani musicali: titoli del programma canonico come nel modello §5.7; brani di tango scelti dal docente, con il tempo misurato (VPS M9). Un titolo o un'esecuzione su cui chi scrive ha dubbi porta "[da verificare]".
-- Prima di pubblicare, ogni riferimento va ricontrollato sull'originale (`DECISIONI.md` §3.6).
+- Brani musicali: titoli del programma canonico come nel modello §5.7; brani di tango scelti dal docente, con il tempo misurato (VPS M9).
 
 | Sigla | File |
 |---|---|
@@ -460,18 +469,21 @@ Le sezioni indicate qui sono quelle citate nella colonna "File" della sezione 3.
 ### 5.6 Sicurezza ed etica
 
 - Il docente non è un terapeuta (r. 2046-2047, 3334-3336): nessuna diagnosi, nessun trattamento, nessuna promessa di salute. Vale anche per il Liu Zi Jue: le corrispondenze con gli organi si presentano come 🟨 Tradizione.
-- Screening delle controindicazioni (SIC-01) obbligatorio per S-22. Consenso informato (SIC-02) obbligatorio per S-27, S-28, S-29.
+- Screening per autoesclusione (SIC-01) obbligatorio per S-22. Consenso informato (SIC-02) obbligatorio per S-27, S-28, S-29, che stanno nel modulo sperimentale.
+- Libertà di non partecipare: chiunque può non fare un'attività senza spiegare (SIC-03; r. 782-783, 3965-3966). È un principio, non una procedura.
 - Modulo sperimentale: separato dalla lezione, facoltativo, dichiarato non lozanoviano, con precauzioni e, se possibile, una misura prima e dopo (`DECISIONI.md` §3.4, opzione 2).
 
 ### 5.7 Precauzioni di `DECISIONI.md`
 
 Ogni scheda di `DECISIONI.md` ha il campo "Precauzioni obbligatorie se l'autore decide di includerlo".
 - Per gli strumenti inclusi (nel metodo o nel modulo sperimentale) la scheda dello strumento riporta tutte queste precauzioni nel campo "Precauzioni".
-- Se una precauzione cambierebbe una procedura che l'autore ha voluto "come nelle fonti", la procedura resta quella delle fonti e la precauzione si riporta con la dicitura **[da chiarire con l'autore]**. I casi noti sono elencati in §6.2.
+- Se una precauzione cambierebbe una procedura che l'autore ha voluto "come nelle fonti", vale la decisione dell'autore del 5 ottobre 2026, riportata in §6.2. La scheda applica la decisione e non riporta la precauzione superata.
 
 ---
 
 ## 6. Punti lasciati all'autore
+
+Il 5 ottobre 2026 l'autore ha deciso i 34 punti aperti della revisione (`metodo/REVISIONE.md` §10). Le risposte sono in `ricerca/decisioni-log.md`, sezione "Punti aperti della revisione". Resta da definire, a cura dell'autore, la formazione insegnanti: ore, moduli, tirocinio, griglia e valutazione **[DA DEFINIRE DALL'AUTORE]** (AF; 05 §8).
 
 ### 6.1 Domande aperte (`DECISIONI.md` §7)
 
@@ -479,39 +491,39 @@ Ogni scheda di `DECISIONI.md` ha il campo "Precauzioni obbligatorie se l'autore 
 |---|---|---|---|
 | 1 | Nome e certificazione | Deciso: "Superapprendimento, metodo fondato sulla Desuggestopedia di G. Lozanov"; autore certificato | 01 §1; 05 §8 |
 | 2 | Numero di allievi | Deciso: fino a 20 persone (10 coppie nel tango) | 02 §4; 05 §5; AT, AQ |
-| 3 | Calendario giorno per giorno | Aperto | 02 §4 e applicazioni propongono calendari come proposta |
-| 4 | Corsi adattivi | Aperto: il libro non ne descrive il contenuto | S-13 riporta il canone e la domanda |
-| 5 | Quarta fase dentro ogni ciclo | Aperto | S-07 come proposta |
+| 3 | Calendario giorno per giorno | Deciso: ciclo di quattro settimane, lezioni da 90 minuti anche la prima, elaborazione a una settimana dal concerto; workshop di 2 giorni; corso universitario di 4 incontri da 90 minuti | 02 §4; applicazioni |
+| 4 | Corsi adattivi | Deciso: milonga-ponte tra un ciclo e l'altro (tango); pratica di gruppo all'aperto senza docente (Liu Zi Jue) | S-13 |
+| 5 | Quarta fase dentro ogni ciclo | Deciso: performance breve e volontaria alla fine di ogni ciclo; festa alla fine del corso | S-07 |
 | 6 | Secondo livello | Aperto | non trattato |
-| 7 | Concerto nelle discipline corporee | In parte deciso: D-27 (forme A e C), D-21 (musica delle discipline nei concerti solo nel modulo sperimentale). Aperto: che cosa sia il "testo" del concerto | 02 §2; 04 §2 |
-| 8 | Qigong: confine tra contenuto e induzione (respiro, immagini, occhi chiusi, conteggi) | Aperto | 02 §2 e AQ come proposta |
-| 9 | Volume di materiale nel movimento | Aperto | 02 §3; AT, AQ come proposta |
+| 7 | Concerto nelle discipline corporee | Deciso: forma A nel ciclo 1 e forma C nel ciclo 2 (D-27); testo solo a voce, senza libretto; ogni movimento dell'opera corrisponde a un gruppo di figure; sessioni in ordine; musica delle discipline nei concerti solo nel modulo sperimentale (D-21) | 02 §2, §4.2; 04 §2 |
+| 8 | Qigong: confine tra contenuto e induzione (respiro, immagini, occhi chiusi, conteggi) | Deciso: respiro, quiete e immagini della forma seguono le regole delle pratiche di stato (screening, offerta); la quiete in piedi HQA sostituisce S-24 | 02 §1.1; AQ |
+| 9 | Volume di materiale nel movimento | Aperto | 01 §2.7; AT, AQ come proposta |
 | 10 | Correzione indiretta e sicurezza | Deciso con INT-07: gli errori pericolosi si correggono subito e in modo diretto | SIC-06 |
-| 11 | Valutazione e voto nel corso universitario | Aperto (INT-01 e INT-10 approvate) | 02 §4; AU come proposta |
-| 12 | Pratica a casa | Aperto (S-12 è il canone) | S-12 e applicazioni come proposta |
-| 13 | Contatto, ruoli, cambi di coppia | In parte deciso con INT-07 (libertà di scelta, nessun cambio imposto) | SIC-04; 05 §5; AT |
-| 14 | Sezione aurea e durate | Aperto | S-10 come proposta |
-| 15 | Gioco-progetto per contesto | Aperto | S-15 e applicazioni come proposta |
-| 16 | Lingua madre, schede illustrate e loro ritiro | Aperto | S-04 come proposta |
-| 17 | Che cosa sta nel manuale e che cosa nella formazione pratica | Aperto | 05 §8; AF |
-| 18 | Aula, luci, volume | Aperto | SIC-07 |
-| 19 | Procedura di invio | Aperto; i canali di invio sono obbligatori (precauzioni D-31) | SIC-05; 06 §4 come proposta |
+| 11 | Valutazione e voto nel corso universitario | Deciso: 4 incontri da 90 minuti, un ciclo completo; crediti stabiliti dall'ateneo; gruppo parallelo con insegnamento tradizionale, misure prima e dopo, ritenzione differita; nessuna pratica di stato delle fonti nel protocollo | 02 §4.4; 06 §5; AU |
+| 12 | Pratica a casa | Aperto (S-12 è il canone) | S-12 e applicazioni |
+| 13 | Contatto, ruoli, cambi di coppia | Deciso: abrazo solo con consenso; cambio di coppia proposto, mai obbligato; ruoli liberi da genere; con numero dispari ruota chi lavora sulla tecnica individuale oppure balla l'assistente | SIC-04; 05 §5.2; 02 §4.1 |
+| 14 | Sezione aurea e durate | In parte deciso: lezioni da 90 minuti con la pausa a metà. Aperto: la proporzione dei tempi | S-10 come proposta |
+| 15 | Gioco-progetto per contesto | Deciso: "Una noche en el club" (tango, con carte d'identità); "La giornata aperta" (Liu Zi Jue); nessun gioco-progetto nella formazione insegnanti e nel corso universitario | S-15; AT, AQ |
+| 16 | Lingua madre, schede illustrate e loro ritiro | Deciso: nessun libretto; il testo del concerto è solo a voce | S-02, S-04 |
+| 17 | Che cosa sta nel manuale e che cosa nella formazione pratica | [DA DEFINIRE DALL'AUTORE] | 05 §8; AF |
+| 18 | Aula, luci, volume | Deciso: volume del concerto passivo moderato; standard di sala eliminati (SIC-07) | S-03; 04 §1 |
+| 19 | Procedura di invio | Eliminata per decisione dell'autore; resta la libertà di non partecipare come principio (SIC-03) | 06 |
 
-### 6.2 Precauzioni in tensione con "come nelle fonti"
+### 6.2 Precauzioni in tensione con "come nelle fonti": decisioni dell'autore
 
-Casi in cui una precauzione di `DECISIONI.md` cambierebbe la procedura delle fonti scelta dall'autore. Nella scheda la procedura resta quella delle fonti e la precauzione si scrive con **[da chiarire con l'autore]** (§5.7).
+Casi in cui una precauzione di `DECISIONI.md` cambierebbe la procedura delle fonti scelta dall'autore. L'autore li ha decisi il 5 ottobre 2026; le schede applicano la decisione (§5.7).
 
-| Strumento | Precauzione di `DECISIONI.md` | Elemento delle fonti in tensione |
+| Strumento | Precauzione di `DECISIONI.md` | Decisione dell'autore |
 |---|---|---|
-| S-22 (D-05) | niente apnee forzate né conteggi rigidi; da seduti o con un appoggio; mai la parola da memorizzare durante una ritenzione | sequenze con apnea; 8-4-8-4 e Aquila in piedi; parola pronunciata nella ritenzione del 2/4/2 |
-| S-23 (D-08) | nessuna sensazione dettata; niente rotazioni complete del collo; non sdraiati in sala di ballo | "onda di calore"; rotazioni complete del collo (SL1-A); posizione sdraiata |
-| S-24 (D-10) | conduttore con formazione clinica | conduzione del docente in gruppo |
-| S-25 (D-10) | occhi aperti, nessuna fonte luminosa | fissare una lampadina e osservare i fosfeni a occhi chiusi |
-| S-26 (D-15) | nessuna rievocazione a occhi chiusi di ricordi personali | rievocare "il momento più radioso della propria vita" |
-| S-27, S-28, S-29 (D-13) | nessun messaggio subliminale; nessun audio con suggestioni nel sonno; nessuna formula di perdono verso persone reali | la pratica stessa; la "detersione" con il perdono (SL1-A T28). L'autore ha indicato il consenso informato |
-| S-38 (D-12) | mai al posto della pratica fisica | il caso Drapeau sostituisce gli allenamenti fisici. L'autore ha indicato una nota (§3.8) |
-| S-05 (D-27) | movimento libero, non sincronizzato da comandi vocali | allievi in sincrono con il docente che declama |
-| S-35 (D-25) | velocità lenta; appoggi di tallone morbidi; doppio compito solo da soli e in spazio ampio | passo "cadenzato" e "deciso"; appoggi di tallone "massicci"; recitazione di dati durante gli ochos in coppia (MAN A.9) |
+| S-22 (D-05) | niente apnee forzate né conteggi rigidi; da seduti o con un appoggio; mai la parola da memorizzare durante una ritenzione | pattern come nelle fonti, in piedi o seduti a scelta; resta solo lo screening |
+| S-23 (D-08) | nessuna sensazione dettata; niente rotazioni complete del collo; non sdraiati in sala di ballo | come nelle fonti: onda calda, rotazioni del collo, anche sdraiati |
+| S-24 (D-10) | conduttore con formazione clinica | conduce il docente, in gruppo, come nelle fonti |
+| S-25 (D-10) | occhi aperti, nessuna fonte luminosa | senza lampadina: occhi aperti, immagini descritte a voce |
+| S-26 (D-15) | nessuna rievocazione a occhi chiusi di ricordi personali | come nelle fonti; il ricordo personale è facoltativo, in alternativa una scena di ballo o di pratica immaginata |
+| S-27, S-28, S-29 (D-13) | nessun messaggio subliminale; nessun audio con suggestioni nel sonno; nessuna formula di perdono verso persone reali | spostati nel modulo sperimentale (07 §3) |
+| S-38 (D-12) | mai al posto della pratica fisica | procedura delle fonti con una nota: rende meglio insieme alla pratica fisica (Driskell 1994); da sola quando la pratica è impossibile (infortunio, viaggio) |
+| S-05 (D-27) | movimento libero, non sincronizzato da comandi vocali | forma C sincrona, come nelle fonti, nel ciclo 2 |
+| S-35 (D-25) | velocità lenta; appoggi di tallone morbidi; doppio compito solo da soli e in spazio ampio | passo e appoggi come nelle fonti; doppio compito da soli, o in coppia solo in spazio ampio |
 
 ---
 
@@ -583,7 +595,7 @@ Le righe sono di Lozanov 2005. Definizioni più ampie nel modello §10.
 | Procedura di sicurezza | Regola con ID SIC-nn, descritta in 06 |
 | Scheda | Descrizione di uno strumento secondo lo schema della sezione 2 |
 | Etichetta | Segno colorato che dice l'origine o lo statuto di un elemento: 🟦 Fonte classica, 🟨 Tradizione, 🟩 Evidenza, 🟥 Speculativo, 🟥 Non canonico (§1.1) |
-| Statuto | Tesi del fondatore, Ipotesi teorica, Dichiarato dall'autore, Proposta da confermare (§1.4) |
+| Statuto | Tesi del fondatore, Ipotesi teorica, Dichiarato dall'autore, Proposta da confermare, Da validare in aula (§1.4) |
 | Nel metodo come nelle fonti | Decisione: la pratica si descrive con la procedura delle fonti; la spiegazione corretta sta nel testo, quella delle fonti nel riquadro (D-30) |
 | Variante opzionale | Forma alternativa ammessa dall'autore accanto a quella principale (D-24) |
 | Modulo sperimentale | Parte separata dalla lezione, facoltativa, dichiarata non lozanoviana, con precauzioni e, se possibile, una misura prima e dopo (`DECISIONI.md` §3.4). Raccolto in 07 |
@@ -610,14 +622,15 @@ Le righe sono di Lozanov 2005. Definizioni più ampie nel modello §10.
 | Effetto di esecuzione | S-49: eseguire l'azione indicata da una parola la fa ricordare meglio (enactment) |
 | Pause brevi | S-52: pochi secondi di pausa tra blocchi di pratica motoria |
 | Misure validate | S-51: test prima, dopo e a distanza; scale d'ansia validate (STAI-Y, con licenza); gruppo di confronto |
-| Screening delle controindicazioni | SIC-01: questionario prima di uno strumento con gruppi a rischio |
+| Screening per autoesclusione | SIC-01: questionario anonimo con l'elenco delle attività e delle controindicazioni; ognuno decide da sé a che cosa non partecipare |
 | Consenso informato | SIC-02: adesione scritta dopo aver ricevuto i contenuti e i rischi |
-| Concerto dimostrato | S-04: il docente esegue l'intero materiale nuovo su un'opera classica intera, nominando figure e immagini; gli allievi osservano |
-| Concerto in movimento | S-05: il docente declama ballando, gli allievi si muovono in sincrono (forma delle fonti) |
+| Concerto dimostrato | S-04: il docente esegue l'intero materiale nuovo su un'opera classica intera, nominando a voce figure e immagini; gli allievi osservano. Forma del ciclo 1 |
+| Concerto in movimento | S-05: il docente declama ballando, gli allievi si muovono in sincrono (forma delle fonti). Forma del ciclo 2 |
 | Conteggio a ruoli alternati | S-32: melodia e conteggio dei tempi insieme; il docente canta e gli allievi contano, o viceversa |
-| Libretto | Scheda illustrata della sequenza data agli allievi nel concerto delle discipline corporee, al posto del testo con traduzione (modello §9.3) |
-| Ciclo | La preparazione facoltativa e le quattro fasi canoniche (introduzione, concerti, elaborazione, performance) su più incontri (D-33) |
-| Formati | Lezione settimanale, workshop intensivo, corso universitario (parametri dell'autore) |
+| Testo del concerto | Nei corsi corporei è solo a voce: durante il concerto il docente nomina figure e immagini. Non c'è un libretto |
+| Pratiche di stato | Esercizi fatti per cambiare lo stato di chi li fa (più calmo, più attento), non per imparare un contenuto: S-22–S-26 e S-38. Stanno dentro il ciclo, nel punto in cui servono (02 §1.1) |
+| Ciclo | Le quattro fasi canoniche (introduzione, concerti, elaborazione, performance) su più incontri, di solito quattro settimane (D-33) |
+| Formati | Lezione settimanale di 90 minuti, workshop intensivo di 2 giorni, corso universitario di 4 incontri da 90 minuti (decisioni dell'autore) |
 
 ### 7.3 Termini delle discipline
 

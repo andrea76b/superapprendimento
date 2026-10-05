@@ -116,7 +116,7 @@ Le raccomandazioni di questo registro presuppongono che l'autore voglia un metod
 | D-10 | Visualizzazioni guidate e Image Streaming | D / B (nocciolo verbale) | Rifiutato (r. 1407-1416, 1440-1441) | Medio | 1; 3 per il nocciolo verbale | DECISO |
 | D-11 | Battiti binaurali (solo audio) | B-C | Rifiutato (r. 2077-2080, 5811-5813) | Basso | 2 | DECISO |
 | D-12 | Prova mentale / motor imagery | B (autogestita) / C (caso Drapeau) | Non trattato se autogestita; rifiutato se dettata (r. 1440-1441) | Basso | 3 autogestita; 1 dettata | DECISO |
-| D-13 | Subliminali e apprendimento nel sonno | D | Rifiutato (r. 1600-1624) | Medio | 1 | DECISO |
+| D-13 | Subliminali e apprendimento nel sonno | D | Rifiutato (r. 1600-1624) | Medio | 1 | DECISO: modulo sperimentale (decisione aggiornata il 2026-10-05) |
 | D-14 | Autoconvalida di Altorfer e affermazioni | D / B (rischio delle affermazioni) | Rifiutato (r. 1400-1406) | Basso-medio | 1 | DECISO |
 | D-15 | Ancoraggi emotivi | C / B (routine) | Rifiutato (r. 1400-1406, 1824-1849) | Basso | 3 (come INT-05) | DECISO |
 | D-16 | Raikov / Borrowed Genius | D / B (gioco di ruolo) | Rifiutato (r. 1392, 5815); coerenti le nuove identità (r. 759-762) | Medio-alto (versione ipnotica) | 3 (nelle nuove identità canoniche) | DECISO |
@@ -551,7 +551,7 @@ Note dell'autore:
 
 **Decisione dell'autore**
 
-Stato: DECISO (2026-10-04): Nel metodo come nelle fonti (spiegazione corretta nel testo, quella delle fonti nel riquadro: D-30), con consenso informato obbligatorio
+Stato: DECISO (2026-10-05): Modulo sperimentale (decisione aggiornata il 2026-10-05), con consenso informato obbligatorio; schede S-27, S-28, S-29 in `metodo/07-modulo-sperimentale.md` §3 (`ricerca/decisioni-log.md`, punti aperti della revisione, n. 18). Decisione precedente (2026-10-04): nel metodo come nelle fonti (spiegazione corretta nel testo, quella delle fonti nel riquadro: D-30), con consenso informato obbligatorio
 
 Note dell'autore:
 

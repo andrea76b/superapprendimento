@@ -1,14 +1,14 @@
 # Sicurezza ed etica
 
-**In breve.** Questo file va letto prima di proporre qualsiasi strumento. Dice le regole che valgono sempre (il docente non è un terapeuta, ogni attività è un'offerta, nessuna promessa di salute), le sette procedure di sicurezza con i testi pronti dei moduli di screening e di consenso, le precauzioni di ogni strumento raccolte in una tabella, che cosa fare se in sala qualcuno sta male o emergono ricordi dolorosi, e le regole su dati e ricerca nel corso universitario. Le precauzioni vengono dalle schede di `DECISIONI.md`, che sono vincolanti.
+**In breve.** Questo file va letto prima di proporre qualsiasi strumento. Dice le regole che valgono sempre (il docente non è un terapeuta, ogni attività è un'offerta, nessuna promessa di salute), le procedure di sicurezza con i testi pronti del questionario di screening e dei moduli di consenso, le precauzioni di ogni strumento raccolte in una tabella, che cosa fare subito se in sala qualcuno sta male, e le regole su dati e ricerca nel corso universitario. Le precauzioni vengono dalle schede di `DECISIONI.md`, che sono vincolanti, e dalle decisioni dell'autore del 5 ottobre 2026.
 
-Dove l'autore non ha ancora deciso, il testo è segnato **Proposta, da confermare con l'autore**. Etichette: 00 §1.
+Le decisioni del 5 ottobre 2026 sono registrate in `ricerca/decisioni-log.md`: screening per autoesclusione con un questionario anonimo; libertà di non partecipare come principio, non come procedura; eliminazione della procedura di invio, del segnale di uscita e degli standard di sala. Etichette: 00 §1.
 
 **Indice**
 1. Principi
-2. Procedure di sicurezza (SIC-01–SIC-07)
+2. Procedure di sicurezza (SIC-01–SIC-06)
 3. Precauzioni per strumento
-4. Segnali d'allarme e invio
+4. Segnali d'allarme
 5. Privacy e ricerca universitaria
 
 ---
@@ -19,7 +19,7 @@ Dove l'autore non ha ancora deciso, il testo è segnato **Proposta, da confermar
 2. **Prima di tutto non nuocere.** "Above all, do no harm" è un requisito della teoria pedagogica di Lozanov (r. 3756). 🟦 r. 3756.
 3. **Nessuna promessa sul trauma.** La cornice predictive coding è un'ipotesi teorica che spiega perché la sicurezza conta (01 §3). Non autorizza a lavorare sul trauma in aula. Ogni corso si apre con la dichiarazione "questo corso non è una terapia" (SIC-05; D-31).
 4. **Sicurezza percepita come principio di progettazione.** La lezione e la sala si progettano perché nessuno si senta minacciato fisicamente, socialmente o nel contatto, senza togliere la sfida (S-48; INT-07). 🟩 **Evidenza solida** per l'effetto dell'ansia su prestazione e memoria (Shields et al. 2017, *Psychol Bull* 143:636-675).
-5. **Libertà.** "to suggest = to offer, to propose" (r. 1774-1775): ogni attività è un'offerta, e si può non partecipare o interrompere senza spiegazioni (SIC-03). 🟦 r. 1774-1775.
+5. **Libertà.** "to suggest = to offer, to propose" (r. 1774-1775): ogni attività è un'offerta, e chiunque può non fare un'attività senza spiegare (SIC-03). Per Lozanov la mente non può "think creatively without freedom" (r. 782-783), e le riserve non si raggiungono "if there is no love and freedom" (r. 3965-3966). 🟦 r. 782-783, 1774-1775, 3965-3966.
 6. **Etichette oneste.** Ogni strumento dichiara da dove viene, che cosa ne dice la ricerca e se Lozanov lo esclude. Le promesse deluse colpevolizzano ("non ha funzionato perché ho sbagliato io", VPS 7.10).
 7. **Tre livelli.** Nel metodo stanno gli strumenti decisi dall'autore, con le loro precauzioni; nel modulo sperimentale gli strumenti offerti solo a parte, facoltativi e con condizioni (07 §1); fuori dal metodo gli elementi documentati solo in `ricerca/` (07 §6).
 
@@ -27,40 +27,37 @@ Dove l'autore non ha ancora deciso, il testo è segnato **Proposta, da confermar
 
 ## 2. Procedure di sicurezza
 
-### SIC-01 Screening delle controindicazioni
+### SIC-01 Screening per autoesclusione
 
-**Quando.** Prima dell'inizio del corso, per tutti; di nuovo prima di S-22 Respirazioni con apnea, dove è **obbligatorio** (D-05).
+**Quando.** Prima dell'inizio del corso, per tutti; di nuovo, a voce, prima di S-22 Respirazioni con apnea, dove è **obbligatorio** (D-05). Vale anche per respiro, quiete e immagini del Liu Zi Jue, che seguono le regole delle pratiche di stato (02 §1.1).
 
-**Principio di riservatezza.** Il docente non ha bisogno di conoscere le diagnosi: gli serve sapere a quali attività la persona non parteciperà. Il modulo chiede quindi un'autoesclusione per attività, non un'anamnesi. **Proposta, da confermare con l'autore.**
+**Forma.** Un questionario anonimo con l'elenco delle attività e delle controindicazioni (decisione dell'autore). Il docente non ha bisogno di conoscere le diagnosi e non chiede chi si esclude: ognuno legge l'elenco e decide da sé a quali attività non partecipare.
 
 **Procedura.**
-1. Il docente consegna il questionario con l'elenco delle attività e dei gruppi a rischio (sotto), a voce e per iscritto (5 min).
-2. La persona legge in privato e segna le attività a cui non parteciperà. Non scrive diagnosi (5 min).
-3. Il docente tiene il modulo in modo riservato e lo consulta prima delle attività interessate.
-4. Prima di S-22 il docente ricorda a voce le condizioni di esclusione e chiede a chi non partecipa di fare la propria routine (S-46).
-5. In caso di dubbio la persona chiede al proprio medico prima di partecipare.
+1. Il docente consegna il questionario a tutti e lo legge a voce (5 min).
+2. Ognuno lo legge in privato e segna, per sé, le attività a cui non parteciperà. Non scrive il nome né diagnosi (5 min).
+3. Prima di S-22 il docente ricorda a voce le condizioni di esclusione. Chi si esclude fa la propria routine (S-46). Il docente non chiede chi si esclude né perché (SIC-03).
+4. In caso di dubbio la persona chiede al proprio medico prima di partecipare.
 
-**Modulo di screening** (testo proposto).
+**Questionario di autoesclusione** (testo proposto).
 
-> Alcune attività del corso non sono adatte a tutti. Leggi l'elenco e segna le attività a cui **non** parteciperai. Non serve indicare il motivo. In caso di dubbio chiedi al tuo medico. Puoi cambiare idea in qualsiasi momento.
+> Questo questionario è anonimo: non scrivere il tuo nome. Alcune attività del corso non sono adatte a tutti. Leggi l'elenco e segna, per te, le attività a cui **non** parteciperai. Non serve indicare il motivo. In caso di dubbio chiedi al tuo medico. Puoi cambiare idea in qualsiasi momento.
 >
 > 1. **Respirazioni con trattenimento del respiro** (S-22). Non partecipare se hai: disturbo di panico o ansia elevata; malattie cardiovascolari o pressione alta non controllata; asma o BPCO; gravidanza in corso; epilessia o crisi convulsive.
-> 2. **Rilassamento guidato, visualizzazioni a occhi chiusi, rievocazione di ricordi personali, esercizi immaginativi** (S-23, S-24, S-25 versione A, S-26 versione A, S-29). Non partecipare, o parlane prima con il docente, se hai: una storia di trauma; disturbi dissociativi; psicosi o rischio di psicosi; depressione grave; disturbi d'ansia (in alcune persone il rilassamento aumenta l'ansia).
+> 2. **Rilassamento guidato, visualizzazioni, rievocazione di ricordi personali, esercizi immaginativi** (S-23, S-24, S-25 versione A, S-26 versione A; S-29 nel modulo sperimentale). Non partecipare, o parlane prima con il docente, se hai: una storia di trauma; disturbi dissociativi; psicosi o rischio di psicosi; depressione grave; disturbi d'ansia (in alcune persone il rilassamento aumenta l'ansia).
 > 3. **Rotazioni della testa, camminata a otto, giri** (S-35, S-47, giros del tango, Xu del Liu Zi Jue). Chiedi prima al medico se hai: vertigine posizionale, malattia di Ménière, neurite vestibolare o altri disturbi dell'equilibrio; problemi cervicali; postumi recenti di commozione cerebrale; neuropatie; gravidanza avanzata; se assumi farmaci sedativi; se sei in età avanzata o a rischio di caduta.
-> 4. **Ascolti in cuffia o a volume alto** (concerti, S-53–S-56). Segnala se hai acufeni, iperacusia o ipersensibilità ai suoni: avrai un posto lontano dalle casse e dei tappi.
-> 5. **Odori** (solo nel modulo sperimentale, S-76). Segnala se hai asma, allergie o sensibilità ai profumi.
-> 6. **Contatto fisico** (abrazo del tango). Indica, se vuoi, le tue preferenze: abrazo aperto o chiuso, scambio dei ruoli sì o no (SIC-04).
-> 7. **Altro.** C'è qualcosa che il docente deve sapere per la tua sicurezza (per esempio problemi alla schiena o alle ginocchia)? Scrivilo solo se vuoi.
+> 4. **Ascolti in cuffia e musica in sala** (concerti, S-53–S-56). Se hai acufeni, iperacusia o ipersensibilità ai suoni, valuta tu se partecipare. Nei concerti il volume è moderato e puoi sederti lontano dalle casse.
+> 5. **Odori** (solo nel modulo sperimentale, S-76). Non partecipare se hai asma, allergie o sensibilità ai profumi.
 
-**Si applica a.** S-22 (obbligatorio). Le schede S-23, S-24, S-25, S-26, S-29, S-35, S-47 riportano i gruppi a rischio.
+**Si applica a.** S-22 (obbligatorio). Le schede S-23, S-24, S-25, S-26, S-35, S-47 riportano i gruppi a rischio; nel modulo sperimentale S-29, S-64, S-74, S-76.
 
 ### SIC-02 Consenso informato
 
-**Quando.** All'iscrizione (consenso generale); prima di S-24, della versione A di S-25 e di S-29 (precauzioni D-10); prima di S-27, S-28, S-29 (**obbligatorio, con contenuti dichiarati**, D-13); prima di ogni raccolta di dati (S-51); prima di ogni attività del modulo sperimentale (07 §1).
+**Quando.** All'iscrizione (consenso generale); prima di S-24 e della versione A di S-25 (precauzioni D-10); nel modulo sperimentale, prima di S-27, S-28, S-29 (**obbligatorio, con contenuti dichiarati**, D-13) e prima di ogni altra attività (07 §1); prima di ogni raccolta di dati (S-51).
 
 **Procedura.**
 1. Il docente consegna il modulo e lo legge con il gruppo (5-10 min).
-2. Per le pratiche notturne e subliminali (S-27, S-28, S-29) consegna anche il **testo integrale** di ogni frase, formula o audio, con durata e calendario.
+2. Per le pratiche notturne e subliminali del modulo sperimentale (S-27, S-28, S-29) consegna anche il **testo integrale** di ogni frase, formula o audio, con durata e calendario.
 3. La persona firma solo dopo aver avuto il tempo di leggere e fare domande; può ritirare il consenso in qualsiasi momento, senza conseguenze.
 4. Il docente conserva i moduli in modo riservato.
 5. Con i minori: consenso dei genitori per il corso; **nessuna** pratica S-27, S-28, S-29 (D-13); in ricerca, parere di un comitato etico.
@@ -71,47 +68,43 @@ Dove l'autore non ha ancora deciso, il testo è segnato **Proposta, da confermar
 > **Questo corso non è una terapia.** Il docente non fa diagnosi né trattamenti e non promette effetti sulla salute.
 > Ogni attività è facoltativa. Puoi non partecipare o interrompere in qualsiasi momento, senza spiegazioni.
 > Il contatto fisico avviene solo con il tuo consenso; scegli tu partner, ruolo e distanza.
-> Alcune attività richiedono uno screening (SIC-01) o un consenso specifico, che riceverai prima.
+> Alcune attività hanno un questionario anonimo di autoesclusione (SIC-01) o un consenso specifico, che riceverai prima.
 
-**Consenso specifico per pratiche notturne e subliminali** (S-27, S-28, S-29; testo proposto).
+**Consenso specifico per pratiche notturne e subliminali** (modulo sperimentale: S-27, S-28, S-29; testo proposto).
 
-> Hai ricevuto il testo integrale delle frasi o dell'audio, la durata e il calendario d'uso. Queste pratiche vengono dalle fonti del Superlearning; Lozanov le esclude (🟥 Non canonico) e gli studi non mostrano gli effetti dichiarati dalle fonti (🟥 Speculativo, contraddetto). Possono peggiorare il sonno di chi soffre di insonnia, ansia o depressione. Le formule di perdono verso persone reali possono riaprire ferite: puoi toglierle. Non usare auricolari tutta la notte; tieni un volume moderato. Puoi smettere quando vuoi.
+> Hai ricevuto il testo integrale delle frasi o dell'audio, la durata e il calendario d'uso. Queste pratiche fanno parte del modulo sperimentale, separato dalla lezione. Vengono dalle fonti del Superlearning; Lozanov le esclude (🟥 Non canonico) e gli studi non mostrano gli effetti dichiarati dalle fonti (🟥 Speculativo, contraddetto). Possono peggiorare il sonno di chi soffre di insonnia, ansia o depressione. Le formule di perdono verso persone reali possono riaprire ferite: puoi toglierle. Non usare auricolari tutta la notte; tieni un volume moderato. Puoi smettere quando vuoi.
 
-**Consenso specifico per visualizzazioni guidate** (S-24, S-25 versione A, S-29; testo proposto).
+**Consenso specifico per visualizzazioni guidate** (S-24, S-25 versione A; S-29 nel modulo sperimentale; testo proposto).
 
-> L'esercizio si fa a occhi chiusi, con una voce che guida. Se hai una storia di trauma, disturbi dissociativi, psicosi o depressione grave, non partecipare. Puoi aprire gli occhi e uscire in qualsiasi momento. L'esercizio è breve e si chiude con un'attivazione fisica.
+> L'esercizio usa l'immaginazione: a occhi chiusi con la voce del docente che guida (S-24, S-29), oppure a occhi aperti, descrivendo a voce le immagini (S-25). Se hai una storia di trauma, disturbi dissociativi, psicosi o depressione grave, non partecipare. Puoi aprire gli occhi e uscire in qualsiasi momento. L'esercizio è breve e si chiude con un'attivazione fisica.
 
-### SIC-03 Libertà di non partecipare e di interrompere
+### SIC-03 Libertà di non partecipare
 
-**Base.** r. 1774-1775; INT-07. Si applica a tutti gli strumenti.
+**Base.** r. 782-783, 1774-1775, 3965-3966; INT-07. Si applica a tutti gli strumenti.
 
-**Procedura.**
-1. All'inizio del corso il docente dice che ogni attività è un'offerta e che non serve spiegare un rifiuto (1 min).
-2. Per ogni attività c'è un'alternativa: routine personale (S-46), lavoro da soli, ascolto, pausa seduti.
-3. Un segnale semplice permette di uscire da un'attività in corso: per esempio una mano alzata o sedersi a bordo sala. **Proposta, da confermare con l'autore.**
-4. Il docente non commenta né insiste; non chiede "perché" (r. 3087-3088).
+È un principio canonico, non una procedura (decisione dell'autore): chiunque può non fare un'attività senza spiegare. Per Lozanov la mente non può "think creatively without freedom" (r. 782-783); "One cannot tap the reserve capacities if there is no love and freedom" (r. 3965-3966). Il docente non commenta, non insiste e non chiede perché (r. 3087-3088).
 
 ### SIC-04 Consenso al contatto e scelta del partner
 
-**Base.** D-31 (precauzioni); INT-07; barriere antisuggestive (r. 2802-2845). Si applica al lavoro in coppia e al tango.
+**Base.** D-31 (precauzioni); INT-07; barriere antisuggestive (r. 2802-2845); decisioni dell'autore del 5 ottobre 2026. Si applica al lavoro in coppia e al tango.
 
 **Procedura.**
-1. All'inizio del corso il docente spiega le regole del contatto e le regole contro le molestie (3 min).
-2. Ognuno sceglie il partner, con il cabeceo o liberamente; nessuna rotazione imposta.
-3. Ognuno sceglie il ruolo; lo scambio dei ruoli è libero.
+1. All'inizio del corso il docente spiega le regole del contatto e le regole contro le molestie: il contatto, a partire dall'abrazo, avviene solo con il consenso (3 min).
+2. Ognuno sceglie il partner, con il cabeceo o liberamente. Il cambio di coppia si propone, non si impone mai.
+3. Ognuno sceglie il ruolo. I ruoli sono liberi da genere e lo scambio dei ruoli è libero.
 4. La coppia sceglie la distanza dell'abrazo (aperto o chiuso).
 5. Una frase concordata permette di dire di no senza spiegazioni ("grazie, questa la salto"); chi la riceve risponde "va bene" e basta.
 6. Se il docente balla con un allievo per una correzione (§4 di 05), chiede prima con lo sguardo o con una parola.
-7. Le regole complete su contatto, ruoli e cambi di coppia sono una domanda in parte aperta (00 §6.1, punto 13).
+7. Con un numero dispari di allievi ruota chi lavora sulla tecnica individuale, oppure balla l'assistente (05 §5.2).
 
-### SIC-05 Il docente non è un terapeuta: dichiarazione e invio
+### SIC-05 Il docente non è un terapeuta: dichiarazione
 
 **Base.** r. 2046-2047, 3334-3336; D-31; D-06. Si applica a tutto il metodo e a S-63.
 
 **Procedura.**
-1. All'inizio di ogni corso il docente dichiara, a voce e per iscritto: "Questo corso non è una terapia. Non faccio diagnosi né trattamenti. Se durante il corso emergono difficoltà personali o sintomi, vi indicherò a chi rivolgervi" (1 min).
+1. All'inizio di ogni corso il docente dichiara, a voce e per iscritto: "Questo corso non è una terapia. Non faccio diagnosi né trattamenti" (1 min).
 2. Il docente non interpreta sintomi fisici, emozioni, ricordi o scelte dei personaggi.
-3. Se emergono contenuti traumatici, crisi d'ansia o sintomi fisici, applica la procedura del §4.
+3. Se in sala qualcuno sta male, applica il §4.
 4. Il lavoro su memorie traumatiche (S-63) si fa solo nel modulo sperimentale e solo con un professionista della salute mentale abilitato presente (D-06).
 
 ### SIC-06 Correzione diretta degli errori pericolosi
@@ -135,58 +128,45 @@ Dove l'autore non ha ancora deciso, il testo è segnato **Proposta, da confermar
 | Scarpe con suola che non ruota, tacchi instabili | Dolore in qualsiasi forma |
 | Doppio compito in coppia in sala affollata (S-35, S-05) | Capogiro nelle rotazioni della testa (S-47) |
 
-### SIC-07 Condizioni della sala
-
-**Base.** INT-06, INT-07, D-25 (precauzioni); domanda aperta 18. Si applica a S-02, S-03 (volume), S-05, S-35, S-47 e al tango. Gli standard di sala sono una domanda aperta: **Proposta, da confermare con l'autore.**
-
-| Elemento | Requisito |
-|---|---|
-| Pavimento | non scivoloso, pulito, adatto alle rotazioni; per il Liu Zi Jue adatto a stare in piedi a lungo |
-| Spazio | ronda di 10 coppie senza collisioni; percorsi a otto distanziati; due braccia tra le persone nel Liu Zi Jue |
-| Luci | luce sufficiente per muoversi: niente luci soffuse durante il movimento, che aumentano il rischio d'inciampo (TLT, rischio S9) |
-| Volume | concerti e musica a un volume che permetta di parlare senza alzare la voce; casse non puntate verso i posti; tappi disponibili per chi ha acufeni o iperacusia (VPS 7.7) |
-| Aria e odori | nessun diffusore di profumi o oli essenziali (D-29) |
-| Sedute | sedie a bordo sala per i concerti, le pause e chi preferisce non partecipare |
-| Calzature | tango: suole adatte a ruotare; Liu Zi Jue: scarpe basse e comode o piedi scalzi su pavimento adatto |
-| Acqua e primo soccorso | acqua disponibile; cassetta di primo soccorso; numero di emergenza a vista |
+SIC-07 (condizioni della sala) è stato eliminato per decisione dell'autore (5 ottobre 2026). L'ID non si riusa.
 
 ---
 
 ## 3. Precauzioni per strumento
 
-Raccolta delle precauzioni delle schede. Il testo completo è nel campo "Precauzioni" di ogni scheda; **[da chiarire con l'autore]** segnala le precauzioni in tensione con la procedura "come nelle fonti" (00 §6.2).
+Raccolta delle precauzioni delle schede. Il testo completo è nel campo "Precauzioni" di ogni scheda. Le precauzioni che erano in tensione con la procedura "come nelle fonti" sono state decise dall'autore il 5 ottobre 2026 (00 §6.2).
 
 | Strumento | Precauzioni principali | SIC |
 |---|---|---|
 | S-01, S-15, S-16 | identità facoltative; nessuna induzione; nessun personaggio legato a vissuti dolorosi; niente folklore nel Qigong | 03, 04 |
-| S-02, S-03, S-04 | volume confortevole; nessuna istruzione di rilassarsi o chiudere gli occhi | 07 |
-| S-05 | spazio libero; possibilità di restare seduti; niente occhi chiusi in movimento; niente cicli fissi né apnee; movimento non sincronizzato da comandi **[da chiarire con l'autore]** | 03, 07 |
+| S-02, S-03, S-04 | volume confortevole; concerto passivo a volume moderato; nessuna istruzione di rilassarsi o chiudere gli occhi | — |
+| S-05 | spazio libero; possibilità di restare seduti; niente occhi chiusi in movimento; niente cicli fissi né apnee; ronda larga e velocità moderata nel doppio compito | 03 |
 | S-06, S-07, S-11, S-42 | nessuna domanda individuale obbligata; performance volontaria; nessun voto | 03 |
 | S-14 | ridurre subito il tempo ai segni di sovraccarico; dolore e capogiro non sono "fatica" | 06 |
-| S-19, S-20 | niente sovraccarico visivo; niente luci soffuse; niente profumi | 07 |
-| S-22 | screening obbligatorio; esonero libero; interruzione al primo capogiro; niente apnee forzate né conteggi rigidi, da seduti o con appoggio, mai la parola nella ritenzione **[da chiarire con l'autore]**; attenzione a Valsalva e svenimento | 01, 03 |
-| S-23 | gruppi a rischio; occhi aperti possibili; non sdraiati in sala di ballo, nessuna sensazione dettata, niente rotazioni complete del collo **[da chiarire con l'autore]** | 01, 03 |
-| S-24, S-29 | consenso informato; esclusione di trauma, dissociazione, psicosi, depressione grave; rientro con attivazione; conduttore con formazione clinica **[da chiarire con l'autore]** | 01, 02, 03 |
-| S-25 | versione B a occhi aperti; versione A: niente fonti luminose intense, occhi aperti **[da chiarire con l'autore]**, precauzioni di S-24 | 01, 02, 03 |
-| S-26 | nessun dispositivo; routine scelta dall'allievo; nessuna rievocazione a occhi chiusi di ricordi personali **[da chiarire con l'autore]** | 01, 03 |
-| S-27, S-28 | consenso con contenuti dichiarati; niente con minori; volume moderato; niente formule di perdono verso persone reali e niente suggestioni nel sonno **[da chiarire con l'autore]** | 02, 03 |
+| S-19, S-20 | niente sovraccarico visivo; niente luci soffuse; niente profumi | — |
+| S-22 | screening per autoesclusione obbligatorio: è l'unica precauzione | 01 |
+| S-23 | gruppi a rischio; occhi aperti possibili | 01, 03 |
+| S-24 | consenso informato; esclusione di trauma, dissociazione, psicosi, depressione grave; rientro con attivazione | 01, 02, 03 |
+| S-25 | versione B a occhi aperti; versione A a occhi aperti, senza lampadina, con le precauzioni di S-24 | 01, 02, 03 |
+| S-26 | nessun dispositivo; routine scelta dall'allievo; ricordo personale facoltativo | 01, 03 |
+| S-27, S-28, S-29 (modulo sperimentale) | consenso con contenuti dichiarati; niente con minori; volume moderato; precauzioni delle schede in 07 | 02, 03 |
 | S-31 | tono imperativo mai verso una persona | — |
 | S-32 | giri brevi, mai conteggio costante della sola voce del docente | — |
-| S-35 | gruppi a rischio; spazio e pavimento; occhi aperti; fermarsi al capogiro; velocità lenta, talloni morbidi, doppio compito solo da soli **[da chiarire con l'autore]** | 01, 07 |
+| S-35 | gruppi a rischio; spazio e pavimento; occhi aperti; fermarsi al capogiro; doppio compito da soli, o in coppia solo in spazio ampio | 01 |
 | S-36 | nessuna promessa su "energia" o immunità | — |
-| S-38, S-45 | mai al posto della pratica fisica (S-38 **[da chiarire con l'autore]**); mai dettata | 03 |
-| S-39 | pastelli senza profumo (i profumati seguono S-76, modulo sperimentale) | — |
-| S-47 | gradualità; appoggio; interruzione ai primi sintomi; disturbi vestibolari: prima il medico | 01, 07 |
-| S-48 | non è terapia; sicurezza senza togliere la sfida | 03-07 |
+| S-38, S-45 | mai dettate; S-45 sempre in aggiunta alla pratica fisica; S-38 da sola solo quando la pratica fisica è impossibile | 03 |
+| S-39 | pastelli normali (i profumati stanno con S-76, nel modulo sperimentale) | — |
+| S-47 | gradualità; appoggio; interruzione ai primi sintomi; disturbi vestibolari: prima il medico | 01 |
+| S-48 | non è terapia; sicurezza senza togliere la sfida | 03-06 |
 | S-51 | consenso; anonimato; licenza STAI-Y; dati (§5) | 02 |
 | S-53–S-56 | mai presentati come trattamento; nessuna indicazione a famiglie di bambini con diagnosi; rinvio ai servizi sanitari; volume | 05 |
 | S-61–S-76 | regole del modulo sperimentale e precauzioni delle schede (07) | 02 |
 
 ---
 
-## 4. Segnali d'allarme e invio
+## 4. Segnali d'allarme
 
-La procedura di invio è una domanda aperta (00 §6.1, punto 19); i canali di invio sono obbligatori (precauzioni D-31). Il testo che segue è una **Proposta, da confermare con l'autore**.
+Che cosa fa il docente subito, se in sala qualcuno sta male. La procedura di invio a professionisti è stata eliminata per decisione dell'autore (5 ottobre 2026).
 
 ### 4.1 Segnali
 
@@ -205,12 +185,6 @@ La procedura di invio è una domanda aperta (00 §6.1, punto 19); i canali di in
 
 1. Il docente resta con la persona finché si sente stabile, o affida la persona a un collega.
 2. Non riprende l'attività che ha provocato l'episodio, per quella persona, senza averne parlato con lei.
-3. Indica a chi rivolgersi, senza insistere:
-   - **sintomi fisici** (capogiri ricorrenti, dolore, vertigini, problemi respiratori o cardiaci): medico di base, che valuta se servono specialisti (otorinolaringoiatra, neurologo, cardiologo);
-   - **contenuti traumatici, ansia, umore, dissociazione:** medico di base, psicologo o psicoterapeuta abilitato; nei casi urgenti, i servizi di salute mentale del territorio o il numero di emergenza;
-   - **difficoltà di apprendimento nei bambini** (dislessia, attenzione): neuropsichiatria infantile, logopedia, non trattamenti senza prove (D-19; D-26).
-4. Il docente prepara prima del corso un elenco di contatti locali (servizi sanitari, professionisti di riferimento, numero di emergenza) da consegnare quando serve.
-5. Annota in forma riservata data, attività e che cosa ha fatto, senza diagnosi né interpretazioni.
 
 ### 4.3 Che cosa il docente non fa
 
@@ -220,14 +194,14 @@ Non "elabora" in aula il contenuto emerso; non propone esercizi di riscrittura d
 
 ## 5. Privacy e ricerca universitaria
 
-Le misure validate (S-51; INT-10) sono pensate per il corso universitario. Se i dati servono a una ricerca o a una pubblicazione, valgono queste regole. **Proposta, da confermare con l'autore.**
+Le misure validate (S-51; INT-10) sono pensate per il corso universitario, che prevede una sperimentazione con un gruppo parallelo (02 §4.4). Se i dati servono a una ricerca o a una pubblicazione, valgono queste regole.
 
 1. **Consenso separato.** La partecipazione alla raccolta dei dati è separata dalla frequenza del corso e dal voto: chi non partecipa non subisce conseguenze.
 2. **Comitato etico.** Se i dati si pubblicano, serve il parere di un comitato etico prima di iniziare (INT-10).
-3. **Protezione dei dati.** Trattamento conforme al GDPR: informativa, base giuridica, durata della conservazione, diritto di ritiro. I dati sulla salute (come le risposte allo screening) non entrano nella ricerca se non sono necessari.
+3. **Protezione dei dati.** Trattamento conforme al GDPR: informativa, base giuridica, durata della conservazione, diritto di ritiro. I dati sulla salute non entrano nella ricerca se non sono necessari; il questionario di screening è anonimo e non si raccoglie (SIC-01).
 4. **Minimizzazione.** Si raccolgono solo i dati necessari alla domanda di ricerca; i questionari su ansia, fatica e gradimento sono anonimi o pseudonimizzati con un codice scelto dalla persona.
 5. **Video.** I video delle sequenze (S-51) richiedono un consenso specifico all'uso dell'immagine; si conservano in modo protetto e si usano solo per la valutazione alla cieca, salvo un consenso ulteriore.
 6. **Strumenti protetti.** Lo STAI-Y richiede una licenza d'uso (INT-10).
 7. **Valutazione a basso peso.** Le misure non diventano un esame che crea ansia: test "facili e stimolanti" (r. 4453-4459; S-11).
-8. **Confronto onesto.** Senza un gruppo di confronto i risultati restano esposti ad aspettative, novità, selezione e valutazioni non cieche (McCambridge, Witton, Elbourne 2014, *J Clin Epidemiol* 67:267-277): il disegno si dichiara agli studenti e nel resoconto.
+8. **Confronto onesto.** Un gruppo parallelo riceve un insegnamento tradizionale dello stesso contenuto; i due gruppi fanno le stesse misure prima e dopo il corso (STAI, video motorio) e una misura di ritenzione differita (decisione dell'autore; 02 §4.4). Il protocollo sperimentale non include le pratiche di stato delle fonti. Senza un gruppo di confronto i risultati restano esposti ad aspettative, novità, selezione e valutazioni non cieche (McCambridge, Witton, Elbourne 2014, *J Clin Epidemiol* 67:267-277). Il disegno si dichiara agli studenti e nel resoconto.
 9. **Minori.** Nessuna ricerca con minori senza consenso dei genitori e parere di un comitato etico.

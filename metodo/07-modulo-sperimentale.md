@@ -1,13 +1,13 @@
 # Modulo sperimentale
 
-**In breve.** Qui stanno le sedici pratiche delle fonti che l'autore non ha voluto nella lezione ma non ha voluto nemmeno escludere: si offrono a parte, fuori dalla lezione, a chi le chiede, dichiarando che non fanno parte del metodo di Lozanov e con le precauzioni di ogni scheda. Tre hanno limiti stretti: gli integratori sono solo informazione con rinvio al medico, l'elettrostimolazione solo su indicazione medica, il lavoro sui ricordi traumatici solo con un professionista della salute mentale presente. In fondo c'è l'elenco dei tre elementi che restano fuori dal metodo. Serve al docente per rispondere a chi chiede "e i battiti binaurali?" senza improvvisare.
+**In breve.** Qui stanno le diciannove pratiche delle fonti che l'autore non ha voluto nella lezione ma non ha voluto nemmeno escludere: si offrono a parte, fuori dalla lezione, a chi le chiede, dichiarando che non fanno parte del metodo di Lozanov e con le precauzioni di ogni scheda. Tre di queste, le pratiche notturne e subliminali, sono arrivate qui dal metodo per decisione dell'autore del 5 ottobre 2026. Tre hanno limiti stretti: gli integratori sono solo informazione con rinvio al medico, l'elettrostimolazione solo su indicazione medica, il lavoro sui ricordi traumatici solo con un professionista della salute mentale presente. In fondo c'è l'elenco dei tre elementi che restano fuori dal metodo. Serve al docente per rispondere a chi chiede "e i battiti binaurali?" senza improvvisare.
 
-Schede S-61–S-76. Schema della scheda ed etichette: 00 §1-§2. Le righe "r. NNNN" sono di Lozanov 2005.
+Schede S-27–S-29 e S-61–S-76. Schema della scheda ed etichette: 00 §1-§2. Le righe "r. NNNN" sono di Lozanov 2005.
 
 **Indice**
 1. Regole del modulo
 2. Salute e clinica: S-61 Integratori e sostanze · S-62 Elettrostimolazione cranica e microcorrenti · S-63 Lavoro su memorie traumatiche e riprogrammazione
-3. Stato e suggestione: S-64 Training autogeno · S-65 Battiti binaurali e Hemi-Sync · S-66 Autoconvalida di Altorfer e affermazioni · S-67 Reincarnazione artificiale di Raikov · S-68 Biofeedback ed EEG come training
+3. Stato e suggestione: S-64 Training autogeno · S-65 Battiti binaurali e Hemi-Sync · S-66 Autoconvalida di Altorfer e affermazioni · S-67 Reincarnazione artificiale di Raikov · S-68 Biofeedback ed EEG come training · Sonno e subliminale: S-27 Audio notturni e apprendimento nel sonno · S-28 Messaggi subliminali · S-29 Dial Direct 1-800-SUB
 4. Musica: S-69 Barocco lento a 60 BPM · S-70 Accordature planetarie · S-71 Musica di tango o cinese nei concerti · S-72 Musiche commerciali per l'apprendimento
 5. Formato e diagnosi: S-73 Cicli ritmici di 8 e 12 secondi · S-74 Infinity Walk come test · S-75 Mappature diagnostiche · S-76 Contesto olfattivo
 6. Fuori dal metodo
@@ -22,7 +22,7 @@ Il modulo sperimentale è l'opzione 2 di `DECISIONI.md` §3.4: **separato dalla 
 2. **Facoltativo.** Si partecipa per scelta, senza conseguenze per chi non partecipa; si può interrompere in ogni momento (SIC-03).
 3. **Dichiarato.** Ogni sessione si apre con una formula di presentazione. Testo proposto, adattato da VNF §4.2: *"Modulo facoltativo e sperimentale, separato dalla lezione. Non fa parte del metodo di Lozanov, che lo esclude o non lo tratta. Chi preferisce non partecipare può farlo senza dare spiegazioni."*
 4. **Consenso informato** prima di ogni attività (SIC-02), con i rischi della scheda.
-5. **Precauzioni.** Le schede di questo file non sono "come nelle fonti": le precauzioni obbligatorie di `DECISIONI.md` si applicano direttamente e modificano la procedura delle fonti dove serve.
+5. **Precauzioni.** Le schede di questo file non sono "come nelle fonti": le precauzioni obbligatorie di `DECISIONI.md` si applicano direttamente e modificano la procedura delle fonti dove serve. Fanno eccezione S-27, S-28 e S-29, che l'autore ha spostato dal metodo al modulo (D-13, decisione aggiornata il 2026-10-05): la procedura resta quella delle fonti, con il consenso informato e i contenuti dichiarati.
 6. **Misura.** Dove ha senso, una misura semplice prima e dopo (per esempio una scala breve d'ansia o di fatica; S-51), per capire se la pratica aiuta quel gruppo.
 7. **Limiti del ruolo.** S-61 è solo informativo; S-62 si usa solo su indicazione medica personale e il docente non lo somministra; S-63 si fa solo con un professionista della salute mentale abilitato presente (D-01, D-03, D-06).
 8. **Esempi.** Gli esempi di tango e di Liu Zi Jue si danno dove hanno senso (00 §2, regola 3).
@@ -210,7 +210,7 @@ Componenti escluse: il rilassamento profondo su barocco a 60 BPM che PR7 mette a
 
 **Esempio Liu Zi Jue.** "Io, [Nome], eseguo Si con un'espirazione fluida"; a destra le obiezioni. In alternativa il diario di pratica.
 
-**Spiegazione.** Il protocollo non ha studi pubblicati. La formazione delle abitudini richiede in mediana 66 giorni, con grande variabilità (Lally et al. 2010, *Eur J Soc Psychol* 40:998-1009); "desensibilizzazione sistematica" è il nome di un'altra tecnica, l'esposizione graduale. Le auto-affermazioni positive migliorano l'umore di chi ha un'alta autostima e lo peggiorano in chi l'ha bassa (Wood, Perunovic, Lee 2009, *Psychol Sci* 20:860-866). Due strumenti diversi sono meglio studiati: scrivere le proprie preoccupazioni prima di una prova (Ramirez e Beilock 2011, *Science* 331:211-213, da ricontrollare) e l'affermazione dei propri valori (VNF F14). Lozanov respinge l'auto-programmazione (r. 1400-1406); è coerente con il canone, invece, non reprimere le obiezioni (r. 2842-2845).
+**Spiegazione.** Il protocollo non ha studi pubblicati. La formazione delle abitudini richiede in mediana 66 giorni, con grande variabilità (Lally et al. 2010, *Eur J Soc Psychol* 40:998-1009); "desensibilizzazione sistematica" è il nome di un'altra tecnica, l'esposizione graduale. Le auto-affermazioni positive migliorano l'umore di chi ha un'alta autostima e lo peggiorano in chi l'ha bassa (Wood, Perunovic, Lee 2009, *Psychol Sci* 20:860-866). Due strumenti diversi sono meglio studiati: scrivere le proprie preoccupazioni prima di una prova (Ramirez e Beilock 2011, *Science* 331:211-213) e l'affermazione dei propri valori (VNF F14). Lozanov respinge l'auto-programmazione (r. 1400-1406); è coerente con il canone, invece, non reprimere le obiezioni (r. 2842-2845).
 
 > **Cosa dicono le fonti** · 🟥 Speculativo (contraddetto)
 >
@@ -241,7 +241,7 @@ Componenti escluse: l'ancora pollice-indice che MAN T6.5 associa al ruolo (preca
 
 **Esempio Liu Zi Jue.** Guardare il video di un insegnante esperto dello standard HQA e provare a riprodurne il ritmo e l'ampiezza in Hu e Si, come imitazione dichiarata.
 
-**Spiegazione.** Gli studi di Raikov degli anni Settanta, in ipnosi profonda, non sono stati replicati in modo indipendente (Raikov 1976, da ricontrollare). Il nocciolo è reale e modesto: assumere la prospettiva di un personaggio aumenta la perseveranza nei bambini (White et al. 2017, *Child Dev* 88:1563-1571); in un piccolo studio abitare in realtà virtuale un corpo "da Einstein" ha migliorato un compito cognitivo (Banakou, Kishore, Slater 2018, *Front Psychol* 9:917). Per Lozanov l'ipnosi "was explicitly rejected" (r. 1392, 5815) e l'infantilizzazione canonica conserva "a critical attitude and self-control" (r. 2289-2293). Le nuove identità del canone (S-16) sono un gioco dichiarato a occhi aperti, dentro il gioco-progetto: sono nel metodo.
+**Spiegazione.** Gli studi di Raikov degli anni Settanta, in ipnosi profonda, non sono stati replicati in modo indipendente (Raikov 1976). Il nocciolo è reale e modesto: assumere la prospettiva di un personaggio aumenta la perseveranza nei bambini (White et al. 2017, *Child Dev* 88:1563-1571); in un piccolo studio abitare in realtà virtuale un corpo "da Einstein" ha migliorato un compito cognitivo (Banakou, Kishore, Slater 2018, *Front Psychol* 9:917). Per Lozanov l'ipnosi "was explicitly rejected" (r. 1392, 5815) e l'infantilizzazione canonica conserva "a critical attitude and self-control" (r. 2289-2293). Le nuove identità del canone (S-16) sono un gioco dichiarato a occhi aperti, dentro il gioco-progetto: sono nel metodo.
 
 > **Cosa dicono le fonti** · 🟥 Speculativo (contraddetto)
 >
@@ -269,7 +269,7 @@ Origine: fonti · Decisione: D-17, modulo sperimentale · Fase del ciclo: fuori 
 
 **Esempio Liu Zi Jue.** Uno specchio per vedere le spalle durante Si; il feedback si dà raramente, e il gruppo torna subito alla forma intera.
 
-**Spiegazione.** Il biofeedback EMG ha prove in ambito clinico, per esempio nella cefalea tensiva (Nestoriuc, Rief, Martin 2008, *J Consult Clin Psychol* 76:379-396, da ricontrollare). L'EEG misura cambiamenti di attivazione, non un beneficio didattico (VTN R-A9); i colori delle mappe QEEG sono una scala convenzionale del software, e la QEEG ha un ruolo clinico riconosciuto solo in ambiti limitati (Nuwer 1997, *Neurology* 49:277-292; VTN R-A11). Per Lozanov l'EEG non è legato "with the content of the mind" (r. 2417-2419).
+**Spiegazione.** Il biofeedback EMG ha prove in ambito clinico, per esempio nella cefalea tensiva (Nestoriuc, Rief, Martin 2008, *J Consult Clin Psychol* 76:379-396). L'EEG misura cambiamenti di attivazione, non un beneficio didattico (VTN R-A9); i colori delle mappe QEEG sono una scala convenzionale del software, e la QEEG ha un ruolo clinico riconosciuto solo in ambiti limitati (Nuwer 1997, *Neurology* 49:277-292; VTN R-A11). Per Lozanov l'EEG non è legato "with the content of the mind" (r. 2417-2419).
 
 > **Cosa dicono le fonti** · 🟥 Speculativo (non verificato per il dato del 135%; contraddetto per i colori QEEG)
 >
@@ -278,6 +278,118 @@ Origine: fonti · Decisione: D-17, modulo sperimentale · Fase del ciclo: fuori 
 **Precauzioni** (D-17). Biofeedback strumentale solo in contesto clinico; nessuna mappa QEEG mostrata o interpretata in aula; nessuna diagnosi.
 
 **Collegamenti.** S-43, S-51, S-75.
+
+**Sonno e subliminale (S-27–S-29).** Le tre schede che seguono stavano nel metodo, in 03a §C. L'autore le ha spostate nel modulo sperimentale (D-13, decisione aggiornata il 2026-10-05). Valgono le regole del modulo (§1): separato dalla lezione, facoltativo, dichiarato non lozanoviano, con il consenso informato e i contenuti dichiarati ai partecipanti (SIC-02). Lozanov esclude queste pratiche: "During training under this method, sleep turns into hypnosis" (r. 1600-1624).
+
+### S-27 Audio notturni e apprendimento nel sonno
+
+🟨 **Tradizione** per la procedura (SL1-A T28, T30; SL1-B T17; MAN A.11, T6.4; DSS T17-T19) · 🟥 **Speculativo** (contraddetto) (VNF F9) · 🟥 **Non canonico** (r. 1600-1624)
+
+Origine: fonti · Decisione: D-13, modulo sperimentale (decisione aggiornata il 2026-10-05), consenso informato obbligatorio · Fase del ciclo: fuori dalla lezione · Sicurezza: SIC-02 (obbligatorio), SIC-03, SIC-05
+
+**Scopo.** Ascoltare all'addormentamento un audio con suggestioni sul materiale del corso, secondo le procedure delle fonti.
+
+**Procedura** (come nelle fonti).
+
+*A. Nastri per il sonno* (SL1-A T28, r. 302-310):
+1. Registrare 100-200 suggerimenti personali, con sotto la musica Superlearning (preparazione).
+2. Prima parte, "detersione psicologica": formule di scioglimento e di perdono verso genitori e autorità.
+3. Parte finale: formule di "fusione" con l'oggetto di studio.
+4. Ascoltare addormentandosi per 10 notti consecutive.
+
+*B. "Change Your Mind" di Teri Mahaney* (MAN A.11, r. 78-82; PR8; SL1-B T17):
+1. Registrare un audio personalizzato di 20-30 minuti.
+2. Fase 1, "Pulizia e Perdono" (10 min): frasi di distacco dai risentimenti verso le figure di autorità.
+3. Fase 2, "Inoculazione del Flusso" (15 min): affermazioni al presente.
+4. Riprodurre a volume moderato mentre ci si addormenta, per 10-14 notti consecutive.
+
+*C. Versione per il tango* (MAN T6.4, r. 201-202; DSS T17-T19): script per i giros, registrato con voce calma su musica barocca a 60 BPM e ascoltato per 10 notti. Struttura: induzione di calore e pesantezza dai piedi alla testa; frasi di rilascio e di perdono verso se stessi; visualizzazione di una milonga; affermazioni d'identità ("Io e il giro nel tango siamo una cosa sola"); comando di sonno. Il testo integrale è in `ricerca/estrazioni/manuale.md`, T6.4.
+
+**Consenso informato** (SIC-02). Prima dell'ascolto il partecipante riceve per iscritto il testo integrale dell'audio, la durata, la musica e le precauzioni; firma; può smettere in qualsiasi momento.
+
+Componenti con decisione diversa: musica barocca a 60 BPM e musica "Superlearning" (S-69, S-72); fasce audio collegate a Hemi-Sync (S-65); le versioni "sotto la soglia udibile" sono S-28.
+
+**Esempio tango.** Versione C con il testo di MAN T6.4, consegnato prima per intero; il partecipante decide se usarlo e per quante notti. Il docente non chiede resoconti.
+
+**Esempio Liu Zi Jue.** Le fonti non hanno una versione per il Qigong. Con la struttura della versione B si può registrare un audio con le affermazioni del partecipante sulla sequenza ("le sei forme scorrono una nell'altra", "la bocca di Si trova la sua fessura"), senza la fase di perdono. Esempio costruito sulla struttura della fonte: testo integrale consegnato prima (SIC-02).
+
+**Spiegazione.** Gli studi controllati non mostrano apprendimento esplicito di informazioni nuove durante il sonno (Wood et al. 1992, *Psychol Sci* 3:236-239; VNF F9). Esiste un effetto reale ma diverso: riproporre nel sonno un suono già associato a materiale studiato da svegli può rafforzarne un poco il ricordo, in laboratorio (Hu et al. 2020, *Psychol Bull* 146:218-244). Il sonno regolare consolida ciò che si è imparato da svegli (VPS §8).
+
+> **Cosa dicono le fonti** · 🟥 Speculativo (contraddetto)
+>
+> Secondo le fonti la finestra ipnagogica (theta e delta) "aggira il filtro analitico"; la propria voce o una voce femminile è "accettata dal subconscio"; lo script integra "le verità" nei neuroni e riduce "drasticamente" la frequenza cardiaca in pista; un manager avrebbe ridotto del 20% il tempo d'esame e alzato del 20% i voti (SL1-A T30, r. 275-281; SL1-B T17; MAN A.11, T6.4; DSS L173-186, L462-466).
+
+**Precauzioni** (D-13).
+- Consenso informato con contenuti dichiarati (SIC-02); niente con minori.
+- Le formule di perdono verso persone reali si possono togliere: in persone fragili possono alimentare autocritica o riaprire ferite.
+- Per chi preferisce, l'alternativa indicata da `DECISIONI.md`: un ascolto informativo prima di dormire, facoltativo, senza suggestioni.
+- Persone con insonnia, ansia o depressione: rischio di sonno frammentato o peggiorato.
+- Auricolari tutta la notte: irritazione del condotto uditivo; volume moderato.
+
+**Collegamenti.** S-28, S-29, S-60 (03a), S-69.
+
+### S-28 Messaggi subliminali
+
+🟨 **Tradizione** per la procedura (SL1-A T29; SL1-B T18; DSS T20) · 🟥 **Speculativo** (contraddetto) (VNF F11-F12) · 🟥 **Non canonico** (r. 1400-1406; il contrario delle percezioni periferiche, r. 2232-2264)
+
+Origine: fonti · Decisione: D-13, modulo sperimentale (decisione aggiornata il 2026-10-05), consenso informato obbligatorio · Fase del ciclo: fuori dalla lezione · Sicurezza: SIC-02 (obbligatorio), SIC-03
+
+**Scopo.** Esporre a frasi sotto la soglia della coscienza, visiva o uditiva, secondo le procedure delle fonti.
+
+**Procedura** (come nelle fonti).
+
+*A. Subliminale tachistoscopico* (SL1-A T29, r. 264-274; SL1-B T18; DSS T20): si proiettano frasi "infantili" per pochi millisecondi (4 ms) con il tachistoscopio, sotto la soglia della coscienza; la frase storica del filone di Silverman e Parker è "Mommy and I are one". La fonte non indica numero di esposizioni né durata della sessione.
+
+*B. Audio sotto la soglia udibile* (SL1-A T30, r. 257-259, 275-281): una formula registrata con musica a volume sotto la soglia udibile, riprodotta per tutta la notte.
+
+**Consenso informato** (SIC-02). Il partecipante riceve prima il testo esatto di ogni frase, la durata e il calendario delle esposizioni; può scegliere o modificare le frasi; firma.
+
+**Esempio tango.** Versione B: il partecipante sceglie una frase da una lista che il docente gli consegna ("ballo con piacere", "il mio abrazo è sicuro") e la conosce prima dell'ascolto notturno.
+
+**Esempio Liu Zi Jue.** Versione A con un software di presentazione rapida: la frase "la forma scorre", dichiarata e scelta dal partecipante, prima della pratica individuale a casa.
+
+**Spiegazione.** In un esperimento in doppio cieco su 237 persone, i nastri subliminali di auto-aiuto non hanno prodotto gli effetti dichiarati; più di un terzo dei partecipanti credeva di essere migliorato nel campo scritto sull'etichetta anche quando il nastro era l'altro (Greenwald et al. 1991, *Psychol Sci* 2:119-122). Il filone di Silverman è storico e molto contestato (VNF F11-F12). Per Lozanov le percezioni periferiche sono stimoli sopra soglia, controllabili, che lasciano libertà di scelta (r. 2232-2264): il subliminale ne è il contrario.
+
+> **Cosa dicono le fonti** · 🟥 Speculativo (contraddetto)
+>
+> Le fonti riportano che la stimolazione "Mommy and I are one" ha ridotto l'ansia e dato circa 10 punti in più rispetto ai controlli in lettura, matematica e diritto commerciale (SL1-A r. 266-274; SL1-B T18; DSS T20), e che l'audio notturno sotto la soglia udibile ha ridotto del 20% il tempo d'esame e alzato del 20% i voti (SL1-A T30).
+
+**Precauzioni** (D-13).
+- Il messaggio nascosto è incompatibile con il consenso informato: per questo il contenuto si dichiara sempre prima.
+- Niente con minori: servono il consenso dei genitori e, in ricerca, un comitato etico.
+- Mai in sala o in lezione: il modulo è separato dalla lezione (§1).
+
+**Collegamenti.** S-27, S-19 (03a).
+
+### S-29 Dial Direct 1-800-SUB
+
+🟨 **Tradizione** per la procedura (SL1-A T32) · 🟥 **Speculativo** (contraddetto) · 🟥 **Non canonico** (r. 1440-1441)
+
+Origine: fonti · Decisione: D-13, modulo sperimentale (decisione aggiornata il 2026-10-05), consenso informato obbligatorio · Fase del ciclo: fuori dalla lezione · Sicurezza: SIC-01 (gruppi a rischio), SIC-02, SIC-03, SIC-05
+
+**Scopo.** Un esercizio immaginativo di "dialogo" con il proprio "subconscio", secondo la procedura della fonte.
+
+**Procedura** (come nella fonte; SL1-A T32, r. 325-334). La fonte non indica tempi.
+1. In un "antro sereno" immaginare un telefono di cristallo.
+2. Comporre 1-800-SUB e interrogare il proprio "subconscio" con quattro formule, intercalate da verifiche: "Prendo possesso dell'abilità del mio desiderio di...", "Appuro il merito personale di...", "Alimento la pretesa di...", "Io mantengo e detengo la tenacia della...".
+3. Una figura immaginaria, una scritta o sintomi fisici (la fonte cita fegato e collo) danno l'"ok" oppure rivelano metafore da correggere.
+4. Riagganciare ed eseguire esercizi ginnici "per uscire dalla trance".
+
+**Consenso informato** (SIC-02): testo delle formule e procedura consegnati prima.
+
+**Esempio tango.** "Prendo possesso dell'abilità del mio desiderio di ballare il giro con molinete in musica"; chiusura con una camminata vivace su D'Arienzo.
+
+**Esempio Liu Zi Jue.** "Io mantengo e detengo la tenacia della pratica quotidiana dei sei suoni"; chiusura con lo scuotimento delle braccia e qualche passo.
+
+**Spiegazione.** È una visualizzazione guidata, che Lozanov considera induzione ipnotica (r. 1440-1441). Il "subconscio" a cui si "telefona" non è un costrutto scientifico; un sintomo fisico non è una risposta del subconscio: se compare, va valutato da un medico (SIC-05).
+
+> **Cosa dicono le fonti** · 🟥 Speculativo (contraddetto)
+>
+> La fonte presenta l'esercizio come un contatto diretto con il "subconscio", che risponde attraverso figure, scritte o sintomi fisici e rivela ostilità passate o timori legati ai genitori (SL1-A T32, r. 325-334).
+
+**Precauzioni.** Le precauzioni di D-13 (consenso con contenuti dichiarati; niente con minori) e quelle della visualizzazione guidata (S-24: esclusione di persone con trauma, dissociazione o psicosi; possibilità di interrompere; rientro con attivazione fisica). Nessuna interpretazione di sintomi fisici da parte del docente.
+
+**Collegamenti.** S-24 (03a), S-27, S-60 (03a).
 
 ---
 
@@ -302,7 +414,7 @@ Origine: fonti · Decisione: D-18, modulo sperimentale, **playlist separata dal 
 
 **Esempio Liu Zi Jue.** Prima della pratica del mattino, per chi la gradisce; chi non la gradisce aspetta in silenzio.
 
-**Spiegazione.** Il cuore non si "aggancia" ai 60 battiti; la musica lenta abbassa un poco respiro e battito rispetto a quella veloce, e una pausa di silenzio li abbassa di più (Bernardi, Porta, Sleight 2006, *Heart* 92:445-452). Come sottofondo durante lo studio la musica ha in media un effetto nullo o lievemente negativo (Kämpfe et al. 2011). L'unico studio controllato in classe sul protocollo Superlearning non ha trovato vantaggi né aumento dell'alfa (Wagner e Tilney 1983, *TESOL Quarterly* 17:5-17, da ricontrollare). Una musica calma e gradita può ridurre l'ansia di alcune persone. Il concerto passivo canonico usa invece opere barocche intere, movimenti veloci compresi (04 §2; r. 4100-4115).
+**Spiegazione.** Il cuore non si "aggancia" ai 60 battiti; la musica lenta abbassa un poco respiro e battito rispetto a quella veloce, e una pausa di silenzio li abbassa di più (Bernardi, Porta, Sleight 2006, *Heart* 92:445-452). Come sottofondo durante lo studio la musica ha in media un effetto nullo o lievemente negativo (Kämpfe et al. 2011). L'unico studio controllato in classe sul protocollo Superlearning non ha trovato vantaggi né aumento dell'alfa (Wagner e Tilney 1983, *TESOL Quarterly* 17:5-17). Una musica calma e gradita può ridurre l'ansia di alcune persone. Il concerto passivo canonico usa invece opere barocche intere, movimenti veloci compresi (04 §2; r. 4100-4115).
 
 > **Cosa dicono le fonti** · 🟥 Speculativo (contraddetto)
 >
@@ -341,7 +453,7 @@ Origine: fonti · Decisione: D-20, modulo sperimentale · Fase del ciclo: prima 
 
 🟩 **Evidenza parziale** per i dati di tempo della musica di tango (VPS M9) · Non trattato da Lozanov; modifica del canone (r. 2923-2926, 5853)
 
-Origine: nessuna fonte propone questa musica nei concerti (D-21); il tango nelle fonti è usato per il movimento (MAN A.9) · Decisione: D-21, modulo sperimentale, **variante dichiarata non canonica** · Fase del ciclo: concerto, in una sessione separata · Sicurezza: SIC-03, SIC-07
+Origine: nessuna fonte propone questa musica nei concerti (D-21); il tango nelle fonti è usato per il movimento (MAN A.9) · Decisione: D-21, modulo sperimentale, **variante dichiarata non canonica** · Fase del ciclo: concerto, in una sessione separata · Sicurezza: SIC-03
 
 **Scopo.** Provare un concerto (S-02, S-03, S-04) con la musica della disciplina al posto del programma canonico, come variante dichiarata.
 
@@ -408,7 +520,7 @@ Origine: fonti · Decisione: D-23, modulo sperimentale (nocciolo motorio in S-52
 
 **Esempio Liu Zi Jue.** Per 4 secondi il docente pronuncia il nome di un suono e mostra la forma della bocca, per 4 secondi il gruppo esegue in silenzio.
 
-**Spiegazione.** Il protocollo viene dal Superlearning, non da Lozanov 2005; l'unico studio controllato in classe non ha trovato vantaggi (Wagner e Tilney 1983, da ricontrollare); in un esperimento moderno parlare in ritmo non ha aiutato, cantare sì (Ludke, Ferreira, Overy 2014, *Mem Cognit* 42:41-52); per i 13 minuti non c'è fonte (VPS S1-S3). Due noccioli hanno prove: frasi brevi e di senso compiuto dentro un testo intero (VPS R-S2); nell'apprendimento motorio brevi pause tra le ripetizioni producono guadagni rapidi (Bönstrup et al. 2019, *Curr Biol* 29:1346-1351): è S-52, nel metodo. Lozanov considera un ritmo fisso e ripetuto un "monotonous rhythmic stimulus", meccanismo d'induzione (r. 1394-1397, 1830-1832); la lettura canonica segue la frase musicale (r. 4037-4060); l'insegnamento "of small, isolated portions [...] contradicts certain psycho-physiological laws" (r. 2885-2889).
+**Spiegazione.** Il protocollo viene dal Superlearning, non da Lozanov 2005; l'unico studio controllato in classe non ha trovato vantaggi (Wagner e Tilney 1983); in un esperimento moderno parlare in ritmo non ha aiutato, cantare sì (Ludke, Ferreira, Overy 2014, *Mem Cognit* 42:41-52); per i 13 minuti non c'è fonte (VPS S1-S3). Due noccioli hanno prove: frasi brevi e di senso compiuto dentro un testo intero (VPS R-S2); nell'apprendimento motorio brevi pause tra le ripetizioni producono guadagni rapidi (Bönstrup et al. 2019, *Curr Biol* 29:1346-1351): è S-52, nel metodo. Lozanov considera un ritmo fisso e ripetuto un "monotonous rhythmic stimulus", meccanismo d'induzione (r. 1394-1397, 1830-1832); la lettura canonica segue la frase musicale (r. 4037-4060); l'insegnamento "of small, isolated portions [...] contradicts certain psycho-physiological laws" (r. 2885-2889).
 
 > **Cosa dicono le fonti** · 🟥 Speculativo (contraddetto)
 >
@@ -422,7 +534,7 @@ Origine: fonti · Decisione: D-23, modulo sperimentale (nocciolo motorio in S-52
 
 🟨 **Tradizione** per la procedura (DSS T3; SL1-C T3) · 🟥 **Speculativo** (contraddetto) (VNF D8) · Non trattato da Lozanov; in tensione con "The teacher is not a physician" (r. 2046-2047)
 
-Origine: fonti · Decisione: D-25, modulo sperimentale (l'esercizio motorio è S-35, nel metodo) · Fase del ciclo: sessione separata · Sicurezza: SIC-01, SIC-03, SIC-05, SIC-07
+Origine: fonti · Decisione: D-25, modulo sperimentale (l'esercizio motorio è S-35, nel metodo) · Fase del ciclo: sessione separata · Sicurezza: SIC-01, SIC-03, SIC-05
 
 **Scopo.** Osservare la propria camminata a otto secondo i parametri del test delle fonti, come autosservazione e non come diagnosi.
 
@@ -480,7 +592,7 @@ Origine: fonti · Decisione: D-26, modulo sperimentale, **autosservazione e non 
 
 🟨 **Tradizione** per la pratica (SL1-A T25) · 🟩 **Evidenza parziale** (VNF F6) · Non trattato da Lozanov
 
-Origine: fonti · Decisione: D-29, modulo sperimentale · Fase del ciclo: sessione separata o ciclo dichiarato · Sicurezza: SIC-01, SIC-02
+Origine: fonti · Decisione: D-29, modulo sperimentale; comprende i pastelli profumati delle mappe mentali (S-39) · Fase del ciclo: sessione separata o ciclo dichiarato · Sicurezza: SIC-01, SIC-02
 
 **Scopo.** Usare lo stesso odore quando si impara e quando si richiama, secondo la fonte.
 
@@ -488,6 +600,7 @@ Origine: fonti · Decisione: D-29, modulo sperimentale · Fase del ciclo: sessio
 1. Consenso di tutto il gruppo e verifica che nessuno abbia asma, allergie o sensibilità ai profumi (SIC-01, SIC-02).
 2. Lo stesso odore presente nella sessione in cui si impara e in quella in cui si richiama, giorni dopo (SL1-A T25, r. 197-201). La fonte usa il cioccolato.
 3. Nessun diffusore e nessun olio essenziale in ambienti chiusi (precauzione D-29): l'odore viene da una fonte naturale e contenuta, per esempio una ciotola di cioccolato o di cacao.
+4. Rientrano qui i pastelli profumati che la fonte propone per le mappe mentali (mela e pino; SL1-A T20): nel metodo le mappe si fanno con pastelli normali (S-39; decisione dell'autore).
 
 **Esempio tango.** Una ciotola di cacao sul tavolo nella lezione 1 del ciclo e nella lezione 4 (performance), solo se tutto il gruppo è d'accordo.
 
@@ -501,7 +614,7 @@ Origine: fonti · Decisione: D-29, modulo sperimentale · Fase del ciclo: sessio
 
 **Precauzioni** (D-29). Solo con il consenso di tutto il gruppo; niente diffusori o oli essenziali in ambienti chiusi. Persone a rischio: asma, allergie, sensibilità ai profumi (crisi d'asma, cefalea, irritazione).
 
-**Collegamenti.** S-33, S-39.
+**Collegamenti.** S-33, S-39 (03b).
 
 ---
 

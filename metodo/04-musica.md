@@ -23,7 +23,7 @@ Etichette: 00 §1. Le righe "r. NNNN" sono di Lozanov 2005.
 | L'arte non è intrattenimento | "art is not simple entertainment" (r. 3159); "the potential of art should not be absolutised" (r. 1717-1718) | 🟦 r. 3159 |
 | Qualità dell'esecuzione | Si scelgono esecuzioni di alta qualità artistica; per il barocco anche registrazioni su strumenti d'epoca, per esempio Tafelmusik (VPS R-M4) | 🟦 principio affine r. 3104-3110 |
 | Musica della disciplina come cultura | La musica e i canti del paese entrano nelle elaborazioni come "culture of the respective country" (r. 4349-4352). Tango e musica del Liu Zi Jue sono contenuto della disciplina e restano nel metodo (§3); nei concerti la loro presenza è solo nel modulo sperimentale (D-21, S-71) | 🟦 r. 4349-4352 |
-| Volume | Il concerto passivo è "as loud as a normal concert" (r. 4100-4115). In aula si tiene un volume che permetta di parlare senza alzare la voce, con tappi disponibili per chi ha acufeni o iperacusia (VPS 7.7; SIC-07). **Proposta, da confermare con l'autore** (00 §6.1, punto 18) | 🟦 r. 4100-4115 |
+| Volume | Nel canone il concerto passivo è "as loud as a normal concert" (r. 4100-4115). Nel metodo il volume è moderato: si può parlare a voce normale (decisione dell'autore) | 🟦 r. 4100-4115 |
 
 Che cosa dice la ricerca, in breve: la musica gradita migliora per poco umore e attivazione (Thompson, Schellenberg, Husain 2001, *Psychol Sci* 12:248-251); come sottofondo durante lo studio ha in media un effetto nullo o lievemente negativo (Kämpfe, Sedlmeier, Renkewitz 2011, *Psychol Music* 39:424-448); le melodie e il canto aiutano il ricordo di testi parola per parola (Wallace 1994; Ludke et al. 2014). 🟩 **Evidenza parziale**. Il concerto di Lozanov non è musica di sottofondo allo studio: è un'opera ascoltata mentre il docente legge o esegue (VPS §8).
 
@@ -56,20 +56,21 @@ Il testo del libro e il file del progetto contengono errori di tonalità e di de
 |---|---|---|
 | Haydn, Sinfonia n. 101 "in C Major" | in re maggiore | modello §5.7; VPS C8 |
 | Beethoven, Concerto per pianoforte n. 5 op. 73 "in B-flat" | in mi bemolle maggiore (il file stesso lo annota) | modello §5.7; VPS C8; TM P8 |
-| Haydn, Concerto per violino "n. 2 in G Major" | è il concerto in sol maggiore Hob. VIIa:4, numerato a volte "2", a volte "4" **[da verificare su un catalogo tematico]** | VPS C8 (citato a memoria) |
-| Couperin, "Sonatas for Harpsichord" ("Le Parnasse", "L'Astrée") | probabilmente sonate a tre, non per clavicembalo solo **[da verificare]** | modello §5.7 |
+| Haydn, Concerto per violino "n. 2 in G Major" | è il concerto in sol maggiore Hob. VIIa:4, numerato a volte "2", a volte "4" | VPS C8 |
+| Couperin, "Sonatas for Harpsichord" ("Le Parnasse", "L'Astrée") | probabilmente sonate a tre, non per clavicembalo solo | modello §5.7 |
 | Bach, "Dogmatic Chorales" | sono i corali della *Clavier-Übung III*, BWV 680-689 | modello §5.7 |
 
 Altre precisioni utili. Le Sinfonie n. 35 "Haffner" K 385 e n. 38 "Praga" K 504 e il Concerto per violino op. 61 di Beethoven, citati nel manuale delle fonti, sono nel programma canonico (sessioni 3 e 6). La Sonata per due pianoforti K. 448 di Mozart non è nel programma: è il brano dell'esperimento sull'effetto Mozart (S-53). Le Sinfonie n. 29 e n. 40, che la Sound Therapy usa per la "ricarica", sono nel programma come opere del concerto attivo (sessione 1).
 
 ### 2.2 Come si usa il programma nel metodo
 
-**Proposta, da confermare con l'autore** (00 §6.1, punti 3 e 7).
-1. Ogni ciclo usa una sessione del programma: l'opera del concerto attivo e quella del passivo vengono dalla stessa sessione. L'ordine proposto è quello del programma: il ciclo 1 la sessione 1, il ciclo 2 la sessione 2, e così via. Gli esempi di 02 e dell'applicazione al Liu Zi Jue (AQ) usano invece le sessioni 3 e 4 per il primo corso, perché hanno opere più brevi: l'autore decide quale regola seguire.
-2. Il libro non dice se tutte le opere elencate vadano eseguite nella stessa sessione (TM P8). Per un concerto si sceglie un'opera intera del n. 1 e un'opera intera, o una sua parte significativa, del n. 2. Il concerto passivo si può accorciare saltando le parti meno significative (r. 4107-4108); il concerto attivo dura "normally [...] not more than 45-50 minutes" (r. 4049-4050).
-3. L'opera del n. 1 accompagna il concerto attivo canonico (S-02), il concerto dimostrato (S-04) o il concerto in movimento (S-05). L'opera del n. 2 accompagna il concerto passivo (S-03). Attivo e passivo non si separano.
-4. Il docente ascolta l'opera intera prima della lezione (r. 4021-4099) e ne misura le durate sull'esecuzione scelta.
-5. Per le lezioni di 90 minuti servono opere brevi: per esempio la "Haffner" (circa 17 min) per l'attivo; per il passivo, un concerto grosso di Corelli o una parte delle *Stagioni*.
+Le regole che seguono sono decisioni dell'autore.
+1. **Le sessioni in ordine.** Il ciclo 1 usa la sessione 1, il ciclo 2 la sessione 2, e così via. L'opera del concerto attivo e quella del passivo vengono dalla stessa sessione.
+2. **L'opera di durata adatta.** Dentro la sessione il docente sceglie l'opera di durata adatta alla lezione. Nella lezione 1, che ha 43 minuti per i concerti (02 §4.2), sceglie l'opera più breve: nella sessione 1 la Sinfonia n. 40 K 550 (circa 25 minuti); nella sessione 2 il Concerto per violino n. 1 di Haydn (circa 18 minuti).
+3. **Un'opera intera.** Il libro non dice se tutte le opere elencate vadano eseguite nella stessa sessione (TM P8). Per un concerto si sceglie un'opera intera del n. 1 e un'opera intera, o una sua parte significativa, del n. 2. Il concerto passivo si può accorciare saltando le parti meno significative (r. 4107-4108); il concerto attivo dura "normally [...] not more than 45-50 minutes" (r. 4049-4050).
+4. **Attivo e passivo insieme.** L'opera del n. 1 accompagna il concerto attivo canonico (S-02), il concerto dimostrato del ciclo 1 (S-04) o il concerto in movimento del ciclo 2 (S-05). Ogni movimento dell'opera corrisponde a un gruppo di figure. L'opera del n. 2 accompagna il concerto passivo (S-03). Attivo e passivo non si separano: tra i due c'è solo la breve pausa con il rilassamento facoltativo (S-23, 2-3 minuti).
+5. **Ascolto prima della lezione.** Il docente ascolta l'opera intera prima della lezione (r. 4021-4099) e ne misura le durate sull'esecuzione scelta.
+6. **Volume.** Il concerto passivo ha un volume moderato: si può parlare a voce normale.
 
 ---
 
@@ -77,7 +78,7 @@ Altre precisioni utili. Le Sinfonie n. 35 "Haffner" K 385 e n. 38 "Praga" K 504 
 
 ### 3.1 Il tango
 
-Nel tango la musica è contenuto: musicalità, orchestre, letras, struttura della milonga. Nel metodo la musica di tango sta nella preparazione, nelle elaborazioni, nei giochi, nelle canzoni e nella performance. Nei concerti si usa solo nel modulo sperimentale, come variante dichiarata non canonica (D-21; S-71).
+Nel tango la musica è contenuto: musicalità, orchestre, letras, struttura della milonga. Nel metodo la musica di tango sta nell'introduzione, nelle elaborazioni, nei giochi, nelle canzoni e nella performance. Nei concerti si usa solo nel modulo sperimentale, come variante dichiarata non canonica (D-21; S-71).
 
 **Le orchestre** (🟨 Tradizione della disciplina: le caratteristiche indicate sono quelle che i docenti di tango usano per l'ascolto e la musicalità).
 
@@ -97,21 +98,21 @@ Nel tango la musica è contenuto: musicalità, orchestre, letras, struttura dell
 
 | Fase | Uso della musica di tango | Strumenti |
 |---|---|---|
-| Preparazione | un tango strumentale a volume basso all'ingresso; routine sulle prime battute | S-20, S-46 |
+| Ingresso | un tango strumentale a volume basso mentre gli allievi arrivano | S-20 |
 | Introduzione | la sequenza del ciclo ballata dal docente su due orchestre di carattere diverso | S-01 |
 | Concerti | nessuna musica di tango nel metodo (solo nel modulo sperimentale, S-71) | S-02–S-05 |
-| Elaborazioni | lo stesso materiale su orchestre, tempi e generi diversi (tango, vals, milonga); giochi di musicalità; canto del compás e della sincope prima di camminarli | S-44, S-18, S-32, S-50 |
+| Elaborazioni | lo stesso materiale su orchestre, tempi e generi diversi (tango, vals, milonga); giochi di musicalità; canto del compás e della sincope prima di camminarli; routine sulle prime battute | S-44, S-18, S-32, S-50, S-46 |
 | Performance | la milonga del gioco-progetto, con tande di una sola orchestra e cortine | S-07 |
 | Fuori aula | la tanda del ciclo, ascoltata "come sfogliando un giornale" | S-12 |
 
-**Le letras.** Un tango cantato con letra semplice apre e chiude ogni lezione e il corso (S-33, S-50). La letra è materiale di lingua (vocabolario porteño, immagini) e di musicalità (dove respira la frase, dove cade la pausa). La scelta della canzone è del docente; per esempio "Poema" nell'esecuzione di Francisco Canaro con Roberto Maida **[da verificare l'esecuzione scelta]**.
+**Le letras.** Un tango cantato con letra semplice apre e chiude ogni lezione del ciclo (S-33, S-50). Ogni ciclo ha la sua canzone, scelta dal docente (decisione dell'autore); per esempio "Poema" nell'esecuzione di Francisco Canaro con Roberto Maida. La letra è materiale di lingua (vocabolario porteño, immagini) e di musicalità (dove respira la frase, dove cade la pausa).
 
 ### 3.2 Il Liu Zi Jue
 
 La sequenza Health Qigong del Liu Zi Jue ha una traccia ufficiale HQA di circa 15 minuti, disponibile anche in versione solo musica; il progetto QIGONG dell'autore ne sincronizza i comandi vocali (00 §7.3). I diritti d'uso dell'audio vanno verificati prima di pubblicare. 🟨 **Tradizione** (standard HQA).
 
 - **Nella pratica.** La musica HQA accompagna l'esecuzione della forma nelle elaborazioni e nella performance (la "pratica del parco"); nell'introduzione accompagna la prima esecuzione completa del docente (S-01).
-- **Nei concerti.** La musica cinese nei concerti è solo nel modulo sperimentale (D-21; S-71). Nel metodo i concerti del Liu Zi Jue usano il programma canonico (§2): per esempio la sequenza eseguita dal docente sulla Sinfonia "Praga" (S-04).
+- **Nei concerti.** La musica cinese nei concerti è solo nel modulo sperimentale (D-21; S-71). Nel metodo i concerti del Liu Zi Jue usano il programma canonico (§2): per esempio, nel ciclo 1, la sequenza eseguita dal docente sulla Sinfonia n. 40 K 550 (S-04).
 - **I sei suoni come canto.** Xu, He, Hu, Si, Chui, Xi si pronunciano in coro, nell'ordine, con la forma della bocca (INT-09; S-50). I suoni si distinguono per la forma della bocca e per il flusso d'aria, non per l'altezza della voce (progetto QIGONG). Il canto d'apertura e di chiusura può essere la serie dei sei suoni su una melodia semplice (S-33). Si evita la cantilena lenta e uniforme (r. 1394-1397; S-60).
 - **Le corrispondenze tradizionali** (stagioni, organi, elementi) sono 🟨 Tradizione e si presentano senza promesse di salute (SIC-05).
 
@@ -128,13 +129,13 @@ La sequenza Health Qigong del Liu Zi Jue ha una traccia ufficiale HQA di circa 1
 
 ## 4. Strumenti musicali delle fonti
 
-L'autore ha voluto nel metodo, "come nelle fonti", quattro pratiche musicali che Lozanov esclude come meccanismo (D-19). Si propongono fuori dai concerti canonici: nella preparazione o fuori aula. Precauzioni comuni (D-19): mai presentare Tomatis, Forbrain o simili come trattamento; nessuna indicazione a famiglie di bambini con diagnosi; rinvio ai servizi sanitari.
+L'autore ha voluto nel metodo, "come nelle fonti", quattro pratiche musicali che Lozanov esclude come meccanismo (D-19). Si propongono fuori dai concerti canonici: prima della lezione o fuori aula. Precauzioni comuni (D-19): mai presentare Tomatis, Forbrain o simili come trattamento; nessuna indicazione a famiglie di bambini con diagnosi; rinvio ai servizi sanitari.
 
 ### S-53 Effetto Mozart
 
 🟨 **Tradizione** per la pratica (SL1-B r. 876-880; MAN r. 136-139; TM D:L122-123, M:L192-198) · 🟩 **Evidenza solida** per il resoconto dello studio di Rauscher 1993 (VNF B3) · 🟥 **Speculativo** (contraddetto) per l'effetto sulla memoria · 🟥 **Non canonico** (r. 5805)
 
-Origine: fonti · Decisione: D-19, nel metodo come nelle fonti · Fase del ciclo: preparazione, fuori aula · Sicurezza: SIC-03
+Origine: fonti · Decisione: D-19, nel metodo come nelle fonti · Fase del ciclo: fuori aula, prima della lezione · Sicurezza: SIC-03
 
 **Scopo.** Ascoltare Mozart, in particolare la Sonata per due pianoforti K. 448, prima di un compito, come propongono le fonti.
 
@@ -143,7 +144,7 @@ Origine: fonti · Decisione: D-19, nel metodo come nelle fonti · Fase del ciclo
 2. Nella lezione modello del manuale la K. 448 (o la Sinfonia n. 35) accompagna la fase di "assimilazione attiva" (MAN r. 136-139, fase 3). Nel metodo questa fase è il concerto attivo, che usa il programma canonico (§2): la K. 448 si ascolta prima, non nel concerto.
 3. Le fonti indicano anche le Sinfonie n. 29, 32, 39 e 40 per la "Sound Therapy" (TM M:L197-198).
 
-**Esempio tango.** Dieci minuti di K. 448 all'ingresso, a volume moderato, prima del gioco di musicalità della lezione 2; chi preferisce il silenzio aspetta fuori dalla sala.
+**Esempio tango.** Dieci minuti di K. 448 all'ingresso, prima della lezione 2, a volume moderato; chi preferisce il silenzio aspetta fuori dalla sala.
 
 **Esempio Liu Zi Jue.** Dieci minuti di K. 448 prima di imparare una forma nuova (per esempio Chui nel ciclo 2), seduti, senza istruzioni.
 
@@ -161,7 +162,7 @@ Origine: fonti · Decisione: D-19, nel metodo come nelle fonti · Fase del ciclo
 
 🟨 **Tradizione** per la pratica (SL1-A T11; SL1-B T11; TM D-2, M1, T7, T12) · 🟥 **Speculativo** (contraddetto) (VNF B4) · 🟥 **Non canonico** (r. 5805)
 
-Origine: fonti · Decisione: D-19, nel metodo come nelle fonti · Fase del ciclo: preparazione, fuori aula · Sicurezza: SIC-03
+Origine: fonti · Decisione: D-19, nel metodo come nelle fonti · Fase del ciclo: fuori aula, prima della lezione · Sicurezza: SIC-03
 
 **Scopo.** Ascoltare musica "ad alta frequenza" e canto gregoriano come "ricarica", secondo le fonti.
 
@@ -170,7 +171,7 @@ Origine: fonti · Decisione: D-19, nel metodo come nelle fonti · Fase del ciclo
 2. **Ascolto "attivo" quotidiano.** Musica classica brillante (Mozart, Beethoven, Brahms) durante gli spostamenti, le faccende domestiche o la revisione del testo (TM D5, D:L128-129).
 3. **Nel concerto attivo** le fonti scelgono le opere per le loro "alte frequenze" (SL1-A T11; TM T7): nel metodo il concerto attivo usa il programma canonico (§2), e la spiegazione delle fonti sta nel riquadro.
 
-**Esempio tango.** All'inizio di una lezione del ciclo, dieci minuti di gregoriano di Solesmes in una stanza accanto alla sala, per chi vuole; poi si entra in sala con la canzone d'apertura.
+**Esempio tango.** Prima di una lezione del ciclo, dieci minuti di gregoriano di Solesmes in una stanza accanto alla sala, per chi vuole; poi si entra in sala con la canzone d'apertura.
 
 **Esempio Liu Zi Jue.** Prima della pratica del mattino a casa, dieci minuti di gregoriano; poi la sequenza con la traccia HQA.
 
@@ -198,11 +199,11 @@ Origine: fonti · Decisione: D-19, nel metodo come nelle fonti · Fase del ciclo
 3. **Forbrain** (MAN scheda 6, A.5): cuffia a conduzione ossea che restituisce la propria voce mentre si legge o si parla ad alta voce; 15-20 minuti al giorno (MAN PR10).
 4. **Sonic Brain Activator** (MAN scheda 7, A.7): si declamano i testi con la voce alterata dall'apparecchio.
 
-**Esempio tango.** Con Forbrain: leggere ad alta voce, per 15 minuti al giorno, la letra della canzone del ciclo e il libretto con i nomi delle figure.
+**Esempio tango.** Con Forbrain: leggere ad alta voce, per 15 minuti al giorno, la letra della canzone del ciclo e i nomi delle figure.
 
-**Esempio Liu Zi Jue.** Con Forbrain: leggere ad alta voce il libretto dei sei suoni, con i nomi in pinyin e la descrizione della bocca, per 15 minuti al giorno.
+**Esempio Liu Zi Jue.** Con Forbrain: dire ad alta voce i nomi dei sei suoni in pinyin e la descrizione della bocca, per 15 minuti al giorno.
 
-**Spiegazione.** Gli studi controllati indipendenti sul metodo Tomatis sono negativi e la revisione Cochrane sulle terapie sonore affini non trova prove a favore (Sinha et al. 2011, *Cochrane* CD003681). Staffa e martello sono ossicini; i muscoli dell'orecchio medio sono un riflesso di protezione, non muscoli che si allenano con la musica filtrata (VNF B5). Forbrain modifica alcune caratteristiche della voce di chi parla (Escera, López-Caballero, Gorina-Careta 2018, *J Speech Lang Hear Res* 61:801-810); non ci sono prove su attenzione e memoria. È invece documentato che leggere ad alta voce aiuta a ricordare più della lettura silenziosa, con o senza cuffia (effetto di produzione, MacLeod et al. 2010, da ricontrollare; VTN R-E4). 🟩 **Evidenza parziale** per la lettura ad alta voce.
+**Spiegazione.** Gli studi controllati indipendenti sul metodo Tomatis sono negativi e la revisione Cochrane sulle terapie sonore affini non trova prove a favore (Sinha et al. 2011, *Cochrane* CD003681). Staffa e martello sono ossicini; i muscoli dell'orecchio medio sono un riflesso di protezione, non muscoli che si allenano con la musica filtrata (VNF B5). Forbrain modifica alcune caratteristiche della voce di chi parla (Escera, López-Caballero, Gorina-Careta 2018, *J Speech Lang Hear Res* 61:801-810); non ci sono prove su attenzione e memoria. È invece documentato che leggere ad alta voce aiuta a ricordare più della lettura silenziosa, con o senza cuffia (effetto di produzione, MacLeod et al. 2010; VTN R-E4). 🟩 **Evidenza parziale** per la lettura ad alta voce.
 
 > **Cosa dicono le fonti** · 🟥 Speculativo (contraddetto)
 >
@@ -225,9 +226,7 @@ Origine: fonti · Decisione: D-19, nel metodo come nelle fonti · Fase del ciclo
 2. Un "tono di respirazione", cioè un segnale periodico, mantiene il respiro lento e ritmico per tutto l'ascolto.
 3. Per memorizzare: si osserva il materiale per 7-8 secondi, poi ci si rilassa con la musica; si ripete. La durata della fase di rilassamento non è indicata.
 
-Le registrazioni originali di Raymond Abrezol potrebbero non essere reperibili **[da verificare]**.
-
-**Esempio tango.** Osservare per 7-8 secondi il disegno a terra del molinete sul libretto, poi ascoltare la musica; ripetere con il disegno della sacada.
+**Esempio tango.** Osservare per 7-8 secondi il disegno a terra del molinete sul poster del ciclo (S-19), poi ascoltare la musica; ripetere con il disegno della sacada.
 
 **Esempio Liu Zi Jue.** Osservare per 7-8 secondi il disegno della bocca di Si, poi ascoltare; ripetere con Chui.
 
