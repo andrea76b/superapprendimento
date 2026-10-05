@@ -85,3 +85,7 @@ Risposte date dall'autore alle domande del registro (vedi `DECISIONI.md`). Data:
 | 16 | Image Streaming (S-25) | Senza lampadina: occhi aperti, immagini descritte a voce | |
 | 17 | Ancoraggi (S-26) | Come nelle fonti, ma il ricordo personale è facoltativo (in alternativa una scena di ballo o di pratica immaginata) | |
 | 18 | Audio nel sonno e subliminali (S-27, S-28, S-29) | Spostati nel modulo sperimentale | Modifica la decisione D-13 (prima: nel metodo come nelle fonti con consenso) |
+| 19 | Forma C del concerto (S-05) | Confermata sincrona come nelle fonti (ciclo 2, dopo la forma A) | La precauzione "movimento libero" dei testi va tolta |
+| 20 | Infinity Walk (S-35) | Passo e appoggi come nelle fonti; doppio compito da soli o in coppia solo in spazio ampio | |
+| 21 | Prova mentale (S-38) | Procedura delle fonti + nota: rende meglio insieme alla pratica fisica (Driskell 1994); da sola quando la pratica è impossibile | |
+| 22 | Pastelli profumati (S-39) | Nel metodo pastelli normali; i profumati nel modulo sperimentale con il contesto olfattivo (S-76) | |
