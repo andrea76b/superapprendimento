@@ -101,3 +101,6 @@ Risposte date dall'autore alle domande del registro (vedi `DECISIONI.md`). Data:
 | 30 | Tango: contatto, ruoli, numero dispari, assistente | Come proposto: abrazo con consenso; cambio di coppia proposto, mai obbligato; ruoli liberi da genere; con numero dispari ruota chi lavora sulla tecnica individuale, oppure balla l'assistente | |
 | 31 | Diploma e titoli della linea Lozanov | Cancellare il passaggio e la verifica sui titoli | |
 | 32 | Struttura della formazione insegnanti | La definisce l'autore | |
+| 32b | Formazione insegnanti | Segnaposto [DA DEFINIRE DALL'AUTORE] per ore, moduli, tirocinio e valutazione | |
+| 33 | Corso universitario | Proposta 1 (sperimentazione senza le pratiche di stato delle fonti), ma al massimo 8 incontri da 90 minuti | Origine dei 24 incontri e nuovo schema: vedi 33b |
+| 34 | Verifiche prima della pubblicazione | Diritti HQA: non da verificare (se ne occupa l'autore) | Verifiche bibliografiche e musicali: vedi 34b |
