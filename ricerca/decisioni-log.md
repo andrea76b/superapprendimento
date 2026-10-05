@@ -69,3 +69,7 @@ Risposte date dall'autore alle domande del registro (vedi `DECISIONI.md`). Data:
 | 2 | Calendario settimanale | Tutte le lezioni da 90 minuti, anche la prima | Ciclo di 4 settimane, elaborazione a una settimana dal concerto |
 | 3 | Introduzione e pausa | 33 minuti di introduzione + 7 di pausa | In tensione con il punto 2 (lezione da 90 min): vedi punto 3b |
 | 4 | Workshop intensivo | 2 giorni | |
+| 1b | Collocazione delle pratiche di stato nel ciclo | Secondo la funzione: rilassamento (S-23) prima del concerto passivo; respirazioni (S-22, con screening) prima della performance; visualizzazioni (S-24, S-25) nelle elaborazioni come ripasso; ancoraggi (S-26) prima del lavoro sui giri e della performance; prova mentale (S-38) a fine elaborazione | |
+| 5 | Performance | Performance breve e volontaria alla fine di ogni ciclo di 4 settimane, più la festa finale del corso | |
+| 6 | Corsi adattivi | Tango: milonga-ponte tra un ciclo e l'altro. Liu Zi Jue: pratica di gruppo all'aperto senza docente | |
+| 7 | Verifica | Verifica-gioco di gruppo, senza voti individuali; sotto il 70-75% gli elementi deboli tornano nel ciclo successivo | |
