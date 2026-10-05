@@ -8,9 +8,9 @@
 
 Prima del corso leggi tutta la guida; prima di ogni lezione rileggi la scaletta della settimana (4), le schede che userai (6) e la checklist (10). I riquadri "Come spiegarlo agli allievi" sono testi da dire a voce così come sono.
 
-**Rimandi.** Strumenti (S-xx) e procedure di sicurezza (SIC-xx) hanno i codici del manuale. AT è `applicazioni/tango.md`, il riferimento principale; 00-07 sono i file di `metodo/` con quel numero: 03a e 03b sono i cataloghi degli strumenti, 06 contiene le procedure SIC.
+**Rimandi.** Strumenti (S-xx) e procedure di sicurezza (SIC-xx) hanno i codici del manuale. AT è `applicazioni/tango.md`, il riferimento principale. I numeri rimandano ai file di `metodo/`: 00 convenzioni ed etichette; 01 fondamenti; 02 ciclo didattico, con le schede S-01–S-14; 03a e 03b cataloghi degli strumenti; 04 musica; 05 il docente; 06 sicurezza, con le procedure SIC; 07 modulo sperimentale.
 
-**Etichette.** Sono quelle del progetto QIGONG dell'autore, con gli stessi colori e gli stessi nomi. Qui la Fonte classica è il libro di Lozanov del 2005.
+**Etichette.** Sono quelle del progetto QIGONG dell'autore, con gli stessi colori e gli stessi nomi; qui la Fonte classica è il libro di Lozanov del 2005.
 
 | Etichetta | Che cosa dice |
 |---|---|
@@ -20,7 +20,7 @@ Prima del corso leggi tutta la guida; prima di ogni lezione rileggi la scaletta 
 | 🟥 Speculativo | non è verificato, oppure gli studi lo contraddicono |
 | 🟥 Non canonico | Lozanov lo esclude in modo esplicito |
 
-Ogni strumento ha la sua etichetta una volta sola, in forma breve e senza le righe del libro, in fondo alla riga della scheda (6) o dell'indice (11). "n.t.": non trattato da Lozanov; "principio affine": pratica di altra origine simile a un principio di Lozanov. 🟦 e 🟨 dicono da dove viene uno strumento, non che funziona. Etichette complete: 00 §3, AT §18.
+Ogni strumento porta la sua etichetta una volta sola, in forma breve e senza le righe del libro, in fondo alla riga della scheda (6) o dell'indice (11). "n.t.": non trattato da Lozanov; "principio affine": pratica di altra origine simile a un principio di Lozanov. 🟦 e 🟨 dicono da dove viene uno strumento, non che funziona. Etichette complete: 00 §3, AT §18.
 
 ## 2. Il metodo in una pagina
 
@@ -62,7 +62,7 @@ Fino a 10 coppie. Per i concerti ti serve un partner: un'assistente o un allievo
 
 ### 3.4 Sala e musica
 
-Per i concerti disponi le sedie a semicerchio, con una zona libera davanti per te e l'assistente. Lascia spazio per la ronda e per gli otto tracciati a terra con nastro di carta, uno ogni 3-4 persone. Alla parete appendi la mappa delle figure (S-39): pochi elementi, pastelli normali; resta lì per tutto il ciclo e non la indichi (S-19). Servono anche un'immagine di natura, per esempio vette e cielo azzurro, e pochi oggetti di scena: il cartello del club, un vecchio disco. Volume moderato: nel concerto passivo si deve poter parlare a voce normale.
+Per i concerti disponi le sedie a semicerchio, con una zona libera davanti per te e l'assistente. Lascia spazio per la ronda e per gli otto tracciati a terra con nastro di carta, uno ogni 3-4 persone. Alla parete appendi la mappa delle figure (S-39): pochi elementi, pastelli normali; resta lì per tutto il ciclo e la richiami solo di passaggio (S-19). Servono anche un'immagine di natura, per esempio vette e cielo azzurro, e pochi oggetti di scena: il cartello del club, un vecchio disco. Volume moderato: nel concerto passivo si deve poter parlare a voce normale.
 
 La musica classica del programma di Lozanov si usa solo nei concerti, il tango della Época de Oro in tutto il resto. Ogni ciclo usa una sessione del programma, in ordine: l'attivo un'opera del n. 1, il passivo un'opera del n. 2. Nella lezione di 90 minuti scegli l'opera più breve della sessione; ascoltala intera prima e misura le durate sull'esecuzione scelta.
 
@@ -124,63 +124,63 @@ Lo schema è fisso: canzoni 10 minuti, introduzione 30, pausa 7, concerti 43.
 
 | Min | Che cosa fai | ID |
 |---|---|---|
-| 0-5 | Accogli il gruppo cantando "Caminito"; il gruppo ascolta | S-33 |
-| 5-7 | Dichiarazione iniziale (3.3) | SIC-04, SIC-05 |
-| 7-19 | Entri come Ernesto: il club, il film, le carte d'identità, le presentazioni libere | S-01, S-15, S-16, S-17 |
-| 19-27 | Con l'assistente balli la sequenza su D'Arienzo e su Di Sarli; racconti la scena di Rosa | S-01, S-19 |
-| 27-35 | Gioco: le coppie entrano nel club camminando in ronda; nomini "caminata", "pausa", "cadencia" mentre passano; gioco del cabeceo | S-18, S-08, S-21 |
-| 35-42 | Pausa; la mappa è già alla parete | S-19 |
-| 42-68 | Concerto dimostrato (forma A) sulla Sinfonia n. 40, con un tratto di conteggio misto (5.2) | S-04, S-30, S-32 |
-| 68-69 | Appendi l'immagine di natura, senza commentarla | S-03 |
-| 69-72 | Rilassamento breve, per chi vuole | S-23 |
-| 72-85 | Concerto passivo su Bach, BWV 572 | S-03 |
-| 85-90 | Canzone in coro; saluto dei personaggi; video della sequenza per chi vuole | S-33, S-50, S-12 |
+| 0‑5 | Accogli il gruppo cantando "Caminito"; il gruppo ascolta | S‑33 |
+| 5‑7 | Dichiarazione iniziale (3.3) | SIC‑04, SIC‑05 |
+| 7‑19 | Entri come Ernesto: il club, il film, le carte d'identità, le presentazioni libere | S‑01, S‑15, S‑16, S‑17 |
+| 19‑27 | Con l'assistente balli la sequenza su D'Arienzo e su Di Sarli; racconti la scena di Rosa | S‑01, S‑19 |
+| 27‑35 | Gioco: le coppie entrano nel club camminando in ronda; nomini "caminata", "pausa", "cadencia" mentre passano; gioco del cabeceo | S‑18, S‑08, S‑21 |
+| 35‑42 | Pausa; la mappa è già alla parete | S‑19 |
+| 42‑68 | Concerto dimostrato (forma A) sulla Sinfonia n. 40, con un tratto di conteggio misto (5.2) | S‑04, S‑30, S‑32 |
+| 68‑69 | Appendi l'immagine di natura, senza commentarla | S‑03 |
+| 69‑72 | Rilassamento breve, per chi vuole | S‑23 |
+| 72‑85 | Concerto passivo su Bach, BWV 572 | S‑03 |
+| 85‑90 | Canzone in coro; saluto dei personaggi; video della sequenza per chi vuole | S‑33, S‑50, S‑12 |
 
 ### 4.3 Lezione 2: elaborazione primaria
 
 | Min | Che cosa fai | ID |
 |---|---|---|
-| 0-4 | Canzone del ciclo in coro | S-33, S-50 |
-| 4-10 | Routine dell'abrazo; pivot con appoggio; sguardo fisso su un punto con rotazioni lente della testa; otto a terra in caminata | S-46, S-47, S-35 |
-| 10-18 | Richiamo in gioco: le coppie ricostruiscono la scena su Di Sarli prima che tu la mostri | S-42 |
-| 18-30 | Lettura corporea in coro; TPR; un tratto di conteggio misto | S-06, S-49, S-37, S-32 |
-| 30-46 | Giochi sui dettagli, con focus esterno; 10 secondi fermi nell'abrazo tra i blocchi; correzione indiretta | S-18, S-43, S-52, S-59 |
-| 46-52 | Pausa | |
-| 52-62 | Teatro: la scena del cabeceo e i dialoghi dei personaggi ("¿Bailamos?", "Gracias") | S-21, S-16 |
-| 62-76 | Pratica variata con ruoli liberi, su Canaro e su Troilo; cambi di coppia proposti | S-44 |
-| 76-82 | Ripasso con Image Streaming a coppie, per chi vuole | S-25 |
-| 82-86 | Prova mentale della sequenza | S-38 |
-| 86-90 | Canzone; due frasi sulla scena della settimana dopo | S-33 |
+| 0‑4 | Canzone del ciclo in coro | S‑33, S‑50 |
+| 4‑10 | Routine dell'abrazo; pivot con appoggio; rotazioni lente della testa con lo sguardo su un punto; otto a terra in caminata | S‑46, S‑47, S‑35 |
+| 10‑18 | Richiamo in gioco: le coppie ricostruiscono la scena su Di Sarli prima che tu la mostri | S‑42 |
+| 18‑30 | Lettura corporea in coro; TPR; un tratto di conteggio misto | S‑06, S‑49, S‑37, S‑32 |
+| 30‑46 | Giochi sui dettagli, con focus esterno; 10 secondi fermi nell'abrazo tra i blocchi; correzione indiretta | S‑18, S‑43, S‑52, S‑59 |
+| 46‑52 | Pausa | |
+| 52‑62 | Teatro: la scena del cabeceo e i dialoghi dei personaggi ("¿Bailamos?", "Gracias") | S‑21, S‑16 |
+| 62‑76 | Pratica variata con ruoli liberi, su Canaro e su Troilo; cambi di coppia proposti, mai imposti | S‑44, SIC‑04 |
+| 76‑82 | Ripasso con Image Streaming a coppie, per chi vuole | S‑25 |
+| 82‑86 | Prova mentale della sequenza | S‑38 |
+| 86‑90 | Canzone; due frasi sulla scena della settimana dopo | S‑33 |
 
 ### 4.4 Lezione 3: elaborazione secondaria
 
 | Min | Che cosa fai | ID |
 |---|---|---|
-| 0-4 | Canzone del ciclo | S-33 |
-| 4-10 | Routine dell'abrazo; pausa d'inibizione, poi "il passo verso il punto lontano" | S-46, S-36, S-43 |
-| 10-20 | Richiamo in gioco a due settimane dal concerto: "il film ricomincia" | S-42 |
-| 20-30 | Istruzione inversa: ochos con il giro riconosciuto, mostrati interi e poi scomposti | S-41, S-08 |
-| 30-42 | La sequenza su D'Arienzo, Pugliese, Fresedo | S-44 |
-| 42-48 | Pausa | |
-| 48-56 | Visualizzazione guidata per chi la sceglie, poi la sequenza a memoria; gli altri ripassano da sé | S-24, S-45 |
-| 56-70 | Scene di 30 secondi per il provino, preparate a voce nei personaggi: niente si scrive | S-21, S-16 |
-| 70-82 | Palazzo della memoria: il club | S-40 |
-| 82-86 | Prova mentale | S-38 |
-| 86-90 | Canzone | S-33 |
+| 0‑4 | Canzone del ciclo | S‑33 |
+| 4‑10 | Routine dell'abrazo; pausa d'inibizione, poi "il passo verso il punto lontano" | S‑46, S‑36, S‑43 |
+| 10‑20 | Richiamo in gioco a due settimane dal concerto: "il film ricomincia" | S‑42 |
+| 20‑30 | Istruzione inversa: ochos con il giro riconosciuto, mostrati interi e poi scomposti | S‑41, S‑08 |
+| 30‑42 | La sequenza su D'Arienzo, Pugliese, Fresedo | S‑44 |
+| 42‑48 | Pausa | |
+| 48‑56 | Visualizzazione guidata per chi la sceglie, poi la sequenza a memoria; gli altri ripassano da sé | S‑24, S‑45 |
+| 56‑70 | Scene di 30 secondi per il provino, preparate a voce nei personaggi: niente si scrive | S‑21, S‑16 |
+| 70‑82 | Palazzo della memoria: il club | S‑40 |
+| 82‑86 | Prova mentale | S‑38 |
+| 86‑90 | Canzone | S‑33 |
 
 ### 4.5 Lezione 4: performance breve e verifica
 
 | Min | Che cosa fai | ID |
 |---|---|---|
-| 0-4 | Canzone del ciclo | S-33 |
-| 4-10 | Routine dell'abrazo; caminata libera su Di Sarli | S-46, S-44 |
-| 10-18 | A scelta respirazioni (solo chi non si è escluso con lo screening) o ancoraggio; per gli altri la routine | S-22, S-26, S-46 |
-| 18-28 | Il provino: verifica-gioco su una tanda di Di Sarli | S-11 |
-| 28-44 | Scene di 30 secondi, volontarie; applausi, nessun commento tecnico | S-07, S-21 |
-| 44-50 | Pausa; si allestisce il club | S-20 |
-| 50-80 | Milonga breve del film: tande, cortine, cabeceo tra personaggi; balli con chi ti invita | S-07, S-16 |
-| 80-84 | Scala anonima di fatica e gradimento, facoltativa | S-51, S-14 |
-| 84-90 | Festa breve e canzone del ciclo | S-33 |
+| 0‑4 | Canzone del ciclo | S‑33 |
+| 4‑10 | Routine dell'abrazo; caminata libera su Di Sarli | S‑46, S‑44 |
+| 10‑18 | A scelta respirazioni (solo chi non si è escluso con lo screening) o ancoraggio; per gli altri la routine | S‑22, S‑26, S‑46 |
+| 18‑28 | Il provino: verifica-gioco su una tanda di Di Sarli | S‑11 |
+| 28‑44 | Scene di 30 secondi, volontarie; applausi, nessun commento tecnico | S‑07, S‑21 |
+| 44‑50 | Pausa; si allestisce il club | S‑20 |
+| 50‑80 | Milonga breve del film: tande, cortine, cabeceo tra personaggi; balli con chi ti invita | S‑07, S‑16 |
+| 80‑84 | Scala anonima di fatica e gradimento, facoltativa | S‑51, S‑14 |
+| 84‑90 | Festa breve e canzone del ciclo | S‑33 |
 
 ### 4.6 Il ciclo 2: che cosa cambia
 
@@ -192,13 +192,13 @@ Lo schema è fisso: canzoni 10 minuti, introduzione 30, pausa 7, concerti 43.
 
 | Durata (min) | Che cosa fai | ID |
 |---|---|---|
-| 4 | Canzone del ciclo 2, cantata da tutti | S-33 |
-| 6 | A scelta respirazioni (con screening) o ancoraggio; per gli altri la routine | S-22, S-26, S-46 |
-| 10 | Chi vuole presenta il personaggio in una frase; dialoghi del cabeceo tra i tavoli | S-16, S-21 |
-| 10 | Il provino: una tanda di Di Sarli per tutte le coppie | S-11 |
-| 50 | Tande con cortine: D'Arienzo, Di Sarli, un vals di Canaro, Troilo, una milonga di Biagi, Pugliese, Fresedo; a metà serata 10 minuti di scene volontarie | S-07, S-21 |
+| 4 | Canzone del ciclo 2, cantata da tutti | S‑33 |
+| 6 | A scelta respirazioni (con screening) o ancoraggio; per gli altri la routine | S‑22, S‑26, S‑46 |
+| 10 | Chi vuole presenta il personaggio in una frase; dialoghi del cabeceo tra i tavoli | S‑16, S‑21 |
+| 10 | Il provino: una tanda di Di Sarli per tutte le coppie | S‑11 |
+| 50 | Tande con cortine: D'Arienzo, Di Sarli, un vals di Canaro, Troilo, una milonga di Biagi, Pugliese, Fresedo; a metà serata 10 minuti di scene volontarie | S‑07, S‑21 |
 | 4 | Ultima tanda: per consuetudine, "La cumparsita" | |
-| 6 | Canzoni dei due cicli e brindisi del club | S-33 |
+| 6 | Canzoni dei due cicli e brindisi del club | S‑33 |
 
 ### 4.7 Tra una lezione e l'altra
 
@@ -228,7 +228,7 @@ Nel canone il concerto è la lettura espressiva di un testo su un'opera classica
 
 Nel livello 2 il IV movimento aggiunge la sacada di chi guida, dentro il giro.
 
-**Forma A, il concerto dimostrato (S-04), ciclo 1.** Gli allievi siedono a bordo sala, occhi aperti, senza istruzioni di rilassarsi: "la troupe vede la scena intera prima di girarla". Con l'assistente, solenne, aspetti la fine dell'introduzione orchestrale e fai una breve cesura. I movimento (8:10): cabeceo, abrazo, caminata, più volte e in punti diversi della sala. II movimento (7:35): pausa e cadencia, con la voce più intima; sulle parti più belle ti fermi nell'abrazo e ascolti per 1-2 minuti; una volta, per 1-3 minuti, le coppie si alzano e segnano con te cadencia e pausa dicendo i nomi in coro, perché "serve il coro del club", e chi vuole resta seduto. III movimento (4:47): gli ochos, con il conteggio misto, tu la melodia e le coppie i tempi, poi il contrario. IV movimento (4:50): giro con molinete e resolución, poi la sequenza intera solo con i nomi. Gli allievi guardano e ascoltano, senza cercare di memorizzare. Senza assistente esegui per ogni figura le due parti, oppure solo le traiettorie dei piedi.
+**Forma A, il concerto dimostrato (S-04), ciclo 1.** Gli allievi siedono a bordo sala, occhi aperti, senza istruzioni di rilassarsi: "la troupe vede la scena intera prima di girarla". Con l'assistente, solenne, aspetti la fine dell'introduzione orchestrale e fai una breve cesura. I movimento (8:10): cabeceo, abrazo, caminata, più volte e in punti diversi della sala. II movimento (7:35): pausa e cadencia, con la voce più intima; sulle parti più belle ti fermi nell'abrazo e ascolti per 1-2 minuti; una volta, per 1-3 minuti, le coppie si alzano e segnano con te cadencia e pausa dicendo i nomi in coro, perché "serve il coro del club", e chi vuole resta seduto. III movimento (4:47): gli ochos, con il conteggio misto, tu la melodia e le coppie i tempi, poi il contrario. IV movimento (4:50): giro con molinete e resolución, poi la sequenza intera solo con i nomi. Senza assistente esegui per ogni figura le due parti, oppure solo le traiettorie dei piedi.
 
 **Forma C, il concerto in movimento (S-05), ciclo 2.** Le coppie, nella ronda, ballano in sincrono con te, che declami ballando al centro con l'assistente, come nelle fonti, con voce viva e drammatica. I movimento (9:30): giro a la derecha, giro a la izquierda, ochos con cambio de dirección. II (4:10): el vals, il giro in tre tempi, e la pausa de Pugliese, fermarsi dentro l'accento e ripartire con la frase. III (4:10): la milonga lisa, la caminata a doppio passo, poi tutta la sequenza. Nei passaggi forti le coppie recitano i nomi con te. Variante facoltativa: i tre toni delle fonti, normale, sussurrato e alto, mai verso una persona (S-31). È un doppio compito: ronda larga, velocità moderata, metà gruppo per volta se la sala è piccola, occhi aperti, niente cicli fissi né apnee; chi vuole resta seduto.
 
@@ -238,7 +238,7 @@ Nel livello 2 il IV movimento aggiunge la sacada di chi guida, dentro il giro.
 
 ### 5.3 Le elaborazioni (S-06)
 
-La primaria lavora la sequenza per parti e in coro; la secondaria la varia, mostra una combinazione nuova che riassume il ciclo e prepara le scene. Comincia dal richiamo in gioco, prima di mostrare. Lavora tutto-parte-tutto: su Troilo tre giri interi, 40 secondi sul passo laterale ("il piede disegna un arco a terra"), di nuovo il giro nella frase. Decidi prima i giochi e la loro durata; cambia spesso compito: poco tempo per pensare, molto per ballare. Richiamo in gioco, focus esterno, pratica variata, pause brevi e conteggio misto sono nelle schede 6.1.
+La primaria lavora la sequenza per parti e in coro; la secondaria la varia, mostra una combinazione nuova che riassume il ciclo e prepara le scene. Comincia dal richiamo in gioco, prima di mostrare. Lavora tutto-parte-tutto; l'esempio del manuale è sul giro, attivo nel ciclo 2: su Troilo tre giri interi, 40 secondi sul passo laterale ("il piede disegna un arco a terra"), di nuovo il giro nella frase. Decidi prima i giochi e la loro durata; cambia spesso compito: poco tempo per pensare, molto per ballare. Richiamo in gioco, focus esterno, pratica variata, pause brevi e conteggio misto sono nelle schede 6.1.
 
 **La fatica (S-14).** Lo sforzo fisico è normale, la fatica nervosa no. Ai primi segnali (calo di concentrazione, irritabilità, errori ripetuti sullo stesso pivot) accorci il compito e passi a un tempo lento, per esempio caminata e pausa su Di Sarli. Dolore, capogiro o affanno non sono fatica: interrompi (8.3).
 
@@ -254,9 +254,9 @@ La primaria lavora la sequenza per parti e in coro; la secondaria la varia, most
 
 ### 6.1 Strumenti delle elaborazioni
 
-**S-42 Distanziamento e richiamo attivo (il richiamo in gioco).** *Scopo:* ricostruire il materiale senza modello, a distanza di giorni: ricordare fissa più che rivedere. *Come:* "ricostruite la scena della volta scorsa", a coppie, in musica, nei personaggi (5-8 min); solo dopo mostri tu. Mai come interrogazione individuale. *Quando:* inizio delle lezioni 2 e 3. *Manuale:* 03b. 🟦 principio affine · 🟩 solida
+**S-42 Distanziamento e richiamo attivo (il richiamo in gioco).** *Scopo:* ricostruire il materiale senza modello, a distanza di giorni: ricordare fissa più che rivedere. *Come:* "ricostruite la scena della volta scorsa", a coppie, in musica, nei personaggi (5-8 min); solo dopo mostri tu. Mai come interrogazione individuale. *Quando:* inizio delle lezioni 2 e 3; settimana 5. *Manuale:* 03b. 🟦 principio affine · 🟩 solida
 
-**S-49 Gesto ed effetto di esecuzione (la lettura in coro) e S-37 TPR.** *Scopo:* ricordare le figure eseguendole mentre se ne dice il nome. *Come:* tutti ballano la sequenza mentre tu e il gruppo dite i nomi. Nel TPR (Total Physical Response) dici "Adelante", "Pausa", "Ocho atrás" e le coppie eseguono; poi comandi combinati; poi comandano gli allievi; poi in coppia. TPR da validare in aula. *Quando:* lezione 2. *Manuale:* 03b; AT §11.1. S-49: 🟦 principio affine · 🟩 solida (memoria di azioni). S-37: 🟨 · 🟩 solida (memoria di azioni) · n.t.
+**S-49 Gesto ed effetto di esecuzione (la lettura in coro) e S-37 TPR.** *Scopo:* ricordare le figure eseguendole mentre se ne dice il nome. *Come:* tutti ballano la sequenza mentre tu e il gruppo dite i nomi. Nel TPR (Total Physical Response) dici "Adelante", "Pausa", "Ocho atrás" e le coppie eseguono; poi comandi combinati; poi comandano gli allievi; poi in coppia. TPR da validare in aula. *Quando:* lezione 2. *Manuale:* 03b; AT §11.1. S-49: 🟦 principio affine · 🟩 solida (memoria di azioni) · 🟩 parziale (lessico). S-37: 🟨 · 🟩 solida (memoria di azioni) · 🟩 parziale (lessico) · n.t.
 
 **S-32 Conteggio a ruoli alternati.** *Scopo:* unire melodia e conteggio; a contare è l'allievo, non la tua voce. *Come:* su Di Sarli tu canti la melodia e gli allievi contano "uno, dos, tres, cuatro" camminando, poi il contrario; poi metà gruppo conta e metà canta, scambiandosi a ogni frase; poi in coppia; infine si balla senza voce. Nelle pause non si conta; tu non conti mai a lungo da solo. *Quando:* concerto dimostrato, elaborazioni. *Manuale:* 03a; AT §7. n.t. · 🟥 non verificato
 
@@ -266,17 +266,17 @@ La primaria lavora la sequenza per parti e in coro; la secondaria la varia, most
 
 **S-21 Teatro e mimo.** *Scopo:* portare la sequenza nel film. *Come:* la scena del cabeceo tra due file, poi esagerata come in un film muto; il partner invisibile; lo specchio in coppia, senza contatto, dichiarato e reciproco; l'orchestra mimata su D'Arienzo e su Di Sarli mentre l'altra metà balla. Da validare in aula. *Quando:* lezioni 2 e 3. *Manuale:* 03a; AT §11.2. 🟨 · 🟦 principio affine · 🟩 parziale · 🟥 non verificato
 
-**S-41 Istruzione inversa.** *Scopo:* ricostruire una combinazione partendo dalla fine. *Come:* la balli intera con l'assistente e la scomponi; poi mostri solo la posizione finale e chiedi "come ci siamo arrivati?"; su Di Sarli si balla prima la fine della frase, poi le parti precedenti. Da validare in aula. *Quando:* lezione 3. *Manuale:* 03b; AT §11.6. 🟨 · 🟦 principio affine · 🟥 non verificato (tecnica)
+**S-41 Istruzione inversa.** *Scopo:* ricostruire una combinazione partendo dalla fine. *Come:* la balli intera con l'assistente e la scomponi; poi mostri solo la posizione finale e chiedi "come ci siamo arrivati?"; su Di Sarli si balla prima la fine della frase, poi le parti precedenti. Da validare in aula. *Quando:* lezione 3. *Manuale:* 03b; AT §11.6. 🟨 · 🟦 principio affine · 🟩 parziale (fatto storico) · 🟥 non verificato (tecnica)
 
-**S-40 Palazzo della memoria e S-39 Mappe mentali.** *Scopo:* legare ogni figura a un luogo o a un ramo disegnato. *Come:* ogni zona della sala è un luogo del club con la sua figura: ingresso e abrazo, corridoio e caminata, colonna e pausa, bancone e cadencia, guardaroba e ocho atrás, porta a vetri e ocho adelante, scala a chiocciola e giro, uscita e resolución. Le coppie percorrono il club in ordine e al contrario, poi ricostruiscono la sequenza indicando i luoghi (12 min). *Quando:* lezione 3; mappa alla parete dalla lezione 1. *Manuale:* 03b; AT §11.4-11.5. S-40: 🟨 · 🟩 parziale (metodo dei loci) · 🟥 non verificato (varianti delle fonti). S-39: 🟨 · 🟥 non verificato
+**S-40 Palazzo della memoria e S-39 Mappe mentali.** *Scopo:* legare ogni figura a un luogo o a un ramo disegnato. *Come:* ogni zona della sala è un luogo del club con la sua figura: ingresso e abrazo, corridoio e caminata, colonna e pausa, bancone e cadencia, guardaroba e ocho atrás, porta a vetri e ocho adelante, scala a chiocciola e giro, uscita e resolución. Le coppie percorrono il club in ordine e al contrario, poi ricostruiscono la sequenza indicando i luoghi (12 min). *Quando:* lezione 3; mappa alla parete dalla lezione 1. *Manuale:* 03b; AT §11.4-11.5. S-40: 🟨 · 🟩 parziale (metodo dei loci) · 🟥 non verificato (varianti delle fonti) · n.t. S-39: 🟨 · 🟥 non verificato · n.t.
 
-**S-35 Infinity Walk e S-47 Esercizi vestibolo-oculari.** *Scopo:* preparare pivot e giri. *Come:* pivot con una mano al muro o sul partner; sguardo su un punto fisso e 10 rotazioni lente della testa a destra e a sinistra, 10 in alto e in basso; camminata sull'otto come nelle fonti, passo cadenzato, braccia che oscillano in modo crociato (destra avanti con la gamba sinistra), sguardo su un bersaglio esterno, appoggi "tallone-punta" decisi; ochos sull'otto; giro in coppia lento, poi su Troilo (20 min). Ci si ferma al primo capogiro; dire i nomi sull'otto si fa da soli, o in coppia solo in spazio ampio. *Quando:* riscaldamento; tutta la progressione nella settimana 6. *Manuale:* 03b; AT §8. S-35: 🟨 · 🟩 parziale · 🟥 contraddetto (teoria emisferica). S-47: 🟩 solida (riabilitazione) · 🟩 parziale (danzatori)
+**S-35 Infinity Walk e S-47 Esercizi vestibolo-oculari.** *Scopo:* preparare pivot e giri. *Come:* pivot con una mano al muro o sul partner; sguardo su un punto fisso e dieci rotazioni lente della testa a destra e a sinistra, dieci in alto e in basso; camminata sull'otto come nelle fonti: passo cadenzato, braccia in oscillazione crociata, sguardo su un bersaglio fuori dal percorso, appoggi di tallone decisi; ochos sull'otto; giro in coppia lento, poi su Troilo (20 min). Ci si ferma al primo capogiro; dire i nomi camminando sull'otto si fa da soli, o in coppia solo in spazio ampio. *Quando:* riscaldamento delle elaborazioni; la progressione intera nella settimana 6. *Manuale:* 03b; AT §8. S-35: 🟨 · 🟩 parziale (esercizio) · 🟥 contraddetto (teoria emisferica) · n.t. S-47: 🟩 solida (riabilitazione) · 🟩 parziale (danzatori) · n.t.
 
 **S-46 Routine pre-esecuzione.** *Scopo:* una breve sequenza costante, scelta dall'allievo, prima di un gesto impegnativo. *Come:* abrazo, un respiro, il peso sui piedi, le prime battute ascoltate prima del passo. Resta uguale, è dell'allievo, non richiama ricordi. *Quando:* prima dei giri e della performance, e per chi non sceglie una pratica delle fonti. *Manuale:* 03b. 🟩 parziale · n.t.
 
 ### 6.2 Le pratiche di stato delle fonti
 
-Sono esercizi per cambiare lo stato di chi li fa, non per imparare un contenuto. Vengono dal Superlearning e Lozanov le esclude; l'autore le ha volute con la procedura delle fonti, ognuna nel punto del ciclo adatto alla sua funzione (AT §16). Una per volta, sempre come offerta: chi non partecipa fa la routine o resta in ascolto. Valgono le controindicazioni (8.2). Le annunci come pratiche delle fonti, non di Lozanov né del tango. Mai durante un concerto.
+Sono esercizi per cambiare lo stato di chi li fa, non per imparare un contenuto. Vengono dal Superlearning e Lozanov le esclude (la prova mentale solo se dettata); l'autore le ha volute con la procedura delle fonti, ognuna nel punto del ciclo adatto alla sua funzione (AT §16). Una per volta, sempre come offerta: chi non partecipa fa la routine o resta in ascolto. Valgono le controindicazioni (8.2). Le annunci come pratiche delle fonti, non di Lozanov né del tango. Mai durante un concerto.
 
 **S-23 Rilassamento progressivo e Scan and Relax (il rilassamento breve).** *Come:* come nelle fonti, nella versione Scan and Relax: seduti al proprio posto o sdraiati, si esplora mentalmente il corpo dalla testa ai piedi, con l'attenzione su spalle, collo, braccia e mani, e si lascia defluire la tensione (3 min). La versione con l'onda calda è nella scheda. Occhi aperti sempre possibili. *Quando:* lezione 1 di ogni ciclo, subito prima del concerto passivo. *Manuale:* 03a; AT §6.4. 🟨 · 🟩 parziale (ansia) · 🟥 non canonico
 
@@ -284,7 +284,7 @@ Sono esercizi per cambiare lo stato di chi li fa, non per imparare un contenuto.
 
 **S-24 Visualizzazioni guidate.** *Come:* la conduci tu, in gruppo, per chi la sceglie. Seduti, occhi chiusi, si scende dal 7° piano rosso al piano terra blu, un colore per piano, fino alla "foresta alpina"; si rientra in piedi scuotendo mani e piedi; poi la sequenza a memoria su D'Arienzo (8 min). Serve il consenso informato; si possono aprire gli occhi e uscire in ogni momento. *Quando:* elaborazione secondaria, come ripasso. *Manuale:* 03a; AT §12.3. 🟨 · 🟥 contraddetto · 🟥 non canonico
 
-**S-38 Prova mentale come nelle fonti.** *Come:* ognuno ripercorre a mente la sequenza due o tre volte, con la tanda in testa, a occhi aperti o chiusi (4 min). Non la detti. Rende di più insieme alla pratica fisica; da sola serve quando ballare è impossibile, per un infortunio o un viaggio. Tempi da validare in aula. *Quando:* alla fine di ogni elaborazione. *Manuale:* 03b. 🟨 · 🟩 parziale · 🟥 non canonico se dettata
+**S-38 Prova mentale come nelle fonti.** *Come:* ognuno ripercorre a mente la sequenza due o tre volte, con la tanda in testa, a occhi aperti o chiusi (4 min). Non la detti. Rende di più insieme alla pratica fisica; da sola serve quando ballare è impossibile, per un infortunio o un viaggio. Tempi da validare in aula. *Quando:* alla fine di ogni elaborazione. *Manuale:* 03b. 🟨 · 🟩 parziale (pratica mentale) · 🟥 non verificato (caso Drapeau) · 🟥 non canonico se dettata
 
 **S-26 Ancoraggi emotivi.** *Come:* si torna a un momento di gioia e sicurezza, lo si amplifica e al picco si uniscono pollice e indice della mano sinistra, quella dell'abrazo (3 min). Il ricordo personale è facoltativo: va bene anche una scena di ballo immaginata. Poi si tocca l'ancora un attimo prima del giro o prima di entrare in pista. *Quando:* prima dei giri (settimana 6) e della performance (settimane 4 e 8). *Manuale:* 03a; AT §8. 🟨 · 🟩 parziale (routine) · 🟥 non verificato (ancora) · 🟥 non canonico
 
@@ -302,7 +302,7 @@ Gli errori pericolosi invece si correggono subito e in modo diretto: fermi con c
 
 **Prestigio, aspettativa, cura.** Il prestigio che conta è reale e mai autoritario: nel tango è soprattutto il tuo ballo, poi la cura per chi balla con te e la chiarezza delle regole (05 §1). L'aspettativa è vera: sai per esperienza che il gruppo arriverà alla sequenza; se non lo sai, scegli un altro materiale. L'amore di cui parla Lozanov non è sentimentale: rispetti i confini nell'abrazo, non giudichi un corpo rigido, ricordi il nome di ogni personaggio. Balli con gli allievi, non solo davanti a loro.
 
-**Che cosa non fai.** Non diagnostichi, non tratti, non prometti effetti sulla salute o sul trauma. Non chiedi di memorizzare, non insisti, non fai domande individuali obbligate, non dai voti individuali. Non usi toni sentimentali o imperativi. Nei concerti non dici di rilassarsi o di chiudere gli occhi. Non rispecchi di nascosto gli allievi (S-60). Non interpreti le scelte dei personaggi né i sintomi. Non porti il modulo sperimentale in lezione. Le pratiche delle fonti che il canone esclude le conduci solo dove il ciclo le prevede (05 §6).
+**Che cosa non fai.** Non diagnostichi, non tratti, non prometti effetti sulla salute o sul trauma. Non chiedi di memorizzare, non insisti, non fai domande individuali obbligate, non dai voti individuali. Non usi toni sentimentali o imperativi. Nei concerti non dici di rilassarsi o di chiudere gli occhi. Non rispecchi di nascosto gli allievi (S-60). Non interpreti le scelte dei personaggi né i sintomi. Le pratiche delle fonti che il canone esclude le conduci solo dove il ciclo le prevede (05 §6).
 
 ## 8. Sicurezza essenziale
 
@@ -336,33 +336,31 @@ Chiunque può non fare un'attività, senza spiegare: è un principio del canone,
 | Dissociazione, pianto improvviso e intenso, ricordi traumatici | interrompi l'attività per quella persona; occhi aperti, piedi a terra, un sorso d'acqua, nominare cose della sala; non esplori e non interpreti |
 | Induzione nel gruppo: occhi chiusi a lungo, torpore | cambi attività: occhi aperti, voce variata, movimento |
 
-Dopo resti con la persona finché si sente stabile, o la affidi a un collega, e non le riproponi quell'attività senza averne parlato. Non elabori in aula ciò che è emerso e non prometti che il ballo la "curerà" (06 §4).
+Dopo resti con la persona finché si sente stabile, o la affidi a un collega; non le riproponi quell'attività senza averne parlato, non elabori in aula ciò che è emerso e non prometti che il ballo la "curerà" (06 §4).
 
 Il modulo sperimentale, con audio nel sonno e subliminali (S-27–S-29), resta fuori dalle lezioni (07).
 
 ## 9. Workshop di due giorni
 
-Un ciclo solo, in forma A, sulla sessione 1, fino a 10 coppie (AT §14). È più vicino al ritmo canonico, con l'elaborazione il giorno dopo il concerto, e ne ha i tempi: introduzione di circa 50 minuti, pausa di 30, un'opera più lunga. Pranzo dalle 12:45 alle 14:15.
+Un ciclo solo, in forma A, sulla sessione 1, fino a 10 coppie (AT §14). È più vicino al ritmo canonico, con l'elaborazione il giorno dopo il concerto, l'introduzione di circa 50 minuti, la pausa di 30 e un'opera più lunga; pranzo dalle 12:45 alle 14:15.
 
 | Ora | Sabato: introduzione e concerti | ID |
 |---|---|---|
-| 09:30-10:15 | Accoglienza, canzone, dichiarazione; riscaldamento: routine, sguardo, camminata a otto | S-33, S-46, S-47, S-35 |
-| 10:15-11:05 | Introduzione completa: Ernesto, il film, le identità, la sequenza su D'Arienzo e Di Sarli, giochi | S-01, S-15, S-16, S-18 |
-| 11:05-11:35 | Pausa | |
-| 11:35-12:07 | Concerto dimostrato su Mozart, Concerto per violino n. 5 K 219: I cabeceo, abrazo, caminata; II pausa, cadencia, ochos; III giro, resolución, sequenza intera; conteggio misto | S-04, S-32 |
-| 12:07-12:45 | Immagine, rilassamento breve; passivo su Bach BWV 572 e 562; pausa tranquilla e canzone | S-23, S-03, S-52, S-33 |
-| 14:15-15:00 | Musicalità su materiale già noto, senza la sequenza nuova: compás, caminata, cadencia; conteggio misto | S-32, S-43 |
-| 15:00-15:15 | Pausa | |
-| 15:15-16:45 | Ascolto delle orchestre, orchestra mimata, canto; gioco nei personaggi senza consegne; canzone. Sera: milonga facoltativa nei personaggi | S-19, S-21, S-50, S-16, S-33 |
+| 09:30‑10:15 | Accoglienza, canzone, dichiarazione; riscaldamento: routine, sguardo, camminata a otto | S‑33, SIC‑04, SIC‑05, S‑46, S‑47, S‑35 |
+| 10:15‑11:35 | Introduzione completa: Ernesto, il film, le identità, la sequenza su D'Arienzo e Di Sarli, giochi; dalle 11:05 pausa di 30 minuti | S‑01, S‑15, S‑16, S‑18 |
+| 11:35‑12:07 | Concerto dimostrato su Mozart, Concerto per violino n. 5 K 219: I cabeceo, abrazo, caminata; II pausa, cadencia, ochos; III giro, resolución, sequenza intera; conteggio misto | S‑04, S‑32 |
+| 12:07‑12:45 | Immagine, rilassamento breve; passivo su Bach BWV 572 e 562; pausa tranquilla e canzone | S‑23, S‑03, S‑52, S‑33 |
+| 14:15‑15:15 | Musicalità su materiale già noto, senza la sequenza nuova: compás, caminata, cadencia; conteggio misto; dalle 15:00 pausa | S‑32, S‑43 |
+| 15:15‑16:45 | Ascolto delle orchestre, orchestra mimata, canto; gioco nei personaggi senza consegne; canzone. Sera: milonga facoltativa nei personaggi | S‑19, S‑21, S‑50, S‑16, S‑33 |
 
 | Ora | Domenica: elaborazioni e performance | ID |
 |---|---|---|
-| 09:30-11:05 | Canzone; routine, otto e ochos sull'otto, pausa d'inibizione; richiamo in gioco della scena di ieri, lettura in coro, TPR, conteggio misto | S-33, S-46, S-35, S-36, S-42, S-49, S-37, S-32 |
-| 11:05-12:45 | Pausa; ancoraggio; giochi sui dettagli, giros e pivot, ruoli liberi; Image Streaming; prova mentale | S-26, S-43, S-52, S-47, S-25, S-38 |
-| 14:15-15:30 | Variazioni su D'Arienzo, Pugliese, un vals; combinazione intera e scomposta; scene; palazzo della memoria; visualizzazione guidata; prova mentale | S-44, S-41, S-21, S-40, S-24, S-38 |
-| 15:30-15:53 | Pausa e allestimento; respirazioni (con screening) o ancoraggio, per gli altri la routine | S-20, S-22, S-26, S-46 |
-| 15:53-16:50 | Il provino, le scene, la milonga del film | S-11, S-07, S-21 |
-| 16:50-17:05 | Scala anonima facoltativa; canzone | S-51, S-33 |
+| 09:30‑11:05 | Canzone; routine, otto e ochos sull'otto, pausa d'inibizione; richiamo in gioco della scena di ieri, lettura in coro, TPR, conteggio misto | S‑33, S‑46, S‑35, S‑36, S‑42, S‑49, S‑37, S‑32 |
+| 11:05‑12:45 | Pausa; ancoraggio; giochi sui dettagli, giros e pivot, ruoli liberi; Image Streaming; prova mentale | S‑26, S‑18, S‑43, S‑52, S‑47, S‑44, S‑25, S‑38 |
+| 14:15‑15:30 | Variazioni su D'Arienzo, Pugliese, un vals; combinazione intera e scomposta; scene; palazzo della memoria; visualizzazione guidata; prova mentale | S‑44, S‑41, S‑21, S‑40, S‑24, S‑38 |
+| 15:30‑15:53 | Pausa e allestimento; respirazioni (con screening) o ancoraggio, per gli altri la routine | S‑20, S‑22, S‑26, S‑46 |
+| 15:53‑16:50 | Il provino, le scene, la milonga del film | S‑11, S‑07, S‑21 |
+| 16:50‑17:05 | Scala anonima facoltativa; canzone | S‑51, S‑14, S‑33 |
 
 ## 10. Checklist e glossario
 
@@ -372,28 +370,24 @@ Un ciclo solo, in forma A, sulla sessione 1, fino a 10 coppie (AT §14). È più
 
 **Dopo ogni lezione.** Annota le figure che si perdono e dove è comparsa fatica nervosa. Rendi disponibili video e tanda, senza insistere. Se qualcuno è stato male, non riproporgli l'attività senza averne parlato. Dopo la lezione 4 leggi l'esito della verifica e la scala anonima.
 
-**Mini-glossario**
+### Mini-glossario
 
 - **Desuggestione**: liberare dai limiti appresi sulle proprie capacità, senza forzare.
 - **Globale-parziale**: dal tutto alla parte e di nuovo al tutto; i dettagli sul secondo piano.
 - **Conoscenza passiva**: riconoscere e seguire prima di saper eseguire; vale quanto quella attiva.
 - **Gioco-progetto**: un progetto comune, qui un film, che dà senso alle attività.
 - **Nuove identità**: i personaggi degli allievi; l'errore appartiene al personaggio.
-- **Concerto attivo**: il materiale presentato su un'opera classica intera, in forma A (dimostrato) o C (in movimento).
-- **Concerto passivo**: il materiale ripreso con voce colloquiale su un'opera barocca.
+- **Concerto attivo e passivo**: il materiale presentato su un'opera classica intera, in forma A (dimostrato) o C (in movimento); poi ripreso con voce colloquiale su un'opera barocca.
 - **Pseudo-passività**: lo stato di chi ascolta un concerto, fermo ma sveglio e attento.
 - **Pratiche di stato**: esercizi delle fonti per cambiare lo stato di chi li fa.
 - **Percezioni periferiche**: ciò che sta ai margini dell'attenzione e si assorbe comunque; non sono subliminali.
 - **Sicurezza percepita**: nessuno si sente minacciato, e la sfida resta.
-- **Milonga-ponte**: il corso adattivo del tango, una milonga vera tra due cicli.
-- **Cabeceo**: l'invito al ballo con lo sguardo, accettato con un cenno.
-- **Tanda e cortina**: in milonga, tre o quattro brani della stessa orchestra; la cortina è il breve brano non di tango tra due tande.
 
 ## 11. Indice degli strumenti
 
-Gli strumenti con una scheda rapida hanno rimando ed etichetta nella scheda (6). Qui gli altri, raggruppati per etichetta.
+Gli strumenti senza scheda rapida (6), raggruppati per etichetta, con il file del manuale.
 
-- S-13 Corsi adattivi, la milonga-ponte; S-14 Controllo della fatica (02). S-60 Prevenzione dell'induzione ipnotica (03a): 🟦
+- S-13 Corsi adattivi; S-14 Controllo della fatica (02). S-60 Prevenzione dell'induzione ipnotica (03a): 🟦
 - S-01 Introduzione; S-03 Concerto passivo; S-08 Struttura globale-parziale (02). S-20 Estetica totale; S-57 Doppio piano (03a): 🟦 · 🟥 non verificato
 - S-04 Concerto dimostrato, forma A (02; AT §6.3): 🟦 · n.t. (adattamento) · 🟥 non verificato
 - S-06 Elaborazione primaria e secondaria; S-07 Performance degli allievi; S-09 Conoscenza passiva accolta; S-11 Verifiche facili e soglia del 70-75%; S-12 Lettura informativa facoltativa (02). S-15 Gioco-progetto e S-16 Nuove identità (anche AT §4); S-17 Sistema della risata; S-18 Giochi didattici; S-30 Intonazione oscillante; S-33 Sistema delle canzoni; S-58 Comunicazione non direttiva; S-59 Correzione indiretta (03a): 🟦 · 🟩 parziale
@@ -402,7 +396,7 @@ Gli strumenti con una scheda rapida hanno rimando ed etichetta nella scheda (6).
 - S-50 Canto e coro (03b): 🟦 principio affine · 🟩 parziale
 - S-51 Misure validate (03b): 🟦 principio affine · 🟩 solida (strumenti)
 - S-05 Concerto in movimento, forma C (02; AT §6.5): 🟨 · 🟥 non verificato · 🟥 non canonico
-- S-31 Tre toni fissi, variante (03a): 🟨 · 🟩 parziale (variazione della voce) · 🟥 non verificato (tre toni) · 🟥 non canonico (tono imperativo)
+- S-31 Tre toni fissi (03a): 🟨 · 🟩 parziale (variazione della voce) · 🟥 non verificato (tre toni) · 🟥 non canonico (tono imperativo)
 - S-34 Filastrocche e canzoni mnemoniche (03a): 🟨 · 🟦 principio affine · 🟩 parziale
-- S-36 Tecnica Alexander, pausa d'inibizione (03b): 🟨 · 🟩 parziale · 🟥 contraddetto (energia, immunità)
-- S-45 Imagery autogestita (03b): 🟩 parziale · 🟥 non canonico se dettata
+- S-36 Tecnica Alexander (03b): 🟨 · 🟩 parziale · 🟥 contraddetto (energia, immunità) · n.t.
+- S-45 Imagery autogestita (03b): 🟩 parziale · 🟥 non canonico se dettata · n.t.
