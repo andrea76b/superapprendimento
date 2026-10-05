@@ -104,3 +104,6 @@ Risposte date dall'autore alle domande del registro (vedi `DECISIONI.md`). Data:
 | 32b | Formazione insegnanti | Segnaposto [DA DEFINIRE DALL'AUTORE] per ore, moduli, tirocinio e valutazione | |
 | 33 | Corso universitario | Proposta 1 (sperimentazione senza le pratiche di stato delle fonti), ma al massimo 8 incontri da 90 minuti | Origine dei 24 incontri e nuovo schema: vedi 33b |
 | 34 | Verifiche prima della pubblicazione | Diritti HQA: non da verificare (se ne occupa l'autore) | Verifiche bibliografiche e musicali: vedi 34b |
+| 33b | Struttura del corso universitario | 4 incontri da 90 minuti (6 ore) con teoria e pratica insieme: un ciclo completo (introduzione e concerti, due elaborazioni, performance) | Origine dei 24 incontri: scelta dei redattori per allineare a 6 CFU (48 ore), non dalle fonti né da Lozanov |
+| 33c | Disegno sperimentale | Gruppo parallelo con insegnamento tradizionale dello stesso contenuto | |
+| 34b | Verifiche bibliografiche e musicali | Eliminare i segnaposto [da verificare] / [da ricontrollare]: per l'autore il problema non esiste | |
