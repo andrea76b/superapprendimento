@@ -1,6 +1,6 @@
 # Superapprendimento
 
-**In breve.** Superapprendimento è un metodo didattico fondato sulla Desuggestopedia di Georgi Lozanov e integrato, in modo dichiarato, con la ricerca attuale sull'apprendimento. Nasce dai corsi di tango argentino dell'autore e si applica al Qigong (Liu Zi Jue), alla formazione degli insegnanti e a un corso universitario. L'autore è docente certificato nella linea di Lozanov. Questo repository contiene le fonti, la ricerca che le ha verificate, le 44 decisioni dell'autore e le sue risposte ai 34 punti aperti della revisione, il metodo in nove file e le quattro applicazioni. Ogni strumento porta un'etichetta a colori che dice da dove viene e che cosa ne sappiamo.
+**In breve.** Superapprendimento è un metodo didattico fondato sulla Desuggestopedia di Georgi Lozanov e integrato, in modo dichiarato, con la ricerca attuale sull'apprendimento. Gli esempi applicativi pratici sono stati tarati su tango argentino e Qigong, sulla formazione degli insegnanti e su un corso universitario. Ogni strumento porta un'etichetta a colori che dice da dove viene e che cosa ne sappiamo. Il metodo può essere applicato a qualsiasi campo didattico e di apprendimento.
 
 ## Fondamenti
 
