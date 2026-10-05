@@ -97,3 +97,7 @@ Risposte date dall'autore alle domande del registro (vedi `DECISIONI.md`). Data:
 | 27 | Etichette nel sito QIGONG | Nota di raccordo in ciascun progetto: stessi colori; "Fonte classica" = testi classici cinesi nel QIGONG, Lozanov 2005 nel Superapprendimento | |
 | 28 | Screening pre-corso | Autoesclusione: questionario anonimo con elenco di attività e controindicazioni | |
 | 29 | Procedura di invio, segnale di uscita, standard di sala | Eliminati | Vedi 29b per la libertà di non partecipare (principio canonico) |
+| 29b | Libertà di non partecipare | Resta come principio canonico (r. 782-783): chiunque può non partecipare a un'attività senza spiegare | Obiezione registrata sull'eliminazione della procedura di invio |
+| 30 | Tango: contatto, ruoli, numero dispari, assistente | Come proposto: abrazo con consenso; cambio di coppia proposto, mai obbligato; ruoli liberi da genere; con numero dispari ruota chi lavora sulla tecnica individuale, oppure balla l'assistente | |
+| 31 | Diploma e titoli della linea Lozanov | Cancellare il passaggio e la verifica sui titoli | |
+| 32 | Struttura della formazione insegnanti | La definisce l'autore | |
