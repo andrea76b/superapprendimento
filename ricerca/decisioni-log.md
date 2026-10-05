@@ -81,3 +81,7 @@ Risposte date dall'autore alle domande del registro (vedi `DECISIONI.md`). Data:
 | 12 | Canzone del corso | Una canzone diversa per ogni ciclo, scelta dal docente | |
 | 13 | Precauzioni S-22 respirazioni con apnea | Pattern come nelle fonti, in piedi o seduti a scelta; solo screening | Rischio residuo documentato in REVISIONE §11 |
 | 14 | Precauzioni S-23 rilassamento progressivo | Come nelle fonti (onda calda dettata, rotazioni del collo, anche sdraiati) | |
+| 15 | Conduzione delle visualizzazioni guidate (S-24) | Come nelle fonti: conduce il docente in gruppo | |
+| 16 | Image Streaming (S-25) | Senza lampadina: occhi aperti, immagini descritte a voce | |
+| 17 | Ancoraggi (S-26) | Come nelle fonti, ma il ricordo personale è facoltativo (in alternativa una scena di ballo o di pratica immaginata) | |
+| 18 | Audio nel sonno e subliminali (S-27, S-28, S-29) | Spostati nel modulo sperimentale | Modifica la decisione D-13 (prima: nel metodo come nelle fonti con consenso) |
