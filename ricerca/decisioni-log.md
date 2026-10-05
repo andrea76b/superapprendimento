@@ -77,3 +77,7 @@ Risposte date dall'autore alle domande del registro (vedi `DECISIONI.md`). Data:
 | 8 | "Testo" del concerto nelle discipline corporee | Solo a voce: il docente nomina figure e immagini durante il concerto, senza libretto | |
 | 9 | Forme del concerto nei cicli | Ciclo 1: forma A (allievi osservano); ciclo 2: forma C (esecuzione in sincrono). Ogni movimento dell'opera corrisponde a un gruppo di figure | |
 | 10 | Ordine delle sessioni musicali | Ordine ufficiale delle 10 sessioni (ciclo 1 = sessione 1); dentro la sessione il docente sceglie l'opera di durata adatta | |
+| 11 | Volume del concerto passivo | Volume moderato (si può parlare a voce normale) | Diverge dal canone ("as loud as a normal concert") |
+| 12 | Canzone del corso | Una canzone diversa per ogni ciclo, scelta dal docente | |
+| 13 | Precauzioni S-22 respirazioni con apnea | Pattern come nelle fonti, in piedi o seduti a scelta; solo screening | Rischio residuo documentato in REVISIONE §11 |
+| 14 | Precauzioni S-23 rilassamento progressivo | Come nelle fonti (onda calda dettata, rotazioni del collo, anche sdraiati) | |
