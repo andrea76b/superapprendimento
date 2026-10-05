@@ -73,3 +73,7 @@ Risposte date dall'autore alle domande del registro (vedi `DECISIONI.md`). Data:
 | 5 | Performance | Performance breve e volontaria alla fine di ogni ciclo di 4 settimane, più la festa finale del corso | |
 | 6 | Corsi adattivi | Tango: milonga-ponte tra un ciclo e l'altro. Liu Zi Jue: pratica di gruppo all'aperto senza docente | |
 | 7 | Verifica | Verifica-gioco di gruppo, senza voti individuali; sotto il 70-75% gli elementi deboli tornano nel ciclo successivo | |
+| 3b | Lezione da 90 min con introduzione 33 + pausa 7 | Schema stretto da 90 min: canzoni 10, introduzione 30, pausa 7, concerti 43 (opera più breve della sessione) | Nessun margine: il rilassamento prima del concerto passivo (1b) va ridotto a 2-3 minuti dentro il tempo dei concerti |
+| 8 | "Testo" del concerto nelle discipline corporee | Solo a voce: il docente nomina figure e immagini durante il concerto, senza libretto | |
+| 9 | Forme del concerto nei cicli | Ciclo 1: forma A (allievi osservano); ciclo 2: forma C (esecuzione in sincrono). Ogni movimento dell'opera corrisponde a un gruppo di figure | |
+| 10 | Ordine delle sessioni musicali | Ordine ufficiale delle 10 sessioni (ciclo 1 = sessione 1); dentro la sessione il docente sceglie l'opera di durata adatta | |
