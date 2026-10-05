@@ -93,3 +93,7 @@ Risposte date dall'autore alle domande del registro (vedi `DECISIONI.md`). Data:
 | 24 | Confine contenuto/induzione nel Liu Zi Jue | Respiro, quiete e immagini del Liu Zi Jue seguono le stesse regole delle pratiche di stato del metodo (screening, ecc.) | |
 | 25 | Viaggio calmante (S-24) nel Liu Zi Jue | Sostituito dalla quiete in piedi della preparazione HQA; il viaggio calmante resta per il tango | |
 | 26 | Giochi-progetto | Approvati: "Una noche en el club" (tango, con carte d'identità) e "La giornata aperta" (Liu Zi Jue). Non approvati: "Il documentario", "La scuola nuova", "Il festival della didattica" | Alternative per formazione e università: vedi 26b |
+| 26b | Gioco-progetto in formazione e università | Nessun gioco-progetto | |
+| 27 | Etichette nel sito QIGONG | Nota di raccordo in ciascun progetto: stessi colori; "Fonte classica" = testi classici cinesi nel QIGONG, Lozanov 2005 nel Superapprendimento | |
+| 28 | Screening pre-corso | Autoesclusione: questionario anonimo con elenco di attività e controindicazioni | |
+| 29 | Procedura di invio, segnale di uscita, standard di sala | Eliminati | Vedi 29b per la libertà di non partecipare (principio canonico) |
