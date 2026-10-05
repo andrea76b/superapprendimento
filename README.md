@@ -1,6 +1,6 @@
 # Superapprendimento
 
-**In breve.** Superapprendimento è un metodo didattico fondato sulla Desuggestopedia di Georgi Lozanov e integrato, in modo dichiarato, con la ricerca attuale sull'apprendimento. Nasce dai corsi di tango argentino dell'autore e si applica al Qigong (Liu Zi Jue), alla formazione degli insegnanti e a un corso universitario. L'autore è docente certificato nella linea di Lozanov. Questo repository contiene le fonti, la ricerca che le ha verificate, le 44 decisioni dell'autore e le sue risposte ai 34 punti aperti della revisione, il metodo in nove file e le quattro applicazioni. Ogni strumento porta un'etichetta a colori che dice da dove viene e che cosa ne sappiamo.
+**In breve.** Superapprendimento è un metodo didattico fondato sulla Desuggestopedia di Georgi Lozanov e integrato, in modo dichiarato, con la ricerca attuale sull'apprendimento. Gli esempi applicativi pratici sono stati tarati su tango argentino e Qigong, sulla formazione degli insegnanti e su un corso universitario. Ogni strumento porta un'etichetta a colori che dice da dove viene e che cosa ne sappiamo. Il metodo può essere applicato a qualsiasi campo didattico e di apprendimento.
 
 ## Fondamenti
 
@@ -105,8 +105,7 @@ Tutto ciò che le fonti contengono resta documentato in `ricerca/`, anche ciò c
 | `metodo/00`-`07` | completo; aggiornato con le decisioni dell'autore sui punti aperti e ricontrollato in una seconda revisione il 5 ottobre 2026 (`metodo/REVISIONE.md`) |
 | `applicazioni/` | tango, Liu Zi Jue e corso universitario completi, aggiornati con le decisioni del 5 ottobre 2026 e ricontrollati nella seconda revisione; formazione insegnanti con competenze e struttura generale |
 
-Il 5 ottobre 2026 l'autore ha deciso i 34 punti aperti della revisione (`ricerca/decisioni-log.md`, sezione "Punti aperti della revisione"). Di questi resta aperta solo la formazione insegnanti: ore, moduli, tirocinio, griglia di osservazione e valutazione, divisione tra manuale e formazione pratica (`applicazioni/formazione-insegnanti.md` §9). Alcune domande di `DECISIONI.md` §7 che non erano tra i 34 punti, come il secondo livello e la quantità di materiale per ciclo, restano senza decisione: l'elenco è in `metodo/00-convenzioni.md` §6.1. I diritti d'uso della traccia HQA li segue l'autore.
-
+Il 5 ottobre 2026 l'autore ha deciso i 34 punti aperti della revisione (`ricerca/decisioni-log.md`, sezione "Punti aperti della revisione"). Di questi resta aperta solo la formazione insegnanti: ore, moduli, tirocinio, griglia di osservazione e valutazione, divisione tra manuale e formazione pratica (`applicazioni/formazione-insegnanti.md` §9). Alcune domande di `DECISIONI.md` §7 che non erano tra i 34 punti, come il secondo livello e la quantità di materiale per ciclo, restano senza decisione: l'elenco è in `metodo/00-convenzioni.md` §6.1.
 ## Avvertenze
 
 - Il metodo non è una terapia. Il docente non fa diagnosi, non fa trattamenti e non promette effetti sulla salute.
