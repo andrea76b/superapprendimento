@@ -1,5 +1,7 @@
 # Catalogo degli strumenti, parte 1: gioco, stato, suggestione, voce, comunicazione
 
+**In breve.** Questo file contiene le schede degli strumenti che riguardano il clima della lezione e la voce del docente: il gioco-progetto e i personaggi (§A), le pratiche di stato prese dalle fonti (§B), le pratiche notturne e subliminali (§C), la voce e il canto (§D), il modo di comunicare del docente (§E). Ogni scheda ha lo stesso schema: etichette, scopo, procedura con i tempi, un esempio di tango e uno di Liu Zi Jue, la spiegazione corretta, il riquadro con ciò che dicono le fonti, le precauzioni. Serve al docente per preparare una singola attività e per sapere, prima di proporla, da dove viene e che cosa ne sappiamo. In classe si leggono agli allievi solo "Scopo", "Procedura" ed "Esempio"; etichette, righe e riferimenti servono al docente e a chi controlla.
+
 Schede degli strumenti S-15–S-34 e S-57–S-60. Schema della scheda ed etichette: 00 §1-§2. Fasi del ciclo: 02 §1. Procedure di sicurezza (SIC): 06 §2. Le righe "r. NNNN" sono di Lozanov 2005.
 
 Per le pratiche tenute "come nelle fonti" (§B e §C) la procedura è quella delle estrazioni in `ricerca/estrazioni/`, con sigla e righe; la spiegazione corretta sta nel testo, quella delle fonti nel riquadro (D-30). Dove una precauzione di `DECISIONI.md` cambierebbe la procedura scelta dall'autore, la precauzione è segnata **[da chiarire con l'autore]** (00 §6.2).
@@ -36,7 +38,7 @@ Origine: canone · Decisione: Canone · Fase del ciclo: introduzione, elaborazio
 
 **Spiegazione.** Nel canone il gioco-progetto è un sistema trasversale che attraversa tutte le fasi (modello §4.5). Le prove sono indirette: la pedagogia teatrale ha effetti positivi in meta-analisi, con disegni deboli (Lee et al. 2015, *Rev Educ Res* 85:3-49; VPS C1).
 
-**Precauzioni.** Adesione volontaria. Oggetti di scena pochi, "to keep on the safe side of the grotesque" (r. 3956-3957). Nel Qigong niente costumi o formule che urtino la barriera critico-logica o etica (r. 2802-2845).
+**Precauzioni.** Adesione volontaria. Oggetti di scena pochi, "to keep on the safe side of the grotesque" (r. 3956-3957). Nel Qigong niente costumi o formule che urtino la barriera critico-logica o etica, cioè le difese naturali di chi pensa "non ci credo" o "non è il mio posto" (r. 2802-2845).
 
 **Collegamenti.** S-16, S-21, S-01, S-07.
 
@@ -59,7 +61,7 @@ Origine: canone · Decisione: Canone; distinte dalla reincarnazione artificiale 
 
 **Esempio Liu Zi Jue.** Nel Qigong le identità sono meno naturali (modello r. 765). Con il progetto della giornata aperta funzionano ruoli neutri: "la presentatrice della dimostrazione", "il fotografo", "l'ospite di una scuola gemellata"; niente nomi cinesi inventati né costumi. Chi preferisce pratica con il proprio nome.
 
-**Spiegazione.** Lozanov aggiunge che le nuove identità acquistano poi un significato psicofisiologico: l'allievo entra in "a new functional system" (r. 2704-2707). Assumere la prospettiva di un personaggio aumenta la perseveranza nei bambini (White et al. 2017, *Child Dev* 88:1563-1571); la pedagogia teatrale ha effetti positivi con studi deboli (Lee et al. 2015). Il personaggio riduce la paura del giudizio, non il senso critico: l'infantilizzazione canonica è "increased trust and receptivity while retaining a critical attitude and self-control" (r. 2289-2293). È la differenza con S-67, che le fonti presentano come "ipnosi d'identità alterata" e che sta nel modulo sperimentale.
+**Spiegazione.** Lozanov aggiunge che le nuove identità acquistano poi un significato psicofisiologico: l'allievo entra in "a new functional system" (r. 2704-2707). Assumere la prospettiva di un personaggio aumenta la perseveranza nei bambini (White et al. 2017, *Child Dev* 88:1563-1571); la pedagogia teatrale ha effetti positivi con studi deboli (Lee et al. 2015). Il personaggio riduce la paura del giudizio, non il senso critico. Lozanov chiama "infantilizzazione" la fiducia spontanea verso una fonte credibile, e la definisce "increased trust and receptivity while retaining a critical attitude and self-control" (r. 2289-2293): ci si fida, ma si resta svegli. È la differenza con S-67, che le fonti presentano come "ipnosi d'identità alterata" e che sta nel modulo sperimentale.
 
 **Precauzioni.** Adesione volontaria; occhi aperti; nessuna induzione né "meditazione visiva" iniziale; nessuna ancora associata; il docente non interpreta psicologicamente le scelte dei personaggi; nessun personaggio legato a vissuti dolorosi (D-16; VPS 7.9).
 
@@ -206,7 +208,7 @@ Origine: fonti · Decisione: D-29, nel metodo · Fase del ciclo: elaborazione, p
 
 ## §B Stato
 
-Le pratiche di questa sezione vengono dalle fonti e Lozanov le esclude come mezzo (01 §5). L'autore le ha volute nel metodo "come nelle fonti". Si propongono nella fase di preparazione (02 §1.1), una per volta, come offerta.
+Le pratiche di questa sezione servono a cambiare lo stato di chi le fa (più calmo, più presente), non a imparare un contenuto. Vengono dalle fonti del Superlearning, e Lozanov le esclude come mezzo: per lui la calma deve nascere dall'organizzazione della lezione, non da un esercizio (01 §5). L'autore le ha volute nel metodo "come nelle fonti", cioè con la procedura originale. Per questo ogni scheda ha due parti ben distinte: la procedura, copiata dalle fonti, e la spiegazione, che è quella corretta secondo la ricerca di oggi; le promesse delle fonti stanno nel riquadro. Si propongono nella fase di preparazione (02 §1.1), una per volta, come offerta. Il docente le annuncia sempre per quello che sono: pratiche del metodo, non di Lozanov e non della disciplina.
 
 ### S-22 Respirazioni con apnea
 
@@ -752,7 +754,7 @@ Origine: canone · Decisione: Canone; eccezione SIC-06 (INT-07) · Fase del cicl
 
 **Esempio Liu Zi Jue.** Un allievo trattiene il fiato troppo a lungo in Si: il docente, davanti al gruppo, esegue Si con un'espirazione fluida e ben udibile. Eccezione: in Chui chi scende con le ginocchia oltre le punte dei piedi e sente dolore viene corretto subito.
 
-**Spiegazione.** Un feedback troppo frequente crea dipendenza; un feedback ridotto o a richiesta favorisce la ritenzione (ipotesi della guida; VPS §8).
+**Spiegazione.** Un feedback troppo frequente crea dipendenza: l'allievo si appoggia alla correzione invece che alle proprie sensazioni. Un feedback ridotto o a richiesta favorisce la ritenzione (è la cosiddetta ipotesi della guida; VPS §8).
 
 **Precauzioni.** SIC-06 elenca gli errori da correggere subito (06 §2).
 

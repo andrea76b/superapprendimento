@@ -1,6 +1,8 @@
 # Musica
 
-Questo file raccoglie i criteri per la musica del metodo, il programma ufficiale dei concerti di Lozanov, la musica del tango e del Liu Zi Jue, le schede degli strumenti musicali delle fonti tenuti nel metodo (S-53–S-56) e i rimandi al modulo sperimentale. Etichette: 00 §1. Le righe "r. NNNN" sono di Lozanov 2005.
+**In breve.** Nel metodo ci sono tre musiche con tre usi diversi. La musica classica del programma di Lozanov si usa solo nei concerti. La musica della disciplina (le orchestre di tango, la traccia HQA del Liu Zi Jue) è contenuto da imparare e sta nell'introduzione, nelle elaborazioni e nella performance. Le canzoni aprono e chiudono ogni lezione. Questo file dà i criteri, il programma dei dieci concerti con le correzioni ai titoli, la musica delle discipline, le quattro pratiche musicali prese dalle fonti (S-53–S-56) e i rimandi al modulo sperimentale. Serve al docente per scegliere la musica di ogni momento senza confondere i tre usi.
+
+Etichette: 00 §1. Le righe "r. NNNN" sono di Lozanov 2005.
 
 **Indice**
 1. Criteri
@@ -17,7 +19,7 @@ Questo file raccoglie i criteri per la musica del metodo, il programma ufficiale
 |---|---|---|
 | Arte di tipo classico | Le associazioni e le emozioni più efficaci nascono da "specially selected art of the classical type" (r. 2923-2926). Il quinto fattore indispensabile parla di "a classical type of arts" (r. 5853) | 🟦 r. 2923-2926 · 🟥 non verificato per l'effetto |
 | Opere intere | Concerto attivo con opere classiche o romantiche intere, "emotional, with a wealth of melody and harmony" (r. 483-487); concerto passivo con opere pre-classiche intere, movimenti veloci compresi, caratterizzate da "austerity of form, content, and intellectual depth" (r. 487-488, 4100-4115) | 🟦 r. 4021-4115 |
-| La musica non è il "segreto" | Tra le interpretazioni sbagliate del metodo Lozanov mette "the secret lies only in the music programs, which activate the right cerebral hemisphere" (r. 5805). La musica è arte dentro la lezione, non una tecnologia | 🟦 r. 5805 |
+| La musica non è il "segreto" | Tra le interpretazioni sbagliate del metodo Lozanov mette l'idea che "the secret lies only in the music programs, which activate the right cerebral hemisphere" (r. 1446-1448) e nega che i risultati vengano dalla "slow baroque music" (r. 5805). La musica è arte dentro la lezione, non una tecnologia | 🟦 r. 1446-1448, 5805 |
 | L'arte non è intrattenimento | "art is not simple entertainment" (r. 3159); "the potential of art should not be absolutised" (r. 1717-1718) | 🟦 r. 3159 |
 | Qualità dell'esecuzione | Si scelgono esecuzioni di alta qualità artistica; per il barocco anche registrazioni su strumenti d'epoca, per esempio Tafelmusik (VPS R-M4) | 🟦 principio affine r. 3104-3110 |
 | Musica della disciplina come cultura | La musica e i canti del paese entrano nelle elaborazioni come "culture of the respective country" (r. 4349-4352). Tango e musica del Liu Zi Jue sono contenuto della disciplina e restano nel metodo (§3); nei concerti la loro presenza è solo nel modulo sperimentale (D-21, S-71) | 🟦 r. 4349-4352 |
@@ -63,7 +65,7 @@ Altre precisioni utili. Le Sinfonie n. 35 "Haffner" K 385 e n. 38 "Praga" K 504 
 ### 2.2 Come si usa il programma nel metodo
 
 **Proposta, da confermare con l'autore** (00 §6.1, punti 3 e 7).
-1. Ogni ciclo usa una sessione del programma, in ordine: il ciclo 1 la sessione 1, il ciclo 2 la sessione 2, e così via.
+1. Ogni ciclo usa una sessione del programma: l'opera del concerto attivo e quella del passivo vengono dalla stessa sessione. L'ordine proposto è quello del programma: il ciclo 1 la sessione 1, il ciclo 2 la sessione 2, e così via. Gli esempi di 02 e dell'applicazione al Liu Zi Jue (AQ) usano invece le sessioni 3 e 4 per il primo corso, perché hanno opere più brevi: l'autore decide quale regola seguire.
 2. Il libro non dice se tutte le opere elencate vadano eseguite nella stessa sessione (TM P8). Per un concerto si sceglie un'opera intera del n. 1 e un'opera intera, o una sua parte significativa, del n. 2. Il concerto passivo si può accorciare saltando le parti meno significative (r. 4107-4108); il concerto attivo dura "normally [...] not more than 45-50 minutes" (r. 4049-4050).
 3. L'opera del n. 1 accompagna il concerto attivo canonico (S-02), il concerto dimostrato (S-04) o il concerto in movimento (S-05). L'opera del n. 2 accompagna il concerto passivo (S-03). Attivo e passivo non si separano.
 4. Il docente ascolta l'opera intera prima della lezione (r. 4021-4099) e ne misura le durate sull'esecuzione scelta.
@@ -145,7 +147,7 @@ Origine: fonti · Decisione: D-19, nel metodo come nelle fonti · Fase del ciclo
 
 **Esempio Liu Zi Jue.** Dieci minuti di K. 448 prima di imparare una forma nuova (per esempio Chui nel ciclo 2), seduti, senza istruzioni.
 
-**Spiegazione.** Lo studio originale (Rauscher, Shaw, Ky 1993, *Nature* 365:611) osservò in 36 studenti un miglioramento temporaneo, di 10-15 minuti, in compiti spaziali, non di memoria. Le meta-analisi successive non trovano un effetto specifico di Mozart (Pietschnig, Voracek, Formann 2010, *Intelligence* 38:314-323); gli effetti residui si spiegano con umore e attivazione, e valgono anche per altra musica gradita (Thompson, Schellenberg, Husain 2001). La musica brillante e gradita ascoltata prima di un compito migliora per poco umore e attivazione (🟩 **Evidenza parziale**, VNF B2-B3). Per Lozanov Mozart è arte del concerto attivo, non uno strumento per la memoria (r. 5805).
+**Spiegazione.** Lo studio originale (Rauscher, Shaw, Ky 1993, *Nature* 365:611) osservò in 36 studenti un miglioramento temporaneo, di 10-15 minuti, in compiti spaziali, non di memoria. Le meta-analisi successive non trovano un effetto specifico di Mozart (Pietschnig, Voracek, Formann 2010, *Intelligence* 38:314-323); gli effetti residui si spiegano con umore e attivazione, e valgono anche per altra musica gradita (Thompson, Schellenberg, Husain 2001). La musica brillante e gradita ascoltata prima di un compito migliora per poco umore e attivazione (🟩 **Evidenza parziale**, VNF B2-B3). Per Lozanov Mozart è arte del concerto attivo, non uno strumento per la memoria: l'idea che il "segreto" stia nella musica è un'interpretazione sbagliata (r. 1446-1448, 5805).
 
 > **Cosa dicono le fonti** · 🟥 Speculativo (contraddetto)
 >

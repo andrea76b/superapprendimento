@@ -1,6 +1,8 @@
 # Sicurezza ed etica
 
-Questo file raccoglie i principi di sicurezza, le procedure SIC-01–SIC-07, i moduli di screening e di consenso, le precauzioni per strumento, i segnali d'allarme con la procedura di invio e le regole su privacy e ricerca nel corso universitario. Le precauzioni vengono dalle schede di `DECISIONI.md`, che sono vincolanti. Dove l'autore non ha ancora deciso, il testo è segnato **Proposta, da confermare con l'autore**. Etichette: 00 §1.
+**In breve.** Questo file va letto prima di proporre qualsiasi strumento. Dice le regole che valgono sempre (il docente non è un terapeuta, ogni attività è un'offerta, nessuna promessa di salute), le sette procedure di sicurezza con i testi pronti dei moduli di screening e di consenso, le precauzioni di ogni strumento raccolte in una tabella, che cosa fare se in sala qualcuno sta male o emergono ricordi dolorosi, e le regole su dati e ricerca nel corso universitario. Le precauzioni vengono dalle schede di `DECISIONI.md`, che sono vincolanti.
+
+Dove l'autore non ha ancora deciso, il testo è segnato **Proposta, da confermare con l'autore**. Etichette: 00 §1.
 
 **Indice**
 1. Principi

@@ -1,6 +1,6 @@
 # Superapprendimento
 
-Superapprendimento è un metodo didattico fondato sulla Desuggestopedia di Georgi Lozanov e integrato, in modo dichiarato, con la ricerca attuale sull'apprendimento. Nasce dai corsi di tango argentino dell'autore e si applica al Qigong (Liu Zi Jue), alla formazione degli insegnanti e a un corso universitario. L'autore è docente certificato nella linea di Lozanov.
+**In breve.** Superapprendimento è un metodo didattico fondato sulla Desuggestopedia di Georgi Lozanov e integrato, in modo dichiarato, con la ricerca attuale sull'apprendimento. Nasce dai corsi di tango argentino dell'autore e si applica al Qigong (Liu Zi Jue), alla formazione degli insegnanti e a un corso universitario. L'autore è docente certificato nella linea di Lozanov. Questo repository contiene le fonti, la ricerca che le ha verificate, le 44 decisioni dell'autore, il metodo in nove file e le quattro applicazioni. Ogni strumento porta un'etichetta a colori che dice da dove viene e che cosa ne sappiamo.
 
 ## Fondamenti
 
@@ -71,7 +71,8 @@ superapprendimento/
 │   ├── 04-musica.md                                 programma dei concerti, musica delle discipline (S-53–S-56)
 │   ├── 05-il-docente.md                             condizioni, voce e corpo, 14 competenze, formazione
 │   ├── 06-sicurezza-ed-etica.md                     procedure SIC-01–SIC-07, invio, privacy e ricerca
-│   └── 07-modulo-sperimentale.md                    S-61–S-76
+│   ├── 07-modulo-sperimentale.md                    S-61–S-76
+│   └── REVISIONE.md                                 esito della revisione: controlli, correzioni, punti aperti, rischi
 └── applicazioni/
     ├── tango.md                     obiettivi per livello, film e identità porteñe, testo del concerto, 8 settimane, workshop, milonga
     ├── qigong-liu-zi-jue.md         sequenza HQA, respiro come contenuto e come tecnica, sei suoni come canto, 8 settimane, workshop
@@ -87,7 +88,7 @@ superapprendimento/
    - Liu Zi Jue: `applicazioni/qigong-liu-zi-jue.md`, insieme al player del progetto QIGONG;
    - formazione dei docenti: `applicazioni/formazione-insegnanti.md`;
    - università: `applicazioni/corso-universitario.md`.
-3. **Per capire le scelte.** `DECISIONI.md`, a partire dalla tabella riassuntiva (sezione 5). Ogni scheda riporta che cosa dicono le fonti, l'evidenza attuale, la compatibilità con Lozanov, i rischi e la decisione dell'autore.
+3. **Per capire le scelte.** `DECISIONI.md`, a partire dalla tabella riassuntiva (sezione 5). Ogni scheda riporta che cosa dicono le fonti, l'evidenza attuale, la compatibilità con Lozanov, i rischi e la decisione dell'autore. `metodo/REVISIONE.md` dice che cosa è stato controllato e corretto nei testi e che cosa resta da decidere.
 4. **Per controllare una fonte.** `ricerca/estrazioni/` per le procedure, `ricerca/verifica-*.md` per l'evidenza e i riferimenti, `ricerca/modello-canonico-lozanov.md` per il canone. Le righe citate si ritrovano in `fonti/testo/`.
 
 **Diciture da conoscere.** "Proposta, da confermare con l'autore" segna i punti che l'autore non ha ancora deciso; "[da chiarire con l'autore]" una precauzione di `DECISIONI.md` in tensione con una procedura voluta "come nelle fonti"; "[da verificare]" un riferimento o un dato da controllare sull'originale.
@@ -101,13 +102,13 @@ Tutto ciò che le fonti contengono resta documentato in `ricerca/`, anche ciò c
 | `fonti/` | completo |
 | `ricerca/` | completo: estrazioni, modello canonico, tre verifiche delle evidenze |
 | `DECISIONI.md` | 44 schede decise dall'autore |
-| `metodo/00`-`07` | prima stesura completa, con il sistema di etichette allineato al progetto QIGONG |
-| `applicazioni/` | prima stesura completa dei quattro file |
+| `metodo/00`-`07` | prima stesura completa, rivista il 5 ottobre 2026 (`metodo/REVISIONE.md`): decisioni, sicurezza, etichette, citazioni e riferimenti controllati; testo riscritto per la lettura in classe |
+| `applicazioni/` | prima stesura completa dei quattro file, rivista con il metodo |
 
-Da fare:
+Da fare (l'elenco completo, con i rischi residui, è in `metodo/REVISIONE.md`):
 - rispondere alle domande ancora aperte (calendari, corsi adattivi, testo del concerto nelle discipline corporee, confine tra contenuto e induzione nel Qigong, voto universitario e altre): elenco in `metodo/00-convenzioni.md` §6.1 e alla fine di ogni file di `applicazioni/`;
 - chiarire le precauzioni in tensione con le pratiche "come nelle fonti" (`metodo/00-convenzioni.md` §6.2);
-- armonizzare gli esempi musicali tra `02` e `04` (una sessione del programma per ciclo, in ordine, oppure le opere degli esempi di `02`);
+- decidere la regola per l'ordine delle sessioni musicali dei concerti: in ordine di programma (ciclo 1 = sessione 1, come nel tango) oppure per durata (sessioni 3 e 4 nel Liu Zi Jue); attivo e passivo usano ora sempre la stessa sessione (`metodo/04-musica.md` §2.2);
 - verificare i titoli e le registrazioni del repertorio di tango e i diritti d'uso della traccia HQA;
 - ricontrollare sull'originale ogni riferimento prima della pubblicazione (`DECISIONI.md` §3.6), compresi quelli che vengono dal sito QIGONG.
 

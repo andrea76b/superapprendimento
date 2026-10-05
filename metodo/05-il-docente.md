@@ -1,6 +1,8 @@
 # Il docente
 
-Nel metodo il docente non è un esecutore di tecniche: per Lozanov "Without training it is not possible to work" (Lozanov 2005, r. 4449-4450) e le tecniche "are not decisive by themselves" (r. 284-285). Questo file descrive le condizioni, il modo di comunicare, la voce e il corpo, la correzione, la gestione del gruppo, i limiti del ruolo, le competenze e la formazione. Non contiene schede: gli strumenti di comunicazione hanno la scheda in 03a (S-30, S-31, S-57–S-60). Etichette: 00 §1.
+**In breve.** Per Lozanov il metodo sta nel docente più che nelle tecniche. Questo file descrive che cosa il docente deve essere e fare: avere prestigio reale, aspettarsi davvero che gli allievi riescano, volergli bene senza sentimentalismi; parlare proponendo e non comandando; usare voce e corpo come strumenti; correggere senza esporre; gestire un gruppo fino a 20; sapere che cosa non deve fare. Chiude con le 14 competenze che Lozanov dice imparabili solo in un corso pratico e con la questione della formazione e della certificazione. Serve al docente per guardare se stesso, non gli allievi.
+
+Nel metodo il docente non è un esecutore di tecniche: per Lozanov "Without training it is not possible to work" (Lozanov 2005, r. 4449-4450) e le tecniche "are not decisive by themselves" (r. 284-285). Questo file non contiene schede: gli strumenti di comunicazione hanno la scheda in 03a (S-30, S-31, S-57–S-60). Etichette: 00 §1.
 
 **Indice**
 1. Condizioni: prestigio, aspettativa, amore
@@ -144,7 +146,7 @@ Il canone non parla di contatto fisico; la regola trasferibile è quella delle b
 
 1. **Consenso al contatto** e un modo semplice per dire di no, senza spiegazioni (SIC-04).
 2. **Scelta del partner** con il cabeceo o liberamente; nessuna rotazione obbligatoria.
-3. **Scambio dei ruoli** libero: chi vuole prova a guidare o a seguire. Il modello legge guida e seguito come varianti della "personalità multipla" (r. 2409-2432); resta un'estensione.
+3. **Scambio dei ruoli** libero: chi vuole prova a guidare o a seguire. Il modello legge guida e seguito come varianti della "personalità multipla", cioè dei diversi stati che la stessa persona attraversa, corpo compreso (r. 2409-2432); resta un'estensione.
 4. **Numero dispari o ruoli sbilanciati:** il docente o l'assistente completano le coppie; chi resta senza partner fa il lavoro da solo previsto per quell'esercizio (caminata, otto a terra, ochos con la mano su una sedia). **Proposta, da confermare con l'autore.**
 5. **Distanza dell'abrazo** scelta dalla coppia (aperto, chiuso); l'abrazo molto inclinato in avanti si introduce con gradualità e non si propone a chi ha problemi alla schiena (VPS 7.8).
 6. **Regole contro le molestie** dichiarate all'inizio del corso (VPS 7.8).

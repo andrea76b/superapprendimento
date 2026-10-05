@@ -1,5 +1,7 @@
 # Convenzioni del metodo
 
+**In breve.** Questo file è la cassetta degli attrezzi di chi scrive o legge il metodo. Spiega il sistema delle etichette a colori, lo stesso del progetto QIGONG dell'autore; elenca tutti gli strumenti con il loro codice (S-01–S-76) e la loro decisione; dice in quale file sta ogni cosa; fissa le regole di scrittura e raccoglie i punti che l'autore deve ancora decidere. Chiude con il glossario. Chi legge un altro file e trova un codice o un'etichetta che non capisce, viene qui.
+
 Regole comuni a tutti i file di `metodo/` e `applicazioni/`. Le decisioni dell'autore stanno in `DECISIONI.md` (44 schede, decise il 4 ottobre 2026) e in sintesi in `ricerca/decisioni-log.md`. Questo file le traduce in regole di scrittura: non prende decisioni nuove.
 
 **Per chi scrive un file del metodo**

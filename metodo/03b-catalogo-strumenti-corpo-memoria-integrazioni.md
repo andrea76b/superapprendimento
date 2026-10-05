@@ -1,5 +1,7 @@
 # Catalogo degli strumenti, parte 2: corpo, memoria, integrazioni
 
+**In breve.** Questo file contiene le schede degli strumenti che lavorano sul corpo e sulla memoria. §A raccoglie le pratiche corporee prese dalle fonti (camminata a otto, Tecnica Alexander, TPR, prova mentale); §B le tecniche di memoria (mappe, palazzo della memoria, istruzione inversa); §C le undici integrazioni dalla ricerca attuale approvate dall'autore, da usare soprattutto nelle elaborazioni. Ogni scheda ha etichette, procedura con i tempi, un esempio di tango e uno di Liu Zi Jue, spiegazione, riquadro delle fonti dove serve, precauzioni. In classe si leggono agli allievi solo "Scopo", "Procedura" ed "Esempio"; etichette, righe e riferimenti servono al docente e a chi controlla.
+
 Schede degli strumenti S-35–S-52. Schema della scheda ed etichette: 00 §1-§2. Fasi del ciclo: 02 §1. Procedure di sicurezza (SIC): 06 §2. Le righe "r. NNNN" sono di Lozanov 2005.
 
 Lozanov non tratta l'apprendimento motorio (modello §9): molti strumenti di questo file sono "Non trattati da Lozanov". Quando un principio del canone è affine, la scheda lo indica con 🟦 e la riga. Le tecniche di D-29 (TPR, teatro e mimo, canzoni, mappe e palazzo della memoria, istruzione inversa) hanno esempi concreti di tango e di Liu Zi Jue, come ha chiesto l'autore; teatro e mimo (S-21) e filastrocche (S-34) sono in 03a.
@@ -188,7 +190,7 @@ Componente con decisione diversa (00 §2, regola delle componenti): i pastelli p
 
 Origine: fonti. Non trattato da Lozanov · Decisione: D-29, nel metodo · Fase del ciclo: elaborazione, fuori aula · Sicurezza: SIC-07
 
-**Scopo.** Ricordare una sequenza collocandone gli elementi, in ordine, in luoghi conosciuti.
+**Scopo.** Ricordare una sequenza collocandone gli elementi, in ordine, in luoghi conosciuti. È il "metodo dei loci" degli antichi oratori: si immagina di passare per le stanze di una casa e in ogni stanza si trova la cosa da ricordare.
 
 **Procedura** (come nella fonte; SL1-A T20, r. 229-235): le nozioni si fissano in luoghi fisici familiari, come le stanze dell'infanzia, con "statue mentali disarmoniche" in posizioni prestabilite. La fonte non dà tempi; proposta:
 1. Scegliere un percorso con luoghi in un ordine fisso (2 min).
@@ -249,7 +251,7 @@ Origine: fonti · Decisione: D-29, nel metodo · Fase del ciclo: introduzione, e
 
 ## §C Integrazioni dalla ricerca
 
-Pratiche proposte dalla ricerca attuale e approvate dall'autore (`DECISIONI.md`, blocco H). Alcuni riferimenti sono fuori dai file di verifica: sono segnati come tali (00 §5.5).
+Pratiche proposte dalla ricerca attuale e approvate dall'autore (`DECISIONI.md`, blocco H). Non vengono né da Lozanov né dalle fonti del Superlearning: per questo non hanno un'etichetta d'origine e cominciano, quando c'è, dal principio del canone a cui somigliano. Sono gli strumenti con le prove migliori di tutto il metodo. Alcuni riferimenti sono fuori dai file di verifica: sono segnati come tali (00 §5.5).
 
 ### S-42 Distanziamento e richiamo attivo
 
@@ -407,7 +409,7 @@ Origine: INT-06; comprende la "Danza dei canali semicircolari" delle fonti (MAN 
 
 Origine: INT-07; traduzione operativa della cornice D-31 (01 §3) · Decisione: INT-07, approvata · Fase del ciclo: tutte · Sicurezza: SIC-03, SIC-04, SIC-05, SIC-06, SIC-07
 
-**Scopo.** Progettare lezione e sala perché nessuno si senta minacciato fisicamente, socialmente o nel contatto, senza togliere la sfida. È un principio di progettazione, non una terapia.
+**Scopo.** Progettare lezione e sala perché nessuno si senta minacciato fisicamente, socialmente o nel contatto, senza togliere la sfida. È un principio di progettazione, non una terapia. È anche il punto in cui il secondo fondamento del metodo, il predictive coding (01 §3), diventa uno strumento concreto: un corpo che non prevede pericoli ha risorse libere per imparare.
 
 **Procedura** (verifica prima di ogni corso e di ogni lezione).
 1. **Fisica:** pavimento, spazio, calzature, luce, nessun ostacolo (SIC-07) (5 min prima della lezione).
@@ -519,7 +521,7 @@ Origine: INT-11 · Decisione: INT-11, approvata · Fase del ciclo: elaborazione,
 
 **Esempio Liu Zi Jue.** Breve quiete in piedi tra le ripetizioni di una forma; la chiusura tradizionale (shou shi) ha già questa funzione.
 
-**Spiegazione.** Nell'apprendimento di sequenze motorie brevi pause, intorno ai 10 secondi, tra i blocchi di pratica producono rapidi guadagni "offline", con riattivazione neurale durante la pausa (Bönstrup et al. 2019, *Curr Biol* 29:1346-1351; Buch et al. 2021, *Cell Rep* 35:109193). Una breve pausa tranquilla dopo lo studio migliora il ricordo rispetto a un compito che interferisce (Dewar et al. 2012, *Psychol Sci* 23:955-960). È il nocciolo sensato dei cicli di 4 + 4 secondi delle fonti (S-73, modulo sperimentale). La giornata canonica senza concerto alterna i ritmi e prevede una pausa (r. 4422-4435).
+**Spiegazione.** Nell'apprendimento di sequenze motorie brevi pause, intorno ai 10 secondi, tra i blocchi di pratica producono rapidi guadagni "offline", cioè miglioramenti che compaiono durante la pausa, senza praticare: in quei secondi il cervello riattiva la sequenza appena eseguita (Bönstrup et al. 2019, *Curr Biol* 29:1346-1351; Buch et al. 2021, *Cell Rep* 35:109193). Una breve pausa tranquilla dopo lo studio migliora il ricordo rispetto a un compito che interferisce (Dewar et al. 2012, *Psychol Sci* 23:955-960). È il nocciolo sensato dei cicli di 4 + 4 secondi delle fonti (S-73, modulo sperimentale). La giornata canonica senza concerto alterna i ritmi e prevede una pausa (r. 4422-4435).
 
 **Precauzioni.** Nessun ritmo fisso e monotono di esecuzione e pausa, che il canone considera induzione (r. 1830-1832; S-60).
 

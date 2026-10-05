@@ -1,6 +1,8 @@
 # Modulo sperimentale
 
-Questo file raccoglie gli elementi che l'autore ha voluto offrire solo nel modulo sperimentale (S-61–S-76) e, in fondo, l'elenco degli elementi fuori dal metodo. Schema della scheda ed etichette: 00 §1-§2. Le righe "r. NNNN" sono di Lozanov 2005.
+**In breve.** Qui stanno le sedici pratiche delle fonti che l'autore non ha voluto nella lezione ma non ha voluto nemmeno escludere: si offrono a parte, fuori dalla lezione, a chi le chiede, dichiarando che non fanno parte del metodo di Lozanov e con le precauzioni di ogni scheda. Tre hanno limiti stretti: gli integratori sono solo informazione con rinvio al medico, l'elettrostimolazione solo su indicazione medica, il lavoro sui ricordi traumatici solo con un professionista della salute mentale presente. In fondo c'è l'elenco dei tre elementi che restano fuori dal metodo. Serve al docente per rispondere a chi chiede "e i battiti binaurali?" senza improvvisare.
+
+Schede S-61–S-76. Schema della scheda ed etichette: 00 §1-§2. Le righe "r. NNNN" sono di Lozanov 2005.
 
 **Indice**
 1. Regole del modulo
@@ -54,7 +56,7 @@ Origine: fonti · Decisione: D-01, modulo sperimentale, **solo informativo, rinv
 | **Perossido di idrogeno e ozono per bocca** | ustioni gastrointestinali, embolia gassosa, ictus, morte; massimo rischio per i bambini e per chi diluisce il prodotto al 35% | **Grave: non assumere** |
 | **Germanio** | danno renale anche irreversibile, neuropatia, morte (almeno 31 casi di danno renale con decessi: Tao e Bolger 1997, *Regul Toxicol Pharmacol* 25:211-219) | **Grave: non assumere** |
 | Alghe AFA | tossine epatiche (microcistine in 85 campioni su 87: Gilroy et al. 2000, *Environ Health Perspect* 108:435-439); a rischio bambini, gravidanza, malattie epatiche | Alta |
-| DLPA | crisi ipertensiva; a rischio persone con fenilchetonuria, chi assume IMAO o selegilina, gravidanza | Alta |
+| DLPA | crisi ipertensiva; a rischio persone con fenilchetonuria, chi assume IMAO (una classe di antidepressivi) o selegilina, gravidanza | Alta |
 | Tirosina ad alte dosi | interazioni con IMAO, levodopa, ormoni tiroidei; ipertiroidismo | Media |
 | Ginkgo | sanguinamenti con anticoagulanti o antiaggreganti e prima di un intervento | Media |
 | Lecitina a dosi alte | disturbi gastrointestinali | Bassa-media |
@@ -434,7 +436,7 @@ Origine: fonti · Decisione: D-25, modulo sperimentale (l'esercizio motorio è S
 
 **Esempio Liu Zi Jue.** Lo stesso con la camminata a otto del riscaldamento.
 
-**Spiegazione.** L'Infinity Walk non è un test validato: mancano standardizzazione, valori di riferimento e studi di accuratezza. Etichettare una persona con una "disfunzione" senza esame clinico crea ansia ed effetto nocebo e può ritardare una valutazione vera se i sintomi sono reali (VNF D8).
+**Spiegazione.** L'Infinity Walk non è un test validato: mancano standardizzazione, valori di riferimento e studi di accuratezza. Etichettare una persona con una "disfunzione" senza esame clinico crea ansia e un effetto nocebo, cioè un malessere prodotto dall'aspettativa negativa, e può ritardare una valutazione vera se i sintomi sono reali (VNF D8).
 
 > **Cosa dicono le fonti** · 🟥 Speculativo (contraddetto)
 >

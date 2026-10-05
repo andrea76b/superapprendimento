@@ -1,5 +1,7 @@
 # Formazione insegnanti
 
+**In breve.** Questo file disegna il percorso per chi vuole insegnare con il metodo. Il principio è uno: si impara il metodo vivendolo da allievi prima di condurlo. Il percorso ha un corso intensivo di cinque giorni che è un ciclo completo, otto moduli tematici nei weekend, un tirocinio osservato con una griglia di diciotto voci e una valutazione senza voto numerico. Il file dice anche che cosa può stare in un manuale e che cosa si impara solo dal vivo, e come adattare il metodo a discipline diverse dal tango e dal Liu Zi Jue. Durate, ore e prove sono proposte da confermare con l'autore.
+
 Percorso per formare docenti del metodo nel tango, nel Liu Zi Jue e in altre discipline (sigla AF). Il file non contiene schede nuove: usa gli strumenti di `metodo/` con il loro ID e le loro etichette (`metodo/00-convenzioni.md` §4.2). Le condizioni del docente, le 14 competenze e la formazione nel canone sono trattate in `metodo/05-il-docente.md` (05 §1, §7, §8); il predictive coding in `metodo/01-fondamenti-e-principi.md` §3, che questo file riprende senza riscriverlo.
 
 Le decisioni sono quelle di `DECISIONI.md`. Che cosa stia nel manuale scritto e che cosa resti alla formazione pratica è una domanda aperta (`DECISIONI.md` §7, domanda 17; 00 §6.1, punto 17): durata, moduli, ore, tirocinio e valutazione di questo file sono **Proposta, da confermare con l'autore**.

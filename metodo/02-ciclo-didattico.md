@@ -1,6 +1,8 @@
 # Ciclo didattico
 
-Questo file descrive il ciclo della lezione ricostruito sul canone di Lozanov (D-33), gli strumenti di regia (S-08–S-14) e i tre formati decisi dall'autore, con le scalette. Etichette e schema delle schede: 00 §1-§2. Gli strumenti citati con l'ID hanno la scheda in 03a, 03b o 04; le procedure di sicurezza (SIC) sono in 06.
+**In breve.** Questo file dice come è fatta una lezione e come si incastrano le lezioni di un corso. Il cuore è il ciclo di Lozanov in quattro fasi: introduzione, concerti, elaborazione, performance (D-33). Davanti al ciclo il metodo mette una fase di preparazione facoltativa, dove stanno le pratiche delle fonti volute dall'autore. Il file contiene le schede delle fasi (S-01–S-07) e degli strumenti di regia (S-08–S-14), poi le scalette minuto per minuto per i tre formati: lezione settimanale, workshop intensivo, corso universitario. Serve al docente per costruire un ciclo di quattro lezioni senza dover rileggere il libro di Lozanov.
+
+Etichette e schema delle schede: 00 §1-§2. Gli strumenti citati con l'ID hanno la scheda in 03a, 03b o 04; le procedure di sicurezza (SIC) sono in 06. I riquadri "Come spiegarlo agli allievi" danno la versione parlata, da usare in classe così com'è.
 
 **Indice**
 1. Il ciclo
@@ -13,7 +15,9 @@ Questo file descrive il ciclo della lezione ricostruito sul canone di Lozanov (D
 
 ## 1. Il ciclo
 
-Il ciclo canonico ha quattro fasi: "introduction, concert sessions, elaboration and performance from the students" (Lozanov 2005, r. 3932-3935). Il metodo aggiunge una fase di preparazione, facoltativa e dichiarata non canonica, dove stanno le pratiche delle fonti che l'autore ha voluto nel metodo.
+Una lezione del metodo non è una sequenza di esercizi. È un pezzo di un ciclo che dura più incontri. Il ciclo canonico ha quattro fasi: "introduction, concert sessions, elaboration and performance from the students" (Lozanov 2005, r. 3932-3935). In parole semplici: prima si vede tutto il materiale nuovo dentro un gioco (introduzione); poi lo si ascolta e lo si guarda su musica classica, senza sforzo (concerti); nelle lezioni seguenti lo si lavora con giochi, canti e variazioni (elaborazione); alla fine lo si mostra agli altri, in festa (performance). Il metodo aggiunge davanti una fase di preparazione, facoltativa e dichiarata non canonica, dove stanno le pratiche delle fonti che l'autore ha voluto nel metodo.
+
+> **Come spiegarlo agli allievi.** "Non impariamo una figura per sera. Lavoriamo a cicli di quattro incontri. Il primo è come andare al cinema: vedete tutto il film della scena nuova, ballato da noi su Mozart, e non dovete ricordare niente. Nei due incontri dopo lo giriamo noi, pezzo per pezzo, giocando. Al quarto c'è la milonga del film. Nel Qigong è uguale: prima vedete tutta la sequenza, poi la provate, poi la mostrate alla giornata aperta."
 
 | Fase | Origine | Che cosa succede | Strumenti | Etichette della fase |
 |---|---|---|---|---|
@@ -34,7 +38,7 @@ Nelle lezioni settimanali la distanza di un giorno tra concerto ed elaborazione 
 
 ### 1.1 La fase di preparazione
 
-La preparazione non è canonica. Nel canone la calma è un effetto dell'organizzazione della lezione, non una procedura: "relaxation in its own right cannot produce hypermnesia" (r. 2093; anche r. 2085-2087). L'autore ha deciso di tenere nel metodo, "come nelle fonti", alcune pratiche di stato che Lozanov esclude (D-05, D-08, D-10, D-15). Stanno qui, all'inizio della lezione e prima dell'introduzione, con queste regole:
+La preparazione non è canonica. Nel canone la calma è un effetto dell'organizzazione della lezione, non una procedura: "relaxation in its own right cannot produce hypermnesia" (r. 2093; anche r. 2085-2087). L'autore ha però deciso di tenere nel metodo, "come nelle fonti", alcune pratiche di stato che Lozanov esclude: respirazioni con apnea, rilassamento progressivo, visualizzazioni guidate, Image Streaming, ancoraggi (D-05, D-08, D-10, D-15). "Pratiche di stato" vuol dire: esercizi fatti per cambiare lo stato di chi li fa (più calmo, più attento), non per imparare un contenuto. Collocarle in una fase di preparazione, all'inizio della lezione e prima dell'introduzione, è la scelta dei redattori per non mescolarle al ciclo canonico: **Proposta, da confermare con l'autore**. Le regole:
 
 1. **Durata breve.** La preparazione occupa 7-15 minuti in una lezione di 120 minuti (Proposta, da confermare con l'autore).
 2. **Una pratica delle fonti per volta**, scelta dal docente a rotazione tra S-22, S-23, S-24, S-25 (S-25 sta meglio nelle elaborazioni), S-26, sempre proposta come offerta. Chi non vuole fa la routine personale (S-46) o resta in ascolto.
@@ -70,7 +74,7 @@ Durate canoniche: circa 50 minuti nella prima lezione, non più di 20 nelle succ
 
 **Spiegazione.** Per Lozanov l'introduzione "is not only an introduction to the lesson but is an introduction to the session": porta al concerto senza interruzioni e il concerto prepara l'elaborazione (r. 4004-4014). Il docente non sta più "su un palco" ma "on the same plane as the student", come "a very good, knowledgeable friend" (r. 3958-3965). I file di verifica non hanno studi specifici sulla fase; gioco e ruolo hanno prove indirette (S-15, S-16).
 
-**Precauzioni.** Nessuna domanda individuale obbligata; identità facoltative (S-16); contatto nell'abrazo solo con consenso e partner scelto (SIC-04); nel Qigong niente costumi o formule "orientali" che urtino la barriera critico-logica o etica (r. 2802-2845).
+**Precauzioni.** Nessuna domanda individuale obbligata; identità facoltative (S-16); contatto nell'abrazo solo con consenso e partner scelto (SIC-04); nel Qigong niente costumi o formule "orientali" che urtino la barriera critico-logica o etica, cioè le difese naturali di chi pensa "non ci credo" o "non è il mio posto" (r. 2802-2845).
 
 **Collegamenti.** S-15, S-16, S-02–S-05, S-41.
 
@@ -93,6 +97,8 @@ Origine: canone, modello §5.5 · Decisione: Canone · Fase del ciclo: concerto 
 
 **Il concerto attivo nei corsi corporei.** Nel canone il concerto è la lettura di un testo verbale. Per l'esecuzione corporea l'autore ha deciso due forme: concerto dimostrato (S-04) e concerto in movimento come nelle fonti (S-05). La forma canonica S-02 resta per il corso universitario e la formazione insegnanti, dove il materiale è un testo, e nei corsi corporei per il **libretto**: la scheda illustrata della sequenza (modello §9.3). Che cosa sia il "testo" del concerto nel tango e nel Qigong è ancora una domanda aperta (00 §6.1, punto 7). **Proposta, da confermare con l'autore:** il libretto contiene il racconto della scena del gioco-progetto, i nomi delle figure o delle forme con la traduzione, una o due frasi d'immagine per figura e, nel tango, la letra della canzone del ciclo.
 
+> **Come spiegarlo agli allievi.** "Adesso c'è il concerto. Vi sedete, avete il libretto della scena, parte Mozart. Noi balliamo tutta la sequenza e io dico i nomi delle figure. Voi non dovete imparare niente: guardate e ascoltate la musica, come a teatro. Quello che serve resta da solo, e lo ritroviamo la settimana prossima."
+
 **Esempio tango.** Libretto del ciclo: la scena "il primo ballo di Rosa al club", con i nomi delle figure in spagnolo e in italiano e la letra della canzone d'apertura. Musica: Mozart, Sinfonia "Haffner" K 385 (sessione 3 del programma, circa 17 minuti). Gli allievi seduti con il libretto; due volte si alzano e leggono in coro con il docente i nomi della sequenza ("caminata, cadencia, ocho atrás, giro, molinete, sacada, pausa").
 
 **Esempio Liu Zi Jue.** Libretto: i sei suoni con carattere, pinyin, forma della bocca e movimento delle braccia, e la breve storia della sequenza. Musica: Haydn, Sinfonia n. 94 in sol maggiore (sessione 4, circa 27 minuti). Due volte gli allievi si alzano e pronunciano in coro con il docente i nomi delle forme.
@@ -109,7 +115,7 @@ Origine: canone, modello §5.5 · Decisione: Canone · Fase del ciclo: concerto 
 
 Origine: canone, modello §5.6 · Decisione: Canone; musica dal programma ufficiale, cap. 31 (nota D-18) · Fase del ciclo: concerto · Sicurezza: SIC-07
 
-**Scopo.** Ripresentare lo stesso materiale in forma colloquiale su un'opera pre-classica intera, mentre gli allievi ascoltano in uno stato di "pseudo-passività": "a calm and relaxed, undisturbed and controlled activity" (r. 2291-2295).
+**Scopo.** Ripresentare lo stesso materiale in forma colloquiale su un'opera pre-classica intera, mentre gli allievi ascoltano in uno stato di "pseudo-passività". La parola indica chi sta fermo ma è sveglio e attento, come a un concerto: "a calm and relaxed, undisturbed and controlled activity" (r. 2291-2295). Non è rilassamento guidato e non è sonno.
 
 **Procedura** (canone).
 1. Nella breve pausa dopo il concerto attivo, senza attirare l'attenzione, il docente appende un'immagine di natura che "eleva", per esempio vette e cielo azzurro (r. 4100-4115) (1 min).
@@ -209,7 +215,7 @@ Origine: canone, modello §5.8 · Decisione: Canone · Fase del ciclo: elaborazi
 6. Ballo libero su una tanda nuova (S-44) (10 min).
 7. Canzone di chiusura (3 min).
 
-**Procedura nel corpo: elaborazione secondaria** (blocco di 70-80 min).
+**Procedura nel corpo: elaborazione secondaria** (blocco di 65-75 min).
 1. Canzone d'apertura (3 min).
 2. Variazioni: lo stesso materiale su orchestre, tempi, direzioni e partner diversi (S-44) (15 min).
 3. "Testo nuovo": il docente mostra una combinazione nuova che riassume il materiale del ciclo (S-41 se la mostra prima intera e poi la scompone) (10 min).
@@ -223,6 +229,8 @@ Origine: canone, modello §5.8 · Decisione: Canone · Fase del ciclo: elaborazi
 **Esempio Liu Zi Jue.** Primaria: il gruppo prova a eseguire l'apertura e Xu senza guardare il docente, poi il docente le mostra; i sei suoni pronunciati in coro con la forma della bocca (S-50); gioco "lo specchio": a coppie, uno esegue He al rallentatore e l'altro lo segue. Secondaria: Hu eseguito verso direzioni diverse della sala e a velocità diverse (S-44); a piccoli gruppi si prepara la presentazione di un suono per la dimostrazione finale.
 
 **Spiegazione.** L'elaborazione è il luogo in cui il ciclo canonico distribuisce il materiale nel tempo e lo fa richiamare: è il punto del canone con più prove indirette (distanziamento e richiamo, VPS §8 e §9). Lozanov la chiude e la apre con una canzone e ne regola il ritmo con l'alternanza dei tempi (S-10).
+
+> **Come spiegarlo agli allievi.** "Oggi non vi mostro niente di nuovo. Prima provate voi a ricostruire la scena della settimana scorsa, a coppie, in musica: quello che torna da solo è vostro. Poi la balliamo tutti insieme e io dico i nomi. Poi giochiamo sui dettagli, pochi secondi per volta, e torniamo subito a ballare. Nel Qigong: prima provate Xu senza guardarmi, poi lo facciamo in coro, poi trenta secondi sulla bocca e di nuovo tutto Xu."
 
 **Precauzioni.** Nessuna domanda individuale obbligata (r. 3971, 4007-4008); correzione indiretta (S-59), salvo gli errori pericolosi (SIC-06); scambio dei ruoli solo volontario (SIC-04).
 
@@ -249,6 +257,8 @@ Origine: canone · Decisione: Canone · Fase del ciclo: performance · Sicurezza
 
 **Spiegazione.** Lozanov separa la performance dall'elaborazione "because it assumes an increasing importance for the independence and self-confidence of the students" (r. 3958-3965). Richiamare e produrre ciò che si è appreso consolida la memoria più del ripasso passivo (Adesope et al. 2017, *Rev Educ Res* 87:659-701; VPS C3).
 
+> **Come spiegarlo agli allievi.** "Stasera non è una lezione, è la milonga del film. Nessuno vi corregge. Ballate quello che sapete, con chi volete, e se vi va mostrate la vostra scena. È il momento in cui vi accorgete di quanto avete imparato. Nel Qigong: oggi la sequenza la fate voi, senza di me davanti, e poi la mostrate agli ospiti."
+
 **Precauzioni.** Partecipazione volontaria e non giudicante: nessuno balla o esegue da solo se non vuole; nessun voto. L'ansia da esibizione è il rischio principale (VPS C3).
 
 **Collegamenti.** S-11, S-16, S-21, S-42, S-51.
@@ -256,6 +266,8 @@ Origine: canone · Decisione: Canone · Fase del ciclo: performance · Sicurezza
 ---
 
 ## 3. Regia della lezione
+
+Gli strumenti di questa sezione non sono fasi: sono regole che il docente applica in ogni fase. Dicono come dosare tutto e parti, che cosa chiedere di eseguire e che cosa lasciare solo riconoscere, come alternare i ritmi, come verificare senza esaminare, che cosa lasciare fare a casa, come leggere la fatica.
 
 ### S-08 Struttura globale-parziale e dettagli sul secondo piano
 
@@ -275,7 +287,9 @@ Origine: canone · Decisione: Canone · Fase del ciclo: tutte
 
 **Esempio Liu Zi Jue.** Xu intero, sei ripetizioni; poi 30 secondi sulla bocca (angoli tirati leggermente indietro, piccola fessura tra i denti); poi di nuovo Xu intero, seguito da He.
 
-**Spiegazione.** Il secondo principio chiede "the part in the global and the global in the part" (r. 2932-2933); non è il metodo per parti né l'olismo, che "has no structure" (r. 2995-3077). È anche il secondo fattore indispensabile (r. 5846-5847). Non ci sono studi specifici nei file di verifica; il principio è coerente con il focus esterno e con il rifiuto dei dettagli isolati da ricostruire dopo (S-43, S-44).
+**Spiegazione.** Il secondo principio chiede "the part in the global and the global in the part" (r. 2932-2933); non è il metodo per parti né l'olismo, che "has no structure" (r. 2995-3077). È anche il secondo fattore indispensabile (r. 5846-5847). "Dettagli sul secondo piano" vuol dire che il docente nomina un dettaglio di passaggio, senza fermarci l'attenzione del gruppo. Non ci sono studi specifici nei file di verifica; il principio è coerente con il focus esterno e con il rifiuto dei dettagli isolati da ricostruire dopo (S-43, S-44).
+
+> **Come spiegarlo agli allievi.** "Il giro intero prima, anche storto. Poi un solo dettaglio, per mezzo minuto: il piede che disegna l'arco. Poi di nuovo il giro intero, dentro la musica. Il dettaglio da solo non serve a niente; serve dentro il ballo."
 
 **Precauzioni.** Nessuna.
 
@@ -301,6 +315,8 @@ Origine: canone · Decisione: Canone · Fase del ciclo: concerto, elaborazione
 
 **Spiegazione.** La memoria di riconoscimento dura più di quella di richiamo e ciò che sembra dimenticato si reimpara più in fretta (Bahrick 1984; VPS T8, R-T8).
 
+> **Come spiegarlo agli allievi.** "Non tutto quello che vedete oggi dovete saperlo fare oggi. La sacada per ora la ricevete e la riconoscete quando arriva: è già imparare. Farla da guida viene dopo, e verrà più facile proprio perché l'avete già sentita."
+
 **Precauzioni.** Nessuna.
 
 **Collegamenti.** S-08, S-19, S-42.
@@ -323,7 +339,9 @@ Origine: canone · Decisione: Canone · Fase del ciclo: tutte
 
 **Esempio Liu Zi Jue.** Veloce: gioco di riconoscimento dei suoni e camminate a otto (S-35); moderato: He e Hu; lento: Si e quiete in piedi; pausa; veloce: piccoli gruppi che si insegnano un suono.
 
-**Spiegazione.** Il criterio pratico (alternare ed evitare monotonia e iperattività) è un buon criterio di regia. Il numero 0,618 è un criterio estetico di Lozanov: nessuno studio collega la sezione aurea dei tempi alla memoria (VPS T11, R-T11).
+**Spiegazione.** Il criterio pratico (alternare ed evitare monotonia e iperattività) è un buon criterio di regia. La "sezione aurea" è un rapporto di circa 0,618, cioè poco più di tre quinti: Lozanov lo usa come criterio estetico per dosare le durate, non come legge della memoria. Nessuno studio collega la sezione aurea dei tempi alla memoria (VPS T11, R-T11).
+
+> **Come spiegarlo agli allievi.** "La lezione va come una tanda: un brano veloce, uno medio, uno lento, e poi la cortina, cioè una pausa vera. Se è tutto veloce ci stanchiamo; se è tutto lento ci addormentiamo."
 
 > **Cosa dicono le fonti** · 🟥 Speculativo (contraddetto)
 >
@@ -351,7 +369,7 @@ Origine: canone · Decisione: Canone · Fase del ciclo: performance
 
 **Esempio Liu Zi Jue.** Il gruppo esegue in coro l'apertura e i primi tre suoni senza il docente; il docente osserva direzione, ordine e forma della bocca.
 
-**Spiegazione.** È una regola di insegnamento per padronanza, che ha effetti positivi in meta-analisi, di solito con soglie dell'80-90% (Kulik et al. 1990, da ricontrollare; VPS C5).
+**Spiegazione.** È una regola di insegnamento per padronanza: si passa al materiale successivo solo quando la maggior parte del gruppo padroneggia quello attuale. Questo modo di procedere ha effetti positivi in meta-analisi, di solito con soglie dell'80-90% (Kulik et al. 1990, da ricontrollare; VPS C5).
 
 **Precauzioni.** La verifica non diventa interrogazione individuale (r. 3971, 4007-4008).
 
@@ -459,8 +477,8 @@ Un ciclo copre una unità di materiale in quattro lezioni. Nel tango l'esempio u
 | 12-17 | 0 | Una pratica delle fonti, facoltativa (S-22 solo con SIC-01, oppure S-23, S-36) | pausa di inibizione prima del primo passo (S-36) | Scan and Relax in piedi (S-23) |
 | 17-50 | 1 | Introduzione (S-01): gioco-progetto, identità, presentazione globale, giochi | il film della milonga; sequenza ballata su D'Arienzo e Di Sarli | dimostrazione della giornata aperta; sequenza completa con musica HQA |
 | 50-57 | — | Pausa | | |
-| 57-82 | 2 | Concerto attivo: forma A (S-04) o forma C (S-05), con un tratto di conteggio a ruoli alternati (S-32) | Mozart, Sinfonia n. 29 K 201 | Mozart, Sinfonia "Praga" K 504 |
-| 82-97 | 2 | Concerto passivo (S-03) | Bach, Fantasia BWV 572 (e BWV 562 se c'è tempo) | Bach, Fantasia BWV 572 |
+| 57-82 | 2 | Concerto attivo: forma A (S-04) o forma C (S-05), con un tratto di conteggio a ruoli alternati (S-32) | Mozart, Sinfonia n. 29 K 201 (sessione 1) | Mozart, Sinfonia "Praga" K 504 (sessione 3) |
+| 82-97 | 2 | Concerto passivo (S-03), con l'opera n. 2 della stessa sessione | Bach, Fantasia BWV 572 (e BWV 562 se c'è tempo) | Händel, Concerto per organo op. 7 n. 6 |
 | 97-110 | — | Pausa tranquilla: ascolto senza consegne (S-52, S-19) | una tanda di Di Sarli ascoltata seduti | quiete in piedi o seduti, a scelta |
 | 110-120 | 1 | Canzone di chiusura; indicazione del materiale facoltativo (S-33, S-12) | la canzone d'apertura | i sei suoni in coro |
 
@@ -506,6 +524,8 @@ Un ciclo copre una unità di materiale in quattro lezioni. Nel tango l'esempio u
 | 48-100 | 4 | Produzione libera nel gioco-progetto (S-07) | la milonga del film, con cabeceo e cortine | la pratica del parco, con musica HQA |
 | 100-110 | 4 | Scala breve anonima di fatica e gradimento (S-51, S-14), facoltativa | | |
 | 110-120 | 4 | Festa e canzone di chiusura del ciclo | | |
+
+Nota sulla musica. In ogni concerto l'opera dell'attivo e quella del passivo vengono dalla stessa sessione del programma (04 §2). Nel tango gli esempi seguono l'ordine delle sessioni (ciclo 1 = sessione 1); nel Liu Zi Jue gli esempi usano le sessioni 3 e 4, che hanno opere più brevi. Quale regola adottare per l'ordine delle sessioni è **Proposta, da confermare con l'autore** (04 §2.2).
 
 **Versione di 90 minuti.** Si tagliano proporzionalmente le parti lente, mai le canzoni e i concerti. Lezione 1: preparazione 8 min (senza pratica delle fonti), introduzione 25, pausa 5, concerto attivo con un'opera breve (Mozart, "Haffner" K 385, circa 17 min), passivo 10 min, chiusura 5 min. Lezioni 2-3: si toglie il blocco di teatro o di memoria e si alterna tra le settimane. Lezione 4: milonga o pratica libera di 35 minuti.
 

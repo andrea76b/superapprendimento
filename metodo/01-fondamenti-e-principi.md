@@ -1,6 +1,8 @@
 # Fondamenti e principi
 
-Questo file spiega su che cosa si regge il metodo: il canone di Lozanov, tradotto per la didattica corporea, e la cornice del predictive coding e della metastabilità, che l'autore ha voluto come secondo fondamento (D-31). Le etichette seguono 00 §1: 🟦 Fonte classica, 🟨 Tradizione, 🟩 Evidenza, 🟥 Speculativo, 🟥 Non canonico. Le righe "r. NNNN" sono di Lozanov 2005 (`fonti/testo/Lozanov_2005_Suggestopaedia_Desuggestive_Teaching.txt`), come ricostruite in `ricerca/modello-canonico-lozanov.md`.
+**In breve.** Questo file dice su che cosa si regge il metodo. Il primo fondamento è il canone di Lozanov, cioè quello che il fondatore scrive nel suo libro del 2005, tradotto qui per chi insegna con il corpo. Il secondo è una cornice teorica attuale, il predictive coding (il cervello come macchina che prevede), che l'autore ha scelto per spiegare perché la sicurezza in sala conta (D-31). Il file dice anche che cosa il metodo non è, che cosa Lozanov esclude e come è nato il metodo. Serve al docente per rispondere alla domanda "perché facciamo così?" senza inventare spiegazioni.
+
+Le etichette seguono 00 §1: 🟦 Fonte classica, 🟨 Tradizione, 🟩 Evidenza, 🟥 Speculativo, 🟥 Non canonico. Le righe "r. NNNN" sono di Lozanov 2005 (`fonti/testo/Lozanov_2005_Suggestopaedia_Desuggestive_Teaching.txt`), come ricostruite in `ricerca/modello-canonico-lozanov.md`. I riquadri "Come spiegarlo agli allievi" danno una versione parlata dei concetti chiave, da usare in classe così com'è.
 
 **Indice**
 1. Che cos'è il Superapprendimento
@@ -27,8 +29,10 @@ Parametri decisi dall'autore: gruppi fino a 20 persone (10 coppie nel tango); tr
 
 ### 1.1 Due fondamenti
 
-1. **Il canone di Lozanov.** Ciò che il fondatore afferma nel libro del 2005, la sua ultima sintesi pubblicata (🟦). Dà al metodo la definizione, i principi, il ciclo della lezione, la figura del docente e l'elenco di ciò che va escluso.
-2. **Il predictive coding e la metastabilità** (Kotler, Mannino, Fox, Friston 2026 e la letteratura collegata). È un'ipotesi teorica (🟩 Evidenza parziale per i riferimenti e il nucleo cognitivo · 🟥 Speculativo, non verificato, per il meccanismo). Dà un linguaggio attuale per spiegare perché sicurezza, assenza di pressione e sfida dosata contano in aula. Non è una terapia e non promette nulla sul trauma (§3).
+1. **Il canone di Lozanov.** "Canone" vuol dire: ciò che il fondatore afferma nel suo libro del 2005, la sua ultima sintesi pubblicata (🟦). Da qui vengono la definizione del metodo, i principi, il ciclo della lezione, la figura del docente e l'elenco di ciò che va escluso.
+2. **Il predictive coding e la metastabilità.** Sono due idee della ricerca sul cervello (Kotler, Mannino, Fox, Friston 2026 e la letteratura collegata). La prima dice che il cervello prevede di continuo ciò che sta per succedere e impara dagli errori di previsione. La seconda dice che un cervello che funziona bene passa con facilità da uno stato all'altro, senza fissarsi in uno. Il metodo le usa per spiegare perché sicurezza, assenza di pressione e sfida dosata contano in aula. Sono un'ipotesi teorica, non un fatto dimostrato (🟩 Evidenza parziale per i riferimenti e il nucleo cognitivo · 🟥 Speculativo, non verificato, per il meccanismo). Non sono una terapia e non promettono nulla sul trauma (§3).
+
+> **Come spiegarlo agli allievi.** "In questo corso impariamo in due modi insieme. Il primo viene da Lozanov: si impara meglio quando si è tranquilli, quando si gioca e quando nessuno ci mette alla prova. Il secondo viene dalla ricerca di oggi: il cervello impara dagli errori solo se non si sente in pericolo. Per questo qui non c'è mai una figura sbagliata: c'è una figura che il personaggio del film ha ballato a modo suo."
 
 ### 1.2 Un metodo unico, con etichette
 
@@ -55,7 +59,7 @@ Il termine canonico per la memoria superiore è **ipermnesia**, non "supermemori
 
 ## 2. Il canone di Lozanov tradotto per la didattica corporea
 
-Lozanov non tratta l'apprendimento motorio: nel libro il corpo è un veicolo per imparare contenuti verbali e concettuali, non l'oggetto dell'apprendimento (modello §9.1). Ogni traduzione per il tango e il Liu Zi Jue è quindi un'estensione. La colonna "Nel corpo" di questa sezione riporta l'estensione che il metodo adotta; dove la scelta non è dell'autore è segnata come proposta.
+Lozanov ha scritto per chi insegna le lingue. Nel suo libro il corpo serve a imparare parole e concetti; non è mai la cosa da imparare (modello §9.1). Nel tango e nel Liu Zi Jue, invece, il corpo è proprio ciò che si impara. Ogni passaggio dal canone alla didattica corporea è quindi un'estensione, cioè un'applicazione che Lozanov non ha previsto. Questa sezione presenta ogni punto del canone in tre passi: che cosa dice Lozanov, come si traduce nel corpo (colonna "Nel corpo"), con quali etichette. Dove la traduzione non è una scelta dell'autore, è segnata come proposta.
 
 ### 2.1 Definizione
 
@@ -71,22 +75,28 @@ Altre due definizioni servono a capire il resto: "a teaching system which makes 
 
 **Tesi del fondatore** · 🟦 **Fonte classica** (r. 575-582, 2745-2800) · 🟥 **Speculativo** (non verificato)
 
-- **Riserve.** Capacità "unmanifested but genetically predetermined", che operano "mainly in paraconsciousness" e si rivelano, non si creano (r. 575-578).
-- **Norma sociale suggestiva.** Una rete di limiti appresi sulle proprie capacità, sostenuta dalle fonti credibili che ci circondano (r. 2752-2800).
-- **Desuggestione.** Liberarsi dai limiti che la norma sociale suggerisce "as to our own capacities to absorb study material" (r. 2745-2747). Il prefisso è "de-", non "anti-": il metodo de-programma, non programma (r. 265-271, 1400-1406).
-- **Il canone non forza.** Lozanov cerca "an unprogrammed, unimposed, spontaneous release" (r. 315-316). Le barriere antisuggestive (emotiva, critico-logica, etica) "should not be stimulated" (r. 2842-2845).
+Quattro parole di Lozanov reggono tutto il resto. Qui sono spiegate in parole semplici, con la formula originale accanto.
 
-La ricerca conferma che aspettative e convinzioni, proprie e dei docenti, influenzano la prestazione, con effetti di solito piccoli; la memoria di lavoro ha limiti reali che nessuna convinzione abolisce (VPS T1, R-T1). 🟩 **Evidenza parziale** per il ruolo delle aspettative. Nessuna percentuale sul "potenziale usato" ha base (VNF F2).
+- **Riserve.** Per Lozanov ognuno ha capacità di memoria e di apprendimento molto più grandi di quelle che usa. Sono "unmanifested but genetically predetermined" e si rivelano, non si creano (r. 575-578). Lavorano soprattutto nel **paraconscio**, cioè in tutto ciò che in un dato momento sta fuori dalla nostra attenzione: la musica di sottofondo mentre si parla, il pavimento sotto i piedi mentre si guarda il partner (r. 2195-2227).
+- **Norma sociale suggestiva.** È la rete di convinzioni sui propri limiti che ci viene dall'ambiente: "a scuola ero una frana", "la memoria peggiora con l'età". La sostengono le persone credibili che ci circondano, senza che nessuno la dichiari (r. 2752-2800).
+- **Desuggestione.** È il lavoro del metodo: liberare dai limiti che la norma sociale suggerisce "as to our own capacities to absorb study material" (r. 2745-2747). Il prefisso è "de-", non "anti-": il metodo toglie un programma, non ne mette un altro (r. 265-271, 1400-1406).
+- **Il canone non forza.** Lozanov cerca "an unprogrammed, unimposed, spontaneous release" (r. 315-316). Ognuno ha delle difese naturali contro ciò che gli viene imposto, le **barriere antisuggestive**: una emotiva ("non mi fido"), una critico-logica ("non ci credo"), una etica ("non è giusto"). Non si forzano: "should not be stimulated" (r. 2842-2845).
 
-**Nel corpo.** La norma limitante si sente nelle frasi degli allievi: "il tango non fa per me", "io non so seguire", "non riesco a stare fermo in quiete". Il metodo non la contesta a parole: crea esperienze in cui l'allievo si trova a fare ciò che pensava di non saper fare, dentro un gioco (S-15, S-16), con il materiale presentato intero (S-08) e senza giudizio (S-59).
+Che cosa dice la ricerca. Le aspettative e le convinzioni, proprie e dei docenti, influenzano davvero la prestazione, ma con effetti di solito piccoli. La memoria di lavoro ha limiti reali che nessuna convinzione abolisce (VPS T1, R-T1). Nessuna percentuale sul "potenziale usato" ha una base (VNF F2). 🟩 **Evidenza parziale** per il ruolo delle aspettative.
+
+**Nel corpo.** La norma limitante si sente nelle frasi degli allievi: "il tango non fa per me", "io non so seguire", "non riesco a stare fermo in quiete". Il metodo non la contesta a parole. Crea esperienze in cui l'allievo si trova a fare ciò che pensava di non saper fare: dentro un gioco (S-15, S-16), con il materiale presentato intero (S-08), senza giudizio (S-59).
+
+> **Come spiegarlo agli allievi.** "Ognuno di noi arriva qui con una frase in testa: 'io non ho ritmo', 'io sono rigido'. Nessuno gliel'ha insegnata, eppure ce l'ha. Il mio lavoro non è convincervi del contrario. È farvi ballare una frase intera di Di Sarli prima che quella voce abbia il tempo di parlare. Poi guardiamo insieme che cosa è successo."
 
 ### 2.3 Il tipo di comunicazione
 
 🟦 **Fonte classica** (r. 1767-1785, 1774-1775)
 
-Lozanov distingue quattro tipi di comunicazione: libera; diretta non manipolativa; suggestione clinica; ipnosi (r. 1767-1785). Il metodo usa il secondo tipo, definito dalla formula "to suggest = to offer, to propose" (r. 1774-1775). La suggestione clinica "always has commanding functions" ed è esclusa dall'insegnamento (r. 392-401, 1634-1638); l'ipnosi "was explicitly rejected" (r. 1392).
+La parola "suggestione" nel metodo non ha nulla di misterioso. Lozanov distingue quattro tipi di comunicazione: libera; diretta ma non manipolativa; suggestione clinica; ipnosi (r. 1767-1785). Il metodo usa il secondo tipo. La sua formula è "to suggest = to offer, to propose": suggerire vuol dire offrire, proporre (r. 1774-1775). La suggestione clinica, quella del medico che dà comandi, "always has commanding functions" ed è esclusa dall'insegnamento (r. 392-401, 1634-1638). L'ipnosi "was explicitly rejected" (r. 1392).
 
 **Nel corpo.** Ogni indicazione è un'offerta: "chi vuole prova l'ocho con la pausa", non "adesso tutti ochos". La libertà di non seguire è una regola di sicurezza (SIC-03), non una cortesia. Le schede S-58 (comunicazione non direttiva) e S-60 (prevenzione dell'induzione) traducono questo punto in comportamenti.
+
+> **Come spiegarlo agli allievi.** "Qui nessuno riceve ordini. Io propongo, come si propone un ballo con lo sguardo: si può dire di no e si resta amici. Se qualcosa non vi va, vi sedete a bordo pista e nessuno vi chiede perché."
 
 ### 2.4 I tre fondamenti
 
@@ -102,13 +112,15 @@ Conseguenza che Lozanov ne trae: "linear teaching as well as the teaching of sma
 
 ### 2.5 I tre principi
 
-I principi sono inseparabili: "Each principle is an aspect of the other two" (r. 2941).
+Dai tre fondamenti Lozanov ricava tre principi pratici: come deve sentirsi il gruppo, come va costruito il materiale, come si comporta il docente. Sono inseparabili: "Each principle is an aspect of the other two" (r. 2941).
 
 | # | Principio | Definizione | Nel corpo | Strumenti | Etichette |
 |---|---|---|---|---|---|
 | P1 | Calma concentrativa gioiosa e spontanea | "Joyful and spontaneous concentrative calmness" (r. 2931): rilassamento "cheerful, genuine and highly stimulating", ottenuto con giochi, umorismo, materiali stimolanti (r. 2990-2993) | La calma nasce dall'organizzazione della lezione, non da una tecnica: risata, musica bella, un compito alla portata, nessuno esposto. Lozanov avverte che P1 da solo dà un apprendimento divertente che non libera (r. 2942-2952) | S-15, S-17, S-18, S-20, S-48 | 🟦 r. 2931 · 🟩 parziale (clima emotivo e ansia, VPS §8) |
 | P2 | Globalità dinamica, strutturata e gerarchica | "the part in the global and the global in the part" (r. 2932-2933); non è il metodo per parti né l'olismo, che "has no structure" (r. 2995-3077) | Si parte dal ballo intero, dalla forma intera; i dettagli (asse, peso, forma della bocca nei suoni) si richiamano per poco e si torna subito al tutto (r. 3129-3138) | S-08, S-09, S-41, S-43 | 🟦 r. 2932-2933 · 🟥 non verificato |
 | P3 | Set-up desuggestivo | Disposizione verso le riserve creata dal docente senza "even the faintest pressure or insistence"; l'aiuto del docente è "the extended hand of a friend" (r. 2934-2935, 3079-3091) | Il docente si aspetta davvero che l'allievo ce la faccia e non lo spinge. Quando aiuta, lo fa come un compagno di pista, non come un esaminatore | S-58, S-59; 05 §1 | 🟦 r. 3079-3091 · 🟥 non verificato |
+
+> **Come spiegarlo agli allievi** (il principio globale-parziale). "Non impariamo il tango un pezzo alla volta, come si monta un mobile. Prima balliamo tutta la frase, anche male. Poi guardiamo un dettaglio per mezzo minuto, il piede che disegna l'arco nel giro, e torniamo subito a ballare tutta la frase. Il dettaglio ha senso solo dentro il ballo intero. Nel Liu Zi Jue è lo stesso: prima la forma di Xu completa, poi trenta secondi sulla bocca, poi di nuovo Xu intero."
 
 ### 2.6 Le leggi
 
@@ -135,11 +147,15 @@ Lozanov usa la parola "laws" solo in pochi casi (modello §3.1). Statuto: **Tesi
 
 ### 2.8 I mezzi
 
-Lozanov organizza la teoria in tre triangoli concentrici: fondamenti, principi, mezzi (r. 3261-3262).
+Lozanov organizza la teoria in tre triangoli concentrici: fondamenti, principi, mezzi (r. 3261-3262). I mezzi sono gli strumenti concreti con cui i principi arrivano in sala. Tre termini della prima riga vanno chiariti subito:
+- **doppio piano**: in ogni comunicazione c'è un piano primario, le parole, e un piano secondario, tutto ciò che le accompagna (voce, gesti, sguardo, ambiente). Gli allievi assorbono anche il secondo piano, senza farci attenzione (r. 2279-2282);
+- **infantilizzazione**: la fiducia spontanea che si dà a una fonte credibile, come un bambino al genitore, ma "while retaining a critical attitude and self-control", cioè senza perdere il senso critico (r. 2289-2293);
+- **pseudo-passività**: lo stato di chi ascolta un concerto, calmo ma attento, "a calm and relaxed, undisturbed and controlled activity" (r. 2291-2295);
+- **percezioni periferiche** (seconda riga della tabella): ciò che sta ai margini dell'attenzione e che si assorbe comunque, come un poster alla parete o una coppia che balla in fondo alla sala. Sono stimoli normali, che si possono guardare o ignorare: non hanno nulla di subliminale (r. 2232-2264; S-19).
 
 | Gruppo | Mezzi | Righe | Nel corpo | Strumenti |
 |---|---|---|---|---|
-| Mezzi comunicativi non specifici | Doppio piano; intonazione e ritmo; credibilità e prestigio; infantilizzazione (fiducia "while retaining a critical attitude and self-control"); pseudo-passività | r. 2266-2296 | Ciò che il docente comunica con il corpo, la voce e il modo di stare in sala, oltre alle parole | S-30, S-57; 05 §3 |
+| Mezzi comunicativi non specifici | Doppio piano; intonazione e ritmo; credibilità e prestigio; infantilizzazione; pseudo-passività | r. 2266-2296 | Ciò che il docente comunica con il corpo, la voce e il modo di stare in sala, oltre alle parole | S-30, S-57; 05 §3 |
 | Mezzi psicologici | Organizzazione della comunicazione e delle percezioni periferiche, che devono "stimulate rather than to illustrate"; ambiente estetico ma moderato; stato del docente "animated, inspiring, calm and enjoying the work" | r. 3099-3115 | Sala curata, coppie esperte che ballano ai margini, il docente che pratica in un angolo durante il lavoro libero | S-19, S-20 |
 | Mezzi didattici | Materiale strutturato globale-parziale; volume da 2 a 10 volte; senso prima dei dettagli; dettagli "on a second plane" richiamati "only for a short time" | r. 3117-3138 | Unità ampie (una frase musicale intera, una forma intera); nessun esercizio ripetitivo di dettaglio da smontare dopo | S-08, S-09, S-44 |
 | Mezzi artistici | Arte didattica integrata, "the best vehicle for spontaneous 'clustering' of the memory material"; "specially selected art of the classical type"; "art is not simple entertainment" | r. 2923-2926, 3157-3171 | Musica classica nei concerti; musica di tango e canti nelle elaborazioni come cultura della disciplina (r. 4349-4352); teatro e mimo | S-02, S-03, S-21, S-33; 04 |
@@ -176,19 +192,25 @@ Il punto più delicato riguarda il Liu Zi Jue. Respiro, rilassamento attivo (son
 
 **Ipotesi teorica** · 🟩 **Evidenza parziale** per i riferimenti e il nucleo cognitivo (VNF H1, H6) · 🟥 **Speculativo** (non verificato) per il meccanismo della metastabilità e per il movimento come suo training (VNF H10)
 
-L'autore ha voluto questa cornice come fondamento centrale accanto a Lozanov (D-31). È stata registrata un'obiezione: il riferimento principale è un articolo d'opinione teorico del 2026. Per questo la cornice porta sempre lo statuto di ipotesi teorica e non contiene promesse terapeutiche.
+L'autore ha voluto questa cornice come fondamento centrale accanto a Lozanov (D-31). Va detto subito che cosa è: una spiegazione teorica, non un fatto dimostrato. Il riferimento principale è un articolo d'opinione del 2026, e su questo è stata registrata un'obiezione. Per questo la cornice porta sempre lo statuto di ipotesi teorica e non contiene promesse terapeutiche. Il docente la usa per spiegare le proprie scelte, non per curare nessuno.
 
 ### 3.1 Il modello in breve
 
-Secondo il modello dell'elaborazione predittiva il cervello non registra passivamente ciò che arriva dai sensi: genera di continuo previsioni e le confronta con i segnali in arrivo. La differenza tra previsione e segnale è l'**errore di predizione**. Ogni previsione e ogni errore hanno un peso, la **precisione**, cioè quanto il sistema li considera affidabili. L'apprendimento è l'aggiornamento delle previsioni sulla base degli errori pesati per la loro precisione (Friston 2010, *Nat Rev Neurosci* 11:127-138). Nel modello di Friston il cervello riduce al minimo la "free energy", una grandezza legata alla sorpresa; in pratica questo significa soprattutto ridurre gli errori di predizione pesati per la loro affidabilità (VNF H8). 🟩 **Evidenza parziale** (modello teorico molto citato, con conferme sperimentali eterogenee).
+L'idea di base è semplice. Il cervello non registra passivamente ciò che arriva dai sensi: prevede di continuo ciò che sta per succedere e confronta la previsione con ciò che arriva davvero. La differenza tra previsione e segnale è l'**errore di predizione**. Ogni previsione e ogni errore hanno un peso, la **precisione**, cioè quanto il sistema li considera affidabili. Imparare vuol dire aggiornare le previsioni sulla base degli errori, dando più peso a quelli affidabili (Friston 2010, *Nat Rev Neurosci* 11:127-138).
+
+Un esempio di tango. Chi segue prevede che il prossimo passo sia avanti; chi guida propone invece una pausa. Nasce un errore di predizione; se la sala è tranquilla e la coppia si fida, l'errore è un'informazione utile e la previsione si aggiorna: "con Pugliese le pause arrivano". Se la stessa persona è tesa e si sente giudicata, l'errore viene letto come "ho sbagliato di nuovo" e si impara meno. Nel Liu Zi Jue: chi esegue Si per la prima volta prevede uno sforzo e scopre che l'aria passa da sola tra i denti; la sorpresa, in un contesto calmo, corregge la previsione.
+
+Nel modello di Friston il cervello riduce al minimo la "free energy", una grandezza legata alla sorpresa. In pratica questo significa soprattutto ridurre gli errori di predizione pesati per la loro affidabilità (VNF H8). 🟩 **Evidenza parziale** (modello teorico molto citato, con conferme sperimentali eterogenee).
+
+> **Come spiegarlo agli allievi.** "Il cervello è come chi segue in una coppia: indovina sempre il passo dopo. Quando indovina non impara niente di nuovo; quando sbaglia, impara. Ma impara solo se l'errore non fa paura. Per questo in questa sala sbagliare un passo non è un problema: è il momento in cui si impara."
 
 ### 3.2 Trauma, aspettative di pericolo, metastabilità
 
-Kotler, Mannino, Fox e Friston (2026, *Front Syst Neurosci* 20:1812957, articolo d'opinione) propongono di leggere il trauma come un disturbo dell'inferenza predittiva:
-- dopo un trauma persiste un **eccesso di precisione delle aspettative di pericolo** ("danger priors"): il sistema continua a prevedere minaccia anche quando i dati attuali non la indicano;
+Kotler, Mannino, Fox e Friston (2026, *Front Syst Neurosci* 20:1812957, articolo d'opinione) applicano questo modello al trauma. Lo leggono come un disturbo delle previsioni:
+- dopo un trauma persiste un **eccesso di precisione delle aspettative di pericolo**, in inglese "danger priors": il sistema continua a prevedere una minaccia e dà a questa previsione un peso troppo alto, anche quando i dati attuali non la indicano. In parole semplici: il corpo si aspetta il pericolo anche dove non c'è, e si fida di quell'aspettativa più che di ciò che vede;
 - i segnali del corpo ambigui (tachicardia, tensione, sudore) vengono letti come conferma del pericolo;
-- si perde **metastabilità**, cioè la capacità delle reti cerebrali di passare in modo flessibile da uno stato all'altro (attenzione, gioco, riposo) senza fissarsi in uno;
-- il corpo partecipa come messaggero, con segnali interocettivi e propriocettivi, non come archivio di ricordi.
+- si perde **metastabilità**, cioè la capacità del cervello di passare con facilità da uno stato all'altro (attenzione, gioco, riposo) senza fissarsi in uno. L'immagine è quella di una coppia che sa alternare caminata, pausa e giro senza incepparsi in una sola figura;
+- il corpo partecipa come messaggero, con segnali interocettivi (dall'interno: battito, respiro) e propriocettivi (dalla posizione dei muscoli e delle articolazioni), non come archivio di ricordi.
 
 Che cosa regge e che cosa no:
 
@@ -205,7 +227,7 @@ Che cosa regge e che cosa no:
 
 ### 3.3 Che cosa la cornice dice all'insegnante
 
-La cornice non serve a curare. Serve a spiegare, in un linguaggio di oggi, perché certe scelte didattiche contano. Ogni punto porta l'etichetta della spiegazione.
+La cornice non serve a curare. Serve a spiegare, in un linguaggio di oggi, perché certe scelte didattiche contano. Cinque conseguenze pratiche; ogni punto porta l'etichetta della spiegazione.
 
 1. **La sicurezza è un dato, non uno slogan.** Se la sala, il partner e il docente non danno segnali di minaccia, il sistema riceve dati coerenti con l'assenza di pericolo e può dedicare risorse al compito. Ansia e stress peggiorano prestazione e memoria (Shields et al. 2017, *Psychol Bull* 143:636-675). Traduzione operativa: S-48 Sicurezza percepita. 🟩 **Evidenza solida** per l'effetto dell'ansia · 🟥 **Speculativo** (non verificato) per la spiegazione in termini di precisione delle aspettative.
 2. **Sicuro non vuol dire facile.** La fonte sul trauma parla di contesti "sicuri e sfidanti" (TLT T:L124). Un compito al bordo delle capacità produce errori di predizione utili; un compito troppo facile non ne produce. Lozanov chiede di comunicare "on the edge of knowledge" di ogni allievo (r. 5753-5773, competenza 1). 🟦 r. 5753-5773 · 🟥 **Speculativo** (non verificato) per la lettura predittiva.
@@ -232,9 +254,11 @@ Nessun file del metodo promette effetti sul trauma. Il lavoro su memorie traumat
 
 ## 4. Due fondamenti, un metodo
 
+Lozanov e il predictive coding dicono cose diverse con parole diverse. Questa sezione mostra dove si incontrano e dove no, perché il docente non li confonda.
+
 ### 4.1 Il legame con la desuggestione
 
-La lettura che segue è una proposta di chi ha redatto il metodo per rendere esplicito il collegamento voluto dall'autore (D-31). Lozanov non parla di predizione, e il modello di Kotler et al. non parla di didattica. Tutta la tabella porta quindi l'etichetta 🟥 **Speculativo** (non verificato) per il collegamento; le colonne "Lozanov" e "Predictive coding" hanno le etichette dei rispettivi paragrafi (§2, §3).
+La lettura che segue è una proposta di chi ha redatto il metodo, per rendere esplicito il collegamento voluto dall'autore (D-31). Lozanov non parla di predizione, e il modello di Kotler et al. non parla di didattica. Tutta la tabella porta quindi l'etichetta 🟥 **Speculativo** (non verificato) per il collegamento; le colonne "Lozanov" e "Predictive coding" hanno le etichette dei rispettivi paragrafi (§2, §3).
 
 | Lozanov | Lettura in termini predittivi | Che cosa si fa in aula |
 |---|---|---|
@@ -258,7 +282,7 @@ Il punto di maggiore accordo tra i due fondamenti è anche quello con più prove
 
 ## 5. Che cosa esclude il canone
 
-Lozanov nega che i risultati vengano da una serie di pratiche e spiegazioni (r. 5797-5815; anche r. 1392-1461). Questo elenco è la base dell'etichetta 🟥 Non canonico. La colonna "Nel metodo" riporta la decisione dell'autore, che resta vincolante: alcune pratiche escluse dal canone sono nel metodo "come nelle fonti", con l'etichetta che lo dichiara; altre sono nel modulo sperimentale o fuori.
+Lozanov nega che i risultati vengano da una serie di pratiche e spiegazioni (r. 5797-5815; anche r. 1392-1461). Questo elenco è la base dell'etichetta 🟥 Non canonico: ogni volta che uno strumento porta quell'etichetta, la ragione sta in una riga di questa tabella. La colonna "Nel metodo" riporta la decisione dell'autore, che resta vincolante. Alcune pratiche escluse dal canone sono nel metodo "come nelle fonti", con l'etichetta che lo dichiara; altre sono nel modulo sperimentale o fuori.
 
 | Rifiutato da Lozanov | Citazione | Righe | Nel metodo |
 |---|---|---|---|
@@ -281,11 +305,13 @@ Lozanov nega che i risultati vengano da una serie di pratiche e spiegazioni (r. 
 
 Per le pratiche delle fonti che il canone esclude e che l'autore ha voluto nel metodo, sono state registrate obiezioni dell'analista (D-05, D-08, D-10). L'autore ha confermato la scelta. Per questo il metodo si presenta come **fondato sulla** Desuggestopedia, non come Desuggestopedia, e marca ognuna di queste pratiche come 🟥 Non canonico: chi legge sa sempre che cosa viene dal fondatore e che cosa no.
 
+> **Come spiegarlo agli allievi.** "Alcune cose che facciamo all'inizio della lezione, come la respirazione contata o il rilassamento, non vengono da Lozanov: lui le escludeva. Le teniamo perché fanno parte di una tradizione che il nostro metodo riconosce, ma ve lo dico sempre, e sono sempre facoltative. Il cuore della lezione, il film, il concerto, i giochi, viene invece da lui."
+
 ---
 
 ## 6. Storia essenziale
 
-La storia si racconta senza critiche, come ha deciso l'autore (D-32). I risultati di Lozanov sono "dichiarati dall'autore". Le critiche e le valutazioni successive sono documentate in `ricerca/`.
+La storia si racconta senza critiche, come ha deciso l'autore (D-32). I risultati di Lozanov sono "dichiarati dall'autore", cioè riportati come lui li riferisce nel suo libro. Le critiche e le valutazioni successive sono documentate in `ricerca/`.
 
 ### 6.1 Lozanov e la nascita del metodo
 

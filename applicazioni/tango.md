@@ -1,5 +1,7 @@
 # Tango argentino
 
+**In breve.** Questo file porta il metodo in una sala di tango. Dice come si organizzano gruppo e sala, che cosa si impara a ogni livello, qual è il film del gioco-progetto e chi sono i personaggi, come si fa il concerto quando il materiale è una sequenza ballata e non un testo, come si allenano musicalità e giri, come si protegge l'abbraccio. Poi dà due lezioni minuto per minuto, un corso di otto settimane, un workshop di weekend e la milonga finale. Serve al docente di tango per condurre un ciclo intero senza dover ricostruire da sé le schede del metodo.
+
 Applicazione del metodo ai corsi di tango dell'autore (sigla AT). Il file non contiene schede nuove: usa gli strumenti di `metodo/` con il loro ID e le loro etichette e li sviluppa in sequenze di lezione (`metodo/00-convenzioni.md` §4.2). Procedure complete, spiegazioni e precauzioni stanno nelle schede; qui ci sono gli esempi di tango, i tempi e l'ordine delle attività. Il ciclo, i formati e la lezione modello sono quelli di `metodo/02-ciclo-didattico.md` (02): questo file li declina per il tango.
 
 Le decisioni sono quelle di `DECISIONI.md`. Dove l'autore non ha deciso, il testo lo dice con **Proposta, da confermare con l'autore**.
@@ -84,7 +86,7 @@ La musica di tango dentro i concerti è S-71, nel modulo sperimentale (D-21): no
 | Rodolfo Biagi | staccato e sincopi: giochi di musicalità, milonga | brano da scegliere |
 | Francisco Canaro | linee semplici, vals e milonghe: principianti | "Poema"; "La milonga de Buenos Aires" |
 | Osvaldo Fresedo | carattere lirico: abrazo, caminata lenta | "Vida mía" |
-| Canzone del corso | tango cantato con letra semplice (S-33, S-50) | "Caminito" (Filiberto, Coria Peñaloza) oppure "Volver" (Gardel, Le Pera) |
+| Canzone del corso | tango cantato con letra semplice (S-33, S-50) | "Caminito" (Filiberto, Coria Peñaloza) oppure "Volver" (Gardel, Le Pera); la scelta è del docente [da verificare: titoli ed esecuzioni non sono nei file di ricerca] |
 
 **Fatica (S-14).** Lo sforzo fisico è normale; il criterio canonico riguarda la fatica nervosa: "If pupils get tired in lessons, we cannot speak of Suggestopaedia" (r. 561-562). Segnali: calo di concentrazione, irritabilità, errori ripetuti sullo stesso pivot. Ai primi segnali il docente accorcia il compito e passa a un tempo lento, per esempio caminata e pausa su Di Sarli (r. 5491-5494; 02, S-14).
 

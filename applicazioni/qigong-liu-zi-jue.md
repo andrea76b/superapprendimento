@@ -1,5 +1,7 @@
 # Qigong: Liu Zi Jue
 
+**In breve.** Questo file porta il metodo in una sala di Qigong, sulla sequenza dei sei suoni dello standard Health Qigong. Parte da ciò che è specifico del Liu Zi Jue: la sequenza, la forma della bocca di ogni suono, e soprattutto la distinzione tra il respiro come contenuto della disciplina, che si insegna, e il respiro come tecnica del metodo, che è un'altra cosa e si tiene separata. Poi dà il gioco-progetto della giornata aperta, il libretto del concerto, il canto dei sei suoni, gli esempi delle tecniche di memoria, due lezioni minuto per minuto, un corso di otto settimane, un workshop e la pratica finale al parco. Serve al docente di Qigong per usare il metodo senza mescolarlo alla tradizione.
+
 Applicazione del metodo al Liu Zi Jue della Chinese Health Qigong Association (sigla AQ). Il file non contiene schede nuove: usa gli strumenti di `metodo/` con il loro ID e le loro etichette e li sviluppa in sequenze di lezione (`metodo/00-convenzioni.md` §4.2). Il ciclo, i formati e la lezione modello sono quelli di `metodo/02-ciclo-didattico.md` (02): questo file li declina per il Liu Zi Jue. Apre con la sequenza Health Qigong e con la distinzione tra il respiro come contenuto della disciplina e il respiro come tecnica del metodo (00 §4.1).
 
 Le decisioni sono quelle di `DECISIONI.md`. Dove l'autore non ha deciso, il testo lo dice con **Proposta, da confermare con l'autore**. Il confine tra contenuto e induzione nel Qigong è una domanda aperta (`DECISIONI.md` §7, domanda 8; 00 §6.1, punto 8): le soluzioni di questo file sono proposte.
@@ -239,7 +241,7 @@ I comandi sono quelli trascritti dalla traccia con voce guida nel progetto QIGON
 
 S-04: 🟦 r. 4021-4115 (concerto da cui deriva) · n.t. (adattamento) · 🟥 non verificato.
 
-**Musica.** Un'opera intera dal n. 1 di una sessione del programma. Ciclo 1, lezione di 120 minuti, come nella scaletta di 02 §4.2 e nell'esempio di 04 §3.2: Mozart, Sinfonia "Praga" K 504 (sessione 3; tre movimenti, durate dichiarate 11:55, 8:50, 6:00 in TM M:L22-30). Versione di 90 minuti: Mozart, Sinfonia "Haffner" K 385 (circa 17 minuti; 04 §2.2). Ciclo 2: Haydn, Sinfonia n. 94 in Sol (sessione 4, circa 27 minuti; 02, S-02). Se si segue la regola di 04 §2.2 (una sessione per ciclo, in ordine), il ciclo 1 usa la sessione 1 (per esempio la Sinfonia n. 29 K 201 con Bach, Fantasia BWV 572) e il ciclo 2 la sessione 2: **[da chiarire con l'autore]**, perché 02 e 04 danno esempi diversi.
+**Musica.** Un'opera intera dal n. 1 di una sessione del programma; il concerto passivo che segue usa l'opera n. 2 della stessa sessione. Ciclo 1, lezione di 120 minuti, come nella scaletta di 02 §4.2 e nell'esempio di 04 §3.2: Mozart, Sinfonia "Praga" K 504 (sessione 3; tre movimenti, durate dichiarate 11:55, 8:50, 6:00 in TM M:L22-30), con Händel, Concerto per organo op. 7 n. 6 nel passivo. Versione di 90 minuti: Mozart, Sinfonia "Haffner" K 385 (circa 17 minuti; stessa sessione 3; 04 §2.2). Ciclo 2: Haydn, Sinfonia n. 94 in Sol (sessione 4, circa 27 minuti) con Corelli, Concerto grosso op. 6 n. 4 (02, S-02, S-03). Gli esempi usano le sessioni 3 e 4 perché hanno opere brevi; 04 §2.2 propone invece di seguire l'ordine del programma (ciclo 1 = sessione 1, con la Sinfonia n. 29 K 201 e Bach, Fantasia BWV 572). Quale regola seguire: **[da chiarire con l'autore]**.
 
 **Procedura (Sinfonia "Praga").**
 1. Allievi seduti a bordo sala, occhi aperti, con il libretto; nessuna istruzione di rilassarsi. Ragione dentro il progetto: "prima di provare, guardiamo che cosa mostreremo alla giornata aperta" (1 min).
@@ -256,7 +258,7 @@ S-04: 🟦 r. 4021-4115 (concerto da cui deriva) · n.t. (adattamento) · 🟥 n
 
 S-03: 🟦 r. 4100-4115 · 🟥 non verificato. Segue subito il concerto attivo (r. 4021-4024).
 1. Nella breve pausa il docente appende un'immagine di natura senza commentarla (1 min).
-2. Parte un'opera intera del programma: Bach, Fantasia in Sol BWV 572 (02 §4.2); nella versione di 90 minuti Händel, Concerto per organo op. 7 n. 6; nel ciclo 2 Corelli, Concerto grosso op. 6 n. 4 (02, S-03). Il docente si siede con calma, "without demonstrating overt signs of passiveness and relaxation" (r. 4105-4107).
+2. Parte l'opera n. 2 della stessa sessione del concerto attivo: nel ciclo 1 Händel, Concerto per organo op. 7 n. 6 (sessione 3, anche nella versione di 90 minuti); nel ciclo 2 Corelli, Concerto grosso op. 6 n. 4 (sessione 4; 02, S-03). Il docente si siede con calma, "without demonstrating overt signs of passiveness and relaxation" (r. 4105-4107).
 3. Rilegge con voce naturale nomi, suoni e movimenti del libretto e la breve storia della sequenza: i testi antichi, i cinque elementi, l'ordine delle stagioni (10-15 min, accorciabile, r. 4107-4108).
 4. Nessuna istruzione sul respiro: chi ascolta respira come vuole (02, S-03). Nessuna istruzione di rilassarsi o di chiudere gli occhi.
 5. Alla fine gli allievi si alzano con calma e camminano un poco prima di praticare.
@@ -387,7 +389,7 @@ La lezione modello del metodo è la sequenza delle quattro lezioni di 02 §4.2 (
 | 43-50 | 1 | Gioco del suono senza voce: il docente forma la bocca, il gruppo riconosce e pronuncia in coro | S-18, S-21 | 🟦 · 🟨 · 🟩 parziale |
 | 50-57 | — | Pausa; libretto e ruota delle stagioni alla parete; tè | S-19, S-20 | 🟦 |
 | 57-82 | 2 | Concerto dimostrato sulla "Praga" (§8.2), con il tratto di conteggio misto | S-04, S-30, S-32 | 🟦 · n.t. · 🟥 non verificato |
-| 82-97 | 2 | Concerto passivo su Bach, Fantasia BWV 572 (§8.3) | S-03 | 🟦 · 🟥 non verificato |
+| 82-97 | 2 | Concerto passivo su Händel, Concerto per organo op. 7 n. 6, stessa sessione della "Praga" (§8.3) | S-03 | 🟦 · 🟥 non verificato |
 | 97-110 | — | Pausa tranquilla: quiete in piedi o seduti, a scelta, senza consegne | S-52 | 🟩 parziale |
 | 110-120 | 1 | I sei suoni in coro; il libretto e la traccia HQA sul sito QIGONG per chi vuole | S-33, S-12 | 🟦 · 🟩 parziale |
 
@@ -419,7 +421,7 @@ Due cicli di quattro settimane secondo 02 §4.2: introduzione e concerti, elabor
 
 | Sett. | Lezione | Tappa | Contenuto | Strumenti principali | Musica |
 |---|---|---|---|---|---|
-| 1 | 1. Introduzione e concerti (ciclo 1) | Che cosa mostreremo | sequenza intera, globale; attivi preparazione, apertura, Xu, He, Hu | S-33, S-46, S-47, S-01, S-15, S-04, S-32, S-03 | HQA; concerto: "Praga" K 504 e Bach BWV 572 |
+| 1 | 1. Introduzione e concerti (ciclo 1) | Che cosa mostreremo | sequenza intera, globale; attivi preparazione, apertura, Xu, He, Hu | S-33, S-46, S-47, S-01, S-15, S-04, S-32, S-03 | HQA; concerto: "Praga" K 504 e Händel op. 7 n. 6 (sessione 3) |
 | 2 | 2. Elaborazione primaria | Le prime prove | preparazione, apertura, Xu, He; sei suoni in coro; TPR; mimo | S-06, S-42, S-49, S-37, S-43, S-21, S-44 | HQA |
 | 3 | 3. Elaborazione secondaria | La scaletta | Hu; He e Hu collegati; variazioni da fermi e in cammino; presentazione di un suono per piccolo gruppo; casa delle stagioni | S-42, S-41, S-44, S-21, S-40, S-36 | HQA |
 | 4 | 4. Performance e verifica | Prova davanti al gruppo | verifica-gioco; presentazioni dei suoni; pratica della parte attiva con la traccia | S-11, S-07, S-51 | HQA |
