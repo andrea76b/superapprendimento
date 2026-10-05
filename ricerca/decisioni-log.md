@@ -89,3 +89,7 @@ Risposte date dall'autore alle domande del registro (vedi `DECISIONI.md`). Data:
 | 20 | Infinity Walk (S-35) | Passo e appoggi come nelle fonti; doppio compito da soli o in coppia solo in spazio ampio | |
 | 21 | Prova mentale (S-38) | Procedura delle fonti + nota: rende meglio insieme alla pratica fisica (Driskell 1994); da sola quando la pratica è impossibile | |
 | 22 | Pastelli profumati (S-39) | Nel metodo pastelli normali; i profumati nel modulo sperimentale con il contesto olfattivo (S-76) | |
+| 23 | Procedure proposte (S-21, S-37, S-41) e tempi (S-36, S-38) | Restano, marcate "da validare in aula" | |
+| 24 | Confine contenuto/induzione nel Liu Zi Jue | Respiro, quiete e immagini del Liu Zi Jue seguono le stesse regole delle pratiche di stato del metodo (screening, ecc.) | |
+| 25 | Viaggio calmante (S-24) nel Liu Zi Jue | Sostituito dalla quiete in piedi della preparazione HQA; il viaggio calmante resta per il tango | |
+| 26 | Giochi-progetto | Approvati: "Una noche en el club" (tango, con carte d'identità) e "La giornata aperta" (Liu Zi Jue). Non approvati: "Il documentario", "La scuola nuova", "Il festival della didattica" | Alternative per formazione e università: vedi 26b |
