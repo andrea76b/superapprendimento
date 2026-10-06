@@ -119,7 +119,7 @@ Le raccomandazioni di questo registro presuppongono che l'autore voglia un metod
 | D-13 | Subliminali e apprendimento nel sonno | D | Rifiutato (r. 1600-1624) | Medio | 1 | DECISO: modulo sperimentale (decisione aggiornata il 2026-10-05) |
 | D-14 | Autoconvalida di Altorfer e affermazioni | D / B (rischio delle affermazioni) | Rifiutato (r. 1400-1406) | Basso-medio | 1 | DECISO |
 | D-15 | Ancoraggi emotivi | C / B (routine) | Rifiutato (r. 1400-1406, 1824-1849) | Basso | 3 (come INT-05) | DECISO |
-| D-16 | Raikov / Borrowed Genius | D / B (gioco di ruolo) | Rifiutato (r. 1392, 5815); coerenti le nuove identità (r. 759-762) | Medio-alto (versione ipnotica) | 3 (nelle nuove identità canoniche) | DECISO |
+| D-16 | Raikov / Borrowed Genius | D / B (gioco di ruolo) | Rifiutato (r. 1392, 5815); coerenti le nuove identità (r. 759-762) | Medio-alto (versione ipnotica) | 3 (nelle nuove identità canoniche) | DECISO (teatro tolto dai manuali il 2026-10-06) |
 | D-17 | Biofeedback, EEG/QEEG come training | B (EMG clinico) / D (colori QEEG) | Rifiutato (r. 1420-1421, 2417-2419) | Basso | 1 | DECISO |
 | D-18 | Barocco lento "a 60 BPM" nel concerto passivo | C / D | Rifiutato (r. 1446-1448, 1460, 5805) | Nessuno rilevante | 1 (vale il programma canonico) | DECISO |
 | D-19 | Effetto Mozart, Tomatis, alte frequenze, gregoriano, Forbrain, Turning Sound | D (A: resoconto di Rauscher 1993) | Rifiutato (r. 5805, 1420-1421) | Basso (medio per costo-opportunità) | 1 | DECISO |
@@ -132,7 +132,7 @@ Le raccomandazioni di questo registro presuppongono che l'autore voglia un metod
 | D-26 | Mappature diagnostiche | D (C: ciclo nasale) | Non trattato; in contrasto (r. 2046-2047, 2417-2419) | Medio | 1 | DECISO |
 | D-27 | Concerto attivo in movimento | C | Non trattato; adattamento (r. 4021-4099, 4073-4074) | Basso | 2 | DECISO; aggiornata il 2026-10-05 (forma A nel ciclo 1, forma C nel ciclo 2, testo solo a voce) |
 | D-28 | Tecnica Alexander | B / D ("energia", immunità) | Non trattato | Nessuno rilevante | 3 | DECISO |
-| D-29 | TPR, teatro e mimo, mappe e palazzo della memoria, odori, istruzione inversa, canzoni | A-B / B / C secondo la tecnica | In parte coerente (r. 4283, 2715-2716), in parte non trattato | Basso (odori) | 3 per quasi tutte; 2 palazzo della memoria; 1 odori | DECISO |
+| D-29 | TPR, teatro e mimo, mappe e palazzo della memoria, odori, istruzione inversa, canzoni | A-B / B / C secondo la tecnica | In parte coerente (r. 4283, 2715-2716), in parte non trattato | Basso (odori) | 3 per quasi tutte; 2 palazzo della memoria; 1 odori | DECISO (teatro tolto dai manuali il 2026-10-06) |
 | D-30 | Neuromiti nel linguaggio del metodo | D | Rifiutato (r. 1504-1507, 2077-2080, 5805) | Nessuno fisico; reputazionale | 3 | DECISO |
 | D-31 | Cornice predictive coding / trauma / metastabilità | B (riferimenti) / C (meccanismo) | Non trattato; vincolo r. 2046-2047 | Medio | 3 | DECISO |
 | D-32 | Presentazione storica | A (fatti) / C (risultati, Baba Vanga) | Coerente come resoconto; sintesi UNESCO più forte del verbale (r. 5793-5795) | Nessuno fisico; reputazionale | 3 | DECISO |
@@ -639,7 +639,7 @@ Note dell'autore:
 
 **Decisione dell'autore**
 
-Stato: DECISO (2026-10-04): Modulo sperimentale
+Stato: DECISO (2026-10-04): Modulo sperimentale. AGGIORNATO (2026-10-06): tolto dai manuali con tutti gli elementi teatrali; resta documentato in ricerca/
 
 Note dell'autore:
 
@@ -1051,7 +1051,7 @@ Note dell'autore:
 
 **Decisione dell'autore**
 
-Stato: DECISO (2026-10-04): Nel metodo: TPR, teatro e mimo, canzoni, mappe e palazzo della memoria, istruzione inversa; modulo sperimentale: contesto olfattivo
+Stato: DECISO (2026-10-04): Nel metodo: TPR, teatro e mimo, canzoni, mappe e palazzo della memoria, istruzione inversa; modulo sperimentale: contesto olfattivo. AGGIORNATO (2026-10-06): teatro e mimo tolto dai manuali con tutti gli elementi teatrali; le altre tecniche restano
 
 Note dell'autore:
 

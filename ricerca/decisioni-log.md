@@ -107,3 +107,15 @@ Risposte date dall'autore alle domande del registro (vedi `DECISIONI.md`). Data:
 | 33b | Struttura del corso universitario | 4 incontri da 90 minuti (6 ore) con teoria e pratica insieme: un ciclo completo (introduzione e concerti, due elaborazioni, performance) | Origine dei 24 incontri: scelta dei redattori per allineare a 6 CFU (48 ore), non dalle fonti né da Lozanov |
 | 33c | Disegno sperimentale | Gruppo parallelo con insegnamento tradizionale dello stesso contenuto | |
 | 34b | Verifiche bibliografiche e musicali | Eliminare i segnaposto [da verificare] / [da ricontrollare]: per l'autore il problema non esiste | |
+
+## Riscrittura dei manuali (6 ottobre 2026)
+
+Verifica sul testo di Lozanov 2005: il teatro non è la base delle lezioni. Per gli adulti c'è la cornice del film con nomi e mestieri nuovi (r. 756-759, 3945-3947) e ci sono giochi di ruolo nell'introduzione e nelle elaborazioni (r. 478-482, 697-701, 4268-4275), ma non spettacoli da preparare; il docente sta con gli allievi "rather than acting on a stage" (r. 4004); la giornata finale è monologo, dialogo, racconti e conversazione (r. 4463-4467); il teatro didattico vero riguarda i programmi per bambini (r. 4793, 5010-5021). La scheda "teatro e mimo" veniva dalle fonti Superlearning.
+
+| Punto | Decisione dell'autore | Note |
+|---|---|---|
+| Teatro | Togliere tutto il teatro dai manuali: cornice del film, nuove identità e carte d'identità, giochi-progetto ("Una noche en el club", "La giornata aperta"), teatro e mimo (D-29), scene da preparare, reincarnazione artificiale di Raikov (D-16) | Modifica le decisioni D-29 (teatro e mimo), 26 e D-16. Le nuove identità sono canoniche (r. 756-759): la scelta è dichiarata nel manuale. La giornata finale resta come fase del ciclo, senza scene: si balla e si racconta |
+| Etichette colorate | Tolte dai manuali | Le evidenze si esprimono nel testo |
+| Lunghezza del manuale | 80-100 pagine A4 | La versione tecnica di 179 pagine è in archivio/ |
+| Voce | Impersonale, stile conferenza di uno scienziato esperto: chiara, scorrevole, umana | |
+| Guida operativa | Riscritta con gli stessi criteri, solo tango, 15-20 pagine | |
