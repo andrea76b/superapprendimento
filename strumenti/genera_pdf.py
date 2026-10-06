@@ -2,11 +2,12 @@
 """Genera un PDF A4 impaginato da uno o più file Markdown del repository.
 
 Uso:
-  python3 strumenti/genera_pdf.py manuale   # manuale completo -> pdf/Superapprendimento_manuale_completo.pdf
+  python3 strumenti/genera_pdf.py manuale   # tutti i capitoli di manuale/ in ordine -> pdf/Superapprendimento_manuale.pdf
   python3 strumenti/genera_pdf.py guida     # guida del docente di tango -> pdf/Guida_operativa_docente_tango.pdf
 
 Richiede: pacchetto Python `markdown` e Node.js con `playwright` (Chromium).
 """
+import glob
 import html
 import os
 import re
@@ -20,26 +21,9 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DOCS = {
     "manuale": {
         "title": "Superapprendimento",
-        "subtitle": "Metodo fondato sulla Desuggestopedia di Georgi Lozanov<br>Manuale completo",
-        "out": "pdf/Superapprendimento_manuale_completo.pdf",
-        "files": [
-            "README.md",
-            "metodo/00-convenzioni.md",
-            "metodo/01-fondamenti-e-principi.md",
-            "metodo/02-ciclo-didattico.md",
-            "metodo/03a-catalogo-strumenti-stato-suggestione-voce.md",
-            "metodo/03b-catalogo-strumenti-corpo-memoria-integrazioni.md",
-            "metodo/04-musica.md",
-            "metodo/05-il-docente.md",
-            "metodo/06-sicurezza-ed-etica.md",
-            "metodo/07-modulo-sperimentale.md",
-            "applicazioni/tango.md",
-            "applicazioni/qigong-liu-zi-jue.md",
-            "applicazioni/formazione-insegnanti.md",
-            "applicazioni/corso-universitario.md",
-            "DECISIONI.md",
-            "metodo/REVISIONE.md",
-        ],
+        "subtitle": "Metodo fondato sulla Desuggestopedia di Georgi Lozanov<br>Manuale",
+        "out": "pdf/Superapprendimento_manuale.pdf",
+        "files": "manuale/*.md",
         "toc_depth": 2,
     },
     "guida": {
@@ -92,6 +76,8 @@ def slug(text):
 
 def build(key):
     cfg = DOCS[key]
+    if isinstance(cfg["files"], str):
+        cfg = dict(cfg, files=sorted(os.path.relpath(f, ROOT) for f in glob.glob(os.path.join(ROOT, cfg["files"]))))
     sections, toc = [], []
     used = set()
     file_ids = {f: "doc-" + slug(f) for f in cfg["files"]}
