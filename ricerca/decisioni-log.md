@@ -110,7 +110,7 @@ Risposte date dall'autore alle domande del registro (vedi `DECISIONI.md`). Data:
 
 ## Riscrittura dei manuali (6 ottobre 2026)
 
-Verifica sul testo di Lozanov 2005: il teatro non è la base delle lezioni. Per gli adulti c'è solo la cornice del film con nomi e mestieri nuovi (r. 756-759, 3945-3947); il docente sta con gli allievi "rather than acting on a stage" (r. 4004); la giornata finale è monologo, dialogo, racconti e conversazione (r. 4463-4467); il teatro didattico vero riguarda i programmi per bambini (r. 4793, 5010-5021). La scheda "teatro e mimo" veniva dalle fonti Superlearning.
+Verifica sul testo di Lozanov 2005: il teatro non è la base delle lezioni. Per gli adulti c'è la cornice del film con nomi e mestieri nuovi (r. 756-759, 3945-3947) e ci sono giochi di ruolo nell'introduzione e nelle elaborazioni (r. 478-482, 697-701, 4268-4275), ma non spettacoli da preparare; il docente sta con gli allievi "rather than acting on a stage" (r. 4004); la giornata finale è monologo, dialogo, racconti e conversazione (r. 4463-4467); il teatro didattico vero riguarda i programmi per bambini (r. 4793, 5010-5021). La scheda "teatro e mimo" veniva dalle fonti Superlearning.
 
 | Punto | Decisione dell'autore | Note |
 |---|---|---|

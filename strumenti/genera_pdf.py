@@ -109,7 +109,7 @@ def build(key):
             return f'href="#{file_ids[target]}"' if target in file_ids else m.group(0)
 
         body = re.sub(r'href="([^"#:]+\.md[^"]*)"', fix_link, body)
-        sections.append(f'<section class="doc" id="{file_ids[f]}"><div class="src">{html.escape(f)}</div>{body}</section>')
+        sections.append(f'<section class="doc" id="{file_ids[f]}">{body}</section>')
 
     toc_html = "".join(f'<li class="l{lvl}"><a href="#{hid}">{html.escape(t)}</a></li>' for lvl, t, hid in toc)
     page = f"""<!doctype html><html lang="it"><head><meta charset="utf-8"><title>{cfg['title']}</title><style>{CSS}</style></head>
